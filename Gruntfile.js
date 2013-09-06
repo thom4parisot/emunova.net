@@ -48,12 +48,21 @@ module.exports = function (grunt) {
 
     clean: {
       build: "dist/**/*"
+    },
+
+    "gh-pages": {
+      options: {
+        base: "dist"
+      },
+      src: '**/*'
     }
   });
 
   grunt.loadNpmTasks("assemble");
   grunt.loadNpmTasks("grunt-contrib-copy");
   grunt.loadNpmTasks("grunt-contrib-clean");
+  grunt.loadNpmTasks("grunt-gh-pages");
 
   grunt.registerTask("default", ["clean", "assemble", "copy"]);
+  grunt.registerTask("deploy", ["default", "gh-pages"]);
 };

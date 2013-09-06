@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/oncletom/0.emunova.net.git"
+    "url": "https://github.com/oncletom/emunova.net.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oncletom/0.emunova.net/issues"
+    "url": "https://github.com/oncletom/emunova.net/issues"
   },
   "dependencies": {
     "grunt-contrib-jshint": "~0.6.4",
