@@ -7,7 +7,8 @@
     <div class="lead">
       <p><strong>{{system.name}}</strong> est un système conçu par <strong>{{system.manufacturer}}</strong>.
         {{#if system.alternate_names}}
-          Il est aussi connu sous les noms {{inline system.alternate_names}}.
+          Il est également connu sous {{inflect system.alternate_names "le nom" "les noms"}}
+          de {{inline system.alternate_names}}.
         {{/if}}
       </p>
 

@@ -1,10 +1,25 @@
 "use strict";
 
-function renameSystemUri(dest, src){
-  return dest + src.replace(/^systems\//, "");
-}
+var path = require("path");
 
 module.exports = function (grunt) {
+  var _str = grunt.util._.str;
+
+  function renameSystemUri(dest, src){
+    var basename = path.basename(src);
+
+    return dest + (path.basename(path.dirname(src))) + "/" + basename;
+  }
+
+  function renameGameUri(dest, src){
+    var game = path.basename(path.dirname(src));
+    var clean = grunt.util._.compose(_str.slugify, _str.titleize);
+
+    src = src.replace(game, clean(game));
+
+    return dest + src;
+  }
+
   grunt.initConfig({
     en: "node_modules/data.emunova.net",
 
@@ -36,6 +51,17 @@ module.exports = function (grunt) {
         rename: renameSystemUri,
         options: {
           layout: "systems/text-content.hbs"
+        }
+      },
+
+      game_entry: {
+        expand: true,
+        cwd: "<%= en %>",
+        src: ["games/**/index.json"],
+        rename: renameGameUri,
+        dest: "dist/",
+        options: {
+          layout: "games/entry.hbs"
         }
       }
     },
