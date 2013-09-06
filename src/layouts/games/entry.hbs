@@ -1,0 +1,24 @@
+{{> header.hbs}}
+
+{{import "systems/{system}" as "system"}}
+{{import "games/{system}/{game}" as "game"}}
+
+<main>
+  <h2>{{game.title}}</h2>
+
+  <div class="lead">
+    <p><strong>{{game.title}}</strong> est un jeu vidéo <strong>{{system.name}}</strong>
+      publié par <strong>{{game.editor}}</strong> en <strong>{{game.released}}</strong>.
+      {{#if game.players}}
+        Il se joue à <em>{{inflect game.players "joueur" "joueurs" true}}</em>.
+      {{/if}}
+      {{#if game.alternate_titles}}
+        Il est également connu sous {{inflect game.alternate_titles.length "le nom" "les noms"}}
+        de {{inline game.alternate_titles}}.
+      {{/if}}
+    </p>
+  </div>
+
+</main>
+
+{{> footer.hbs}}
