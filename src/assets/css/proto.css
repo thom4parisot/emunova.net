@@ -1,3 +1,9 @@
 body {
   background: #fffdf3 url('data:image/gif; base64,R0lGODlhBAAEAIAAAOXl5f/98yH5BAAAAAAALAAAAAAEAAQAAAIFhBGpmwUAOw==');
 }
+
+.rating{
+  font-family: monospace;
+  margin-right: 10px;
+  white-space: pre;
+}
