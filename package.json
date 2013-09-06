@@ -24,6 +24,7 @@
     "data.emunova.net": "git://github.com/oncletom/data.emunova.net"
   },
   "devDependencies": {
-    "grunt-contrib-watch": "~0.5.3"
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-gh-pages": "~0.7.1"
   }
 }
