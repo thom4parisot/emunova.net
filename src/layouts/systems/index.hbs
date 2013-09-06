@@ -3,68 +3,66 @@
 {{> header.hbs}}
 
 <main>
-<h2>{{system.name}}</h2>
+    <h2>{{system.name}}</h2>
 
-<div class="lead">
-  <p><strong>{{system.name}}</strong> est un système conçu par <strong>{{system.manufacturer}}</strong>.
-    {{#if system.alternate_names}}
-      Il est aussi connu sous les noms {{inline system.alternate_names}}.
-    {{/if}}
-  </p>
+    <div class="lead">
+      <p><strong>{{system.name}}</strong> est un système conçu par <strong>{{system.manufacturer}}</strong>.
+        {{#if system.alternate_names}}
+          Il est aussi connu sous les noms {{inline system.alternate_names}}.
+        {{/if}}
+      </p>
 
-  <p><a href="history.html">En savoir plus sur {{system.name}}</a>.</p>
-</div>
-
-<div class="row">
-  <div class="col-lg-6">
-    <h2>Tests de jeux vidéo <strong>{{system.name}}</strong></h2>
-
-    <p class="lead">Pas facile de savoir à quels jeux jouer.</p>
-
-    <p>
-      Parce qu'on n'est pas né en {{default system.released "1970"}}. Parce qu'on ne parlait pas Japonais.
-      Ou parce que vous ne pouviez choisir qu'un seul jeu par année !
-    </p>
-
-    <p>
-      <strong>Nous sommes de joueurs passionnés</strong>.
-      Nous avons juste eu envie de partager nos avis sur nos jeux vidéos {{system.name}}, ceux qu'on a adoré,
-      ceux qu'on a détesté ou ces pépites que l'on voudrait faire connaitre.
-    </p>
-
-    <p><a class="btn btn-primary" href="#">Tests de jeux vidéo {{system.name}}</a></p>
-  </div>
-
-  <div class="col-lg-3">
-    <div class="well well-sm">
-        <h3>Récemment</h3>
-
-        <ul>
-          <li><a href="#">Dragon Quest : Shonen Yangus to Fushigi no Dungeon</a></li>
-          <li><a href="#">Arcana Heart 2</a></li>
-          <li><a href="#">The Bouncer</a></li>
-          <li><a href="#">Bujingai : Swordmaster</a></li>
-          <li><a href="#">Devil May Cry 3 : l'Eveil de Dante</a></li>
-        </ul>
+      {{#file_exists "history.md"}}
+        <p><a href="history.html">En savoir plus sur {{system.name}}</a>.</p>
+      {{/file_exists}}
     </div>
-  </div>
 
-  <div class="col-lg-3">
-    <div class="well well-sm">
-      <h3>Stats</h3>
+    <div class="row">
+      <div class="col-lg-6">
+        <h2>Tests de jeux vidéo <strong>{{system.name}}</strong></h2>
 
-      <ul>
-        <li><strong>349</strong> tests</li>
-        <li><strong>4500</strong> notes</li>
-        <li><strong>3ème</strong> plate-forme</li>
-      </ul>
+        <p class="lead">Pas facile de savoir à quels jeux jouer.</p>
+
+        <p>
+          Parce qu'on n'est pas né en {{default system.released "1970"}}. Parce qu'on ne parlait pas Japonais.
+          Ou parce que vous ne pouviez choisir qu'un seul jeu par année !
+        </p>
+
+        <p>
+          <strong>Nous sommes de joueurs passionnés</strong>.
+          Nous avons juste eu envie de partager nos avis sur nos jeux vidéos {{system.name}}, ceux qu'on a adoré,
+          ceux qu'on a détesté ou ces pépites que l'on voudrait faire connaitre.
+        </p>
+
+        <p><a class="btn btn-primary" href="#">Tests de jeux vidéo {{system.name}}</a></p>
+      </div>
+
+      <div class="col-lg-3">
+        <div class="well well-sm">
+            <h3>Récemment</h3>
+
+            <ul>
+              <li><a href="#">Dragon Quest : Shonen Yangus to Fushigi no Dungeon</a></li>
+              <li><a href="#">Arcana Heart 2</a></li>
+              <li><a href="#">The Bouncer</a></li>
+              <li><a href="#">Bujingai : Swordmaster</a></li>
+              <li><a href="#">Devil May Cry 3 : l'Eveil de Dante</a></li>
+            </ul>
+        </div>
+      </div>
+
+      <div class="col-lg-3">
+        <div class="well well-sm">
+          <h3>Stats</h3>
+
+          <ul>
+            <li><strong>349</strong> tests</li>
+            <li><strong>4500</strong> notes</li>
+            <li><strong>3ème</strong> plate-forme</li>
+          </ul>
+        </div>
+      </div>
     </div>
-  </div>
-</div>
-
-  {{#endsWith page.src ".md"}}
-      {{#markdown}} {{> body}} {{/markdown}}
-  {{/endsWith}}
 </main>
 
 {{> footer.hbs}}

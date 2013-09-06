@@ -1,5 +1,9 @@
 "use strict";
 
+function renameSystemUri(dest, src){
+  return dest + src.replace(/^systems\//, "");
+}
+
 module.exports = function (grunt) {
   grunt.initConfig({
     en: "node_modules/data.emunova.net",
@@ -17,13 +21,21 @@ module.exports = function (grunt) {
       systems: {
         expand: true,
         cwd: "<%= en %>",
-        src: ["systems/**/*.{json,md}"],
+        src: ["systems/**/index.json"],
         dest: "dist/",
-        rename: function(dest, src){
-          return dest + src.replace(/^systems\//, "");
-        },
+        rename: renameSystemUri,
         options: {
           layout: "systems/index.hbs"
+        }
+      },
+      systems_contents: {
+        expand: true,
+        cwd: "<%= en %>",
+        src: ["systems/**/*.md"],
+        dest: "dist/",
+        rename: renameSystemUri,
+        options: {
+          layout: "systems/text-content.hbs"
         }
       }
     },
@@ -39,9 +51,7 @@ module.exports = function (grunt) {
         expand: true,
         cwd: "<%= en %>",
         src: "**/*.{jpeg,jpg,png,gif}",
-        rename: function(dest, src){
-          return dest + src.replace(/^systems\//, "");
-        },
+        rename: renameSystemUri,
         dest: "dist/"
       }
     },
