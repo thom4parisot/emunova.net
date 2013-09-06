@@ -1,0 +1,20 @@
+{{import "systems/{system}" as "system"}}
+
+{{> header.hbs}}
+
+<main>
+<h2>{{system.name}}</h2>
+
+<p class="lead">
+  <strong>{{system.name}}</strong> est un système conçu par <strong>{{system.manufacturer}}</strong>.
+    {{#if system.alternate_names}}
+      Il est aussi connu sous les noms {{inline system.alternate_names}}.
+    {{/if}}
+</p>
+
+  {{#endsWith page.src ".md"}}
+      {{#markdown}} {{> body}} {{/markdown}}
+  {{/endsWith}}
+</main>
+
+{{> footer.hbs}}
