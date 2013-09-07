@@ -7,17 +7,14 @@ module.exports = function (grunt) {
 
   function renameSystemUri(dest, src){
     var basename = path.basename(src);
-
     return dest + (path.basename(path.dirname(src))) + "/" + basename;
   }
 
   function renameGameUri(dest, src){
-    var game = path.basename(path.dirname(src));
     var clean = grunt.util._.compose(_str.slugify, _str.titleize);
+    var basepath = path.dirname(src).split('/').concat(path.basename(src, path.extname(src))).map(clean).join('/');
 
-    src = src.replace(game, clean(game));
-
-    return dest + src;
+    return dest + basepath;
   }
 
   grunt.initConfig({
@@ -62,6 +59,16 @@ module.exports = function (grunt) {
         dest: "dist/",
         options: {
           layout: "games/entry.hbs"
+        }
+      },
+      game_review: {
+        expand: true,
+        cwd: "<%= en %>",
+        src: ["games/**/reviews/*.md"],
+        rename: renameGameUri,
+        dest: "dist/",
+        options: {
+          layout: "games/review.hbs"
         }
       }
     },

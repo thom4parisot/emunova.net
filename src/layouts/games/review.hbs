@@ -1,0 +1,72 @@
+{{> header.hbs}}
+
+{{import "systems/{system}" as "system"}}
+{{import "games/{system}/{game}" as "game"}}
+
+<main>
+  <h2>{{game.title}}</h2>
+
+  <div class="lead">
+    <p><strong>{{game.title}}</strong> est un jeu vidéo <a href="/{{system.id}}/">{{system.name}}</a>
+      publié par <strong>{{game.editor}}</strong> en <strong>{{game.released}}</strong>.
+    </p>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-9">
+      {{#if page.title}} <h2>{{page.title}}</h2> {{/if}}
+      {{#markdown}} {{> body}} {{/markdown}}
+
+      <p class="lead">
+        <strong>Note finale</strong>: {{page.rating}}/5 &mdash; Parfait !
+      </p>
+
+      <p class="btn-toolbar">
+        <a class="btn btn-primary" href="../">{{game.title}}</a>
+        <a class="btn btn-default" href="./">Tests</a>
+        <a class="btn btn-default" href="../ratings.html">Notes</a>
+      </p>
+
+      <p class="btn-toolbar">
+        <a class="btn btn-primary" href="/{{system.id}}/">{{system.name}}</a>
+      </p>
+    </div>
+
+    <div class="col-lg-3">
+      {{#if page.[Synthèse]}}
+      <div class="well">
+        <h2>En 2 clics</h2>
+
+        <ul class="list-unstyled">
+        {{#each page.[Synthèse]}}
+          <li><strong>{{@key}}</strong>: {{this}}</li>
+        {{/each}}
+        </ul>
+      </div>
+      {{/if}}
+      <div class="well">
+        <p>15 joueurs ont testé ce jeu :</p>
+
+        <ul class="list-unstyled">
+          <li><span class="rating">*****</span> <a href="reviews/sylvain.html">Sylvain</a></li>
+          <li><span class="rating">*****</span> <a href="reviews/sylvain.html">Ma grand-mère</a></li>
+          <li><span class="rating">*****</span> <a href="reviews/sylvain.html">Antekrist</a></li>
+          <li><span class="rating">**** </span> <a href="reviews/sylvain.html">Crevette</a></li>
+          <li><span class="rating">**** </span> <a href="reviews/sylvain.html">Rouliass</a></li>
+          <li><span class="rating">**** </span> <a href="reviews/sylvain.html">Kékidi</a></li>
+          <li><span class="rating">**** </span> <a href="reviews/sylvain.html">gigilabaleine</a></li>
+          <li><span class="rating">**** </span> <a href="reviews/sylvain.html">Ti Dragon</a></li>
+          <li><span class="rating">***  </span> <a href="reviews/sylvain.html">Cyrilette</a></li>
+          <li><span class="rating">***  </span> <a href="reviews/sylvain.html">Yahiko</a></li>
+          <li><span class="rating">***  </span> <a href="reviews/sylvain.html">Death Adder</a></li>
+          <li><span class="rating">***  </span> <a href="reviews/sylvain.html">Spacewolf1</a></li>
+          <li><span class="rating">***  </span> <a href="reviews/sylvain.html">eternal-newbie</a></li>
+          <li><span class="rating">***  </span> <a href="reviews/sylvain.html">Spoz</a></li>
+          <li><span class="rating">*    </span> <a href="reviews/sylvain.html">The Jedi</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</main>
+
+{{> footer.hbs}}

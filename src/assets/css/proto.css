@@ -2,8 +2,12 @@ body {
   background: #fffdf3 url('data:image/gif; base64,R0lGODlhBAAEAIAAAOXl5f/98yH5BAAAAAAALAAAAAAEAAQAAAIFhBGpmwUAOw==');
 }
 
-.rating{
+.rating {
   font-family: monospace;
   margin-right: 10px;
   white-space: pre;
+}
+
+.well h2 {
+  margin-top: 0;
 }
