@@ -5,6 +5,15 @@
       &copy; 2002 - {{now "%Y"}}, Emu Nova
     </footer>
 </div>
-
+<script>
+(function(d, w){
+  document.body.addEventListener('click', function(e){
+    if (e.target.nodeName === "A" && e.target.href.match('github.io') && !e.target.href.match('github.io/emunova.net')){
+      e.preventDefault();
+      w.location.href = e.href.replace('github.io', 'github.io/emunova.net');
+    }
+  });
+})(document, window);
+</script>
 </body>
 </html>
