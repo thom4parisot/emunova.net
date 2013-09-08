@@ -50,7 +50,7 @@
         <h2>Ils l'ont testé</h2>
 
         <ul class="list-unstyled">
-        {{#game_reviews system.id game.id}}
+        {{#game_reviews system game}}
           <li><span class="rating">{{stars rating}}</span> <a href="reviews/{{slug}}.html">{{user}}</a></li>
         {{/game_reviews}}
         </ul>

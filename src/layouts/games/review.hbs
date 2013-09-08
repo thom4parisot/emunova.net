@@ -3,8 +3,6 @@
 {{import "systems/{system}" as "system"}}
 {{import "games/{system}/{game}" as "game"}}
 
-{{{sample-content}}}
-
 <main>
   <h2>{{game.title}}</h2>
 
@@ -52,7 +50,7 @@
         <h2>Ils l'ont testé</h2>
 
         <ul class="list-unstyled">
-          {{#game_reviews system.id game.id}}
+          {{#game_reviews system game}}
             <li><span class="rating">{{stars rating}}</span> <a href="{{slug}}.html">{{user}}</a></li>
           {{/game_reviews}}
         </ul>
