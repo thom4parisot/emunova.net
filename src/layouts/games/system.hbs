@@ -1,0 +1,39 @@
+{{> header.hbs}}
+
+{{import "systems/{system}" as "system"}}
+
+<main>
+  <h2>{{system.name}}</h2>
+
+  <div class="lead">
+    <p><strong>{{system.name}}</strong> est un système conçu par <strong>{{system.manufacturer}}</strong>.
+      {{#if system.alternate_names}}
+        Il est également connu sous {{inflect system.alternate_names "le nom" "les noms"}}
+        de {{inline system.alternate_names}}.
+      {{/if}}
+    </p>
+  </div>
+
+  <div class="table-responsive">
+    <table class="table table-striped table-hover">
+      <thead>
+        <tr>
+          <th>Titre</th>
+          <th>Note moyenne</th>
+          <th>Genres</th>
+        </tr>
+      </thead>
+      <tbody>
+      {{#system_games system}}
+        <tr>
+          <th><a href="./{{slug}}/">{{title}}</a></th>
+          <td>{{stars "0"}}</td>
+          <td>{{inline genres}}</td>
+        </tr>
+      {{/system_games}}
+      </tbody>
+    </table>
+  </div>
+</main>
+
+{{> footer.hbs}}

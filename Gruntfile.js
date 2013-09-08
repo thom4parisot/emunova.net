@@ -51,6 +51,18 @@ module.exports = function (grunt) {
         }
       },
 
+      games: {
+        expand: true,
+        cwd: "<%= en %>",
+        src: ["systems/**/index.json"],
+        rename: function(dest, src){
+          return renameSystemUri(dest, src).replace(/^dist/, 'dist/games');
+        },
+        dest: "dist/",
+        options: {
+          layout: "games/system.hbs"
+        }
+      },
       game_entry: {
         expand: true,
         cwd: "<%= en %>",
