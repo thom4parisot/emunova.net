@@ -8,6 +8,20 @@ body {
   white-space: pre;
 }
 
-.well h2 {
-  margin-top: 0;
+.well a{
+  color: #cabef8;
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.25);
+}
+
+.well h2:first-of-type {
+  margin-top: 1px;   /* h2[margin-top] - .well[padding-top] */
+}
+.well h3:first-of-type {
+  margin-top: 7px;   /* h2[margin-top] + (h2[font-size] - h3[font-size]) - .well[padding-top] */
+}
+.well-sm h2:first-of-type {
+  margin-top: 11px;   /* h2[margin-top] - .well-sm[padding-top] */
+}
+.well-sm h3:first-of-type {
+  margin-top: 17px;   /* h2[margin-top] + (h2[font-size] - h3[font-size]) - .well-sm[padding-top] */
 }

@@ -41,13 +41,13 @@
 
         <ul class="list-unstyled">
         {{#each page.[Synthèse]}}
-          <li><strong>{{@key}}</strong>: {{this}}</li>
+          <li><strong>{{@key}}</strong>&nbsp;:&nbsp;{{default this "N/C"}}</li>
         {{/each}}
         </ul>
       </div>
       {{/if}}
       <div class="well">
-        <p>15 joueurs ont testé ce jeu :</p>
+        <h2>Ils l'ont testé</h2>
 
         <ul class="list-unstyled">
           <li><span class="rating">*****</span> <a href="reviews/sylvain.html">Sylvain</a></li>
