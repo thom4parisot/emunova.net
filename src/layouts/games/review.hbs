@@ -19,9 +19,11 @@
       {{#if page.title}} <h2>{{page.title}}</h2> {{/if}}
       {{#markdown}} {{> body}} {{/markdown}}
 
-      <p class="lead">
-        <strong>Note finale</strong>: {{page.rating}}/5 &mdash; Parfait !
-      </p>
+      {{#gte page.rating 0}}
+        <p class="lead">
+          <strong>Note finale</strong>: {{rating page.rating}}
+        </p>
+      {{/gte}}
 
       <p class="btn-toolbar">
         <a class="btn btn-primary" href="../">{{game.title}}</a>
