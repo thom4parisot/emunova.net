@@ -20,6 +20,31 @@ module.exports = function (grunt) {
   grunt.initConfig({
     en: "node_modules/data.emunova.net",
 
+    precache: {
+      systems: {
+        src: "<%= en %>/systems/*/index.json",
+        dest: "dist/data/systems.json",
+        options: {
+          id: function(file){
+            return file.match(/systems\/([^\/]+)/)[1];
+          }
+        }
+      },
+      games: {
+        expand: true,
+        cwd: "<%= en %>",
+        src: "games/*",
+        ext: ".json",
+        dest: "dist/data",
+        options: {
+          find: "*/index.json",
+          id: function(file){
+            return file.match(/games\/[^\/]+\/([^\/]+)/)[1];
+          }
+        }
+      }
+    },
+
     assemble: {
       options: {
         assets: "dist/assets",
@@ -27,7 +52,16 @@ module.exports = function (grunt) {
         engine: "handlebars",
         helpers: ["lib/handlebars/*.js"],
         partials: "src/partials/**/*.hbs",
-        extension: ".html"
+        extension: ".html",
+        data: "dist/data/**/*.json"
+      },
+
+      home: {
+        src: "package.json",
+        dest: "dist/index.html",
+        options: {
+          layout: "index.hbs"
+        }
       },
 
       systems: {
@@ -117,7 +151,8 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks("grunt-contrib-copy");
   grunt.loadNpmTasks("grunt-contrib-clean");
   grunt.loadNpmTasks("grunt-gh-pages");
+  grunt.loadTasks('lib/grunt');
 
-  grunt.registerTask("default", ["clean", "assemble", "copy"]);
+  grunt.registerTask("default", ["clean", "precache", "assemble", "copy"]);
   grunt.registerTask("deploy", ["default", "gh-pages"]);
 };
