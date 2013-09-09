@@ -21,11 +21,11 @@
       <div class="col-lg-6">
         <h2>Jeux vidéo <strong>{{system.name}}</strong></h2>
 
-        <p class="lead">Pas facile de savoir à quels jeux jouer.</p>
+        <p class="lead">Pas facile de savoir à quel jeu jouer.</p>
 
         <p>
-          Parce qu'on n'est pas né en {{default system.released "1970"}}. Parce qu'on ne parlait pas Japonais.
-          Ou parce que vous ne pouviez choisir qu'un seul jeu par année !
+          <strong>En {{default system.released "1970"}}</strong>, on n'était pas tous né, on ne parlait pas Japonais,
+          ou on ne pouvait choisir qu'un seul jeu vidéo par année !
         </p>
 
         <p>
@@ -37,28 +37,28 @@
         <p><a class="btn btn-primary" href="/games/{{system.id}}/">Notre sélection de jeux vidéo {{system.name}}</a></p>
       </div>
 
-      <div class="col-lg-3">
-        <div class="well well-sm">
-            <h3>Récemment</h3>
+      <div class="col-lg-4">
+        <div class="well">
+            <h3>Top 7</h3>
 
-            <ul>
-              <li><a href="/games/{{system.id}}/">Dragon Quest : Shonen Yangus to Fushigi no Dungeon</a></li>
-              <li><a href="/games/{{system.id}}/">Arcana Heart 2</a></li>
-              <li><a href="/games/{{system.id}}/">The Bouncer</a></li>
-              <li><a href="/games/{{system.id}}/">Bujingai : Swordmaster</a></li>
-              <li><a href="/games/{{system.id}}/">Devil May Cry 3 : l'Eveil de Dante</a></li>
+            <ul class="list-unstyled">
+            {{#updated_games system 7}}
+              <li>{{stars "4.5"}} <a href="/games/{{../system.id}}/{{slug}}/">{{title}}</a></li>
+            {{else}}
+              <li>Pas encore de jeu</li>
+            {{/updated_games}}
             </ul>
         </div>
       </div>
 
-      <div class="col-lg-3">
-        <div class="well well-sm">
+      <div class="col-lg-2">
+        <div class="well">
           <h3>Stats</h3>
 
           <ul>
+            <li><strong>800</strong> jeux</li>
             <li><strong>349</strong> tests</li>
             <li><strong>4500</strong> notes</li>
-            <li><strong>3ème</strong> plate-forme</li>
           </ul>
         </div>
       </div>
