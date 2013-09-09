@@ -1,0 +1,18 @@
+{{> header.hbs}}
+
+<main>
+  <div class="row">
+    {{#each systems}}
+      <div class="col-lg-3">
+        <h2>{{name}}</h2>
+
+        <ul class="list-unstyled">
+          <li><a href="/{{id}}/">À propos</a></li>
+          <li><a href="/games/{{id}}/">Jeux</a></li>
+        </ul>
+      </div>
+    {{/each}}
+  </div>
+</main>
+
+{{> footer.hbs}}
