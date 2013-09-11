@@ -1,0 +1,66 @@
+{{> header.hbs}}
+
+{{import "systems/{system}" as "system"}}
+{{import "games/{system}/{game}" as "game"}}
+
+<main>
+  <h2>{{game.title}}</h2>
+
+  <div class="lead">
+    <p><strong>{{game.title}}</strong> est un jeu vidéo <a href="/{{system.id}}/">{{system.name}}</a>
+      publié par <strong>{{game.editor}}</strong> en <strong>{{game.released}}</strong>.
+    </p>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-9">
+      {{#game_ratings system game true}}
+      <div class="row">
+        <div class="col-lg-3">
+          <div class="well">
+            <p class="lead">{{rating rating}}</p>
+            <p>Par <em>{{user}}</em></p>
+          </div>
+        </div>
+
+        <div class="col-lg-9">
+          {{#if title}}
+            <h2>{{title}}</small></h2>
+          {{/if}}
+
+          {{#markdown}} {{review}} {{/markdown}}
+        </div>
+      </div>
+      {{else}}
+        <div class="alert alert-info">
+          Il n'y pas encore de notation pour {{game.title}}.
+        </div>
+      {{/game_ratings}}
+    </div>
+
+    <div class="col-lg-3">
+      <div class="well affix">
+        <h2>Ils l'ont testé</h2>
+
+        <ul class="list-unstyled">
+            {{#game_reviews system game}}
+              <li><span class="rating">{{stars rating}}</span> <a href="reviews/{{slug}}.html">{{user}}</a></li>
+            {{/game_reviews}}
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <p class="btn-toolbar clearfix">
+    <a class="btn btn-primary" href="./">{{game.title}}</a>
+    <a class="btn btn-default" href="./">Tests</a>
+    <a class="btn btn-default disabled" href="ratings.html">Notes</a>
+  </p>
+
+  <p class="btn-toolbar">
+    <a class="btn btn-primary" href="/{{system.id}}/">{{system.name}}</a>
+    <a class="btn btn-default" href="/games/{{system.id}}/">Jeux</a>
+  </p>
+</main>
+
+{{> footer.hbs}}

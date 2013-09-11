@@ -116,6 +116,18 @@ module.exports = function (grunt) {
         options: {
           layout: "games/review.hbs"
         }
+      },
+      game_ratings: {
+        expand: true,
+        cwd: "<%= en %>",
+        src: ["games/**/index.json"],
+        rename: function(dest, src){
+          return dest + src.replace('index.json', 'ratings.json');
+        },
+        dest: "dist/",
+        options: {
+          layout: "games/ratings.hbs"
+        }
       }
     },
 
