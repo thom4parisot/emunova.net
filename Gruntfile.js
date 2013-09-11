@@ -132,6 +132,12 @@ module.exports = function (grunt) {
     },
 
     copy: {
+      gh: {
+        expand: true,
+        cwd: "src/",
+        src: ["CNAME"],
+        dest: "dist/"
+      },
       ui: {
         expand: true,
         cwd: "src/assets",
