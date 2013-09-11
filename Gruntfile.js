@@ -27,6 +27,11 @@ module.exports = function (grunt) {
         options: {
           id: function(file){
             return file.match(/systems\/([^\/]+)/)[1];
+          },
+          count: {
+            "games_count": "<%= en %>/games/{%= system.id %}/*/index.json",
+            "reviews_count": "<%= en %>/games/{%= system.id %}/*/reviews/*.md",
+            "comments_count": "<%= en %>/games/{%= system.id %}/*/ratings/*.md"
           }
         }
       },

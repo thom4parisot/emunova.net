@@ -4,12 +4,31 @@
   <div class="row">
     {{#each systems}}
       <div class="col-lg-3">
-        <h2>{{name}}</h2>
+        <h2><a href="{{id}}" rel="bookmark">{{name}}</a></h2>
 
-        <ul class="list-unstyled">
-          <li><a href="/{{id}}/">À propos</a></li>
-          <li><a href="/games/{{id}}/">Jeux</a></li>
-        </ul>
+        <div class="row">
+          <div class="col-lg-3 lead">
+            <span>{{released}}</span>
+          </div>
+          <div class="col-lg-6 text-right lead">
+            <strong>{{manufacturer}}</strong>
+          </div>
+        </div>
+
+
+        <div class="row">
+          <div class="col-lg-3">
+            <a href="/games/{{id}}/" rel="bookmark">
+              <span class="lead">{{games_count}}</span><br>{{inflect games_count "jeu" "jeux"}}
+            </a>
+          </div>
+          <div class="col-lg-3">
+            <span class="lead">{{reviews_count}}</span><br>{{inflect reviews_count "test" "tests"}}
+          </div>
+          <div class="col-lg-3">
+            <span class="lead">{{comments_count}}</span><br>{{inflect comments_count "note" "notes"}}
+          </div>
+        </div>
       </div>
     {{/each}}
   </div>
