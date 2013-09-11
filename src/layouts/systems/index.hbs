@@ -52,15 +52,19 @@
       </div>
 
       <div class="col-lg-2">
-        <div class="well">
-          <h3>Stats</h3>
-
-          <ul>
-            <li><strong>800</strong> jeux</li>
-            <li><strong>349</strong> tests</li>
-            <li><strong>4500</strong> notes</li>
-          </ul>
-        </div>
+        <ul class="list-unstyled">
+          <li>
+            <a href="/games/{{system.id}}" rel="bookmark">
+              <span class="lead">{{system.games_count}}</span> {{inflect system.games_count "jeu" "jeux"}}
+            </a>
+          </li>
+          <li>
+            <span class="lead">{{system.reviews_count}}</span> {{inflect system.reviews_count "test" "tests"}}
+          </li>
+          <li>
+            <span class="lead">{{system.comments_count}}</span> {{inflect system.comments_count "note" "notes"}}
+          </li>
+        </ul>
       </div>
     </div>
 </main>

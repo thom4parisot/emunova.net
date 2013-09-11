@@ -72,7 +72,10 @@
           <li><span class="rating">{{stars 1}}</span> 0 personnes</li>
         </ul>
 
-        <a href="ratings.html">Toutes les notes et commentaires</a>
+        <a href="ratings.html">
+          <span class="lead">{{game.comments_count}}</span>
+          {{inflect game.comments_count "note et commentaire" "notes et commentaires"}}
+        </a>.
       </div>
     </div>
   </div>

@@ -45,6 +45,10 @@ module.exports = function (grunt) {
           find: "*/index.json",
           id: function(file){
             return file.match(/games\/[^\/]+\/([^\/]+)/)[1];
+          },
+          count: {
+            "reviews_count": "{%= dirname %}/reviews/*.md",
+            "comments_count": "{%= dirname %}/ratings/*.md"
           }
         }
       }

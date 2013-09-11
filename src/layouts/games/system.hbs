@@ -19,16 +19,20 @@
       <thead>
         <tr>
           <th>Titre</th>
-          <th>Note moyenne</th>
           <th>Genres</th>
+          <th class="text-center">Tests</th>
+          <th class="text-center">Notes</th>
+          <th class="text-center">Santé</th>
         </tr>
       </thead>
       <tbody>
       {{#system_games system}}
         <tr>
           <th><a href="./{{slug}}/">{{title}}</a></th>
-          <td>{{stars "4"}}</td>
           <td>{{inline genres}}</td>
+          <td class="text-center">{{reviews_count}}</td>
+          <td class="text-center">{{comments_count}}</td>
+          <td class="text-center">{{stars 5}}</td>
         </tr>
       {{else}}
         <tr>
