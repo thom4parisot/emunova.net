@@ -144,7 +144,7 @@ module.exports = function (grunt) {
       gh: {
         expand: true,
         cwd: "src/",
-        src: ["CNAME"],
+        src: ["CNAME", "robots.txt"],
         dest: "dist/"
       },
       ui: {
