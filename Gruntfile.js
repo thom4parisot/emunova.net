@@ -18,26 +18,32 @@ module.exports = function (grunt) {
   }
 
   grunt.initConfig({
-    en: "node_modules/data.emunova.net",
+    datasource: "node_modules/data.emunova.net",
 
     precache: {
       systems: {
-        src: "<%= en %>/systems/*/index.json",
+        src: "<%= datasource %>/systems/*/index.json",
         dest: "dist/data/systems.json",
         options: {
           id: function(file){
             return file.match(/systems\/([^\/]+)/)[1];
           },
-          count: {
-            "games_count": "<%= en %>/games/{%= system.id %}/*/index.json",
-            "reviews_count": "<%= en %>/games/{%= system.id %}/*/reviews/*.md",
-            "comments_count": "<%= en %>/games/{%= system.id %}/*/ratings/*.md"
+          compute: {
+            "{%= data %}/games/{%= self.id %}/*/index.json": {
+              "games_count": "count"
+            },
+            "{%= data %}/games/{%= self.id %}/*/reviews/*.md": {
+              "reviews_count": "count"
+            },
+            "{%= data %}/games/{%= self.id %}/*/ratings/*.md": {
+              "comments_count": "count"
+            }
           }
         }
       },
       games: {
         expand: true,
-        cwd: "<%= en %>",
+        cwd: "<%= datasource %>",
         src: "games/*",
         ext: ".json",
         dest: "dist/data",
@@ -46,9 +52,14 @@ module.exports = function (grunt) {
           id: function(file){
             return file.match(/games\/[^\/]+\/([^\/]+)/)[1];
           },
-          count: {
-            "reviews_count": "{%= dirname %}/reviews/*.md",
-            "comments_count": "{%= dirname %}/ratings/*.md"
+          compute: {
+            "{%= dirname %}/reviews/*.md": {
+              "reviews_count": "count"
+            },
+            "{%= dirname %}/ratings/*.md": {
+              "comments_count": "count",
+              "rating": "ratings"
+            }
           }
         }
       }
@@ -75,7 +86,7 @@ module.exports = function (grunt) {
 
       systems: {
         expand: true,
-        cwd: "<%= en %>",
+        cwd: "<%= datasource %>",
         src: ["systems/**/index.json"],
         dest: "dist/",
         rename: renameSystemUri,
@@ -85,7 +96,7 @@ module.exports = function (grunt) {
       },
       systems_contents: {
         expand: true,
-        cwd: "<%= en %>",
+        cwd: "<%= datasource %>",
         src: ["systems/**/*.md"],
         dest: "dist/",
         rename: renameSystemUri,
@@ -96,7 +107,7 @@ module.exports = function (grunt) {
 
       games: {
         expand: true,
-        cwd: "<%= en %>",
+        cwd: "<%= datasource %>",
         src: ["systems/**/index.json"],
         rename: function(dest, src){
           return renameSystemUri(dest, src).replace(/^dist/, 'dist/games');
@@ -108,7 +119,7 @@ module.exports = function (grunt) {
       },
       game_entry: {
         expand: true,
-        cwd: "<%= en %>",
+        cwd: "<%= datasource %>",
         src: ["games/**/index.json"],
         rename: renameGameUri,
         dest: "dist/",
@@ -118,7 +129,7 @@ module.exports = function (grunt) {
       },
       game_review: {
         expand: true,
-        cwd: "<%= en %>",
+        cwd: "<%= datasource %>",
         src: ["games/**/reviews/*.md"],
         rename: renameGameUri,
         dest: "dist/",
@@ -128,7 +139,7 @@ module.exports = function (grunt) {
       },
       game_ratings: {
         expand: true,
-        cwd: "<%= en %>",
+        cwd: "<%= datasource %>",
         src: ["games/**/index.json"],
         rename: function(dest, src){
           return dest + src.replace('index.json', 'ratings.json');
@@ -155,7 +166,7 @@ module.exports = function (grunt) {
       },
       assets: {
         expand: true,
-        cwd: "<%= en %>",
+        cwd: "<%= datasource %>",
         src: "**/*.{jpeg,jpg,png,gif}",
         rename: renameSystemUri,
         dest: "dist/"
