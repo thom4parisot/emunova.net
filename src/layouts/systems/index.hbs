@@ -42,11 +42,11 @@
             <h3>Top 7</h3>
 
             <ul class="list-unstyled">
-            {{#updated_games system 7}}
-              <li>{{stars "4.5"}} <a href="/games/{{../system.id}}/{{slug}}/">{{title}}</a></li>
+            {{#best_games system 7}}
+              <li><span class="rating">{{stars rating}}</span> <a href="/games/{{../system.id}}/{{id}}/">{{title}}</a></li>
             {{else}}
               <li>Aucun jeu pour le moment.</li>
-            {{/updated_games}}
+            {{/best_games}}
             </ul>
         </div>
       </div>
