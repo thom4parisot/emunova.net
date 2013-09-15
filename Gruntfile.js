@@ -58,7 +58,8 @@ module.exports = function (grunt) {
             },
             "{%= dirname %}/ratings/*.md": {
               "comments_count": "count",
-              "rating": "ratings"
+              "rating": "ratings",
+              "rating_breakdown": "breakdown"
             }
           }
         }
