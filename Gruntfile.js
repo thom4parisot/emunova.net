@@ -98,6 +98,18 @@ module.exports = function (grunt) {
           layout: "systems/index.hbs"
         }
       },
+      systems_images: {
+        expand: true,
+        cwd: "<%= datasource %>",
+        src: ["systems/**/index.json"],
+        dest: "dist/",
+        rename: function(dest, src){
+          return renameSystemUri(dest, src).replace(/index.json$/, 'images/index.json');
+        },
+        options: {
+          layout: "systems/images.hbs"
+        }
+      },
       systems_contents: {
         expand: true,
         cwd: "<%= datasource %>",
