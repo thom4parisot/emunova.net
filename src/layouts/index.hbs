@@ -8,10 +8,10 @@
 
         <div class="row">
           <div class="col-sm-3 lead">
-            <span>{{released}}</span>
+            <strong>{{released}}</strong>
           </div>
           <div class="col-sm-6 text-right lead">
-            <strong>{{manufacturer}}</strong>
+            <span>{{manufacturer}}</span>
           </div>
         </div>
 
@@ -19,14 +19,13 @@
         <div class="row">
           <div class="col-sm-3">
             <a href="/games/{{id}}/" rel="bookmark">
-              <span class="lead">{{games_count}}</span><br>{{inflect games_count "jeu" "jeux"}}
+              <span class="lead">{{reviews_count}}</span><br>{{inflect games_count "test" "tests"}}
             </a>
           </div>
           <div class="col-sm-3">
-            <span class="lead">{{reviews_count}}</span><br>{{inflect reviews_count "test" "tests"}}
-          </div>
-          <div class="col-sm-3">
-            <span class="lead">{{comments_count}}</span><br>{{inflect comments_count "note" "notes"}}
+            <a rel="bookmark" href="/{{id}}/images/">
+              <span class="lead">{{images_count}}</span><br>{{inflect images_count "image" "images"}}
+            </a>
           </div>
         </div>
       </div>
