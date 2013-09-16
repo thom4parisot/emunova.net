@@ -29,6 +29,9 @@ module.exports = function (grunt) {
             return file.match(/systems\/([^\/]+)/)[1];
           },
           compute: {
+            "{%= data %}/systems/{%= self.id %}/images/**/*.{jpg,png,gif,jpeg,webp}": {
+              "images_count": "count"
+            },
             "{%= data %}/games/{%= self.id %}/*/index.json": {
               "games_count": "count"
             },
