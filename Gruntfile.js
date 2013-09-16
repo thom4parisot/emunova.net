@@ -30,7 +30,8 @@ module.exports = function (grunt) {
           },
           compute: {
             "{%= data %}/systems/{%= self.id %}/images/**/*.{jpg,png,gif,jpeg,webp}": {
-              "images_count": "count"
+              "images_count": "count",
+              "images": "list"
             },
             "{%= data %}/games/{%= self.id %}/*/index.json": {
               "games_count": "count"
@@ -183,8 +184,10 @@ module.exports = function (grunt) {
       assets: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: "**/*.{jpeg,jpg,png,gif}",
-        rename: renameSystemUri,
+        src: "**/*.{jpeg,jpg,png,gif,wepb}",
+        rename: function(dest, src){
+          return dest + src.replace(/^systems\//, '');
+        },
         dest: "dist/"
       }
     },
