@@ -19,7 +19,7 @@
 
     <div class="row">
       <div class="col-sm-6">
-        <h2>Jeux vidéo <strong>{{system.name}}</strong></h2>
+        <h2><strong>Jeux vidéo</strong> {{system.name}}</h2>
 
         <p class="lead">Pas facile de savoir à quel jeu jouer.</p>
 
@@ -67,6 +67,44 @@
         </ul>
       </div>
     </div>
+
+    {{#gt system.images_count 0}}
+    <div class="row">
+      <div class="col-sm-6">
+        <h2><strong>Images</strong> {{system.name}}</h2>
+
+        <p class="lead">Pas facile de savoir à quoi ça ressemble.</p>
+
+        <p>
+          Puisque 1 image vaut plus que 1000 mots, voici (presque) 1000 images.
+          <strong>{{system.images_count}}</strong> images <em>{{system.name}}</em>
+          pour découvrir son aspect, ses boites, accessoires et éditions spéciales.
+        </p>
+
+        <p><a class="btn btn-primary" href="/{{system.id}}/images/">Notre galerie d'images {{system.name}}</a></p>
+      </div>
+
+      <div class="col-sm-6">
+        <div class="row row-gallery">
+          <div class="col-sm-4">
+            <img class="img-thumbnail img-responsive" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=" alt=""/>
+          </div>
+          <div class="col-sm-4">
+            <img class="img-thumbnail img-responsive" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=" alt=""/>
+          </div>
+          <div class="col-sm-4">
+            <img class="img-thumbnail img-responsive" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=" alt=""/>
+          </div>
+          <div class="col-sm-4">
+            <img class="img-thumbnail img-responsive" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=" alt=""/>
+          </div>
+          <div class="col-sm-4">
+            <img class="img-thumbnail img-responsive" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=" alt=""/>
+          </div>
+        </div>
+      </div>
+    </div>
+    {{/gt}}
 </main>
 
 {{> footer.hbs}}

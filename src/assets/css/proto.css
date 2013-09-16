@@ -25,3 +25,11 @@ body {
 .well-sm h3:first-of-type {
   margin-top: 17px;   /* h2[margin-top] + (h2[font-size] - h3[font-size]) - .well-sm[padding-top] */
 }
+
+/* temporary workaround */
+.row-gallery [class~="col-sm-4"] {
+  padding-bottom: 15px;
+}
+.img-responsive {
+  width: 300px;
+}
