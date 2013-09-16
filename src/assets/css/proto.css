@@ -27,7 +27,7 @@ body {
 }
 
 /* temporary workaround */
-.row-gallery [class~="col-sm-4"] {
+.row-gallery [class*="col-sm-"] {
   padding-bottom: 15px;
 }
 .img-responsive {
