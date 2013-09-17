@@ -3,26 +3,26 @@
 <main>
   <div class="row">
     {{#each_with_index systems}}
-      <div class="col-sm-3">
+      <div class="col-sm-3 col-xs-6">
         <h2><a href="{{id}}" rel="bookmark">{{name}}</a></h2>
 
         <div class="row">
-          <div class="col-sm-3 lead">
+          <div class="col-sm-3 col-xs-6 lead">
             <strong>{{released}}</strong>
           </div>
-          <div class="col-sm-6 text-right lead">
+          <div class="col-sm-6 col-xs-6 text-right lead">
             <span>{{manufacturer}}</span>
           </div>
         </div>
 
 
         <div class="row">
-          <div class="col-sm-3">
+          <div class="col-sm-3 col-xs-3">
             <a href="/games/{{id}}/" rel="bookmark">
               <span class="lead">{{reviews_count}}</span><br>{{inflect games_count "test" "tests"}}
             </a>
           </div>
-          <div class="col-sm-3">
+          <div class="col-sm-3  col-xs-3">
             <a rel="bookmark" href="/{{id}}/images/">
               <span class="lead">{{images_count}}</span><br>{{inflect images_count "image" "images"}}
             </a>
