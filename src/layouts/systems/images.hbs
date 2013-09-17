@@ -1,8 +1,6 @@
 {{> header.hbs}}
 {{import "systems/{system}" as "system"}}
 
-{{{sample-content}}}
-
 <main>
   <h2>{{system.name}}</h2>
 
@@ -18,7 +16,7 @@
 
   <div class="row row-gallery lazyload">
     {{#system_images system true}}
-      <div class="col-sm-3">
+      <div class="col-sm-3" id="{{id}}">
         <img class="img-thumbnail" src="/assets/blank.gif" data-src="{{this.filename}}" alt="{{title}}"/>
 
         <h2>{{title}}</h2>

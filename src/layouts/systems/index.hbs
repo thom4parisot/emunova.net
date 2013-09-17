@@ -85,22 +85,14 @@
       </div>
 
       <div class="col-sm-6">
-        <div class="row row-gallery">
-          <div class="col-sm-4">
-            <img class="img-thumbnail" data-src="holder.js/300x300/auto" alt=""/>
-          </div>
-          <div class="col-sm-4">
-            <img class="img-thumbnail" data-src="holder.js/300x300/auto" alt=""/>
-          </div>
-          <div class="col-sm-4">
-            <img class="img-thumbnail" data-src="holder.js/300x300/auto" alt=""/>
-          </div>
-          <div class="col-sm-4">
-            <img class="img-thumbnail" data-src="holder.js/300x300/auto" alt=""/>
-          </div>
-          <div class="col-sm-4">
-            <img class="img-thumbnail" data-src="holder.js/300x300/auto" alt=""/>
-          </div>
+        <div class="row row-gallery lazyload">
+          {{#system_images system 6}}
+            <div class="col-sm-4">
+              <a href="images/#{{id}}">
+                <img class="img-thumbnail" data-src="images/{{this.filename}}" alt="{{title}}"/>
+              </a>
+            </div>
+          {{/system_images}}
         </div>
       </div>
     </div>
