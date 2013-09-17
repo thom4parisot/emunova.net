@@ -60,7 +60,7 @@ module.exports = function (grunt) {
             "{%= dirname %}/reviews/*.md": {
               "reviews_count": "count"
             },
-            "{%= dirname %}/ratings/*.md": {
+            "{%= dirname %}/{ratings,reviews}/*.md": {
               "comments_count": "count",
               "rating": "ratings",
               "rating_breakdown": "breakdown"
