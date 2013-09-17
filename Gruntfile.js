@@ -194,7 +194,7 @@ module.exports = function (grunt) {
       ui: {
         expand: true,
         cwd: "src/assets",
-        src: "**/*.{css,js}",
+        src: "**/*",
         dest: "dist/assets"
       },
       assets: {
@@ -205,6 +205,15 @@ module.exports = function (grunt) {
           return dest + src.replace(/^systems\//, '');
         },
         dest: "dist/"
+      },
+      components: {
+        expand: true,
+        flatten: true,
+        dest: "dist/assets/js",
+        src: [
+          "bower_components/lazyload/build/lazyload.min.js",
+          "bower_components/holderjs/holder.min.js"
+        ]
       }
     },
 
