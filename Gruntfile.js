@@ -30,8 +30,7 @@ module.exports = function (grunt) {
           },
           compute: {
             "{%= data %}/systems/{%= self.id %}/images/**/*.{jpg,png,gif,jpeg,webp}": {
-              "images_count": "count",
-              "images": "list"
+              "images_count": "count"
             },
             "{%= data %}/games/{%= self.id %}/*/index.json": {
               "games_count": "count"
@@ -42,6 +41,23 @@ module.exports = function (grunt) {
             "{%= data %}/games/{%= self.id %}/*/ratings/*.md": {
               "comments_count": "count"
             }
+          }
+        }
+      },
+      images: {
+        expand: true,
+        cwd: "<%= datasource %>/systems",
+        src: "*",
+        ext: ".json",
+        dest: "dist/data",
+        options: {
+          find: "images/**/*.{jpg,png,gif,jpeg,webp}",
+          rename: function(dest){
+            return dest.replace(/data\//, 'data/images-');
+          },
+          id: function(file){
+            var f = file.match(/images\/([^\/]+)/)[1];
+            return _str.slugify(path.basename(f, path.extname(f)));
           }
         }
       },
