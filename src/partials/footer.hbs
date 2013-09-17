@@ -5,6 +5,19 @@
       &copy; 2002 - {{now "%Y"}}, Emu Nova
     </footer>
 </div>
+<script src="/assets/js/lazyload.min.js"></script>
 <script src="/assets/js/holder.min.js"></script>
+<script>
+  function _loadScript(src){
+    var s = document.createElement("script");
+    s.async = true;
+    s.src = "/assets/js/"+src;
+    document.body.appendChild(s);
+  }
+
+  if ('querySelector' in document && 'localStorage' in window && 'addEventListener' in window){
+    _loadScript('main.js');
+  }
+</script>
 </body>
 </html>

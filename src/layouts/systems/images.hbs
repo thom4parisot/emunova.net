@@ -16,59 +16,18 @@
 
   <h1>Galerie d'images {{system.name}}</h1>
 
-  <div class="row row-gallery">
-    <div class="col-sm-3">
-      <img class="img-thumbnail" data-src="holder.js/300x300/auto" alt=""/>
+  <div class="row row-gallery lazyload">
+    {{#system_images system true}}
+      <div class="col-sm-3">
+        <img class="img-thumbnail" src="/assets/blank.gif" data-src="{{this.filename}}" alt="{{title}}"/>
 
-      <h2>Adaptateur de cartouches</h2>
+        <h2>{{title}}</h2>
 
-      <p>Cet adaptateur sert à faire passer les jeux américains sur une console européenne.
-        Ceci dit, en plus de la version étrangère, il faut également posséder en emboiter
-        la version européenne du même jeu sur un 2° emplacement prévu à cet effet.</p>
-    </div>
-    <div class="col-sm-3">
-      <img class="img-thumbnail" data-src="holder.js/300x300/auto" alt=""/>
+        <p>{{#markdown}} {{description}} {{/markdown}}</p>
+      </div>
 
-      <h2>Boîtes européennes pour Super Nintendo</h2>
-
-      <p>Ensemble de bo&icirc;tes de quelques cartouches europ&eacute;ennes.
-        Il y a les jeux : Alien 3, Super Aleste, Starwing, Zombies Ate My Neighbors,
-        Vortex, Legend of Zelda - Link to the Past, Skyblazer, Super Castlevania IV,
-        Super Turrican, Cybernator, Dragon Ball Z - la L&eacute;gende Sa&iuml;en, Dragon Ball Z -
-        Ultime Menace, et tout en haut une manette asciiPad.</p>
-    </div>
-    <div class="col-sm-3">
-      <img class="img-thumbnail" data-src="holder.js/300x300/auto" alt=""/>
-
-      <h2>Boite japonaise Super Metroid pour Super Nintendo</h2>
-
-      <p>
-        Les boites des jeux Super Famicom sont l&eacute;g&egrave;rement plus
-        allong&eacute;es et plus &eacute;paisse que leurs homologues europ&eacute;ennes.
-        Elles &eacute;taient &eacute;galement beaucoup plus travaill&eacute;es esth&eacute;tiquement.
-      </p>
-    </div>
-    <div class="col-sm-3">
-      <img class="img-thumbnail" data-src="holder.js/300x300/auto" alt=""/>
-
-      <h2>Boite japonaise Super Metroid (contenu) pour Super Nintendo</h2>
-
-      <p>
-        Les cartouches japonaises sont strictement identiques en apparence aux versions europ&eacute;ennes.
-        Seules les boites diff&egrave;rent (et le zonage des jeux).
-      </p>
-    </div>
-    <div class="clearfix"></div>
-    <div class="col-sm-3">
-      <img class="img-thumbnail" data-src="holder.js/300x300/auto" alt=""/>
-
-      <h2>Multitap pour Super Nintendo</h2>
-
-      <p>
-        Multitap qui permettait de brancher 4 manettes suppl&eacute;mentaires sur le 2&deg; port manette.
-        On pouvait donc au total r&eacute;unir 5 manettes en simultan&eacute;ment sur la console.
-      </p>
-    </div>
+      {{{clearfix index limit=4 incr=1}}}
+    {{/system_images}}
   </div>
 
   <p>
