@@ -2,7 +2,7 @@
 
 <main>
   <div class="row">
-    {{#each systems}}
+    {{#each_with_index systems}}
       <div class="col-sm-3">
         <h2><a href="{{id}}" rel="bookmark">{{name}}</a></h2>
 
@@ -29,7 +29,9 @@
           </div>
         </div>
       </div>
-    {{/each}}
+
+      {{{clearfix index limit=4 incr=1}}}
+    {{/each_with_index}}
   </div>
 </main>
 
