@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "serve -p 3000 --compress dist/",
     "test": "grunt test"
   },
   "repository": {
@@ -21,10 +22,12 @@
     "assemble": "~0.4.5",
     "grunt-contrib-clean": "~0.4.1",
     "grunt-contrib-copy": "~0.4.1",
-    "data.emunova.net": "git://github.com/oncletom/data.emunova.net"
+    "data.emunova.net": "git://github.com/oncletom/data.emunova.net",
+    "grunt-responsive-images": "0.0.3"
   },
   "devDependencies": {
     "grunt-contrib-watch": "~0.5.3",
-    "grunt-gh-pages": "~0.7.1"
+    "grunt-gh-pages": "~0.7.1",
+    "serve": "~1.3.0"
   }
 }

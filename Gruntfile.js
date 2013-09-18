@@ -217,6 +217,30 @@ module.exports = function (grunt) {
       }
     },
 
+    responsive_images: {
+      options: {
+        sizes: [
+          {
+            name: "sq",
+            width: 170,
+            height: 170,
+            quality: 0.5
+          },
+          {
+            name: "md",
+            width: 270,
+            quality: 0.8
+          }
+        ]
+      },
+      systems: {
+        expand: true,
+        cwd: "<%= datasource %>/systems",
+        src: "**/*.{jpg,png,gif,jpeg,webp}",
+        dest: "dist/"
+      }
+    },
+
     clean: {
       build: "dist/**/*"
     },
@@ -233,8 +257,9 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks("grunt-contrib-copy");
   grunt.loadNpmTasks("grunt-contrib-clean");
   grunt.loadNpmTasks("grunt-gh-pages");
+  grunt.loadNpmTasks("grunt-responsive-images");
   grunt.loadTasks('lib/grunt');
 
-  grunt.registerTask("default", ["clean", "precache", "assemble", "copy"]);
+  grunt.registerTask("default", ["clean", "precache", "assemble", "responsive_images", "copy"]);
   grunt.registerTask("deploy", ["default", "gh-pages"]);
 };
