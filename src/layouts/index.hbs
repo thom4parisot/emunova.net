@@ -22,7 +22,7 @@
               <span class="lead">{{reviews_count}}</span><br>{{inflect games_count "test" "tests"}}
             </a>
           </div>
-          <div class="col-sm-3  col-xs-3">
+          <div class="col-sm-3 col-xs-3">
             <a rel="bookmark" href="/{{id}}/images/">
               <span class="lead">{{images_count}}</span><br>{{inflect images_count "image" "images"}}
             </a>
@@ -30,7 +30,8 @@
         </div>
       </div>
 
-      {{{clearfix index limit=4 incr=1}}}
+      {{#clearfix index 4}} <div class="clearfix visible-sm"></div> {{/clearfix}}
+      {{#clearfix index 2}} <div class="clearfix visible-xs"></div> {{/clearfix}}
     {{/each_with_index}}
   </div>
 </main>
