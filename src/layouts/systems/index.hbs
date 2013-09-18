@@ -87,9 +87,9 @@
       <div class="col-sm-6">
         <div class="row row-gallery lazyload">
           {{#system_images system 6}}
-            <div class="col-sm-4">
+            <div class="col-sm-4 col-xs-6">
               <a href="images/#{{id}}">
-                <img class="img-thumbnail" data-src="images/{{this.filename}}" alt="{{title}}"/>
+                <img class="img-thumbnail" data-src="images/{{image_url this.filename "sq"}}" alt="{{title}}"/>
               </a>
             </div>
           {{/system_images}}

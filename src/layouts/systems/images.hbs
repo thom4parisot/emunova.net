@@ -16,8 +16,8 @@
 
   <div class="row row-gallery lazyload">
     {{#system_images system true}}
-      <div class="col-sm-3" id="{{id}}">
-        <img class="img-thumbnail" src="/assets/blank.gif" data-src="{{this.filename}}" alt="{{title}}"/>
+      <div class="col-sm-4 col-md-3" id="{{id}}">
+        <img class="img-thumbnail" src="/assets/blank.gif" data-src="{{image_url this.filename "md"}}" alt="{{title}}"/>
 
         <h2>{{title}}</h2>
 
