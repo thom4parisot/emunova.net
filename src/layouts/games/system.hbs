@@ -18,21 +18,19 @@
     <table class="table table-striped table-hover">
       <thead>
         <tr>
+          <th>Santé</th>
           <th>Titre</th>
           <th>Genres</th>
-          <th class="text-center">Tests</th>
-          <th class="text-center">Notes</th>
-          <th class="text-center">Santé</th>
+          <th>Année</th>
         </tr>
       </thead>
       <tbody>
       {{#system_games system}}
         <tr>
+          <td>{{{stars rating}}}</td>
           <th><a href="./{{slug}}/">{{title}}</a></th>
           <td>{{inline genres}}</td>
-          <td class="text-center">{{reviews_count}}</td>
-          <td class="text-center">{{comments_count}}</td>
-          <td class="text-center">{{stars rating}}</td>
+          <td>{{released}}</td>
         </tr>
       {{else}}
         <tr>

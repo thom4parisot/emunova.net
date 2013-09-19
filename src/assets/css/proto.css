@@ -2,12 +2,6 @@ body {
   background: #fffdf3 url('data:image/gif; base64,R0lGODlhBAAEAIAAAOXl5f/98yH5BAAAAAAALAAAAAAEAAQAAAIFhBGpmwUAOw==');
 }
 
-.rating {
-  font-family: monospace;
-  margin-right: 10px;
-  white-space: pre;
-}
-
 .well a{
   color: #cabef8;
   text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.25);
@@ -24,6 +18,15 @@ body {
 }
 .well-sm h3:first-of-type {
   margin-top: 17px;   /* h2[margin-top] + (h2[font-size] - h3[font-size]) - .well-sm[padding-top] */
+}
+
+.progress-rating{
+  display: inline-block;
+  height: 10px;
+  margin-bottom: 0;
+  margin-right: 10px;
+  vertical-align: middle;
+  width: 70px;
 }
 
 /* temporary workaround */

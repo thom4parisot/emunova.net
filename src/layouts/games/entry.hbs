@@ -55,7 +55,7 @@
 
         <ul class="list-unstyled">
         {{#game_reviews system game}}
-          <li><span class="rating">{{stars rating}}</span> <a href="reviews/{{slug}}.html">{{user}}</a></li>
+          <li>{{{stars rating}}} <a href="reviews/{{slug}}.html">{{user}}</a></li>
         {{/game_reviews}}
         </ul>
       </div>
@@ -67,7 +67,7 @@
 
         <ul class="list-unstyled">
         {{#game_breakdown game}}
-          <li><span class="rating">{{stars rating}}</span> {{count}} {{inflect count "joueur" "joueurs"}}</li>
+          <li>{{{stars rating}}} {{count}} {{inflect count "joueur" "joueurs"}}</li>
         {{/game_breakdown}}
         </ul>
 
