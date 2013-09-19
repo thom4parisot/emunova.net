@@ -12,44 +12,36 @@
     </p>
   </div>
 
+  {{#game_ratings system game true}}
   <div class="row">
-    <div class="col-sm-9">
-      {{#game_ratings system game true}}
-      <div class="row">
-        <div class="col-sm-3">
-          <div class="well">
-            <p class="lead">{{rating rating}}</p>
-            <p>Par <em>{{user}}</em></p>
-          </div>
-        </div>
-
-        <div class="col-sm-9">
-          {{#if title}}
-            <h2>{{title}}</small></h2>
-          {{/if}}
-
-          {{#markdown}} {{review}} {{/markdown}}
-        </div>
+    <div class="col-sm-3">
+      <div class="well">
+        <p class="lead">{{rating rating}}</p>
+        <p>Par <em>{{user}}</em></p>
       </div>
-      {{else}}
-        <div class="alert alert-info">
-          Il n'y pas encore de notation pour {{game.title}}.
-        </div>
-      {{/game_ratings}}
     </div>
 
-    <div class="col-sm-3">
-      <div class="well affix">
-        <h2>Ils l'ont testé</h2>
+    <div class="col-sm-6">
+      {{#if is_review}}
+        <p>{{truncate review 250 "…"}}</p>
 
-        <ul class="list-unstyled">
-            {{#game_reviews system game}}
-              <li><span class="rating">{{stars rating}}</span> <a href="reviews/{{slug}}.html">{{user}}</a></li>
-            {{/game_reviews}}
-        </ul>
-      </div>
+        <p><a class="btn btn-default" href="reviews/{{slug}}.html">
+          Lire la suite du test de {{../../game.title}} par {{user}}
+        </a></p>
+      {{else}}
+        {{#if title}}
+          <h2>{{title}}</h2>
+        {{/if}}
+
+        {{#markdown}} {{review}} {{/markdown}}
+      {{/if}}
     </div>
   </div>
+  {{else}}
+    <div class="alert alert-info">
+      Il n'y pas encore de notation pour {{game.title}}.
+    </div>
+  {{/game_ratings}}
 
   <p class="btn-toolbar clearfix">
     <a class="btn btn-primary" href="./">{{game.title}}</a>
