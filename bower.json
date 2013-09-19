@@ -1,0 +1,21 @@
+{
+  "name": "emunova.net",
+  "version": "3.0.0",
+  "homepage": "https://github.com/oncletom/emunova.net",
+  "authors": [
+    "Thomas Parisot <thomas.parisot@bbc.co.uk>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lazyload": "~2.0.5",
+    "holderjs": "~2.1.0"
+  }
+}
