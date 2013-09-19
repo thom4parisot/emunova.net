@@ -259,4 +259,5 @@ module.exports = function (grunt) {
 
   grunt.registerTask("default", ["clean", "precache", "assemble", "responsive_images", "copy"]);
   grunt.registerTask("deploy", ["default", "gh-pages"]);
+  grunt.registerTask("deploy-fast", ["gh-pages"]);
 };
