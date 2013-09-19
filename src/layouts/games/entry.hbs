@@ -67,7 +67,7 @@
 
         <ul class="list-unstyled">
         {{#game_breakdown game}}
-          <li>{{{stars rating}}} {{count}} {{inflect count "joueur" "joueurs"}}</li>
+          <li class="{{#unless count}}fade-out{{/unless}}">{{{stars rating}}} {{count}} {{inflect count "joueur" "joueurs"}}</li>
         {{/game_breakdown}}
         </ul>
 

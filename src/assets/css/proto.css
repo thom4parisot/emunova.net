@@ -20,6 +20,10 @@ body {
   margin-top: 17px;   /* h2[margin-top] + (h2[font-size] - h3[font-size]) - .well-sm[padding-top] */
 }
 
+.fade-out {
+  opacity: 0.5;
+}
+
 .progress-rating{
   display: inline-block;
   height: 10px;
