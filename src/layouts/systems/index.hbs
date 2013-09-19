@@ -34,37 +34,21 @@
           ceux qu'on a détesté ou ces pépites que l'on voudrait faire connaitre.
         </p>
 
-        <p><a class="btn btn-primary" href="/games/{{system.id}}/">Notre sélection de jeux vidéo {{system.name}}</a></p>
+        <p><a class="btn btn-primary" href="/{{system.id}}/games/">Notre sélection de jeux vidéo {{system.name}}</a></p>
       </div>
 
-      <div class="col-sm-4">
+      <div class="col-sm-6">
         <div class="well">
             <h3>Top 7</h3>
 
             <ul class="list-unstyled">
             {{#best_games system 7}}
-              <li><span class="rating">{{stars rating}}</span> <a href="/games/{{../system.id}}/{{id}}/">{{title}}</a></li>
+              <li><span class="rating">{{stars rating}}</span> <a href="/{{../system.id}}/games/{{id}}/">{{title}}</a></li>
             {{else}}
               <li>Aucun jeu pour le moment.</li>
             {{/best_games}}
             </ul>
         </div>
-      </div>
-
-      <div class="col-sm-2">
-        <ul class="list-unstyled">
-          <li>
-            <a href="/games/{{system.id}}" rel="bookmark">
-              <span class="lead">{{system.games_count}}</span> {{inflect system.games_count "jeu" "jeux"}}
-            </a>
-          </li>
-          <li>
-            <span class="lead">{{system.reviews_count}}</span> {{inflect system.reviews_count "test" "tests"}}
-          </li>
-          <li>
-            <span class="lead">{{system.comments_count}}</span> {{inflect system.comments_count "note" "notes"}}
-          </li>
-        </ul>
       </div>
     </div>
 

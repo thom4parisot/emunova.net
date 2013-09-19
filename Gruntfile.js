@@ -11,10 +11,7 @@ module.exports = function (grunt) {
   }
 
   function renameGameUri(dest, src){
-    var clean = grunt.util._.compose(_str.slugify, _str.titleize);
-    var basepath = path.dirname(src).split('/').concat(path.basename(src, path.extname(src))).map(clean).join('/');
-
-    return dest + basepath;
+    return dest + src.replace(/^(games)\/([^\/]+)/, "$2/$1");
   }
 
   grunt.initConfig({
@@ -143,7 +140,7 @@ module.exports = function (grunt) {
         cwd: "<%= datasource %>",
         src: ["systems/**/index.json"],
         rename: function(dest, src){
-          return renameSystemUri(dest, src).replace(/^dist/, 'dist/games');
+          return renameSystemUri(dest, src).replace(/index.json$/, 'games/index.json');
         },
         dest: "dist/",
         options: {
@@ -175,7 +172,7 @@ module.exports = function (grunt) {
         cwd: "<%= datasource %>",
         src: ["games/**/index.json"],
         rename: function(dest, src){
-          return dest + src.replace('index.json', 'ratings.json');
+          return renameGameUri(dest, src).replace('index.json', 'ratings.json');
         },
         dest: "dist/",
         options: {
