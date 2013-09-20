@@ -235,6 +235,18 @@ module.exports = function (grunt) {
         cwd: "<%= datasource %>/systems",
         src: "**/*.{jpg,png,gif,jpeg,webp}",
         dest: "dist/"
+      },
+      games: {
+        expand: true,
+        cwd: "<%= datasource %>/games",
+        src: "**/*.{jpg,png,gif,jpeg,webp}",
+        dest: "dist/",
+        rename: function(dest, src){
+          var parts = src.split("/");
+          parts = [].concat(parts.slice(0, 1), "games", parts.slice(1));
+
+          return dest + parts.join("/");
+        }
       }
     },
 
