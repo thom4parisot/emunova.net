@@ -26,7 +26,7 @@ module.exports = function (grunt) {
             return file.match(/systems\/([^\/]+)/)[1];
           },
           compute: {
-            "{%= data %}/systems/{%= self.id %}/images/**/*.{jpg,png,gif,jpeg,webp}": {
+            "{%= dirname %}/images/**/*.{jpg,png,gif,jpeg,webp}": {
               "images_count": "count"
             },
             "{%= data %}/games/{%= self.id %}/*/index.json": {
@@ -70,6 +70,9 @@ module.exports = function (grunt) {
             return file.match(/games\/[^\/]+\/([^\/]+)/)[1];
           },
           compute: {
+            "{%= dirname %}/images/**/*.{jpg,png,gif,jpeg,webp}": {
+              "images_count": "count"
+            },
             "{%= dirname %}/reviews/*.md": {
               "reviews_count": "count"
             },
@@ -78,6 +81,22 @@ module.exports = function (grunt) {
               "rating": "ratings",
               "rating_breakdown": "breakdown"
             }
+          }
+        }
+      },
+      game_images: {
+        expand: true,
+        cwd: "<%= datasource %>",
+        src: "games/*",
+        ext: ".json",
+        dest: "dist/data",
+        options: {
+          find: "*/images/**/*.{jpg,png,gif,jpeg,webp}",
+          rename: function(dest){
+            return dest.replace(/games\//, 'games/games-images-');
+          },
+          id: function(file){
+            return file.match(/games\/[^\/]+\/([^\/]+)/)[1];
           }
         }
       }
