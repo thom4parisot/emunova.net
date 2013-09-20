@@ -77,6 +77,20 @@
       </div>
     </div>
   </div>
+
+  {{#gt game.images_count 0}}
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="row row-gallery lazyload">
+            {{#game_images system game 6}}
+              <div class="col-sm-3 col-xs-4 col-lg-2">
+                <img class="img-thumbnail" data-src="images/{{image_url this.filename "sq"}}" alt="{{this.title}}"/>
+              </div>
+            {{/game_images}}
+        </div>
+      </div>
+    </div>
+  {{/gt}}
 </main>
 
 {{> footer.hbs}}
