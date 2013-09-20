@@ -47,6 +47,7 @@
         </ul>
       </div>
       {{/if}}
+
       <div class="well">
         <h2>Ils l'ont testé</h2>
 
@@ -56,6 +57,16 @@
           {{/game_reviews}}
         </ul>
       </div>
+
+      {{#gt game.images_count 0}}
+        <div class="row row-gallery lazyload">
+          {{#game_images system game 6}}
+          <div class="col-sm-12 col-xs-4">
+            <img class="img-thumbnail" data-src="../images/{{image_url this.filename "md"}}" alt="{{this.title}}"/>
+          </div>
+          {{/game_images}}
+        </div>
+      {{/gt}}
     </div>
   </div>
 </main>

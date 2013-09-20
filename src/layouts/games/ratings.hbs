@@ -11,36 +11,52 @@
     </p>
   </div>
 
-  {{#game_ratings system game true}}
   <div class="row">
-    <div class="col-sm-3">
-      <div class="well">
-        <p class="lead">{{rating rating}}</p>
-        <p>Par <em>{{user}}</em></p>
+    <div class="col-sm-9">
+      {{#game_ratings system game true}}
+      <div class="row">
+        <div class="col-sm-3">
+          <div class="well">
+            <p class="lead">{{rating rating}}</p>
+            <p>Par <em>{{user}}</em></p>
+          </div>
+        </div>
+
+        <div class="col-sm-6">
+          {{#if is_review}}
+            <p>{{truncate review 250 "…"}}</p>
+
+            <p><a class="btn btn-default" href="reviews/{{slug}}.html">
+              Lire la suite du test de {{../../game.title}} par {{user}}
+            </a></p>
+          {{else}}
+            {{#if title}}
+              <h2>{{title}}</h2>
+            {{/if}}
+
+            {{#markdown}} {{review}} {{/markdown}}
+          {{/if}}
+        </div>
       </div>
+      {{else}}
+        <div class="alert alert-info">
+          Il n'y pas encore de notation pour {{game.title}}.
+        </div>
+      {{/game_ratings}}
     </div>
 
-    <div class="col-sm-6">
-      {{#if is_review}}
-        <p>{{truncate review 250 "…"}}</p>
-
-        <p><a class="btn btn-default" href="reviews/{{slug}}.html">
-          Lire la suite du test de {{../../game.title}} par {{user}}
-        </a></p>
-      {{else}}
-        {{#if title}}
-          <h2>{{title}}</h2>
-        {{/if}}
-
-        {{#markdown}} {{review}} {{/markdown}}
-      {{/if}}
+    <div class="col-sm-3">
+        {{#gt game.images_count 0}}
+          <div class="row row-gallery lazyload">
+              {{#game_images system game 3}}
+                <div class="col-sm-12 col-xs-4">
+                  <img class="img-thumbnail" data-src="images/{{image_url this.filename "md"}}" alt="{{this.title}}"/>
+                </div>
+              {{/game_images}}
+          </div>
+        {{/gt}}
     </div>
   </div>
-  {{else}}
-    <div class="alert alert-info">
-      Il n'y pas encore de notation pour {{game.title}}.
-    </div>
-  {{/game_ratings}}
 
   <p class="btn-toolbar clearfix">
     <a class="btn btn-primary" href="./">{{game.title}}</a>
