@@ -1,5 +1,6 @@
-{{> header.hbs}}
-{{import "systems/{system}" as "system"}}
+{{#import "system"}}
+    {{> header.hbs}}
+{{/import}}
 
 <main>
   <h2>{{system.name}}</h2>

@@ -1,7 +1,6 @@
-{{> header.hbs}}
-
-{{import "systems/{system}" as "system"}}
-{{import "games/{system}/{game}" as "game"}}
+{{#import "system" "game"}}
+    {{> header.hbs}}
+{{/import}}
 
 <main>
   <h2>{{game.title}}</h2>
