@@ -91,6 +91,7 @@ module.exports = function (grunt) {
         ext: ".json",
         dest: "dist/data",
         options: {
+          stack: true,
           find: "*/images/**/*.{jpg,png,gif,jpeg,webp}",
           rename: function(dest){
             return dest.replace(/games\//, 'games/games-images-');
