@@ -3,11 +3,11 @@
 <main>
   <div class="row">
     {{#each_with_index systems}}
-      <div class="col-sm-3 col-xs-6">
+      <div class="col-sm-4 col-md-3 col-xs-6">
         <h2><a href="{{id}}" rel="bookmark">{{name}}</a></h2>
 
         <div class="row">
-          <div class="col-sm-3 col-xs-6 lead">
+          <div class="col-sm-3 col-md-4 col-xs-6 lead">
             <strong>{{released}}</strong>
           </div>
           <div class="col-sm-6 col-xs-6 text-right lead">
@@ -29,7 +29,8 @@
         </div>
       </div>
 
-      {{#clearfix index 4}} <div class="clearfix visible-sm"></div> {{/clearfix}}
+      {{#clearfix index 4}} <div class="clearfix visible-md visible-lg"></div> {{/clearfix}}
+      {{#clearfix index 3}} <div class="clearfix visible-sm"></div> {{/clearfix}}
       {{#clearfix index 2}} <div class="clearfix visible-xs"></div> {{/clearfix}}
     {{/each_with_index}}
   </div>
