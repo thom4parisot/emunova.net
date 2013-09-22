@@ -9,14 +9,20 @@
 </head>
 <body>
 
-<div class="container">
+<nav class="navbar navbar-main">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/"><h1>Emu Nova <small>v3</small></h1></a>
+    </div>
 
-  <div class="page-header">
-    <h1>
-      <a href="/">Emu Nova <small>v3</small></a>
-    </h1>
+    <ul class="nav navbar-nav">
+      {{#if system}}<li class="dropdown"><a href="/{{system.id}}/" class="accordion-toggle" data-toggle="collapse">{{system.name}} <b class="caret"></b></a></li>{{/if}}
+      {{#if game}}<li class="dropdown"><a href="/{{system.id}}/games/{{game.id}}/" class="accordion-toggle" data-toggle="collapse">{{game.title}} <b class="caret"></b></a></li>{{/if}}
+    </ul>
   </div>
+</nav>
 
+<div class="container">
   <div class="alert alert-warning">
     Ceci est un prototype en cours de développement. Vous pouvez
     <a href="http://forums.emunova.net/topic/45782-chantiers-en-cours-wip/page__view__getnewpost">suivre la discussion du chantier</a>
