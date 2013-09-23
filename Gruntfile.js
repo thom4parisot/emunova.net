@@ -164,7 +164,7 @@ module.exports = function (grunt) {
         },
         dest: "dist/",
         options: {
-          layout: "games/system.hbs"
+          layout: "systems/games.hbs"
         }
       },
       game_entry: {

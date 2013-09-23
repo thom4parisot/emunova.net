@@ -20,6 +20,32 @@ body {
     content: "/ ";
   }
 
+  .navbar-main .caret {
+    display: none;
+  }
+
+  .navbar-main .collapsed .caret {
+    display: inline-block;
+  }
+
+.megamenu {
+  margin-top: -20px;
+  position: relative;
+}
+  .megamenu.in {
+
+  }
+  .megamenu:before{
+    border: 15px solid transparent;
+    border-bottom-color: #583ac8;
+    content: " ";
+    display: block;
+    left: 27%;
+    position: absolute;
+    top: -30px;
+    z-index: 0;
+  }
+
 .well a{
   color: #cabef8;
   text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.25);

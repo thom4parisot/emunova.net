@@ -16,16 +16,18 @@
       <a class="navbar-brand" href="/"><h1>Emu Nova <small>v3</small></h1></a>
     </div>
 
-    <ul class="nav navbar-nav">
-      {{#if system}}<li class="dropdown"><a href="/{{system.id}}/" class="accordion-toggle" data-toggle="collapse">{{system.name}} <b class="caret"></b></a></li>{{/if}}
-      {{#if game}}<li class="dropdown"><a href="/{{system.id}}/games/{{game.id}}/" class="accordion-toggle" data-toggle="collapse">{{game.title}} <b class="caret"></b></a></li>{{/if}}
+    <ul class="nav navbar-nav" id="nav">
+      {{#if system}}<li class="dropdown">
+        <a href="/{{system.id}}/" class="accordion-toggle {{#unless megamenu_system}}collapsed{{/unless}}" data-target="system">{{system.name}}
+          <b class="caret"></b>
+        </a></li>{{/if}}
+      {{#if game}}<li class="dropdown">
+        <a href="/{{system.id}}/games/{{game.id}}/" class="accordion-toggle {{#unless megamenu_game}}collapsed{{/unless}}" data-target="game">{{game.title}}
+          <b class="caret"></b>
+        </a></li>{{/if}}
     </ul>
   </div>
 </nav>
 
 <div class="container">
-  <div class="alert alert-warning">
-    Ceci est un prototype en cours de développement. Vous pouvez
-    <a href="http://forums.emunova.net/topic/45782-chantiers-en-cours-wip/page__view__getnewpost">suivre la discussion du chantier</a>
-    ou <a href="http://www.emunova.net">accéder à Emu Nova <small>v2</small></a>.
-  </div>
+  {{#if system}} {{> megamenu-system.hbs}} {{/if}}

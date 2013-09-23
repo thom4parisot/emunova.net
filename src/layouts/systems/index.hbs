@@ -1,88 +1,74 @@
 {{#import "system"}}
   {{set-title "%1$s: jeux vidéo et retrogaming %1$s" system.name}}
+  {{set-megamenu "system"}}
   {{> header.hbs}}
 {{/import}}
 
 <main>
-    <h2>{{system.name}}</h2>
+  <div class="row">
+    <div class="col-sm-6">
+      <h2><strong>Jeux vidéo</strong> {{system.name}}</h2>
 
-    <div class="lead">
-      <p><strong>{{system.name}}</strong> est un système conçu par <strong>{{system.manufacturer}}</strong>.
-        {{#if system.alternate_names}}
-          Il est également connu sous {{inflect system.alternate_names "le nom" "les noms"}}
-          de {{inline system.alternate_names}}.
-        {{/if}}
+      <p class="lead">Pas facile de savoir à quel jeu jouer.</p>
+
+      <p>
+        <strong>En {{default system.released "1970"}}</strong>, on n'était pas tous né, on ne parlait pas Japonais,
+        ou on ne pouvait choisir qu'un seul jeu vidéo par année !
       </p>
 
-      {{#file_exists "history.md"}}
-        <p><a href="history.html">En savoir plus sur {{system.name}}</a>.</p>
-      {{/file_exists}}
+      <p>
+        <strong>Nous sommes des joueurs passionnés</strong>.
+        Nous avons juste eu envie de partager nos avis sur nos jeux vidéos {{system.name}}, ceux qu'on a adoré,
+        ceux qu'on a détesté ou ces pépites que l'on voudrait faire connaitre.
+      </p>
+
+      <p><a class="btn btn-primary" href="/{{system.id}}/games/">Notre sélection de jeux vidéo {{system.name}}</a></p>
     </div>
 
-    <div class="row">
-      <div class="col-sm-6">
-        <h2><strong>Jeux vidéo</strong> {{system.name}}</h2>
+    <div class="col-sm-6">
+      <div class="well">
+          <h3>Top 7</h3>
 
-        <p class="lead">Pas facile de savoir à quel jeu jouer.</p>
-
-        <p>
-          <strong>En {{default system.released "1970"}}</strong>, on n'était pas tous né, on ne parlait pas Japonais,
-          ou on ne pouvait choisir qu'un seul jeu vidéo par année !
-        </p>
-
-        <p>
-          <strong>Nous sommes des joueurs passionnés</strong>.
-          Nous avons juste eu envie de partager nos avis sur nos jeux vidéos {{system.name}}, ceux qu'on a adoré,
-          ceux qu'on a détesté ou ces pépites que l'on voudrait faire connaitre.
-        </p>
-
-        <p><a class="btn btn-primary" href="/{{system.id}}/games/">Notre sélection de jeux vidéo {{system.name}}</a></p>
-      </div>
-
-      <div class="col-sm-6">
-        <div class="well">
-            <h3>Top 7</h3>
-
-            <ul class="list-unstyled">
-            {{#best_games system 7}}
-              <li>{{{stars rating}}} <a href="/{{../system.id}}/games/{{id}}/">{{title}}</a></li>
-            {{else}}
-              <li>Aucun jeu pour le moment.</li>
-            {{/best_games}}
-            </ul>
-        </div>
+          <ul class="list-unstyled">
+          {{#best_games system 7}}
+            <li>{{{stars rating}}} <a href="/{{../system.id}}/games/{{id}}/">{{title}}</a></li>
+          {{else}}
+            <li>Aucun jeu pour le moment.</li>
+          {{/best_games}}
+          </ul>
       </div>
     </div>
+  </div>
 
-    {{#gt system.images_count 0}}
-    <div class="row">
-      <div class="col-sm-6">
-        <h2><strong>Images</strong> {{system.name}}</h2>
+  {{#gt system.images_count 0}}
+  <div class="row">
+    <div class="col-sm-6">
+      <h2><strong>Images</strong> {{system.name}}</h2>
 
-        <p class="lead">Pas facile de savoir à quoi ça ressemble.</p>
+      <p class="lead">Pas facile de savoir à quoi ça ressemble.</p>
 
-        <p>
-          Puisque 1 image vaut plus que 1000 mots, voici (presque) 1000 images.
-          <strong>{{system.images_count}}</strong> images <em>{{system.name}}</em>
-          pour découvrir son aspect, ses boites, accessoires et éditions spéciales.
-        </p>
+      <p>
+        Puisque 1 image vaut plus que 1000 mots, voici (presque) 1000 images.
+        <strong>{{system.images_count}}</strong> images <em>{{system.name}}</em>
+        pour découvrir son aspect, ses boites, accessoires et éditions spéciales.
+      </p>
 
-        <p><a class="btn btn-primary" href="/{{system.id}}/images/">Notre galerie d'images {{system.name}}</a></p>
-      </div>
+      <p><a class="btn btn-primary" href="/{{system.id}}/images/">Notre galerie d'images {{system.name}}</a></p>
+    </div>
 
-      <div class="col-sm-6">
-        <div class="row row-gallery lazyload">
-          {{#system_images system 6}}
-            <div class="col-sm-4 col-xs-6">
-              <a href="images/#{{id}}">
-                <img class="img-thumbnail" data-src="images/{{image_url this.filename "sq"}}" alt="{{title}}"/>
-              </a>
-            </div>
-          {{/system_images}}
-        </div>
+    <div class="col-sm-6">
+      <div class="row row-gallery lazyload">
+        {{#system_images system 6}}
+          <div class="col-sm-4 col-xs-6">
+            <a href="images/#{{id}}">
+              <img class="img-thumbnail" data-src="images/{{image_url this.filename "sq"}}" alt="{{title}}"/>
+            </a>
+          </div>
+        {{/system_images}}
       </div>
     </div>
-    {{/gt}}
+  </div>
+  {{/gt}}
 </main>
 
 {{> footer.hbs}}

@@ -1,0 +1,37 @@
+<div class="well well-sm megamenu megamenu-system collapse {{#if megamenu_system}}in{{/if}}">
+  <h1>{{system.name}}</h1>
+
+  <div class="lead">
+    <p><strong>{{system.name}}</strong> est un système conçu par <strong>{{system.manufacturer}}</strong>.
+      {{#if system.alternate_names}}
+        Il est également connu sous {{inflect system.alternate_names "le nom" "les noms"}}
+        de {{inline system.alternate_names}}.
+      {{/if}}
+      {{#file_exists "history.md"}}
+        <a href="/{{system.id}}/history.html">En savoir plus sur {{system.name}}</a>.
+      {{/file_exists}}
+    </p>
+
+    <div class="row">
+      <div class="col-sm-2 col-xs-6">
+        <ul class="list-unstyled">
+          <li><strong>{{system.released}}</strong></li>
+          <li>{{system.manufacturer}}</li>
+          <li>{{system.type}}</li>
+        </ul>
+      </div>
+
+      <div class="col-sm-1 col-xs-3">
+        <a href="/{{system.id}}/games/">
+          <span class="lead">{{system.games_count}}</span><br>{{inflect system.games_count "jeu" "jeux"}}
+        </a>
+      </div>
+
+      <div class="col-sm-1 col-xs-3">
+        <a href="/{{system.id}}/images/">
+          <span class="lead">{{system.images_count}}</span><br>{{inflect system.images_count "image" "images"}}
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
