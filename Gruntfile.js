@@ -204,8 +204,9 @@ module.exports = function (grunt) {
     copy: {
       gh: {
         expand: true,
+        flatten: true,
         cwd: "src/",
-        src: ["CNAME", "robots.txt"],
+        src: ["CNAME", "robots.txt", "assets/favicon.ico"],
         dest: "dist/"
       },
       ui: {
