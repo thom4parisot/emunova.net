@@ -4,12 +4,36 @@
   var lzld = lazyload();
   [].slice.call(d.querySelectorAll(".lazyload img")).forEach(lzld);
 
-  d.getElementById("nav").addEventListener("click", function(event){
-    if (event.target.classList.contains("collapsed")){
-      event.preventDefault();
+  var accordion = (function(menuElement){
+    var Accordion = function(container){
+      this.container = container;
+    };
 
-      event.target.classList.remove("collapsed");
-      document.querySelector(".megamenu-"+event.target.dataset.target).classList.add("in");
-    }
-  });
+    Accordion.prototype = {
+      activate: function activateElement(el){
+
+      },
+      deactivateAll: function deactivateAllElement(){
+
+      },
+      handleClick: function handleClick(el){
+        el.classList.remove("collapsed");
+        document.querySelector(".megamenu-"+el.getAttribute("data-target")).classList.add("in");
+      },
+      registerEvents: function registerEvents(){
+        var self = this;
+
+        this.container.addEventListener("click", function(event){
+          if (event.target.classList.contains("collapsed")){
+            event.preventDefault();
+            self.handleClick(event.target);
+          }
+        });
+      }
+    };
+
+    return new Accordion(menuElement);
+  })(d.getElementById("nav"));
+
+  accordion.registerEvents();
 })(window, document);
