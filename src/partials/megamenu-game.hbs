@@ -1,0 +1,16 @@
+<div class="well well-sm megamenu megamenu-game collapse {{#if megamenu_game}}in{{/if}}">
+  <h1>{{game.title}}</h1>
+
+  <div class="lead">
+    <p><strong>{{game.title}}</strong> est un jeu vidéo <a href="/{{system.id}}/">{{system.name}}</a>
+      publié par <strong>{{game.editor}}</strong> en <strong>{{game.released}}</strong>.
+        {{#if game.players}}
+          Il se joue à <em>{{inflect game.players "joueur" "joueurs" true}}</em>.
+        {{/if}}
+        {{#if game.alternate_titles}}
+          Il est également connu sous {{inflect game.alternate_titles.length "le nom" "les noms"}}
+          de {{inline game.alternate_titles}}.
+        {{/if}}
+    </p>
+  </div>
+</div>

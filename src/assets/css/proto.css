@@ -21,11 +21,11 @@ body {
   }
 
   .navbar-main .caret {
-    display: none;
+    visibility: hidden;
   }
 
   .navbar-main .collapsed .caret {
-    display: inline-block;
+    visibility: visible;
   }
 
 .megamenu {
@@ -44,6 +44,9 @@ body {
     position: absolute;
     top: -30px;
     z-index: 0;
+  }
+  .megamenu-game:before {
+    left: 40%;
   }
 
 .well a{
