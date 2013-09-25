@@ -111,7 +111,7 @@ module.exports = function (grunt) {
         helpers: ["lib/handlebars/*.js"],
         partials: "src/partials/**/*.hbs",
         extension: ".html",
-        data: "dist/data/**/*.json"
+        data: "dist/data/systems.json"
       },
 
       home: {
