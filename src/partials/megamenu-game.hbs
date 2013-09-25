@@ -12,5 +12,28 @@
           de {{inline game.alternate_titles}}.
         {{/if}}
     </p>
+
+    <div class="row">
+      <div class="col-sm-2 col-xs-4">
+        <ul class="list-unstyled">
+          <li><strong>{{game.released}}</strong></li>
+          {{#each game.genres}}
+            <li>{{.}}</li>
+          {{/each}}
+        </ul>
+      </div>
+
+      <div class="col-sm-1 col-xs-3">
+        <a href="/{{system.id}}/games/{{game.id}}/#reviews">
+          <span class="lead">{{game.reviews_count}}</span><br>{{inflect game.reviews_count "test" "tests"}}
+        </a>
+      </div>
+
+      <div class="col-sm-2 col-xs-5">
+        <a href="/{{system.id}}/games/{{game.id}}/ratings.html">
+          <span class="lead">{{game.comments_count}}</span><br>{{inflect game.comments_count "note et commentaire" "notes et commentaires"}}
+        </a>
+      </div>
+    </div>
   </div>
 </div>
