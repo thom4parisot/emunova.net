@@ -27,10 +27,10 @@
 
     <div class="col-sm-6">
       <div class="well">
-          <h3>Top 7</h3>
+          <h3>Top 10</h3>
 
           <ul class="list-unstyled">
-          {{#best_games system 7}}
+          {{#best_games system 10}}
             <li>{{{stars rating}}} <a href="/{{../system.id}}/games/{{id}}/">{{title}}</a></li>
           {{else}}
             <li>Aucun jeu pour le moment.</li>
