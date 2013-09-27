@@ -230,7 +230,7 @@ module.exports = function (grunt) {
         dest: "dist/assets/js",
         src: [
           "bower_components/lazyload/build/lazyload.min.js",
-          "bower_components/holderjs/holder.min.js"
+          "bower_components/sorttable/sorttable.js"
         ]
       }
     },

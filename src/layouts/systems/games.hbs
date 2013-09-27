@@ -7,7 +7,7 @@
   <h2>Jeux vidéo {{system.name}}</h2>
 
   <div class="table-responsive">
-    <table class="table table-striped table-hover">
+    <table class="table table-striped table-hover table-sortable">
       <thead>
         <tr>
           <th>Santé</th>
@@ -19,7 +19,7 @@
       <tbody>
       {{#system_games system}}
         <tr>
-          <td>{{{stars rating}}}</td>
+          <td data-value="{{this.rating}}">{{{stars rating}}}</td>
           <th><a href="./{{slug}}/">{{title}}</a></th>
           <td>{{inline genres}}</td>
           <td>{{released}}</td>

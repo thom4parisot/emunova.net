@@ -4,6 +4,10 @@
   var lzld = lazyload();
   [].slice.call(d.querySelectorAll(".lazyload img")).forEach(lzld);
 
+  if (document.querySelector('table.table-sortable')) {
+    [].slice.call(document.querySelectorAll('table.table-sortable')).forEach(sorttable.makeSortable);
+  }
+
   var accordion = (function(menuElement){
     var Accordion = function(container){
       this.container = container;
