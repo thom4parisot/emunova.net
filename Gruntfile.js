@@ -276,6 +276,20 @@ module.exports = function (grunt) {
       }*/
     },
 
+    shell: {
+      game_images: {
+        options: {
+          stdout: true
+        },
+        command: [
+          "for file in `find ./node_modules/data.emunova.net/games -type f \\( -name '*.jpeg' -o -name '*.gif' -o -name '*.jpg' \\)`; do",
+            "dest='dist/'$(echo $file | sed -e 's/^.\\+\\/data.emunova.net\\/games\\/\\([^\\/]\\+\\)/\\1\\/games/g');",
+            "cp $file $dest;",
+          "done;"
+        ].join(' ')
+      }
+    },
+
     clean: {
       precache: "cache/**/*",
       build: "dist/**/*"
@@ -294,10 +308,11 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks("grunt-contrib-clean");
   grunt.loadNpmTasks("grunt-contrib-uglify");
   grunt.loadNpmTasks("grunt-gh-pages");
+  grunt.loadNpmTasks('grunt-shell');
   grunt.loadNpmTasks("grunt-responsive-images");
   grunt.loadTasks('lib/grunt');
 
-  grunt.registerTask("default", ["clean", "precache", "assemble", "responsive_images", "copy"]);
+  grunt.registerTask("default", ["clean", "precache", "assemble", "responsive_images", "shell:game_images", "copy", "uglify"]);
   grunt.registerTask("deploy", ["default", "gh-pages"]);
   grunt.registerTask("deploy-fast", ["gh-pages"]);
 };
