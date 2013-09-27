@@ -212,7 +212,10 @@ module.exports = function (grunt) {
       ui: {
         expand: true,
         cwd: "src/assets",
-        src: "**/*",
+        src: [
+          "**/*",
+          "!*.js"
+        ],
         dest: "dist/assets"
       },
       assets: {
@@ -223,15 +226,17 @@ module.exports = function (grunt) {
           return dest + src.replace(/^systems\//, '');
         },
         dest: "dist/"
-      },
+      }
+    },
+
+    uglify: {
       components: {
-        expand: true,
-        flatten: true,
-        dest: "dist/assets/js",
         src: [
           "bower_components/lazyload/build/lazyload.min.js",
-          "bower_components/sorttable/sorttable.js"
-        ]
+          "bower_components/sorttable/sorttable.js",
+          "src/assets/js/main.js"
+        ],
+        dest: "dist/assets/js/main.min.js"
       }
     },
 
@@ -286,6 +291,7 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks("assemble");
   grunt.loadNpmTasks("grunt-contrib-copy");
   grunt.loadNpmTasks("grunt-contrib-clean");
+  grunt.loadNpmTasks("grunt-contrib-uglify");
   grunt.loadNpmTasks("grunt-gh-pages");
   grunt.loadNpmTasks("grunt-responsive-images");
   grunt.loadTasks('lib/grunt');
