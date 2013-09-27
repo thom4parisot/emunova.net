@@ -135,7 +135,7 @@ module.exports = function (grunt) {
       systems_images: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: ["systems/**/index.json"],
+        src: "<%= assemble.systems.src %>",
         dest: "dist/",
         rename: function(dest, src){
           return renameSystemUri(dest, src).replace(/index.json$/, 'images/index.json');
@@ -158,7 +158,7 @@ module.exports = function (grunt) {
       games: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: ["systems/**/index.json"],
+        src: "<%= assemble.systems.src %>",
         rename: function(dest, src){
           return renameSystemUri(dest, src).replace(/index.json$/, 'games/index.json');
         },
@@ -190,7 +190,7 @@ module.exports = function (grunt) {
       game_ratings: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: ["games/**/index.json"],
+        src: "<%= assemble.game_entry.src %>",
         rename: function(dest, src){
           return renameGameUri(dest, src).replace('index.json', 'ratings.json');
         },
