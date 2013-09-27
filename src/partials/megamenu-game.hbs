@@ -44,7 +44,7 @@
       <div class="col-sm-3">
         {{#gt game.images_count 0}}
             {{#game_images system game 6}}
-              <img class="img-thumbnail" src="/{{../system.id}}/games/{{../game.id}}/images/{{this.filename}}" alt="{{this.title}}"/>
+              <img class="img-thumbnail img-responsive" src="/{{../system.id}}/games/{{../game.id}}/images/{{this.filename}}" alt="{{this.title}}"/>
             {{/game_images}}
         {{/gt}}
       </div>
