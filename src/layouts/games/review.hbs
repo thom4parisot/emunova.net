@@ -42,13 +42,28 @@
 
       {{#gt game.images_count 0}}
         <div class="row row-gallery lazyload">
-          {{#game_images system game 6}}
+          {{#game_images system game 1}}
           <div class="col-sm-12 col-xs-4">
-            <img class="img-thumbnail" data-src="../images/{{image_url this.filename "md"}}" alt="{{this.title}}"/>
+            <img class="img-thumbnail" src="../images/{{this.filename}}" alt="{{this.title}}"/>
           </div>
           {{/game_images}}
         </div>
       {{/gt}}
+
+      <div class="well">
+        <h2>Ils l'ont noté</h2>
+
+        <ul class="list-unstyled">
+            {{#game_breakdown game}}
+              <li class="{{#unless count}}fade-out{{/unless}}">{{{stars rating}}} {{count}} {{inflect count "joueur" "joueurs"}}</li>
+            {{/game_breakdown}}
+        </ul>
+
+        <a href="../ratings.html">
+          <span class="lead">{{game.comments_count}}</span>
+            {{inflect game.comments_count "note et commentaire" "notes et commentaires"}}
+        </a>
+      </div>
     </div>
   </div>
 </main>

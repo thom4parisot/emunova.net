@@ -41,15 +41,15 @@
     </div>
 
     <div class="col-sm-3">
-        {{#gt game.images_count 0}}
-          <div class="row row-gallery lazyload">
-              {{#game_images system game 3}}
-                <div class="col-sm-12 col-xs-4">
-                  <img class="img-thumbnail" data-src="images/{{image_url this.filename "md"}}" alt="{{this.title}}"/>
-                </div>
-              {{/game_images}}
-          </div>
-        {{/gt}}
+      <div class="well">
+        <h2>Synthèse</h2>
+
+        <ul class="list-unstyled">
+            {{#game_breakdown game}}
+              <li class="{{#unless count}}fade-out{{/unless}}">{{{stars rating}}} {{count}} {{inflect count "joueur" "joueurs"}}</li>
+            {{/game_breakdown}}
+        </ul>
+      </div>
     </div>
   </div>
 </main>
