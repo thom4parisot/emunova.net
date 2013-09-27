@@ -37,10 +37,13 @@
         var self = this;
 
         this.container.addEventListener("click", function(event){
-          if (event.target.classList.contains("collapsed")){
-            event.preventDefault();
-            self.handleClick(event.target);
-          }
+          [event.target.parentNode, event.target].some(function(el){
+            if (el.classList.contains("collapsed")) {
+              event.preventDefault();
+              self.handleClick(el);
+              return true;
+            }
+          });
         });
       }
     };

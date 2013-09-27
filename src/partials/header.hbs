@@ -17,13 +17,13 @@
     </div>
 
     <ul class="nav navbar-nav" id="nav">
-      {{#if system}}<li class="dropdown">
-        <a href="/{{system.id}}/" class="accordion-toggle {{#unless megamenu_system}}collapsed{{/unless}}" data-target="system">{{system.name}}
-          <b class="caret"></b>
+      {{#if system}}<li class="dropdown dropdown-system">
+        <a href="/{{system.id}}/" class="accordion-toggle {{#unless megamenu_system}}collapsed{{/unless}}" data-target="system">
+          <span class="nav-label">{{system.name}}</span> <b class="caret"></b>
         </a></li>{{/if}}
-      {{#if game}}<li class="dropdown">
-        <a href="/{{system.id}}/games/{{game.id}}/" class="accordion-toggle {{#unless megamenu_game}}collapsed{{/unless}}" data-target="game">{{game.title}}
-          <b class="caret"></b>
+      {{#if game}}<li class="dropdown dropdown-game">
+        <a href="/{{system.id}}/games/{{game.id}}/" class="accordion-toggle {{#unless megamenu_game}}collapsed{{/unless}}" data-target="game">
+          <span class="nav-label">{{game.title}}</span> <b class="caret"></b>
         </a></li>{{/if}}
     </ul>
   </div>

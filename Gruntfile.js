@@ -31,12 +31,6 @@ module.exports = function (grunt) {
             },
             "{%= data %}/games/{%= self.id %}/*/index.json": {
               "games_count": "count"
-            },
-            "{%= data %}/games/{%= self.id %}/*/reviews/*.md": {
-              "reviews_count": "count"
-            },
-            "{%= data %}/games/{%= self.id %}/*/ratings/*.md": {
-              "comments_count": "count"
             }
           }
         }
@@ -170,7 +164,7 @@ module.exports = function (grunt) {
       game_entry: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: ["games/**/index.json"],
+        src: ["games/game-boy-color/the-legend*/index.json"],
         rename: renameGameUri,
         dest: "dist/",
         options: {

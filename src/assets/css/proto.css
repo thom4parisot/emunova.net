@@ -10,8 +10,42 @@ body {
   .navbar-main .navbar-nav {
     font-size: 30px;
     font-weight: 300;
-    margin-top: 35px;
   }
+  @media(min-width: 768px) {
+    .navbar-main .navbar-nav {
+      margin-top: 30px;
+    }
+  }
+
+.navbar-main .nav-label{
+  display: inline-block;
+  line-height: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+@media(min-width: 768px) {
+  .navbar-main .nav-label {
+    max-width: 400px;
+  }
+  .navbar-main .dropdown-game {
+    clear: both;
+  }
+}
+@media(min-width: 992px) {
+  .navbar-main .nav-label {
+    max-width: 300px;
+  }
+  .navbar-main .dropdown-game {
+    clear: none;
+  }
+}
+@media(min-width: 1200px) {
+  .navbar-main .nav-label {
+    max-width: 450px;
+  }
+}
 
   .navbar-main .navbar-nav a{
     padding-left: 5px;
@@ -46,7 +80,35 @@ body {
     z-index: 0;
   }
   .megamenu-game:before {
-    left: 40%;
+    left: 20%;
+  }
+  @media(min-width: 768px) {
+    .megamenu-game:before {
+      left: 40%;
+    }
+  }
+  @media(min-width: 992px) {
+    .megamenu-game[data-offset="small"]:before {
+      left: 48%;
+    }
+    .megamenu-game[data-offset="medium"]:before {
+      left: 55%;
+    }
+    .megamenu-game[data-offset="large"]:before {
+      left: 70%;
+    }
+  }
+  @media(min-width: 1200px) {
+    .megamenu-game[data-offset="small"]:before {
+      left: 42%;
+    }
+    .megamenu-game[data-offset="medium"]:before {
+      left: 48%;
+    }
+    .megamenu-game[data-offset="large"]:before {
+      left: 55%;
+    }
+
   }
 
 .well a{
