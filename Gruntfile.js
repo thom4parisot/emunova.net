@@ -20,7 +20,7 @@ module.exports = function (grunt) {
     precache: {
       systems: {
         src: "<%= datasource %>/systems/*/index.json",
-        dest: "dist/data/systems.json",
+        dest: "cache/systems.json",
         options: {
           id: function(file){
             return file.match(/systems\/([^\/]+)/)[1];
@@ -46,11 +46,11 @@ module.exports = function (grunt) {
         cwd: "<%= datasource %>/systems",
         src: "*",
         ext: ".json",
-        dest: "dist/data",
+        dest: "cache",
         options: {
           find: "images/**/*.{jpg,png,gif,jpeg,webp}",
           rename: function(dest){
-            return dest.replace(/data\//, 'data/images-');
+            return dest.replace(/cache\//, 'cache/images-');
           },
           id: function(file){
             var f = file.match(/images\/([^\/]+)/)[1];
@@ -63,7 +63,7 @@ module.exports = function (grunt) {
         cwd: "<%= datasource %>",
         src: "games/*",
         ext: ".json",
-        dest: "dist/data",
+        dest: "cache",
         options: {
           find: "*/index.json",
           id: function(file){
@@ -89,7 +89,7 @@ module.exports = function (grunt) {
         cwd: "<%= datasource %>",
         src: "games/*",
         ext: ".json",
-        dest: "dist/data",
+        dest: "cache",
         options: {
           stack: true,
           find: "*/images/**/*.{jpg,png,gif,jpeg,webp}",
@@ -111,7 +111,7 @@ module.exports = function (grunt) {
         helpers: ["lib/handlebars/*.js"],
         partials: "src/partials/**/*.hbs",
         extension: ".html",
-        data: "dist/data/systems.json"
+        data: "cache/systems.json"
       },
 
       home: {
@@ -261,11 +261,11 @@ module.exports = function (grunt) {
         cwd: "<%= datasource %>/systems",
         src: "**/*.{jpg,png,gif,jpeg,webp}",
         dest: "dist/"
-      },
+      }/*,
       games: {
         expand: true,
         cwd: "<%= datasource %>/games",
-        src: "**/*.{jpg,png,gif,jpeg,webp}",
+        src: "**//*.{jpg,png,gif,jpeg,webp}",
         dest: "dist/",
         rename: function(dest, src){
           var parts = src.split("/");
@@ -273,10 +273,11 @@ module.exports = function (grunt) {
 
           return dest + parts.join("/");
         }
-      }
+      }*/
     },
 
     clean: {
+      precache: "cache/**/*",
       build: "dist/**/*"
     },
 
