@@ -29,6 +29,12 @@ DynamicSorter.prototype = {
         return filters[filter.field];
       });
 
+    Object.keys(filters).forEach(function(key){
+      if (filters[key].value === ""){
+        delete filters[key];
+      }
+    });
+
     return filters;
   },
   buildFilterForField: function buildFilterForField(el){
@@ -60,19 +66,21 @@ DynamicSorter.prototype = {
       var filters = self.buildFilters();
       self.filterWith(filters);
     });
+
+    self.form.addEventListener('reset', function(){
+      self.filterWith({});
+    });
   },
   filterWith: function filterWith(filters){
     var filterClass = this.options.targetElements;
+    var filterKeys = Object.keys(filters);
+
     var toggleElementVisibility = function(el){
-      var shouldBeVisible = false;
+      var shouldBeVisible = filterKeys.length ? false : true;
 
       if (el.className.match(filterClass)) {
-        shouldBeVisible = Object.keys(filters).every(function(key){
+        shouldBeVisible = filterKeys.every(function(key){
           var filter = filters[key];
-
-          if (filter.value === ""){
-            return true;
-          }
 
           switch(filter.operator){
             case "<": return el.getAttribute(filter.field).toLowerCase() <= filter.value.toLowerCase(); break;
