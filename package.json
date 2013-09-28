@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "serve -p 3000 --compress --favicon dist/favicon.ico dist/",
+    "start": "serve -p 3000 --compress --favicon dist/favicon.ico tmp/build",
     "test": "grunt test"
   },
   "repository": {
