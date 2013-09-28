@@ -63,12 +63,27 @@ DynamicSorter.prototype = {
     var self = this;
 
     self.form.addEventListener('change', function(){
+      self.updateFieldsVisibility();
       var filters = self.buildFilters();
       self.filterWith(filters);
     });
 
     self.form.addEventListener('reset', function(){
+      self.updateFieldsVisibility();
       self.filterWith({});
+    });
+  },
+  updateFieldsVisibility : function updateFieldsVisibility(){
+    var self = this;
+
+    [].slice.call(self.form.querySelectorAll("[data-visible-if]")).forEach(function(el){
+      if (self.form.querySelector('[name="'+el.getAttribute('data-visible-if')+'"]').value) {
+        el.classList.remove('sr-only', 'hidden');
+        el.focus();
+      }
+      else{
+        el.classList.add('sr-only')
+      }
     });
   },
   filterWith: function filterWith(filters){
