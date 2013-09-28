@@ -212,15 +212,6 @@ module.exports = function (grunt) {
           "!*.js"
         ],
         dest: "<%= dest %>/assets"
-      },
-      assets: {
-        expand: true,
-        cwd: "<%= datasource %>",
-        src: "**/*.{jpeg,jpg,png,gif,wepb}",
-        rename: function(dest, src){
-          return dest + src.replace(/^systems\//, '');
-        },
-        dest: "<%= dest %>/"
       }
     },
 
@@ -272,6 +263,12 @@ module.exports = function (grunt) {
     },
 
     shell: {
+      clean: {
+        command: [
+          "rm -rf cache/*",
+          "rm -rf /tmp/volatile/build"
+        ].join('&&')
+      },
       game_images: {
         options: {
           stdout: true
@@ -302,14 +299,13 @@ module.exports = function (grunt) {
 
   grunt.loadNpmTasks("assemble");
   grunt.loadNpmTasks("grunt-contrib-copy");
-  grunt.loadNpmTasks("grunt-contrib-clean");
   grunt.loadNpmTasks("grunt-contrib-uglify");
   grunt.loadNpmTasks("grunt-gh-pages");
   grunt.loadNpmTasks('grunt-shell');
   grunt.loadNpmTasks("grunt-responsive-images");
   grunt.loadTasks('lib/grunt');
 
-  grunt.registerTask("default", ["clean", "precache", "assemble", "responsive_images", "shell:game_images", "copy", "uglify"]);
+  grunt.registerTask("default", ["shell:clean", "precache", "assemble", "responsive_images", "shell:game_images", "copy", "uglify"]);
   grunt.registerTask("deploy", ["default", "gh-pages"]);
   grunt.registerTask("deploy-fast", ["gh-pages"]);
 };
