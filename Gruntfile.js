@@ -16,6 +16,7 @@ module.exports = function (grunt) {
 
   grunt.initConfig({
     datasource: "node_modules/data.emunova.net",
+    dest: "/tmp/volatile/build",
 
     precache: {
       systems: {
@@ -99,7 +100,7 @@ module.exports = function (grunt) {
 
     assemble: {
       options: {
-        assets: "dist/assets",
+        assets: "<%= dest %>/assets",
         layoutdir: "src/layouts",
         engine: "handlebars",
         helpers: ["lib/handlebars/*.js"],
@@ -110,7 +111,7 @@ module.exports = function (grunt) {
 
       home: {
         src: "package.json",
-        dest: "dist/index.html",
+        dest: "<%= dest %>/index.html",
         options: {
           layout: "index.hbs"
         }
@@ -120,7 +121,7 @@ module.exports = function (grunt) {
         expand: true,
         cwd: "<%= datasource %>",
         src: ["systems/**/index.json"],
-        dest: "dist/",
+        dest: "<%= dest %>/",
         rename: renameSystemUri,
         options: {
           layout: "systems/index.hbs"
@@ -130,7 +131,7 @@ module.exports = function (grunt) {
         expand: true,
         cwd: "<%= datasource %>",
         src: "<%= assemble.systems.src %>",
-        dest: "dist/",
+        dest: "<%= dest %>/",
         rename: function(dest, src){
           return renameSystemUri(dest, src).replace(/index.json$/, 'images/index.json');
         },
@@ -142,7 +143,7 @@ module.exports = function (grunt) {
         expand: true,
         cwd: "<%= datasource %>",
         src: ["systems/**/*.md"],
-        dest: "dist/",
+        dest: "<%= dest %>/",
         rename: renameSystemUri,
         options: {
           layout: "systems/text-content.hbs"
@@ -156,7 +157,7 @@ module.exports = function (grunt) {
         rename: function(dest, src){
           return renameSystemUri(dest, src).replace(/index.json$/, 'games/index.json');
         },
-        dest: "dist/",
+        dest: "<%= dest %>/",
         options: {
           layout: "systems/games.hbs"
         }
@@ -164,9 +165,9 @@ module.exports = function (grunt) {
       game_entry: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: ["games/game-boy-color/the-legend*/index.json"],
+        src: ["games/*/*/index.json"],
         rename: renameGameUri,
-        dest: "dist/",
+        dest: "<%= dest %>/",
         options: {
           layout: "games/entry.hbs"
         }
@@ -176,7 +177,7 @@ module.exports = function (grunt) {
         cwd: "<%= datasource %>",
         src: ["games/**/reviews/*.md"],
         rename: renameGameUri,
-        dest: "dist/",
+        dest: "<%= dest %>/",
         options: {
           layout: "games/review.hbs"
         }
@@ -188,7 +189,7 @@ module.exports = function (grunt) {
         rename: function(dest, src){
           return renameGameUri(dest, src).replace('index.json', 'ratings.json');
         },
-        dest: "dist/",
+        dest: "<%= dest %>/",
         options: {
           layout: "games/ratings.hbs"
         }
@@ -201,7 +202,7 @@ module.exports = function (grunt) {
         flatten: true,
         cwd: "src/",
         src: ["CNAME", "robots.txt", "assets/favicon.ico"],
-        dest: "dist/"
+        dest: "<%= dest %>/"
       },
       ui: {
         expand: true,
@@ -210,7 +211,7 @@ module.exports = function (grunt) {
           "**/*",
           "!*.js"
         ],
-        dest: "dist/assets"
+        dest: "<%= dest %>/assets"
       },
       assets: {
         expand: true,
@@ -219,7 +220,7 @@ module.exports = function (grunt) {
         rename: function(dest, src){
           return dest + src.replace(/^systems\//, '');
         },
-        dest: "dist/"
+        dest: "<%= dest %>/"
       }
     },
 
@@ -230,7 +231,7 @@ module.exports = function (grunt) {
           "bower_components/sorttable/sorttable.js",
           "src/assets/js/main.js"
         ],
-        dest: "dist/assets/js/main.min.js"
+        dest: "<%= dest %>/assets/js/main.min.js"
       }
     },
 
@@ -254,13 +255,13 @@ module.exports = function (grunt) {
         expand: true,
         cwd: "<%= datasource %>/systems",
         src: "**/*.{jpg,png,gif,jpeg,webp}",
-        dest: "dist/"
+        dest: "<%= dest %>/"
       }/*,
       games: {
         expand: true,
         cwd: "<%= datasource %>/games",
         src: "**//*.{jpg,png,gif,jpeg,webp}",
-        dest: "dist/",
+        dest: "<%= dest %>/",
         rename: function(dest, src){
           var parts = src.split("/");
           parts = [].concat(parts.slice(0, 1), "games", parts.slice(1));
@@ -277,7 +278,8 @@ module.exports = function (grunt) {
         },
         command: [
           "for file in `find ./node_modules/data.emunova.net/games -type f \\( -name '*.jpeg' -o -name '*.gif' -o -name '*.jpg' \\)`; do",
-            "dest='dist/'$(echo $file | sed -e 's/^.\\+\\/data.emunova.net\\/games\\/\\([^\\/]\\+\\)/\\1\\/games/g');",
+            "dest='/tmp/volatile/build/'$(echo $file | sed -e 's/^.\\+\\/data.emunova.net\\/games\\/\\([^\\/]\\+\\)/\\1\\/games/g');",
+            "mkdir -p $(dirname $dest);",
             "cp $file $dest;",
           "done;"
         ].join(' ')
@@ -286,12 +288,13 @@ module.exports = function (grunt) {
 
     clean: {
       precache: "cache/**/*",
-      build: "dist/**/*"
+      build: "<%= dest %>/**/*"
     },
 
     "gh-pages": {
       options: {
-        base: "dist"
+        base: "<%= dest %>",
+        clone: "/tmp/volatile/gh-clone"
       },
       src: '**/*'
     }
