@@ -16,7 +16,7 @@ module.exports = function (grunt) {
 
   grunt.initConfig({
     datasource: "node_modules/data.emunova.net",
-    dest: "/tmp/volatile/build",
+    dest: "tmp/build",
 
     precache: {
       systems: {
@@ -265,8 +265,8 @@ module.exports = function (grunt) {
     shell: {
       clean: {
         command: [
-          "rm -rf cache/*",
-          "rm -rf /tmp/volatile/build"
+          "rm -rf ./cache/*",
+          "rm -rf ./tmp/build"
         ].join('&&')
       },
       game_images: {
@@ -274,12 +274,12 @@ module.exports = function (grunt) {
           stdout: true
         },
         command: [
-          "for file in `find ./node_modules/data.emunova.net/games -type f \\( -name '*.jpeg' -o -name '*.gif' -o -name '*.jpg' \\)`; do",
-            "dest='/tmp/volatile/build/'$(echo $file | sed -e 's/^.\\+\\/data.emunova.net\\/games\\/\\([^\\/]\\+\\)/\\1\\/games/g');",
-            "mkdir -p $(dirname $dest);",
-            "cp $file $dest;",
-          "done;"
-        ].join(' ')
+          "for file in `find ./node_modules/data.emunova.net/games -type f \\( -name '*.jpeg' -o -name '*.gif' -o -name '*.jpg' -o -name '*.png' \\)`",
+            "do dest='./tmp/build/'$(echo $file | sed -e 's/^.\\+\\/data.emunova.net\\/games\\/\\([^\\/]\\+\\)/\\1\\/games/g')",
+            "mkdir -p $(dirname $dest)",
+            "cp $file $dest",
+          "done"
+        ].join('; ')
       }
     },
 
@@ -291,7 +291,7 @@ module.exports = function (grunt) {
     "gh-pages": {
       options: {
         base: "<%= dest %>",
-        clone: "/tmp/volatile/gh-clone"
+        clone: "./tmp/.grunt"
       },
       src: '**/*'
     }
