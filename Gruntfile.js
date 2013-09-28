@@ -220,6 +220,7 @@ module.exports = function (grunt) {
         src: [
           "bower_components/lazyload/build/lazyload.min.js",
           "bower_components/sorttable/sorttable.js",
+          "src/assets/js/dynamic-sorter.js",
           "src/assets/js/main.js"
         ],
         dest: "<%= dest %>/assets/js/main.min.js"

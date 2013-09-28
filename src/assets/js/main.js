@@ -52,4 +52,10 @@
   })(d.getElementById("nav"));
 
   accordion.registerEvents();
+
+  var form = document.querySelector("form[data-target]");
+  if (form) {
+    var sorter = new DynamicSorter(form);
+    sorter.registerEvents();
+  }
 })(window, document);
