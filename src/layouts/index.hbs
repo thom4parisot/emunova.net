@@ -23,17 +23,15 @@
       </select>
     </div>
     <div class="form-group">
-      <span class="form-control-static">sorti</span>
-    </div>
-    <div class="form-group">
       <select name="year-operator" class="form-control">
-        <option value="<">avant</option>
-        <option value="=" selected>en</option>
-        <option value=">">après</option>
+        <option value="">sorti à tout moment</option>
+        <option value="<">sorti avant</option>
+        <option value="=">sorti en</option>
+        <option value=">">sorti après</option>
       </select>
     </div>
     <div class="form-group">
-      <input type="number" name="year" class="form-control" placeholder="1995" min="1970" max="2013">
+      <input type="number" name="year" data-visible-if="year-operator" class="form-control hidden" placeholder="1337" min="1970" max="2013">
     </div>
 
     <div class="form-group btn-group">
