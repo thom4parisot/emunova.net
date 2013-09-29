@@ -2,39 +2,6 @@
 
 <main>
   <form class="form-inline text-center" role="form" data-target="systems">
-    <div class="form-group">
-      <span class="form-control-static">Je cherche un jeu jouable sur</span>
-    </div>
-    <div class="form-group">
-      <select class="form-control">
-        <option value="">tout support</option>
-        <optgroup label="Type de support">
-          <option value="type">arcade</option>
-          <option value="type">console</option>
-          <option value="type">console portable</option>
-          <option value="type">console virtuelle</option>
-          <option value="type">ordinateur</option>
-        </optgroup>
-        <optgroup label="Constructeur">
-          {{#manufacturers}}
-            <option value="manufacturer">{{.}}</option>
-          {{/manufacturers}}
-        </optgroup>
-      </select>
-    </div>
-    <div class="form-group">
-      <select name="year-operator" class="form-control">
-        <option value="">sorti à tout moment</option>
-        <option value="<">sorti avant</option>
-        <option value="=">sorti en</option>
-        <option value=">">sorti après</option>
-      </select>
-    </div>
-    <div class="form-group">
-      <input type="number" name="year" data-visible-if="year-operator" class="form-control hidden" placeholder="1337" min="1970" max="2013">
-    </div>
-
-    <div class="form-group btn-group">
     <div class="form-group form-group-unifield">
       <div class="form-group">
         <label class="control-label" for="support-selector">Je cherche un jeu jouable sur</label>
@@ -66,9 +33,9 @@
         <input type="number" name="year" data-visible-if="year-operator" class="form-control hidden" placeholder="1337" min="1970" max="2013">
       </div>
     </div><div class="form-group btn-group">
-      <button class="btn btn-primary" type="button">Actualiser</button>
-      <button class="btn btn-default" type="reset">Recommencer</button>
-    </div>
+    <button class="btn btn-primary" type="button">Actualiser</button>
+    <button class="btn btn-default" type="reset">Recommencer</button>
+  </div>
   </form>
 
   <div class="row" data-sorter="systems">
