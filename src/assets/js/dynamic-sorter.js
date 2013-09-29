@@ -69,21 +69,22 @@ DynamicSorter.prototype = {
     });
 
     self.form.addEventListener('reset', function(){
-      self.updateFieldsVisibility();
-      self.filterWith({});
+      setTimeout(function(){
+        self.updateFieldsVisibility();
+        self.filterWith({});
+      }, 0);
     });
   },
   updateFieldsVisibility : function updateFieldsVisibility(){
     var self = this;
 
     [].slice.call(self.form.querySelectorAll("[data-visible-if]")).forEach(function(el){
-      if (self.form.querySelector('[name="'+el.getAttribute('data-visible-if')+'"]').value) {
-        el.classList.remove('sr-only', 'hidden');
-        el.focus();
-      }
-      else{
-        el.classList.add('sr-only')
-      }
+      var id = el.getAttribute('data-visible-if');
+      var found = [].slice.call(self.form.querySelectorAll('[name="'+id+'"],[value="'+id+'"]')).some(function(item){
+        return (item.value === id && item.selected) || (item.name === id && item.value);
+      });
+
+      found ? el.classList.remove('sr-only', 'hidden') && el.focus() : el.classList.add('sr-only');
     });
   },
   filterWith: function filterWith(filters){

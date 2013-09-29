@@ -4,9 +4,13 @@
   <form class="form-inline text-center" role="form" data-target="systems">
     <div class="form-group form-group-unifield">
       <div class="form-group">
-        <label class="control-label" for="support-selector">Je cherche un jeu jouable sur</label>
+        <label class="control-label" for="support-selector">Je cherche un</label>
+      </div>
+      <div class="form-group">
+        <label class="hidden" for="support-selector" data-visible-if="manufacturer">système de jeux vidéo</label>
+        <label class="hidden" for="support-selector" data-visible-if="type">système de jeux vidéo</label>
         <select id="support-selector">
-          <option value="">tout support</option>
+          <option value="">système de jeux vidéo</option>
           <optgroup label="Type de support">
             <option value="type">arcade</option>
             <option value="type">console</option>
