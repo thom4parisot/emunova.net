@@ -284,11 +284,6 @@ module.exports = function (grunt) {
       }
     },
 
-    clean: {
-      precache: "cache/**/*",
-      build: "<%= dest %>/**/*"
-    },
-
     "gh-pages": {
       options: {
         base: "<%= dest %>",
