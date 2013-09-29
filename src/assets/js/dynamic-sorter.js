@@ -2,7 +2,7 @@ function DynamicSorter(form){
   this.form = form;
 
   this.options = {
-    target: document.querySelector('div[data-sorter="'+ form.getAttribute('data-target') +'"]'),
+    target: document.querySelector('[data-sorter="'+ form.getAttribute('data-target') +'"]'),
     targetElements : /col-/
   };
 }
@@ -39,9 +39,9 @@ DynamicSorter.prototype = {
   },
   buildFilterForField: function buildFilterForField(el){
     var field = (el.options && el.selectedIndex >= 0) ? el.options[el.selectedIndex] : el;
-    var value = field.label || field.value;
+    var value = el.name ? field.value : (field.label || field.value);
     var id = el.name || field.name || field.value;
-    var operator = "";
+    var operator = field.getAttribute('data-operator') || "";
 
     if (id.match(/^(.+)-operator$/)) {
       id = RegExp.$1;
@@ -90,10 +90,12 @@ DynamicSorter.prototype = {
     var filterClass = this.options.targetElements;
     var filterKeys = Object.keys(filters);
 
+    console.log(filters);
+
     var toggleElementVisibility = function(el){
       var shouldBeVisible = filterKeys.length ? false : true;
 
-      if (el.className.match(filterClass)) {
+      if (el.className.match(filterClass) || el.nodeName === "TR") {
         shouldBeVisible = filterKeys.every(function(key){
           var filter = filters[key];
 

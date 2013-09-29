@@ -4,6 +4,34 @@
 {{/import}}
 
 <main>
+  <form class="form-inline text-center" role="form" data-target="games">
+    <div class="form-group form-group-unifield">
+      <div class="form-group">
+        <label class="control-label" for="support-selector">Je cherche un jeu vidéo {{system.name}}</label>
+        <select name="year-operator">
+          <option value="">sorti à tout moment</option>
+          <option value="<">sorti avant</option>
+          <option value="=">sorti en</option>
+          <option value=">">sorti après</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <input type="number" name="year" data-visible-if="year-operator" class="form-control hidden" placeholder="1337" min="1970" max="2013">
+      </div>
+      <div class="form-group">
+        <select name="players" class="form-control">
+          <option value="">pour tout nombre de joueurs</option>
+          <option value="1">pour 1 joueur</option>
+          <option value="2">pour 2 joueurs</option>
+          <option value="2" data-operator=">">pour plus de 2 joueurs</option>
+        </select>
+      </div>
+    </div><div class="form-group btn-group">
+    <button class="btn btn-primary" type="button">Actualiser</button>
+    <button class="btn btn-default" type="reset">Recommencer</button>
+  </div>
+  </form>
+
   <h2>Jeux vidéo {{system.name}}</h2>
 
   <div class="table-responsive">
@@ -17,9 +45,9 @@
           <th>Joueurs</th>
         </tr>
       </thead>
-      <tbody>
+      <tbody data-sorter="games">
       {{#system_games system}}
-        <tr>
+        <tr data-year="{{this.released}}" data-genre="{{this.genres}}" data-rating="{{this.rating}}" data-players="{{this.players}}">
           <td data-value="{{this.rating}}">{{{stars rating}}}</td>
           <th><a href="./{{slug}}/">{{title}}</a></th>
           <td>{{inline genres}}</td>
