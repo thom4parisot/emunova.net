@@ -7,7 +7,16 @@
   <form class="form-inline text-center" role="form" data-target="games">
     <div class="form-group form-group-unifield">
       <div class="form-group">
-        <label class="control-label" for="support-selector">Je cherche un jeu vidéo {{system.name}}</label>
+        <label class="control-label" for="rating-selector">Je cherche</label>
+        <select name="rating" id="rating-selecor">
+          <option value="">un jeu vidéo {{system.name}}</option>
+          <option value="4" data-operator=">">un excellent jeu vidéo {{system.name}}</option>
+          <option value="2.5" data-operator=">">un bon jeu vidéo {{system.name}}</option>
+          <option value="2.4" data-operator="<">un jeu vidéo {{system.name}} pas terrible</option>
+          <option value="1.9" data-operator="<">une sombre daube sur {{system.name}}</option>
+        </select>
+      </div>
+      <div class="form-group">
         <select name="year-operator">
           <option value="">sorti à tout moment</option>
           <option value="<">sorti avant</option>
