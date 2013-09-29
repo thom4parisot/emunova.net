@@ -108,7 +108,28 @@ body {
     .megamenu-game[data-offset="large"]:before {
       left: 55%;
     }
-
+  }
+label{
+  cursor: pointer;
+}
+.form-group-unifield {
+  background-color: #fff;
+  border: 1px solid #846ed6;
+  color: #7a62d3;
+  padding: 0 10px;
+}
+  .form-group-unifield .control-label{
+    margin-right: 5px;
+  }
+  .form-group-unifield select,
+  .form-group-unifield input {
+    background: #fff;
+    border: none;
+    color: #7a62d3;
+    cursor: pointer;
+    height: 36px;
+    padding: 0;
+    -webkit-appearance: none;
   }
 
 .well a{

@@ -120,7 +120,7 @@ module.exports = function (grunt) {
       systems: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: ["systems/**/index.json"],
+        src: ["systems/*/index.json"],
         dest: "<%= dest %>/",
         rename: renameSystemUri,
         options: {
@@ -142,7 +142,7 @@ module.exports = function (grunt) {
       systems_contents: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: ["systems/**/*.md"],
+        src: ["systems/*/*.md"],
         dest: "<%= dest %>/",
         rename: renameSystemUri,
         options: {
@@ -282,11 +282,6 @@ module.exports = function (grunt) {
           "done"
         ].join('; ')
       }
-    },
-
-    clean: {
-      precache: "cache/**/*",
-      build: "<%= dest %>/**/*"
     },
 
     "gh-pages": {
