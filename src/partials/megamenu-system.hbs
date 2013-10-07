@@ -13,7 +13,7 @@
     </p>
 
     <div class="row">
-      <div class="col-sm-2 col-xs-6">
+      <div class="col-lg-2 col-sm-3 col-xs-6">
         <ul class="list-unstyled">
           <li><strong>{{system.released}}</strong></li>
           <li>{{system.manufacturer}}</li>
@@ -21,15 +21,21 @@
         </ul>
       </div>
 
-      <div class="col-sm-1 col-xs-3">
+      <div class="col-lg-1 col-sm-2 col-xs-3">
         <a href="/{{system.id}}/games/">
-          <span class="lead">{{system.games_count}}</span><br>{{inflect system.games_count "jeu" "jeux"}}
+          <strong>{{system.games_count}}</strong><br>{{inflect system.games_count "jeu" "jeux"}}
         </a>
       </div>
 
-      <div class="col-sm-1 col-xs-3">
+      <div class="col-lg-1 col-sm-2 col-xs-3">
         <a href="/{{system.id}}/images/">
-          <span class="lead">{{system.images_count}}</span><br>{{inflect system.images_count "image" "images"}}
+          <strong>{{system.images_count}}</strong><br>{{inflect system.images_count "image" "images"}}
+        </a>
+      </div>
+
+      <div class="col-lg-2 col-sm-4 col-xs-6">
+        <a href="{{system.forums_uri}}">
+          <strong>Forums</strong><br><small>émulation, discussion, aide</small>
         </a>
       </div>
     </div>
