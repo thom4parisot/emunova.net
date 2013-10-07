@@ -1,4 +1,6 @@
 function DynamicSorter(form){
+  "use strict";
+
   this.form = form;
 
   this.options = {
@@ -9,9 +11,10 @@ function DynamicSorter(form){
 
 DynamicSorter.prototype = {
   buildFilters: function buildFilters(){
+    "use strict";
     var filters = {};
 
-    [].slice.call(this.form)
+    [].slice.call(this.form.elements)
       .map(this.buildFilterForField)
       .filter(function(d){ return d; })
       .forEach(function mergingFilter(filter){
@@ -38,6 +41,7 @@ DynamicSorter.prototype = {
     return filters;
   },
   buildFilterForField: function buildFilterForField(el){
+    "use strict";
     var field = (el.options && el.selectedIndex >= 0) ? el.options[el.selectedIndex] : el;
     var value = el.name ? field.value : (field.label || field.value);
     var id = el.name || field.name || field.value;
@@ -60,6 +64,7 @@ DynamicSorter.prototype = {
     };
   },
   registerEvents: function registerEvents(){
+    "use strict";
     var self = this;
 
     self.form.addEventListener('change', function(){
@@ -76,6 +81,7 @@ DynamicSorter.prototype = {
     });
   },
   updateFieldsVisibility : function updateFieldsVisibility(){
+    "use strict";
     var self = this;
 
     [].slice.call(self.form.querySelectorAll("[data-visible-if]")).forEach(function(el){
@@ -84,14 +90,13 @@ DynamicSorter.prototype = {
         return (item.value === id && item.selected) || (item.name === id && item.value);
       });
 
-      found ? el.classList.remove('sr-only', 'hidden') && el.focus() : el.classList.add('sr-only');
+      found ? el.classList.remove('hidden') && el.focus() : el.classList.add('hidden');
     });
   },
   filterWith: function filterWith(filters){
+    "use strict";
     var filterClass = this.options.targetElements;
     var filterKeys = Object.keys(filters);
-
-    console.log(filters);
 
     var toggleElementVisibility = function(el){
       var shouldBeVisible = filterKeys.length ? false : true;
