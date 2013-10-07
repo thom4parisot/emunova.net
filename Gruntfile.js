@@ -107,7 +107,8 @@ module.exports = function (grunt) {
         helpers: ["lib/handlebars/*.js"],
         partials: "src/partials/**/*.hbs",
         extension: ".html",
-        data: "cache/systems.json"
+        data: "cache/systems.json",
+        layout: "default.hbs"
       },
 
       home: {
@@ -194,6 +195,12 @@ module.exports = function (grunt) {
         options: {
           layout: "games/ratings.hbs"
         }
+      },
+      contents: {
+        expand: true,
+        cwd: "src/contents",
+        src: "**/*.md",
+        dest: "<%= dest %>/"
       }
     },
 
