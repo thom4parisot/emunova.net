@@ -3,6 +3,7 @@
 var path = require("path");
 
 module.exports = function (grunt) {
+  require('time-grunt')(grunt);
   var _str = grunt.util._.str;
 
   function renameSystemUri(dest, src){
