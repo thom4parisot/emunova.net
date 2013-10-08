@@ -171,7 +171,7 @@ module.exports = function (grunt) {
         rename: renameGameUri,
         dest: "<%= dest %>/",
         options: {
-          layout: "games/entry.hbs"
+          layout: "games/index.hbs"
         }
       },
       game_review: {
