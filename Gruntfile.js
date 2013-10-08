@@ -177,7 +177,7 @@ module.exports = function (grunt) {
       game_review: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: ["games/**/reviews/*.md"],
+        src: ["games/*/*/reviews/*.md"],
         rename: renameGameUri,
         dest: "<%= dest %>/",
         options: {
