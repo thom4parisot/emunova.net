@@ -8,7 +8,7 @@
   <h1>{{default page.title "Test du jeu vidéo"}}</h1>
 
   <div class="row">
-    <div class="col-sm-9">
+    <div class="col-sm-8">
       {{#markdown}} {{> body}} {{/markdown}}
 
       {{#gte page.rating 0}}
@@ -18,7 +18,7 @@
       {{/gte}}
     </div>
 
-    <div class="col-sm-3">
+    <div class="col-sm-4">
       {{#if page.[Synthèse]}}
       <div class="well">
         <h2>En 2 clics</h2>
@@ -32,27 +32,9 @@
       {{/if}}
 
       <div class="well">
-        <h2>Ils l'ont testé</h2>
+        <h2>Synthèse</h2>
 
-        <ul class="list-unstyled">
-          {{#game_reviews system game}}
-            <li>{{{stars rating}}} <a href="{{slug}}.html">{{user}}</a></li>
-          {{/game_reviews}}
-        </ul>
-      </div>
-
-      {{#gt game.images_count 0}}
-        <div class="row row-gallery lazyload">
-          {{#game_images system game 1}}
-          <div class="col-sm-12 col-xs-4">
-            <img class="img-thumbnail img-responsive" src="../images/{{this.filename}}" alt="{{this.title}}"/>
-          </div>
-          {{/game_images}}
-        </div>
-      {{/gt}}
-
-      <div class="well">
-        <h2>Ils l'ont noté</h2>
+        <p class="lead">{{rating game.rating}}</p>
 
         <ul class="list-unstyled">
             {{#game_breakdown game}}
@@ -65,6 +47,16 @@
             {{inflect game.comments_count "note et commentaire" "notes et commentaires"}}
         </a>
       </div>
+
+      {{#gt game.images_count 0}}
+        <div class="row row-gallery lazyload">
+          {{#game_images system game 1}}
+            <div class="col-sm-12">
+              <img class="img-thumbnail img-elastic" src="../images/{{this.filename}}" alt="{{this.title}}"/>
+            </div>
+          {{/game_images}}
+        </div>
+      {{/gt}}
     </div>
   </div>
 </main>
