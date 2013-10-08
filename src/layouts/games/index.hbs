@@ -7,43 +7,26 @@
 <main>
   <div class="row">
     <div class="col-sm-6" id="reviews">
-      <h2>Tests et notes du jeu</h2>
+      {{#game_reviews system game}}
+        <article>
+          <h2>Ce qu'en pense <strong>{{user}}</strong></h2>
 
-      <p class="lead">{{rating game.rating}}</p>
+          <p class="lead">{{rating rating}}</p>
 
-      <p>
-        Nous aimons jouer et partager notre goût des jeux vidéo.
-      </p>
+          <p>{{truncate review 250 "…"}}</p>
 
-      <p>
-        Les <strong>tests</strong> sont des articles présentant le jeu dans son
-        ensemble : histoire, gameplay, musique, points positifs et négatifs.<br>
-        Idéal quand on veut vraiment plonger au cœur de <em>{{game.title}}</em>
-        avant sa première partie.
-      </p>
-
-      <p>
-        Les <strong>notes</strong> de <em>{{game.name}}</em> sont des
-        évaluation rapides, parfois ponctuées d'un court paragraphe. <br>
-        Parfait pour se faire une idée rapidement.
-      </p>
+          <p><a class="btn btn-default" href="reviews/{{slug}}.html">
+            Lire la suite du test<span class="sr-only"> de {{../game.title}} par {{user}}</span>
+          </a></p>
+        </article>
+      {{/game_reviews}}
     </div>
 
-    <div class="col-sm-3">
+    <div class="col-sm-4 col-sm-push-2">
       <div class="well">
-        <h2>Ils l'ont testé</h2>
+        <h2>Synthèse</h2>
 
-        <ul class="list-unstyled">
-        {{#game_reviews system game}}
-          <li>{{{stars rating}}} <a href="reviews/{{slug}}.html">{{user}}</a></li>
-        {{/game_reviews}}
-        </ul>
-      </div>
-    </div>
-
-    <div class="col-sm-3">
-      <div class="well">
-        <h2>Ils l'ont noté</h2>
+        <p class="lead">{{rating game.rating}}</p>
 
         <ul class="list-unstyled">
         {{#game_breakdown game}}
