@@ -2,6 +2,10 @@ body {
   background: #fffdf3 url('data:image/gif; base64,R0lGODlhBAAEAIAAAOXl5f/98yH5BAAAAAAALAAAAAAEAAQAAAIFhBGpmwUAOw==');
 }
 
+.img-elastic {
+  width: 100%;
+}
+
 .navbar-main {
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
