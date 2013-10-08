@@ -5,35 +5,28 @@
 {{/import}}
 
 <main>
-  <h2>Notes et commentaires de {{game.title}}</h2>
+  <h2>Ce que les joueurs pensent de <em>{{game.title}}</em></h2>
 
   <div class="row">
-    <div class="col-sm-9">
+    <div class="col-sm-8">
       {{#game_ratings system game true}}
-      <div class="row">
-        <div class="col-sm-3">
-          <div class="well">
-            <p class="lead">{{rating rating}}</p>
-            <p>Par <em>{{user}}</em></p>
-          </div>
-        </div>
+      <article>
+        <h3><strong>{{user}}</strong> dit <q>{{rating rating}}</q></h3>
 
-        <div class="col-sm-6">
-          {{#if is_review}}
-            <p>{{truncate review 250 "…"}}</p>
+        {{#if is_review}}
+          <p>{{truncate review 250 "…"}}</p>
 
-            <p><a class="btn btn-default" href="reviews/{{slug}}.html">
-              Lire la suite du test de {{../../game.title}} par {{user}}
-            </a></p>
-          {{else}}
-            {{#if title}}
-              <h2>{{title}}</h2>
-            {{/if}}
-
-            {{#markdown}} {{review}} {{/markdown}}
+          <p><a class="btn btn-default" href="reviews/{{slug}}.html">
+            Lire la suite du test<span class="sr-only"> de {{../../game.title}} par {{user}}</span>
+          </a></p>
+        {{else}}
+          {{#if title}}
+            <h2>{{title}}</h2>
           {{/if}}
-        </div>
-      </div>
+
+          {{#markdown}} {{review}} {{/markdown}}
+        {{/if}}
+      </article>
       {{else}}
         <div class="alert alert-info">
           Il n'y pas encore de notation pour {{game.title}}.
@@ -41,7 +34,7 @@
       {{/game_ratings}}
     </div>
 
-    <div class="col-sm-3">
+    <div class="col-sm-4">
       <div class="well">
         <h2>Synthèse</h2>
 
