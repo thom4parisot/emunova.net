@@ -1,7 +1,11 @@
 {{> header.hbs}}
 
 <main>
-    {{#markdown}} {{> body}} {{/markdown}}
+  <div class="row">
+    <div class="col-sm-8">
+      {{#markdown}} {{> body}} {{/markdown}}
+    </div>
+  </div>
 </main>
 
 {{> footer.hbs}}

@@ -4,7 +4,29 @@ title: Changelog
 
 # Emu Nova v3 <small>(12 octobre 2013)</small>
 
-Sortie après Duke Nukem Forever. Un comble.
+Un projet de refonte qui aboutira au bout de 6 ans,
+après [maintes et maintes discussions](#). On pensait battre *Duke Nukem Forever* en date de sortie … on s'est trompé.
+
+On a décidé de sortir une v3 qui fonctionne, avec les contenus essentiels :
+
+- les sytèmes de jeux vidéo
+- les tests
+- les notes
+- les images
+
+Ce qui change néanmoins par rapport à Emu Nova 2.0 :
+
+- l'adresse du site est raccourcie : on enlève les `www
+- le site est largement navigable sur téléphones mobiles et tablettes
+- possibilité d'avoir plusieurs tests par jeux
+- le test ne devient plus le pivot central pour afficher un jeu : ce dernier est un contenu à part entière avec un ensemble de ressources (notes, tests, images etc.)
+- les notes sont séparés des tests, et sont davantage mises en valeur
+- filtrage dynamique des systèmes et des jeux sur leur page respective
+- le fil d'ariane sert de menu de navigation
+
+Les rubriques manquantes seront ajoutées par la suite
+
+Les nouveaux concepts techniques du site sont expliqués plus en détail sur la page [à propos](/about/).
 
 # Emu Nova 2.0 <small>(5 juillet 2004)</small>
 
