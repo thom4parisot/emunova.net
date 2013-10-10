@@ -217,7 +217,8 @@ module.exports = function (grunt) {
         cwd: "src/assets",
         src: [
           "**/*",
-          "!*.js"
+          "!less/**/*",
+          "!js/**/*"
         ],
         dest: "<%= dest %>/assets"
       }
@@ -232,6 +233,23 @@ module.exports = function (grunt) {
           "src/assets/js/main.js"
         ],
         dest: "<%= dest %>/assets/js/main.min.js"
+      }
+    },
+
+    less: {
+      options: {
+        compress: true,
+        //report: "gzip",
+        paths: [
+          "src/assets/less/lib",
+          "bower_components/bootstrap/less"
+        ]
+      },
+      components: {
+        expand: true,
+        cwd: "src/assets/less",
+        src: "*.less",
+        dest: "<%= dest %>/assets/css"
       }
     },
 
@@ -303,13 +321,14 @@ module.exports = function (grunt) {
 
   grunt.loadNpmTasks("assemble");
   grunt.loadNpmTasks("grunt-contrib-copy");
+  grunt.loadNpmTasks("grunt-contrib-less");
   grunt.loadNpmTasks("grunt-contrib-uglify");
   grunt.loadNpmTasks("grunt-gh-pages");
   grunt.loadNpmTasks('grunt-shell');
   grunt.loadNpmTasks("grunt-responsive-images");
   grunt.loadTasks('lib/grunt');
 
-  grunt.registerTask("default", ["shell:clean", "precache", "assemble", "responsive_images", "shell:game_images", "copy", "uglify"]);
+  grunt.registerTask("default", ["shell:clean", "precache", "assemble", "responsive_images", "copy", "uglify", "less", "shell:game_images"]);
   grunt.registerTask("deploy", ["default", "gh-pages"]);
   grunt.registerTask("deploy-fast", ["gh-pages"]);
 };
