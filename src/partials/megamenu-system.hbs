@@ -7,36 +7,36 @@
         Il est également connu sous {{inflect system.alternate_names "le nom" "les noms"}}
         de {{inline system.alternate_names}}.
       {{/if}}
-      {{#file_exists "history.md"}}
-        <a href="/{{system.id}}/history.html">En savoir plus sur {{system.name}}</a>.
-      {{/file_exists}}
     </p>
 
     <div class="row">
       <div class="col-lg-2 col-sm-3 col-xs-6">
         <ul class="list-unstyled">
           <li><strong>{{system.released}}</strong></li>
-          <li>{{system.manufacturer}}</li>
           <li>{{system.type}}</li>
         </ul>
       </div>
 
-      <div class="col-lg-1 col-sm-2 col-xs-3">
-        <a href="/{{system.id}}/games/">
-          <strong>{{system.games_count}}</strong><br>{{inflect system.games_count "jeu" "jeux"}}
-        </a>
-      </div>
-
-      <div class="col-lg-1 col-sm-2 col-xs-3">
-        <a href="/{{system.id}}/images/">
-          <strong>{{system.images_count}}</strong><br>{{inflect system.images_count "image" "images"}}
-        </a>
-      </div>
-
       <div class="col-lg-2 col-sm-4 col-xs-6">
-        <a href="{{system.forums_uri}}">
-          <strong>Forums</strong><br><small>émulation, discussion, aide</small>
-        </a>
+        <ul class="list-unstyled">
+          <li><a href="/{{system.id}}/games/">
+            <strong>{{system.games_count}}</strong> {{inflect system.games_count "jeu" "jeux"}}
+          </a></li>
+          {{#if system.images_count}}<li><a href="/{{system.id}}/images/">
+            <strong>{{system.images_count}}</strong> {{inflect system.images_count "image" "images"}}
+          </a></li>{{/if}}
+        </ul>
+      </div>
+
+      <div class="col-lg-4 col-sm-6 col-xs-6">
+        <ul class="list-unstyled">
+          {{#file_exists "history.md"}}<li><a href="/{{system.id}}/history.html">
+            <strong>Histoire</strong><br><small>Conception, vie et anecdotes</small>
+          </a></li>{{/file_exists}}
+          <li><a href="{{system.forums_uri}}">
+            <strong>Forums</strong><br><small>Émulation, discussion, aide</small>
+          </a></li>
+        </ul>
       </div>
     </div>
   </div>

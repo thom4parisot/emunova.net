@@ -209,7 +209,7 @@ module.exports = function (grunt) {
         expand: true,
         flatten: true,
         cwd: "src/",
-        src: ["CNAME", "robots.txt", "assets/favicon.ico"],
+        src: ["CNAME", "robots.txt", "assets/favicon.ico", "img/*"],
         dest: "<%= dest %>/"
       },
       ui: {
