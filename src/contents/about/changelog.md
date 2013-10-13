@@ -2,7 +2,7 @@
 title: Changelog
 ---
 
-# Emu Nova v3 <small>(12 octobre 2013)</small>
+# Emu Nova v3 <small>(14 octobre 2013)</small>
 
 Un projet de refonte qui aboutira au bout de 6 ans,
 après [maintes et maintes discussions](http://forums.emunova.net/tags/forums/v3/). On pensait battre *Duke Nukem Forever* en date de sortie … on s'est trompé.
