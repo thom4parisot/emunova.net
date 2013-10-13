@@ -24,9 +24,8 @@ Ce qui change néanmoins par rapport à Emu Nova 2.0 :
 - filtrage dynamique des systèmes et des jeux sur leur page respective
 - le fil d'ariane sert de menu de navigation
 
-Les rubriques manquantes seront ajoutées par la suite
-
-Les nouveaux concepts techniques du site sont expliqués plus en détail sur la page [à propos](/about/).
+Les rubriques manquantes seront ajoutées par la suite.
+Vous pouvez consulter [le détail de la migration des contenus vers la v3](/about/migration.html).
 
 # Emu Nova 2.0 <small>(5 juillet 2004)</small>
 
