@@ -18,6 +18,7 @@ module.exports = function (grunt) {
   grunt.initConfig({
     datasource: "node_modules/data.emunova.net",
     dest: "tmp/build",
+    systems: "<%= process.env.NODE_ENV === 'dev' ? '3do' : '*' %>",
 
     precache: {
       systems: {
@@ -40,7 +41,7 @@ module.exports = function (grunt) {
       images: {
         expand: true,
         cwd: "<%= datasource %>/systems",
-        src: "*",
+        src: "<%= systems %>",
         ext: ".json",
         dest: "cache",
         options: {
@@ -57,7 +58,7 @@ module.exports = function (grunt) {
       games: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: "games/*",
+        src: "games/<%= systems %>",
         ext: ".json",
         dest: "cache",
         options: {
@@ -83,7 +84,7 @@ module.exports = function (grunt) {
       game_images: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: "games/*",
+        src: "games/<%= systems %>",
         ext: ".json",
         dest: "cache",
         options: {
@@ -122,7 +123,7 @@ module.exports = function (grunt) {
       systems: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: ["systems/*/index.json"],
+        src: ["systems/<%= systems %>/index.json"],
         dest: "<%= dest %>/",
         rename: renameSystemUri,
         options: {
@@ -144,7 +145,7 @@ module.exports = function (grunt) {
       systems_contents: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: ["systems/*/*.md"],
+        src: ["systems/<%= systems %>/*.md"],
         dest: "<%= dest %>/",
         rename: renameSystemUri,
         options: {
@@ -167,7 +168,7 @@ module.exports = function (grunt) {
       game_entry: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: ["games/*/*/index.json"],
+        src: ["games/<%= systems %>/*/index.json"],
         rename: renameGameUri,
         dest: "<%= dest %>/",
         options: {
@@ -177,7 +178,7 @@ module.exports = function (grunt) {
       game_review: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: ["games/*/*/reviews/*.md"],
+        src: ["games/<%= systems %>/*/reviews/*.md"],
         rename: renameGameUri,
         dest: "<%= dest %>/",
         options: {
