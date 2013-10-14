@@ -41,7 +41,7 @@ module.exports = function (grunt) {
       images: {
         expand: true,
         cwd: "<%= datasource %>/systems",
-        src: "<%= systems %>",
+        src: "*",
         ext: ".json",
         dest: "cache",
         options: {
@@ -58,7 +58,7 @@ module.exports = function (grunt) {
       games: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: "games/<%= systems %>",
+        src: "games/*",
         ext: ".json",
         dest: "cache",
         options: {
@@ -84,7 +84,7 @@ module.exports = function (grunt) {
       game_images: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: "games/<%= systems %>",
+        src: "games/*",
         ext: ".json",
         dest: "cache",
         options: {
@@ -123,7 +123,7 @@ module.exports = function (grunt) {
       systems: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: ["systems/<%= systems %>/index.json"],
+        src: "systems/*/index.json",
         dest: "<%= dest %>/",
         rename: renameSystemUri,
         options: {
@@ -145,7 +145,7 @@ module.exports = function (grunt) {
       systems_contents: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: ["systems/<%= systems %>/*.md"],
+        src: "systems/*/*.md",
         dest: "<%= dest %>/",
         rename: renameSystemUri,
         options: {
@@ -168,7 +168,7 @@ module.exports = function (grunt) {
       game_entry: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: ["games/<%= systems %>/*/index.json"],
+        src: "games/*/*/index.json",
         rename: renameGameUri,
         dest: "<%= dest %>/",
         options: {
@@ -178,7 +178,7 @@ module.exports = function (grunt) {
       game_review: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: ["games/<%= systems %>/*/reviews/*.md"],
+        src: "games/*/*/reviews/*.md",
         rename: renameGameUri,
         dest: "<%= dest %>/",
         options: {
