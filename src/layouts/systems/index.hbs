@@ -31,7 +31,7 @@
 
           <ul class="list-unstyled">
           {{#best_games system 10}}
-            <li>{{{stars rating}}} <a href="/{{../system.id}}/games/{{id}}/">{{title}}</a></li>
+            <li>{{{stars this.rating}}} <a href="/{{../system.id}}/games/{{this.id}}/">{{this.title}}</a></li>
           {{else}}
             <li>Aucun jeu pour le moment.</li>
           {{/best_games}}
@@ -61,7 +61,7 @@
         {{#system_images system 6}}
           <div class="col-sm-4 col-xs-6">
             <a href="images/#{{id}}">
-              <img class="img-thumbnail" data-src="images/{{image_url this.filename "sq"}}" alt="{{title}}"/>
+              <img class="img-thumbnail" data-src="images/{{image_url this.filename "sq"}}" alt="{{this.title}}"/>
             </a>
           </div>
         {{/system_images}}

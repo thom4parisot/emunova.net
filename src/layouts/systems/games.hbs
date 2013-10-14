@@ -58,11 +58,11 @@
       <tbody data-sorter="games">
       {{#system_games system}}
         <tr data-year="{{this.released}}" data-genre="{{this.genres}}" data-rating="{{this.rating}}" data-players="{{this.players}}">
-          <td data-value="{{this.rating}}">{{{stars rating}}}</td>
-          <th><a href="./{{slug}}/">{{title}}</a></th>
-          <td>{{inline genres}}</td>
-          <td>{{released}}</td>
-          <td class="text-center">{{default players "N/C"}}</td>
+          <td data-value="{{this.rating}}">{{{stars this.rating}}}</td>
+          <th><a href="./{{slug}}/">{{this.title}}</a></th>
+          <td>{{inline this.genres}}</td>
+          <td>{{this.released}}</td>
+          <td class="text-center">{{default this.players "N/C"}}</td>
         </tr>
       {{else}}
         <tr>

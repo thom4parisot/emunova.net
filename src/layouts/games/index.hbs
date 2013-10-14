@@ -9,14 +9,14 @@
     <div class="col-sm-6" id="reviews">
       {{#game_reviews system game}}
         <article>
-          <h2>Ce qu'en pense <strong>{{user}}</strong></h2>
+          <h2>Ce qu'en pense <strong>{{this.user}}</strong></h2>
 
-          <p class="lead">{{rating rating}}</p>
+          <p class="lead">{{rating this.rating}}</p>
 
-          <p>{{truncate review 250 "…"}}</p>
+          <p>{{truncate this.review 250 "…"}}</p>
 
-          <p><a class="btn btn-default" href="reviews/{{slug}}.html">
-            Lire la suite du test<span class="sr-only"> de {{../game.title}} par {{user}}</span>
+          <p><a class="btn btn-default" href="reviews/{{this.slug}}.html">
+            Lire la suite du test<span class="sr-only"> de {{../game.title}} par {{this.user}}</span>
           </a></p>
         </article>
       {{/game_reviews}}
@@ -30,7 +30,7 @@
 
         <ul class="list-unstyled">
         {{#game_breakdown game}}
-          <li class="{{#unless count}}fade-out{{/unless}}">{{{stars rating}}} {{count}} {{inflect count "joueur" "joueurs"}}</li>
+          <li class="{{#unless this.count}}fade-out{{/unless}}">{{{stars this.rating}}} {{this.count}} {{inflect this.count "joueur" "joueurs"}}</li>
         {{/game_breakdown}}
         </ul>
 
