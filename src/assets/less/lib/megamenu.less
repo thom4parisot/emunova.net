@@ -7,41 +7,19 @@
 }
 .megamenu:before{
   border: 15px solid transparent;
-  border-bottom-color: #583ac8;
+  border-bottom-color: @well-bg;
   content: " ";
   display: block;
-  left: 27%;
+  left: 49%;
   position: absolute;
   top: -30px;
-  z-index: 0;
+  z-index: @zindex-navbar-fixed + 10;
 }
-.megamenu-game:before {
-  left: 20%;
-}
-@media(min-width: 768px) {
+@media(min-width: @screen-sm) {
+  .megamenu-system:before {
+    left: 45%;
+  }
   .megamenu-game:before {
-    left: 40%;
-  }
-}
-@media(min-width: 992px) {
-  .megamenu-game[data-offset="small"]:before {
-    left: 48%;
-  }
-  .megamenu-game[data-offset="medium"]:before {
-    left: 55%;
-  }
-  .megamenu-game[data-offset="large"]:before {
-    left: 70%;
-  }
-}
-@media(min-width: 1200px) {
-  .megamenu-game[data-offset="small"]:before {
-    left: 42%;
-  }
-  .megamenu-game[data-offset="medium"]:before {
-    left: 48%;
-  }
-  .megamenu-game[data-offset="large"]:before {
-    left: 55%;
+    left: 53%;
   }
 }

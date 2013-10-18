@@ -1,54 +1,35 @@
-.navbar-main .navbar-nav {
-  font-size: 30px;
-  font-weight: 300;
-}
-@media(min-width: 768px) {
-  .navbar-main .navbar-nav {
-    margin-top: 30px;
-  }
+.navbar-default {
+  border-bottom: 1px solid lighten(@brand-primary, 15%);
+  margin-bottom: 0;
 }
 
-.navbar-main .nav-label{
-  display: inline-block;
-  line-height: 1;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
+.navbar-breadcrumb {
+  border: 0;
 
-@media(min-width: 768px) {
-  .navbar-main .nav-label {
-    max-width: 400px;
+  .nav {
+    margin-bottom: 0;
+    margin-top: 0;
   }
-  .navbar-main .dropdown-game {
-    clear: both;
-  }
-}
-@media(min-width: 992px) {
-  .navbar-main .nav-label {
-    max-width: 300px;
-  }
-  .navbar-main .dropdown-game {
-    clear: none;
-  }
-}
-@media(min-width: 1200px) {
-  .navbar-main .nav-label {
-    max-width: 450px;
-  }
-}
 
-.navbar-main .navbar-nav a{
-  padding-left: 5px;
-}
-.navbar-main .navbar-nav a:before{
-  content: "/ ";
-}
+  @media (min-width: @screen-sm) {
+    .nav {
+      width: 100%;
+    }
 
-.navbar-main .caret {
-  visibility: hidden;
-}
+    .nav-system {
+      text-align: right;
+    }
+  }
 
-.navbar-main .collapsed .caret {
-  visibility: visible;
+
+  .col-sm-6 {
+    background-color: @navbar-default-bg;
+    border: 1px solid lighten(@brand-primary, 15%);
+    border-top: none;
+    padding: 0;
+  }
+
+  h1, h2, h3, h4, .h1, .h2, .h3, .h4 {
+    margin: 0;
+  }
 }
