@@ -48,19 +48,20 @@
      </div>
   </div>
 </nav>
+
 <div class="container">
   <nav class="navbar navbar-breadcrumb navbar-static-top" id="nav">
     <ul class="nav navbar-nav">
-      {{#if system}}
-      <li class="col-sm-6 nav-system"><a href="/{{system.id}}/" class="accordion-toggle {{#unless megamenu_system}}collapsed{{/unless}}" data-target="system">
-        <h1 class="h3">{{system.name}}</h1>
-      </a></li>
-      {{/if}}
-      {{#if game}}
-      <li class="col-sm-6 nav-game"><a href="/{{system.id}}/games/{{game.id}}/" class="accordion-toggle {{#unless megamenu_game}}collapsed{{/unless}}" data-target="game">
-        <h2 class="h3">{{game.title}}</h2>
-      </a></li>
-      {{/if}}
+      <li class="col-sm-6 nav-system">{{#if system}}
+        <a href="/{{system.id}}/" class="accordion-toggle {{#unless megamenu_system}}collapsed{{/unless}}" data-target="system">
+            <h1 class="h3">{{system.name}}</h1>
+        </a>
+      {{/if}}</li>
+      <li class="col-sm-6 nav-game">{{#if game}}
+        <a href="/{{system.id}}/games/{{game.id}}/" class="accordion-toggle {{#unless megamenu_game}}collapsed{{/unless}}" data-target="game">
+          <h2 class="h3">{{game.title}}</h2>
+        </a>
+      {{/if}}</li>
     </ul>
   </nav>
 </div>
