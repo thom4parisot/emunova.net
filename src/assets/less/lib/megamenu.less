@@ -1,25 +1,18 @@
 .megamenu {
+  border: none;
+  .box-shadow(none);
   margin-top: -20px;
   position: relative;
 }
 .megamenu.in {
 
 }
-.megamenu:before{
-  border: 15px solid transparent;
-  border-bottom-color: @well-bg;
-  content: " ";
-  display: block;
-  left: 49%;
-  position: absolute;
-  top: -30px;
-  z-index: @zindex-navbar-fixed + 10;
-}
+
 @media(min-width: @screen-sm) {
   .megamenu-system:before {
-    left: 45%;
+    left: 43%;
   }
   .megamenu-game:before {
-    left: 53%;
+    left: 55%;
   }
 }

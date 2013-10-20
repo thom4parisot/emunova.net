@@ -123,7 +123,7 @@ module.exports = function (grunt) {
       systems: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: "systems/3do/index.json",
+        src: "systems/*/index.json",
         dest: "<%= dest %>/",
         rename: renameSystemUri,
         options: {
@@ -168,7 +168,7 @@ module.exports = function (grunt) {
       game_entry: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: "games/3do/*/index.json",
+        src: "games/*/*/index.json",
         rename: renameGameUri,
         dest: "<%= dest %>/",
         options: {
