@@ -228,6 +228,8 @@ module.exports = function (grunt) {
     uglify: {
       components: {
         src: [
+          "src/assets/js/jquery.js",
+          "bower_components/bootstrap/js/dropdown.js",
           "bower_components/lazyload/build/lazyload.min.js",
           "bower_components/sorttable/sorttable.js",
           "src/assets/js/dynamic-sorter.js",

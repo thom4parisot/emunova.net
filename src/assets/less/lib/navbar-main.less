@@ -1,54 +1,71 @@
-.navbar-main .navbar-nav {
-  font-size: 30px;
-  font-weight: 300;
-}
-@media(min-width: 768px) {
-  .navbar-main .navbar-nav {
-    margin-top: 30px;
+.navbar-default {
+  border-bottom: 1px solid lighten(@brand-primary, 15%);
+  margin-bottom: 0;
+
+  .dropdown-menu {
+    min-width: 240px;
   }
 }
 
-.navbar-main .nav-label{
-  display: inline-block;
-  line-height: 1;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+.navbar-brand {
+  font-size: @font-size-large * 1.33;
+  padding: @navbar-padding-vertical/2 @navbar-padding-horizontal;
 }
 
-@media(min-width: 768px) {
-  .navbar-main .nav-label {
-    max-width: 400px;
-  }
-  .navbar-main .dropdown-game {
-    clear: both;
-  }
-}
-@media(min-width: 992px) {
-  .navbar-main .nav-label {
-    max-width: 300px;
-  }
-  .navbar-main .dropdown-game {
-    clear: none;
-  }
-}
-@media(min-width: 1200px) {
-  .navbar-main .nav-label {
-    max-width: 450px;
-  }
-}
+.navbar-breadcrumb {
+  border: 0;
+  z-index: @zindex-navbar - 10;
 
-.navbar-main .navbar-nav a{
-  padding-left: 5px;
-}
-.navbar-main .navbar-nav a:before{
-  content: "/ ";
-}
+  .nav {
+    margin-bottom: 0;
+    margin-top: 0;
 
-.navbar-main .caret {
-  visibility: hidden;
-}
+    a {
+      color: white;
+      background-color: @well-bg;
 
-.navbar-main .collapsed .caret {
-  visibility: visible;
+      &:hover, &:focus {
+        background-color: @well-bg;
+        color: lighten(@link-color, 15%);
+      }
+
+      &.collapsed {
+        background-color: white;
+        color: @link-color;
+      }
+
+      &.collapsed:hover, &.collapsed:focus {
+        color: darken(@link-color, 30%);
+      }
+    }
+  }
+
+  .col-sm-6 {
+    padding: 0;
+
+    &:empty {
+      border: none;
+    }
+  }
+
+  @media (min-width: @screen-sm) {
+    .nav {
+      width: 100%;
+    }
+
+    .nav-system {
+      text-align: right;
+    }
+
+    .col-sm-6 {
+      border-left: 1px solid @well-bg;
+      border-right: 1px solid @well-bg;
+    }
+  }
+
+
+
+  h1, h2, h3, h4, .h1, .h2, .h3, .h4 {
+    margin: 0;
+  }
 }

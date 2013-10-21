@@ -44,7 +44,7 @@ Finalement est-ce qu'on a besoin de bien plus ? ;-)
 Dans Emu Nova v2, il n'y avait pas de fiche de jeu vidéo.
 Un test de jeu vidéo regroupait une image, un test et des notes/commentaires.
 
-Dans Emu Nova v3, **on a voulu permettre plusieurs tests par jeux vidéo**. Et davantage d'iamges.
+Dans Emu Nova v3, **on a voulu permettre plusieurs tests par jeux vidéo**. Et davantage d'images.
 Une fiche de jeu vidéo comprend :
 
 - des tests
