@@ -1,12 +1,10 @@
-(function(w, d, undefined){
+(function(w, d, $, undefined){
   "use strict";
 
   var lzld = lazyload();
-  [].slice.call(d.querySelectorAll(".lazyload img")).forEach(lzld);
+  $('.lazyload img').each(lzld);
 
-  if (document.querySelector('table.table-sortable')) {
-    [].slice.call(document.querySelectorAll('table.table-sortable')).forEach(sorttable.makeSortable);
-  }
+  $('table.table-sortable').each(sorttable.makeSortable);
 
   var accordion = (function(menuElement){
     var Accordion = function(container){
@@ -53,9 +51,5 @@
 
   accordion.registerEvents();
 
-  var form = document.querySelector("form[data-target]");
-  if (form) {
-    var sorter = new DynamicSorter(form);
-    sorter.registerEvents();
-  }
-})(window, document);
+  $('form[data-target]').each(function(i, el){ (new DynamicSorter(el)).registerEvents(); });
+})(window, document, jQuery);
