@@ -226,16 +226,22 @@ module.exports = function (grunt) {
     },
 
     uglify: {
-      components: {
-        src: [
-          "src/assets/js/jquery.js",
-          "bower_components/bootstrap/js/dropdown.js",
-          "bower_components/lazyload/build/lazyload.min.js",
-          "bower_components/sorttable/sorttable.js",
-          "src/assets/js/dynamic-sorter.js",
-          "src/assets/js/main.js"
-        ],
-        dest: "<%= dest %>/assets/js/main.min.js"
+      ui: {
+        files: {
+          "<%= dest %>/assets/js/core.min.js": [
+            "src/assets/js/jquery.js",
+            "bower_components/bootstrap/js/collapse.js",
+            "bower_components/bootstrap/js/transitions.js",
+            "bower_components/bootstrap/js/dropdown.js",
+            "bower_components/lazyload/build/lazyload.min.js",
+            "bower_components/sorttable/sorttable.js",
+            "src/assets/js/dynamic-sorter.js",
+            "src/assets/js/main.js"
+          ],
+          "<%= dest %>/assets/js/ie-legacy.min.js": [
+            "bower_components/html5shiv/dist/html5shiv.js"
+          ]
+        }
       }
     },
 
