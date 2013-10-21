@@ -28,20 +28,24 @@
        <ul class="nav navbar-nav navbar-right">
          <li><a href="http://forums.emunova.net">Forums</a></li>
          <li class="dropdown">
-           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contribuer <b class="caret"></b></a>
+           <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Contribuer <b class="caret"></b></a>
 
            <ul class="dropdown-menu">
-             {{#link-edit page.src}}<li><a href="{{.}}"><strong>Modifier/corriger cette page</strong></a></li>{{/link-edit}}
+             {{#link-edit page.src}}
+             <li><a href="{{.}}">Modifier/corriger cette page</a></li>
+             {{else}}
+             <li class="disabled"><a href="{{.}}">Modifier/corriger cette page</a></li>
+             {{/link-edit}}
            </ul>
          </li>
          <li class="dropdown">
-           <a href="/about/" class="dropdown-toggle" data-toggle="dropdown">À propos  <b class="caret"></b></a>
+           <a href="/about/" class="dropdown-toggle" data-toggle="dropdown" data-target="#">À propos  <b class="caret"></b></a>
 
            <ul class="dropdown-menu">
              <li><a href="/about/">À propos</a></li>
              <li><a href="/about/team.html">Équipe</a></li>
              <li><a href="/about/changelog.html">Changelog</a></li>
-             <li>&copy; 2002 - {{now "%Y"}}, Emu Nova</li>
+             <li class="dropdown-header">&copy; 2002 - {{now "%Y"}}, Emu Nova</li>
            </ul>
          </li>
        </ul>
