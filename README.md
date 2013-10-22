@@ -2,6 +2,8 @@
 
 ## Installing
 
+[`data.emunova.net`](https://github.com/oncletom/data.emunova.net) must have been installed first.
+
 ```bash
 git clone https://github.com/oncletom/emunova.net.git
 npm install
@@ -9,7 +11,7 @@ bower install
 npm link data.emunova.net
 ```
 
-## Assembling`
+## Assembling
 
 **Notice**: it relies on GNU `sed`, which is not loaded by default on OSX.
 The underlying effect is it will simply not copy the system and games images.
@@ -51,4 +53,4 @@ If you have already built everything on your machine, then use the following:
 
 ```bash
 grunt deploy-fast
-``
+```
