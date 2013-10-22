@@ -9,10 +9,12 @@
   $('form[data-target]').each(function(i, el){ (new DynamicSorter(el)).registerEvents(); });
 
   var $menus = $('#megamenu-system, #megamenu-game');
-  $menus.on('show.bs.collapse', function(e){
-    $menus.not(this).collapse('hide').each(function(i, el){
-      console.log($('#nav [href="'+el.getAttribute('id')+'"]'));
-      $('#nav [href="'+el.getAttribute('id')+'"]').addClass('collapsed');
+
+  $menus.on('show.bs.collapse', function(){
+    var $others = $menus.not(this);
+
+    $others.collapse('hide').each(function(i, el){
+      $('#nav [href="#'+el.getAttribute('id')+'"]').addClass('collapsed');
     });
   });
 })(window, document, jQuery);
