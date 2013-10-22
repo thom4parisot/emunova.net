@@ -18,7 +18,7 @@ module.exports = function (grunt) {
   grunt.initConfig({
     datasource: "node_modules/data.emunova.net",
     dest: "tmp/build",
-    systems: "<%= process.env.NODE_ENV === 'dev' ? '3do' : '*' %>",
+    systems: "<%= process.env.NODE_ENV === 'dev' ? (process.env.SYSTEM || '3do') : '*' %>",
 
     precache: {
       systems: {
@@ -338,7 +338,9 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks("grunt-responsive-images");
   grunt.loadTasks('lib/grunt');
 
-  grunt.registerTask("default", ["shell:clean", "precache", "assemble", "responsive_images", "copy", "uglify", "less", "shell:game_images", "shell:system_images"]);
+  grunt.registerTask("default", ["build"]);
+
+  grunt.registerTask("build", ["shell:clean", "precache", "assemble", "responsive_images", "copy", "uglify", "less", "shell:game_images", "shell:system_images"]);
   grunt.registerTask("deploy", ["default", "gh-pages"]);
   grunt.registerTask("deploy-fast", ["gh-pages"]);
 };
