@@ -1,9 +1,9 @@
 {
   "name": "emunova.net",
-  "version": "3.0.0",
+  "version": "3.0.2",
   "homepage": "https://github.com/oncletom/emunova.net",
   "authors": [
-    "Thomas Parisot <thomas.parisot@bbc.co.uk>"
+    "Thomas Parisot <thomas@oncle-tom.net>"
   ],
   "license": "MIT",
   "private": true,
