@@ -168,7 +168,7 @@ module.exports = function (grunt) {
       game_entry: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: "games/*/*/index.json",
+        src: "games/3do/*/index.json",
         rename: renameGameUri,
         dest: "<%= dest %>/",
         options: {
