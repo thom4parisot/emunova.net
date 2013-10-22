@@ -1,11 +1,17 @@
 <div id="megamenu-system" class="well well-sm megamenu collapse {{#if megamenu_system}}in{{/if}}">
   <div class="lead">
-    <p><strong>{{system.name}}</strong> est un système conçu par <strong>{{system.manufacturer}}</strong>.
-      {{#if system.alternate_names}}
-        Il est également connu sous {{inflect system.alternate_names "le nom" "les noms"}}
-        de {{inline system.alternate_names}}.
+      {{#if system.description}}
+        {{#markdown}}{{system.description}}{{/markdown}}
+      {{else}}
+      <p>
+        <strong>{{system.name}}</strong> est un système conçu par <strong>{{system.manufacturer}}</strong>.
+        {{#if system.alternate_names}}
+          Il est également connu sous {{inflect system.alternate_names "le nom" "les noms"}}
+          de {{inline system.alternate_names}}.
+        {{/if}}
+      </p>
       {{/if}}
-    </p>
+
 
     <div class="row">
       <div class="col-lg-2 col-sm-3 col-xs-6">
