@@ -7,7 +7,7 @@
     "start": "serve -p 3000 --compress --favicon tmp/build/favicon.ico tmp/build",
     "test": "grunt test",
     "build": "npm run build-jquery && grunt uglify",
-    "build-jquery": "jquery-builder --v 2.0.3 -e ajax,deprecated,effects,wrap,sizzle > src/assets/js/jquery.js"
+    "build-jquery": "jquery-builder --v 1.10.2 -e ajax,deprecated,effects,wrap > src/assets/js/jquery.js"
   },
   "repository": {
     "type": "git",
