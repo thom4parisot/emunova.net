@@ -10,7 +10,7 @@
 
   var $menus = $('#megamenu-system, #megamenu-game');
 
-  $menus.on('show.bs.collapse', function(){
+  $menus.on('show.bs.collapse',function(){
     var $others = $menus.not(this);
 
     $others.collapse('hide').each(function(i, el){
