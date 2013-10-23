@@ -230,6 +230,7 @@ module.exports = function (grunt) {
         files: {
           "<%= dest %>/assets/js/bootstrap-modern.min.js": [
             "src/assets/js/jquery.js",
+            "bower_components/sorttable/sorttable.js",
           ],
           "<%= dest %>/assets/js/bootstrap-ie.min.js": [
             "src/assets/js/jquery-legacy.js",
@@ -240,7 +241,6 @@ module.exports = function (grunt) {
             "bower_components/bootstrap/js/transitions.js",
             "bower_components/bootstrap/js/dropdown.js",
             "bower_components/lazyload/build/lazyload.min.js",
-            "bower_components/sorttable/sorttable.js",
             "src/assets/js/dynamic-sorter.js",
             "src/assets/js/main.js"
           ]
