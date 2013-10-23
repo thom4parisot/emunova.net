@@ -228,8 +228,14 @@ module.exports = function (grunt) {
     uglify: {
       ui: {
         files: {
-          "<%= dest %>/assets/js/core.min.js": [
+          "<%= dest %>/assets/js/bootstrap-modern.min.js": [
             "src/assets/js/jquery.js",
+          ],
+          "<%= dest %>/assets/js/bootstrap-ie.min.js": [
+            "src/assets/js/jquery-legacy.js",
+            "bower_components/html5shiv/dist/html5shiv.js"
+          ],
+          "<%= dest %>/assets/js/core.min.js": [
             "bower_components/bootstrap/js/collapse.js",
             "bower_components/bootstrap/js/transitions.js",
             "bower_components/bootstrap/js/dropdown.js",
@@ -237,9 +243,6 @@ module.exports = function (grunt) {
             "bower_components/sorttable/sorttable.js",
             "src/assets/js/dynamic-sorter.js",
             "src/assets/js/main.js"
-          ],
-          "<%= dest %>/assets/js/ie-legacy.min.js": [
-            "bower_components/html5shiv/dist/html5shiv.js"
           ]
         }
       }
@@ -340,7 +343,10 @@ module.exports = function (grunt) {
 
   grunt.registerTask("default", ["build"]);
 
-  grunt.registerTask("build", ["shell:clean", "precache", "assemble", "responsive_images", "copy", "uglify", "less", "shell:game_images", "shell:system_images"]);
+  grunt.registerTask("build", ["build-pre", "build-fast", "build-post"]);
+  grunt.registerTask("build-pre", ["shell:clean", "precache"]);
+  grunt.registerTask("build-post", ["responsive_images", "copy", "shell:game_images", "shell:system_images"]);
+  grunt.registerTask("build-fast", ["assemble", "uglify", "less"]);
   grunt.registerTask("deploy", ["default", "gh-pages"]);
   grunt.registerTask("deploy-fast", ["gh-pages"]);
 };
