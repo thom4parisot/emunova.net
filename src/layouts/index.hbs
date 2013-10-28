@@ -7,10 +7,9 @@
         <label class="control-label" for="support-selector">Je cherche un</label>
       </div>
       <div class="form-group">
-        <label class="sr-only" for="support-selector" data-visible-if="manufacturer">système de jeux vidéo</label>
-        <label class="hidden" for="support-selector" data-visible-if="type">système de jeux vidéo</label>
+        <label class="control-label" for="support-selector">système de jeux vidéo</label>
         <select id="support-selector">
-          <option value="">système de jeux vidéo</option>
+          <option value="" selected>système de jeux vidéo</option>
           <optgroup label="Type de support">
             <option value="type">arcade</option>
             <option value="type">console</option>
@@ -26,8 +25,9 @@
         </select>
       </div>
       <div class="form-group">
-        <select name="year-operator" class="form-control">
-          <option value="">sorti à tout moment</option>
+        <label class="control-label" for="year-operator">sorti à tout moment</label>
+        <select name="year-operator" id="year-operator" class="form-control">
+          <option value="" selected>sorti à tout moment</option>
           <option value="<">sorti avant</option>
           <option value="=">sorti en</option>
           <option value=">">sorti après</option>

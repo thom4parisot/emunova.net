@@ -69,6 +69,7 @@ DynamicSorter.prototype = {
 
     self.form.addEventListener('change', function(){
       self.updateFieldsVisibility();
+      self.updateLabels();
       var filters = self.buildFilters();
       self.filterWith(filters);
     });
@@ -76,8 +77,30 @@ DynamicSorter.prototype = {
     self.form.addEventListener('reset', function(){
       setTimeout(function(){
         self.updateFieldsVisibility();
+        self.updateLabels();
         self.filterWith({});
       }, 0);
+    });
+  },
+  updateLabels: function updateLabels(){
+    "use strict";
+
+    var $form = $(this.form);
+
+    $form.find('select').each(function(){
+      var option = this.options[this.selectedIndex];
+      var text;
+
+      if ($(option).parent().is('optgroup') && this.selectedIndex){
+        text = [this.options[0].label, option.label].join(' ');
+      }
+      else {
+        text = option.label;
+      }
+
+      console.log(this.getAttribute('id'))
+
+      $(this).parent().find('label[for="'+ this.id +'"]').html(text);
     });
   },
   updateFieldsVisibility : function updateFieldsVisibility(){
