@@ -43,37 +43,37 @@
   </form>
 
   <div class="row" data-sorter="systems">
-    {{#each_with_index systems}}
-      <div class="col-sm-4 col-md-3 col-xs-6" data-year="{{released}}" data-type="{{type}}" data-manufacturer="{{manufacturer}}">
-        <h2><a href="{{id}}" rel="bookmark">{{name}}</a></h2>
+    {{#systems}}
+      <div class="col-sm-4 col-md-3 col-xs-6" data-year="{{this.released}}" data-type="{{this.type}}" data-manufacturer="{{this.manufacturer}}">
+        <h2><a href="{{this.id}}" rel="bookmark">{{this.name}}</a></h2>
 
         <div class="row">
           <div class="col-sm-6 col-xs-6 lead">
-            <span>{{manufacturer}}</span>
+            <span>{{this.manufacturer}}</span>
           </div>
           <div class="col-sm-3 col-md-4 col-xs-6 text-right lead">
-            <strong>{{released}}</strong>
+            <strong>{{this.released}}</strong>
           </div>
         </div>
 
         <div class="row">
           <div class="col-sm-3 col-xs-3">
-            <a href="/{{id}}/games/" rel="bookmark">
-              <span class="lead">{{games_count}}</span><br>{{inflect games_count "jeu" "jeux"}}
+            <a href="/{{this.id}}/games/" rel="bookmark">
+              <span class="lead">{{this.games_count}}</span><br>{{inflect this.games_count "jeu" "jeux"}}
             </a>
           </div>
-          {{#if images_count}}<div class="col-sm-3 col-xs-3">
-            <a rel="bookmark" href="/{{id}}/images/">
-              <span class="lead">{{images_count}}</span><br>{{inflect images_count "image" "images"}}
+          {{#if this.images_count}}<div class="col-sm-3 col-xs-3">
+            <a rel="bookmark" href="/{{this.id}}/images/">
+              <span class="lead">{{images_count}}</span><br>{{inflect this.images_count "image" "images"}}
             </a>
           </div>{{/if}}
         </div>
       </div>
 
-      {{#clearfix index 4}} <div class="clearfix visible-md visible-lg"></div> {{/clearfix}}
-      {{#clearfix index 3}} <div class="clearfix visible-sm"></div> {{/clearfix}}
-      {{#clearfix index 2}} <div class="clearfix visible-xs"></div> {{/clearfix}}
-    {{/each_with_index}}
+      {{#clearfix this.index 4}} <div class="clearfix visible-md visible-lg"></div> {{/clearfix}}
+      {{#clearfix this.index 3}} <div class="clearfix visible-sm"></div> {{/clearfix}}
+      {{#clearfix this.index 2}} <div class="clearfix visible-xs"></div> {{/clearfix}}
+    {{/systems}}
   </div>
 </main>
 

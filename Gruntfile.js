@@ -108,7 +108,6 @@ module.exports = function (grunt) {
         helpers: ["lib/handlebars/*.js"],
         partials: "src/partials/**/*.hbs",
         extension: ".html",
-        data: "cache/systems.json",
         layout: "default.hbs"
       },
 
