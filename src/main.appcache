@@ -1,6 +1,12 @@
 CACHE MANIFEST
+# v2
 
-# v1
+CACHE:
+/assets/css/fonts.css
+/assets/css/core.css  
+/emunova.gif  
+/assets/js/bootstrap-modern.min.js 
+/assets/js/core.min.js
 
 NETWORK:
 *
