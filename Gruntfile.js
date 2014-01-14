@@ -272,12 +272,13 @@ module.exports = function (grunt) {
             name: "sq",
             width: 170,
             height: 170,
-            quality: 0.5
+            quality: 50
           },
           {
             name: "md",
             width: 270,
-            quality: 0.8
+            quality: 80,
+            upscale: true
           }
         ]
       },
