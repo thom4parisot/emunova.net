@@ -104,7 +104,6 @@ module.exports = function (grunt) {
       options: {
         assets: "<%= dest %>/assets",
         layoutdir: "src/layouts",
-        engine: "handlebars",
         helpers: ["lib/handlebars/*.js"],
         partials: "src/partials/**/*.hbs",
         extension: ".html",
