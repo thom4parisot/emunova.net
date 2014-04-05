@@ -328,6 +328,26 @@ module.exports = function (grunt) {
       }
     },
 
+    concurrent: {
+      ui: [
+        "uglify",
+        "less"
+      ],
+      content: [
+        "assemble:home",
+        "assemble:contents",
+        "assemble:systems",
+        "assemble:systems_images",
+        "assemble:systems_contents",
+        "assemble:game_entry",
+        "assemble:game_review",
+        "assemble:game_ratings"
+      ],
+      options: {
+        logConcurrentOutput: true
+      }
+    },
+
     "gh-pages": {
       options: {
         base: "<%= dest %>",
@@ -342,6 +362,7 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks("grunt-contrib-less");
   grunt.loadNpmTasks("grunt-contrib-uglify");
   grunt.loadNpmTasks("grunt-gh-pages");
+  grunt.loadNpmTasks("grunt-concurrent");
   grunt.loadNpmTasks('grunt-shell');
   grunt.loadNpmTasks("grunt-responsive-images");
   grunt.loadTasks('lib/grunt');
@@ -351,7 +372,7 @@ module.exports = function (grunt) {
   grunt.registerTask("build", ["build-pre", "build-fast", "build-post"]);
   grunt.registerTask("build-pre", ["shell:clean", "precache"]);
   grunt.registerTask("build-post", ["responsive_images", "copy", "shell:game_images", "shell:system_images"]);
-  grunt.registerTask("build-fast", ["assemble", "uglify", "less"]);
+  grunt.registerTask("build-fast", ["concurrent:content", "concurrent:ui"]);
   grunt.registerTask("deploy", ["default", "gh-pages"]);
   grunt.registerTask("deploy-fast", ["gh-pages"]);
 };
