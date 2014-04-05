@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "serve -p 3000 --compress --favicon tmp/build/favicon.ico tmp/build",
+    "start": "serve -p 3000 --cors --compress --favicon tmp/build/favicon.ico tmp/build",
     "test": "grunt test",
     "build": "npm run build-jquery",
     "build-jquery": "npm run build-jquery-legacy && npm run build-jquery-modern",
-    "build-jquery-legacy": "jquery-builder --v 1.10.2 -e ajax,deprecated,effects,wrap > src/assets/js/jquery-legacy.js",
-    "build-jquery-modern": "jquery-builder --v 2.0.3 -e ajax,deprecated,effects,wrap,sizzle > src/assets/js/jquery.js"
+    "build-jquery-legacy": "jquery-builder --v 1.10.2 -e deprecated,effects,wrap > src/assets/js/jquery-legacy.js",
+    "build-jquery-modern": "jquery-builder --v 2.0.3 -e deprecated,effects,wrap,sizzle > src/assets/js/jquery.js"
   },
   "repository": {
     "type": "git",

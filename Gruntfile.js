@@ -208,7 +208,7 @@ module.exports = function (grunt) {
         expand: true,
         flatten: true,
         cwd: "src/",
-        src: ["CNAME", "*.*", "assets/favicon.ico", "img/*"],
+        src: ["CNAME", "*.*", "assets/favicon.ico", "dist/*"],
         dest: "<%= dest %>/"
       },
       ui: {
@@ -240,8 +240,14 @@ module.exports = function (grunt) {
             "bower_components/bootstrap/js/dropdown.js",
             "bower_components/lazyload/build/lazyload.min.js",
             "src/assets/js/dynamic-sorter.js",
+            "src/assets/js/rss/remote-content.js",
             "src/assets/js/main.js"
           ]
+        },
+        options: {
+          mangle: true,
+          beautify: false,
+          report: 'min'
         }
       }
     },

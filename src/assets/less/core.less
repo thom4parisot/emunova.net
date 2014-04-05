@@ -76,6 +76,18 @@
   opacity: 0.5;
 }
 
+.img-downsize {
+  text-align: center;
+
+  img {
+    background: white;
+    border: 1px solid #ccc;
+    margin: @grid-gutter-width / 2;
+    max-width: 75%;
+    padding: 3px;
+  }
+}
+
 .table-sortable thead th,
 .table-sortable thead td {
   cursor: pointer;
@@ -93,4 +105,19 @@
 /* temporary workaround */
 .row-gallery [class*="col-sm-"] {
   padding-bottom: 15px;
+}
+
+
+.dl-horizontal.dl-compact {
+  dt {
+    width: (@component-offset-horizontal / 2) - 10;
+  }
+
+  dd {
+    margin-left: @component-offset-horizontal / 2;
+  }
+
+  .progress {
+    margin-top: @navbar-padding-vertical;
+  }
 }
