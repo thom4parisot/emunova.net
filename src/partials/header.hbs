@@ -33,6 +33,7 @@
 
      <div class="collapse navbar-collapse" id="collapsable-navbar">
        <ul class="nav navbar-nav navbar-right">
+         <li><a href="/" rel="home">Accueil</a></li>
          <li><a href="http://forums.emunova.net">Forums</a></li>
          <li class="dropdown">
            <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Contribuer <b class="caret"></b></a>
@@ -60,6 +61,7 @@
   </div>
 </nav>
 
+{{#or system game}}
 <div class="container">
   <nav class="navbar navbar-breadcrumb navbar-static-top" id="nav">
     <ul class="nav navbar-nav">
@@ -76,6 +78,7 @@
     </ul>
   </nav>
 </div>
+{{/or}}
 
 <div class="container">
   {{#if system}} {{> megamenu-system}} {{/if}}

@@ -208,7 +208,7 @@ module.exports = function (grunt) {
         expand: true,
         flatten: true,
         cwd: "src/",
-        src: ["CNAME", "*.*", "assets/favicon.ico", "img/*"],
+        src: ["CNAME", "*.*", "assets/favicon.ico", "dist/*"],
         dest: "<%= dest %>/"
       },
       ui: {
@@ -240,8 +240,14 @@ module.exports = function (grunt) {
             "bower_components/bootstrap/js/dropdown.js",
             "bower_components/lazyload/build/lazyload.min.js",
             "src/assets/js/dynamic-sorter.js",
+            "src/assets/js/rss/remote-content.js",
             "src/assets/js/main.js"
           ]
+        },
+        options: {
+          mangle: true,
+          beautify: false,
+          report: 'min'
         }
       }
     },
@@ -322,6 +328,26 @@ module.exports = function (grunt) {
       }
     },
 
+    concurrent: {
+      ui: [
+        "uglify",
+        "less"
+      ],
+      content: [
+        "assemble:home",
+        "assemble:contents",
+        "assemble:systems",
+        "assemble:systems_images",
+        "assemble:systems_contents",
+        "assemble:game_entry",
+        "assemble:game_review",
+        "assemble:game_ratings"
+      ],
+      options: {
+        logConcurrentOutput: true
+      }
+    },
+
     "gh-pages": {
       options: {
         base: "<%= dest %>",
@@ -336,6 +362,7 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks("grunt-contrib-less");
   grunt.loadNpmTasks("grunt-contrib-uglify");
   grunt.loadNpmTasks("grunt-gh-pages");
+  grunt.loadNpmTasks("grunt-concurrent");
   grunt.loadNpmTasks('grunt-shell');
   grunt.loadNpmTasks("grunt-responsive-images");
   grunt.loadTasks('lib/grunt');
@@ -345,7 +372,7 @@ module.exports = function (grunt) {
   grunt.registerTask("build", ["build-pre", "build-fast", "build-post"]);
   grunt.registerTask("build-pre", ["shell:clean", "precache"]);
   grunt.registerTask("build-post", ["responsive_images", "copy", "shell:game_images", "shell:system_images"]);
-  grunt.registerTask("build-fast", ["assemble", "uglify", "less"]);
+  grunt.registerTask("build-fast", ["concurrent:content", "concurrent:ui"]);
   grunt.registerTask("deploy", ["default", "gh-pages"]);
   grunt.registerTask("deploy-fast", ["gh-pages"]);
 };

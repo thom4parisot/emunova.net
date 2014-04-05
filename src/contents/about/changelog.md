@@ -2,6 +2,16 @@
 title: Changelog
 ---
 
+# Retour des actualités <small>(5 avril 2014)</small>
+
+Plusieurs personnes ont demandé les actualités en page d'accueil.
+
+[Nos camarades d'Emu France ont proposé](http://forums.emunova.net/topic/45791-chantiers-en-cours-wip/?p=229431) de fournir le contenu.
+
+Alors comment dire non ?
+
+<div class="img-downsize">![État des news au 5 avril 2014](/assets/changelog/2014-04-05.png)</div>
+
 # Emu Nova v3 <small>(14 octobre 2013)</small>
 
 Un projet de refonte qui aboutira au bout de 6 ans,
