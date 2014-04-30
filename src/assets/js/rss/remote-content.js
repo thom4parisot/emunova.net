@@ -106,7 +106,7 @@
       request.done(function(data){
         self.setProgress(75);
         self.render([].slice.apply(data.getElementsByTagName('item')));
-        selt.setState('loaded');
+        self.setState('loaded');
       });
 
       request.fail(function(){
