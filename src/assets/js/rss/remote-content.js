@@ -6,6 +6,7 @@
   function remoteContent(url, container){
     this.url = url;
     this.container = container;
+    this.state = 'loading';
   }
 
   remoteContent.prototype = {
@@ -73,13 +74,19 @@
     setProgress: function(percentage){
       this.getProgressBarElement().css('width', parseInt(percentage, 10) + '%');
     },
-    setErrorState: function(){
+    setState: function(state, message){
+      $(this.container)
+        .removeClass(this.state)
+        .addClass(state)
+
       this.getProgressBarElement()
-        .removeClass('progress-bar-success')
-        .addClass('progress-bar-error')
-        .text('Une erreur s\'est produite :-(')
+        .removeClass('progress-bar-'+this.state)
+        .addClass('progress-bar-'+state)
+        .text(message)
         .parent()
-          .removeClass('active')
+          .removeClass('active');
+
+      this.state = state;
     },
     getProgressBarElement: function(){
       return $(this.container).find('[role="progressbar"]');
@@ -99,11 +106,12 @@
       request.done(function(data){
         self.setProgress(75);
         self.render([].slice.apply(data.getElementsByTagName('item')));
+        selt.setState('loaded');
       });
 
       request.fail(function(){
         self.setProgress(100);
-        self.setErrorState()
+        self.setState('error', 'Une erreur s\'est produite :-(')
       });
 
       self.setProgress(50);

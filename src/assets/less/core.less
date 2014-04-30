@@ -108,7 +108,7 @@
 }
 
 
-.dl-horizontal.dl-compact {
+.rss-content {
   dt {
     width: (@component-offset-horizontal / 2) - 10;
   }
@@ -117,7 +117,23 @@
     margin-left: @component-offset-horizontal / 2;
   }
 
+  [data-item-limit]{
+    opacity: .35;
+  }
+
+  &.loaded {
+    [data-item-limit]{
+      opacity: 1;
+      transition: opacity .5s ease-in;
+    }
+
+    .progress {
+      display: none;
+    }
+  }
+
   .progress {
     margin-top: @navbar-padding-vertical;
+    position: absolute;
   }
 }
