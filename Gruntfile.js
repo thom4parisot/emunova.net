@@ -337,6 +337,7 @@ module.exports = function (grunt) {
         "assemble:home",
         "assemble:contents",
         "assemble:systems",
+        "assemble:games",
         "assemble:systems_images",
         "assemble:systems_contents",
         "assemble:game_entry",
