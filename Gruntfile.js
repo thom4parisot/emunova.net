@@ -309,7 +309,7 @@ module.exports = function (grunt) {
         },
         command: [
           "for file in `find ./node_modules/data.emunova.net/systems -type f \\( -name '*.jpeg' -o -name '*.gif' -o -name '*.jpg' -o -name '*.png' \\)`",
-            "do dest='./tmp/build/'$(echo $file | sed -e 's/^.\\+\\/data.emunova.net\\/systems\\/\\([^\\/]\\+\\)/\\1/g')",
+            "do dest='./tmp/build/'$(echo $file | gsed -e 's/^.\\+\\/data.emunova.net\\/systems\\/\\([^\\/]\\+\\)/\\1/g')",
             "mkdir -p $(dirname $dest)",
             "cp $file $dest",
           "done"
@@ -321,7 +321,7 @@ module.exports = function (grunt) {
         },
         command: [
           "for file in `find ./node_modules/data.emunova.net/games -type f \\( -name '*.jpeg' -o -name '*.gif' -o -name '*.jpg' -o -name '*.png' \\)`",
-            "do dest='./tmp/build/'$(echo $file | sed -e 's/^.\\+\\/data.emunova.net\\/games\\/\\([^\\/]\\+\\)/\\1\\/games/g')",
+            "do dest='./tmp/build/'$(echo $file | gsed -e 's/^.\\+\\/data.emunova.net\\/games\\/\\([^\\/]\\+\\)/\\1\\/games/g')",
             "mkdir -p $(dirname $dest)",
             "cp $file $dest",
           "done"
