@@ -18,7 +18,7 @@ h1 small, .h1 small {
 
 .btn {
   border-radius: 4px;
-  box-shadow: 0 2px lighten(@btn-default-color, 10%);
+  box-shadow: 0 1px lighten(@btn-default-color, 10%);
   font-weight: 500;
 }
 
@@ -29,6 +29,11 @@ h1 small, .h1 small {
 
 .well {
   color: white;
+
+  a.btn {
+    color: @btn-default-color;
+    text-shadow: none;
+  }
 }
 
 .img-elastic {
