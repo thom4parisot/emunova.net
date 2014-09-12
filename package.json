@@ -21,21 +21,22 @@
     "url": "https://github.com/oncletom/emunova.net/issues"
   },
   "dependencies": {
-    "grunt": "~0.4.1",
     "assemble": "~0.4.24",
+    "assemble-yaml": "~0.2.1",
+    "grunt": "~0.4.1",
+    "grunt-concurrent": "^0.5.0",
     "grunt-contrib-copy": "~0.4.1",
-    "grunt-responsive-images": "~0.1.1",
     "grunt-contrib-uglify": "~0.2.4",
     "grunt-gh-pages": "~0.7.1",
-    "grunt-shell": "~0.4.0",
-    "grunt-concurrent": "^0.5.0"
+    "grunt-responsive-images": "~0.1.1",
+    "grunt-shell": "~0.4.0"
   },
   "devDependencies": {
-    "grunt-contrib-watch": "~0.5.3",
     "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-less": "~0.11.4",
+    "grunt-contrib-watch": "~0.5.3",
+    "jquery-builder": "~0.5.0",
     "serve": "^1.4.0",
-    "time-grunt": "~0.1.1",
-    "grunt-contrib-less": "~0.7.0",
-    "jquery-builder": "~0.5.0"
+    "time-grunt": "~0.1.1"
   }
 }
