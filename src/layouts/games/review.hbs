@@ -4,16 +4,22 @@
   {{> header}}
 {{/import}}
 
-<main>
-  <h1>{{default page.title "Test du jeu vidéo"}}</h1>
+<main itemscope itemtype="http://data-vocabulary.org/Review">
+  <h1>
+    Critique de
+    <span itemprop="itemreviewed">{{game.title}}</span>
+    par <span itemprop="reviewer">{{page.user}}</span>
+  </h1>
+  {{#if page.title}}<h2>{{page.title}}</h2>{{/if}}
 
   <div class="row">
     <div class="col-sm-8">
-      {{#markdown}} {{> body}} {{/markdown}}
+      <article itemprop="description">{{#markdown}} {{> body}} {{/markdown}}</article>
 
       {{#gte page.rating 0}}
         <p class="lead">
           <strong>Note finale</strong>: {{rating page.rating}}
+          <meta itemprop="rating" content="{{page.rating}}" />
         </p>
       {{/gte}}
     </div>
@@ -42,9 +48,8 @@
             {{/game_breakdown}}
         </ul>
 
-        <a href="../ratings.html">
-          <span class="lead">{{game.comments_count}}</span>
-            {{inflect game.comments_count "note et commentaire" "notes et commentaires"}}
+        <a href="../ratings.html" class="btn btn-default">
+          Lire les {{game.comments_count}} avis
         </a>
       </div>
 

@@ -24,16 +24,13 @@
      <div class="navbar-header">
        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapsable-navbar">
          <span class="sr-only">Toggle navigation</span>
-         <span class="icon-bar"></span>
-         <span class="icon-bar"></span>
-         <span class="icon-bar"></span>
+         <span class="icon-dot-3"></span>
        </button>
        <a class="navbar-brand" href="/" rel="home"><img src="/emunova.gif" alt="Emu Nova"></a>
      </div>
 
      <div class="collapse navbar-collapse" id="collapsable-navbar">
        <ul class="nav navbar-nav navbar-right">
-         <li><a href="/" rel="home">Accueil</a></li>
          <li><a href="http://forums.emunova.net">Forums</a></li>
          <li class="dropdown">
            <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Contribuer <b class="caret"></b></a>
@@ -64,23 +61,20 @@
 {{#or system game}}
 <div class="container">
   <nav class="navbar navbar-breadcrumb navbar-static-top" id="nav">
-    <ul class="nav navbar-nav">
-      <li class="col-sm-6 nav-system">{{#if system}}
-        <a class="accordion-toggle {{#unless megamenu_system}}collapsed{{/unless}}" data-toggle="collapse" href="#megamenu-system">
-            <h1 class="h3">{{system.name}}</h1>
-        </a>
-      {{/if}}</li>
-      <li class="col-sm-6 nav-game">{{#if game}}
-        <a class="accordion-toggle {{#unless megamenu_game}}collapsed{{/unless}}" data-toggle="collapse" href="#megamenu-game">
-          <h2 class="h3">{{game.title}}</h2>
-        </a>
-      {{/if}}</li>
-    </ul>
+    <ol class="breadcrumb" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+      <li><a href="/" rel="home"><span class="icon-home"></span></a></li>
+      {{#if system}}<li><a href="/{{system.id}}/" itemprop="url"><span itemprop="title">{{system.name}}</span></a></li>{{/if}}
+      {{#if game}}<li><a href="/{{system.id}}/games/{{game.id}}/" itemprop="url"><span itemprop="title">{{game.title}}</span></a></li>{{/if}}
+    </ol>
   </nav>
 </div>
 {{/or}}
 
 <div class="container">
-  {{#if system}} {{> megamenu-system}} {{/if}}
-  {{#if game}} {{> megamenu-game}} {{/if}}
-
+  {{#if game}}
+    {{> megamenu-game}}
+  {{else}}
+    {{#if system}}
+      {{> megamenu-system}}
+    {{/if}}
+  {{/if}}

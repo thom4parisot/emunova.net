@@ -258,6 +258,7 @@ module.exports = function (grunt) {
         //report: "gzip",
         paths: [
           "src/assets/less/lib",
+          "src/assets/iconfont/css",
           "bower_components/bootstrap/less"
         ]
       },
