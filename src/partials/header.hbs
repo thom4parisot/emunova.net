@@ -61,10 +61,10 @@
 {{#or system game}}
 <div class="container">
   <nav class="navbar navbar-breadcrumb navbar-static-top" id="nav">
-    <ol class="breadcrumb">
+    <ol class="breadcrumb" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
       <li><a href="/" rel="home"><span class="icon-home"></span></a></li>
-      {{#if system}}<li><a href="/{{system.id}}/">{{system.name}}</a></li>{{/if}}
-      {{#if game}}<li><a href="/{{system.id}}/games/{{game.id}}/">{{game.title}}</a></li>{{/if}}
+      {{#if system}}<li><a href="/{{system.id}}/" itemprop="url"><span itemprop="title">{{system.name}}</span></a></li>{{/if}}
+      {{#if game}}<li><a href="/{{system.id}}/games/{{game.id}}/" itemprop="url"><span itemprop="title">{{game.title}}</span></a></li>{{/if}}
     </ol>
   </nav>
 </div>

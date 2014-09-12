@@ -1,9 +1,9 @@
 <div id="megamenu-game" class="well well-sm megamenu collapse {{#if megamenu_game}}in{{/if}}" data-offset="{{megamenu-offset system.name}}">
-    <div class="row">
+    <div class="row" itemscope itemtype="http://data-vocabulary.org/Review-aggregate">
       <div class="col-sm-9">
         <div class="row">
           <div class="col-sm-12 col-xs-12">
-            <p class="lead"><strong>{{game.title}}</strong> est un jeu vidéo <a href="/{{system.id}}/">{{system.name}}</a>
+            <p class="lead"><strong itemprop="itemreviewed">{{game.title}}</strong> est un jeu vidéo <a href="/{{system.id}}/">{{system.name}}</a>
               publié par <strong>{{game.editor}}</strong> en <strong>{{game.released}}</strong>.
                 {{#if game.players}}
                   Il se joue à <em>{{inflect game.players "joueur" "joueurs" true}}</em>.
@@ -30,9 +30,9 @@
             </a>
           </div>
 
-          <div class="col-sm-2 col-xs-5 lead">
-            <a href="/{{system.id}}/games/{{game.id}}/ratings.html">
-              <strong>{{game.comments_count}}</strong><br>{{inflect game.comments_count "note et commentaire" "notes et commentaires"}}
+          <div class="col-sm-2 col-xs-5 lead" itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating">
+            <a href="/{{system.id}}/games/{{game.id}}/ratings.html" itemprop="rating" content="{{game.rating}}">
+              <strong itemprop="votes">{{game.comments_count}}</strong><br>{{inflect game.comments_count "note et commentaire" "notes et commentaires"}}
             </a>
           </div>
         </div>
@@ -42,7 +42,7 @@
       <div class="col-sm-3">
         {{#gt game.images_count 0}}
             {{#game_images system game 6}}
-              <img class="img-thumbnail img-elastic" src="/{{../system.id}}/games/{{../game.id}}/images/{{this.filename}}" alt="{{this.title}}"/>
+              <img class="img-thumbnail img-elastic" src="/{{../system.id}}/games/{{../game.id}}/images/{{this.filename}}" itemprop="photo" alt="{{this.title}}"/>
             {{/game_images}}
         {{/gt}}
       </div>
