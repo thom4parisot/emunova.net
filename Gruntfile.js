@@ -18,7 +18,8 @@ module.exports = function (grunt) {
   grunt.initConfig({
     datasource: "node_modules/data.emunova.net",
     dest: "tmp/build",
-    systems: "<%= process.env.NODE_ENV === 'dev' ? (process.env.SYSTEM || '3do') : '*' %>",
+    systems: grunt.option('system') || '*',
+    game: grunt.option('game') || '*',
 
     precache: {
       systems: {
@@ -166,7 +167,7 @@ module.exports = function (grunt) {
       game_entry: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: "games/<%= systems %>/*/index.json",
+        src: "games/<%= systems %>/<%= game %>/index.json",
         rename: renameGameUri,
         dest: "<%= dest %>/",
         options: {
@@ -176,7 +177,7 @@ module.exports = function (grunt) {
       game_review: {
         expand: true,
         cwd: "<%= datasource %>",
-        src: "games/<%= systems %>/*/reviews/*.md",
+        src: "games/<%= systems %>/<%= game %>/reviews/*.md",
         rename: renameGameUri,
         dest: "<%= dest %>/",
         options: {
