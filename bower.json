@@ -17,7 +17,7 @@
   "dependencies": {
     "lazyload": "~2.0.5",
     "holderjs": "~2.1.0",
-    "bootstrap": "~3.0.0",
+    "bootstrap": "3.0.0",
     "sorttable": "oncletom/sorttable#develop",
     "html5shiv": "~3.7.0"
   }
