@@ -6,22 +6,21 @@
 
 <main itemscope itemtype="http://data-vocabulary.org/Review">
   <h1>
-    Critique de
+    Test du jeu vidéo
     <span itemprop="itemreviewed">{{game.title}}</span>
-    par <span itemprop="reviewer">{{page.user}}</span>
   </h1>
-  {{#if page.title}}<h2>{{page.title}}</h2>{{/if}}
+
+  <meta itemprop="rating" content="{{page.rating}}" />
+  <h2>{{rating page.rating}} <small itemprop="reviewer">par <strong>{{page.user}}</strong></small></h2>
+  {{#if page.title}}<h3>{{page.title}}</h3>{{/if}}
 
   <div class="row">
     <div class="col-sm-8">
       <article itemprop="description">{{#markdown}} {{> body}} {{/markdown}}</article>
 
-      {{#gte page.rating 0}}
-        <p class="lead">
-          <strong>Note finale</strong>: {{rating page.rating}}
-          <meta itemprop="rating" content="{{page.rating}}" />
-        </p>
-      {{/gte}}
+      <p>
+        <a class="btn btn-primary" href="../"><span class="icon-home"></span> {{game.title}}</a>
+      </p>
     </div>
 
     <div class="col-sm-4">
