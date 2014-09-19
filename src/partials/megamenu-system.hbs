@@ -1,4 +1,4 @@
-<div id="megamenu-system" class="well well-sm megamenu collapse {{#if megamenu_system}}in{{/if}}">
+<div id="megamenu-system" class="well megamenu collapse {{#if megamenu_system}}in{{/if}}">
   <div class="lead">
       {{#if system.description}}
         {{#markdown}}{{system.description}}{{/markdown}}
@@ -14,32 +14,32 @@
 
 
     <div class="row">
-      <div class="col-lg-2 col-sm-3 col-xs-6">
+      <div class="col-sm-3 col-xs-12">
         <ul class="list-unstyled">
-          <li><strong>{{system.released}}</strong></li>
+          <li><span class="year">{{system.released}}</span></li>
           <li>{{system.type}}</li>
         </ul>
       </div>
 
-      <div class="col-lg-2 col-sm-4 col-xs-6">
-        <ul class="list-unstyled">
-          <li><a href="/{{system.id}}/games/">
-            <strong>{{system.games_count}}</strong> {{inflect system.games_count "jeu" "jeux"}}
+      <div class="col-sm-4 col-xs-12">
+        <ul class="list-inline">
+          <li><a href="/{{system.id}}/games/" class="btn btn-lg btn-primary">
+            {{system.games_count}}<br>{{inflect system.games_count "jeu" "jeux"}}
           </a></li>
-          {{#if system.images_count}}<li><a href="/{{system.id}}/images/">
-            <strong>{{system.images_count}}</strong> {{inflect system.images_count "image" "images"}}
+          {{#if system.images_count}}<li><a href="/{{system.id}}/images/" class="btn btn-lg btn-primary">
+            {{system.images_count}}<br>{{inflect system.images_count "image" "images"}}
           </a></li>{{/if}}
         </ul>
       </div>
 
-      <div class="col-lg-4 col-sm-6 col-xs-6">
+      <div class="col-lg-4 col-sm-5 col-xs-12">
         <ul class="list-unstyled">
-          {{#file_exists "history.md"}}<li><a href="/{{system.id}}/history.html">
-            <strong>Histoire</strong><br><small>Conception, vie et anecdotes</small>
-          </a></li>{{/file_exists}}
-          <li><a href="{{system.forums_uri}}">
-            <strong>Forums</strong><br><small>Émulation, discussion, aide</small>
-          </a></li>
+          {{#file_exists "history.md"}}<li><a href="/{{system.id}}/history.html">Histoire</a>
+            <br><small>Conception, vie et anecdotes</small>
+          </li>{{/file_exists}}
+          <li><a href="{{system.forums_uri}}">Forums</a>
+            <br><small>Émulation, discussion, aide</small>
+          </li>
         </ul>
       </div>
     </div>
