@@ -20,6 +20,7 @@ module.exports = function (grunt) {
     dest: "tmp/build",
     systems: grunt.option('system') || '*',
     game: grunt.option('game') || '*',
+    version: 'v' + require('./package.json').version,
 
     precache: {
       systems: {
@@ -103,7 +104,7 @@ module.exports = function (grunt) {
 
     assemble: {
       options: {
-        assets: "<%= dest %>/assets",
+        assets: "<%= dest %>/assets/<%= version %>",
         layoutdir: "src/layouts",
         helpers: ["lib/handlebars/*.js"],
         partials: "src/partials/**/*.hbs",
@@ -220,22 +221,22 @@ module.exports = function (grunt) {
           "!less/**/*",
           "!js/**/*"
         ],
-        dest: "<%= dest %>/assets"
+        dest: "<%= dest %>/assets/<%= version %>"
       }
     },
 
     uglify: {
       ui: {
         files: {
-          "<%= dest %>/assets/js/bootstrap-modern.min.js": [
+          "<%= dest %>/assets/<%= version %>/js/bootstrap-modern.min.js": [
             "src/assets/js/jquery.js",
             "bower_components/sorttable/sorttable.js",
           ],
-          "<%= dest %>/assets/js/bootstrap-ie.min.js": [
+          "<%= dest %>/assets/<%= version %>/js/bootstrap-ie.min.js": [
             "src/assets/js/jquery-legacy.js",
             "bower_components/html5shiv/dist/html5shiv.js"
           ],
-          "<%= dest %>/assets/js/core.min.js": [
+          "<%= dest %>/assets/<%= version %>/js/core.min.js": [
             "bower_components/bootstrap/js/collapse.js",
             "bower_components/bootstrap/js/transitions.js",
             "bower_components/bootstrap/js/dropdown.js",
@@ -268,7 +269,7 @@ module.exports = function (grunt) {
         cwd: "src/assets/less",
         src: "*.less",
         ext: ".css",
-        dest: "<%= dest %>/assets/css"
+        dest: "<%= dest %>/assets/<%= version %>/css"
       }
     },
 
@@ -330,6 +331,21 @@ module.exports = function (grunt) {
       }
     },
 
+    uncss: {
+      dist: {
+        options: {
+          ignoreSheets: [/fonts.css/]
+        },
+        files: {
+          '<%= dest %>/assets/<%= version %>/css/core.css': [
+            '<%= dest %>/*.html',
+            '<%= dest %>/about/*.html',
+            '<%= dest %>/3do/**/*.html'
+          ]
+        }
+      }
+    },
+
     concurrent: {
       ui: [
         "uglify",
@@ -368,14 +384,16 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks("grunt-concurrent");
   grunt.loadNpmTasks('grunt-shell');
   grunt.loadNpmTasks("grunt-responsive-images");
+  grunt.loadNpmTasks("grunt-uncss");
   grunt.loadTasks('lib/grunt');
 
   grunt.registerTask("default", ["build"]);
 
-  grunt.registerTask("build", ["build-pre", "build-fast", "build-post"]);
-  grunt.registerTask("build-pre", ["shell:clean", "precache"]);
-  grunt.registerTask("build-post", ["responsive_images", "copy", "shell:game_images", "shell:system_images"]);
-  grunt.registerTask("build-fast", ["concurrent:content", "concurrent:ui"]);
-  grunt.registerTask("deploy", ["default", "gh-pages"]);
+  grunt.registerTask("build", ["build-pre", "build-content", "build-post"]);
+  grunt.registerTask("build-pre", ["concurrent:ui"]);
+  grunt.registerTask("build-post", ["uncss", "responsive_images", "copy", "shell:game_images", "shell:system_images"]);
+  grunt.registerTask("build-content", ["concurrent:content"]);
+  grunt.registerTask("build-fast", ["build-pre", "concurrent:content", "uncss"]);
+  grunt.registerTask("deploy", ["build", "gh-pages"]);
   grunt.registerTask("deploy-fast", ["gh-pages"]);
 };
