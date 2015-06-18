@@ -5,7 +5,7 @@
 [`data.emunova.net`](https://github.com/oncletom/data.emunova.net) must have been installed first.
 
 ```bash
-git clone https://github.com/oncletom/emunova.net.git
+git clone https://github.com/oncletom/emunova.net.git --branch master --single-branch
 npm install
 bower install
 npm link data.emunova.net
