@@ -19,8 +19,9 @@ COPY *.json ./
 RUN mkdir -p /emunova/{dist,data} \
   && mkdir -p ${BUILD_TMP_DIR} \
   && mkdir -p ./cache \
-  && npm i -g grunt-cli \
-  && npm install --production
+  && npm i -g grunt-cli bower \
+  && npm install --production \
+  && bower install
 
 COPY ./bin ./bin
 COPY ./lib ./lib
