@@ -16,8 +16,8 @@ module.exports = function (grunt) {
   }
 
   grunt.initConfig({
-    datasource: "node_modules/data.emunova.net",
-    dest: "tmp/build",
+    datasource: process.env.DATA_DIR || "node_modules/data.emunova.net",
+    dest: process.env.BUILD_DIR || "tmp/build",
     systems: grunt.option('system') || '*',
     game: grunt.option('game') || '*',
     version: 'v' + require('./package.json').version,
@@ -370,7 +370,8 @@ module.exports = function (grunt) {
     "gh-pages": {
       options: {
         base: "<%= dest %>",
-        clone: "./tmp/.grunt"
+        clone: process.env.BUILD_TMP_DIR || "./tmp/.grunt",
+        repo: "https://" + (process.env.GH_TOKEN ? (process.env.GH_TOKEN + '@') : '')  + "github.com/oncletom/emunova.git"
       },
       src: '**/*'
     }
