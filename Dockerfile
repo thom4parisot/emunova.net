@@ -21,7 +21,7 @@ RUN mkdir -p /emunova/{dist,data} \
   && mkdir -p ./cache \
   && npm i -g grunt-cli bower \
   && npm install --production \
-  && bower install
+  && bower install --allow-root
 
 COPY ./bin ./bin
 COPY ./lib ./lib
