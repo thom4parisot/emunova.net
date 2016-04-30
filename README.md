@@ -7,7 +7,6 @@
 ```bash
 git clone https://github.com/oncletom/emunova.net.git --branch master --single-branch
 npm install
-bower install
 npm link data.emunova.net
 ```
 
@@ -19,7 +18,7 @@ The underlying effect is it will simply not copy the system and games images.
 ### Production
 
 ```bash
-grunt build
+npm run build
 ```
 
 ### Development
@@ -27,13 +26,13 @@ grunt build
 By default, it will build things for the 3DO system only.
 
 ```bash
-NODE_ENV=dev grunt build
+NODE_ENV=dev npm run build
 ```
 
 You can change that by exposing the `SYSTEM` env variable:
 
 ```bash
-NODE_ENV=dev SYSTEM=arcade grunt build
+NODE_ENV=dev npm run build -- --system arcade
 ```
 
 This will then assemble only the `arcade` system.

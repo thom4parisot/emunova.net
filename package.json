@@ -5,12 +5,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "serve -p 3000 --cors --compress --favicon tmp/build/favicon.ico tmp/build",
+    "serve": "serve -p 3000 --cors --compress --favicon tmp/build/favicon.ico tmp/build",
+    "start": "npm-run-all --parallel serve watch:*",
     "test": "grunt test",
-    "build": "npm run build-jquery",
-    "build-jquery": "npm run build-jquery-legacy && npm run build-jquery-modern",
-    "build-jquery-legacy": "jquery-builder --v 1.10.2 -e deprecated,effects,wrap > src/assets/js/jquery-legacy.js",
-    "build-jquery-modern": "jquery-builder --v 2.0.3 -e deprecated,effects,wrap,sizzle > src/assets/js/jquery.js"
+    "build": "npm-run-all build:content build:bundle",
+    "build:cache": "grunt precache",
+    "build:content": "grunt build-content",
+    "build:bundle": "browserify -e src/assets/js/main.js -o tmp/build/assets/v${npm_package_version}/js/core.min.js",
+    "build:ui": "grunt build-ui",
+    "build:images": "grunt build-images",
+    "watch": "npm-run-all --parallel watch:*",
+    "watch:bundle": "watchify -vd -e src/assets/js/main.js -o tmp/build/assets/v${npm_package_version}/js/core.min.js"
   },
   "repository": {
     "type": "git",
@@ -24,21 +29,44 @@
   "dependencies": {
     "assemble": "^0.4.24",
     "assemble-yaml": "^0.2.1",
+    "babel-preset-es2015": "^6.6.0",
+    "babelify": "^7.3.0",
+    "bootstrap": "~3.1.0",
     "grunt": "^0.4.1",
     "grunt-concurrent": "^0.5.0",
-    "grunt-contrib-less": "^0.11.4",
     "grunt-contrib-copy": "^0.4.1",
-    "grunt-contrib-uglify": "^0.2.4",
-    "grunt-gh-pages": "^0.7.1",
+    "grunt-contrib-less": "^0.11.4",
     "grunt-responsive-images": "^0.1.1",
     "grunt-shell": "^0.4.0",
     "grunt-uncss": "^0.3.6",
+    "holderjs": "^2.9.3",
+    "jquery": "^2.2.3",
     "jquery-builder": "^0.5.0",
-    "time-grunt": "^0.1.1"
+    "lazyloadjs": "^3.2.2",
+    "loose-envify": "^1.1.0",
+    "npm-run-all": "^1.8.0",
+    "sorttable": "github:oncletom/sorttable#develop",
+    "time-grunt": "^0.1.1",
+    "uglifyify": "^3.0.1"
   },
   "devDependencies": {
+    "browserify": "^13.0.0",
+    "grunt-cli": "^1.2.0",
     "grunt-contrib-jshint": "^0.6.4",
     "grunt-contrib-watch": "^0.5.3",
-    "serve": "^1.4.0"
+    "serve": "^1.4.0",
+    "watchify": "^3.7.0"
+  },
+  "browser": {
+    "bootstrap/collapse": "./node_modules/bootstrap/js/collapse.js",
+    "bootstrap/transition": "./node_modules/bootstrap/js/transition.js",
+    "bootstrap/dropdown": "./node_modules/bootstrap/js/dropdown.js"
+  },
+  "browserify": {
+    "transform": [
+      ["babelify", { "presets": ["es2015"] }],
+      "loose-envify",
+      "uglifyify"
+    ]
   }
 }
