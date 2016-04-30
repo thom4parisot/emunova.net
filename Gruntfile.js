@@ -316,6 +316,7 @@ module.exports = function (grunt) {
             '.hidden',
             '.active',
             '.collapsed',
+	    '.in',
             '.sr-only',
             // news loaders
             '/^.progress-bar/',

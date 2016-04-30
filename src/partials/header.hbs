@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'unsafe-inline' 'self'; font-src 'self' data:; img-src 'self' data:; frame-src https://bufferapp.com; connect-src http://www.emu-france.com http://app.emunova.net 'self'; script-src http://www.google-analytics.com 'self'; object-src 'none'">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'unsafe-inline' 'self'; font-src 'self' data:; img-src 'self' data:; frame-src https://bufferapp.com; connect-src http://www.emu-france.com http://app.emunova.net http://c5su6didx6-dsn.algolia.net https://c5su6didx6-dsn.algolia.net 'self'; script-src 'unsafe-eval' 'self'; object-src 'none'">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="initial-scale=1.0">
   <title>{{default title "Emu Nova : encyclopédie et tests de jeux vidéo, émulation et retrogaming"}}</title>
@@ -45,6 +45,12 @@
            </ul>
          </li>
        </ul>
+
+       <form class="navbar-form navbar-right">
+	 <div class="form-group">
+	   <input type="search" class="form-control" placeholder="Rechercher un jeu" autocomplete="off" id="topbar-search-input">
+	 </div>
+       </form>
      </div>
   </div>
 </nav>
@@ -60,6 +66,14 @@
   </nav>
 </div>
 {{/or}}
+
+<div class="panel-group panel-group-static-top panel-group-collapsible" id="search-results-wrapper">
+  <div class="panel panel-default">
+    <div class="panel-collapse collapse">
+      <div class="panel-body container"></div>
+    </div>
+  </div>
+</div>
 
 <div class="container">
   {{#if game}}
