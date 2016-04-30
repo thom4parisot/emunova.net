@@ -8,7 +8,7 @@
     "serve": "serve -p 3000 --cors --compress --favicon tmp/build/favicon.ico tmp/build",
     "start": "npm-run-all --parallel serve watch:*",
     "test": "grunt test",
-    "build": "npm-run-all build:content build:bundle",
+    "build": "npm-run-all build:content build:ui build:bundle",
     "build:cache": "grunt precache",
     "build:content": "grunt build-content",
     "build:bundle": "browserify -e src/assets/js/main.js -o tmp/build/assets/v${npm_package_version}/js/core.min.js",
