@@ -331,6 +331,7 @@ module.exports = function (grunt) {
         "assemble:game_ratings"
       ],
       options: {
+        limit: 1,
         logConcurrentOutput: true
       }
     }
@@ -349,7 +350,7 @@ module.exports = function (grunt) {
 
   grunt.registerTask("build-ui", ["concurrent:ui", "copy", "uncss"]);
   grunt.registerTask("build-images", ["responsive_images", "shell:game_images", "shell:system_images"]);
-  grunt.registerTask("build-content", ["content"]);
+  grunt.registerTask("build-content", ["concurrent:content"]);
   grunt.registerTask("build-all-slow", ["precache", "build-ui", "build-content", "build-images"]);
   grunt.registerTask("build-fast", ["build-ui", "build-content"]);
 };
