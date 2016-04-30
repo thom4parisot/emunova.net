@@ -1,5 +1,2 @@
 language: node_js
 node_js: v6
-env:
-  global:
-    secure: EiMiK1PfYnHkvc5LjYoHVpVBdUHF+gdMVa9dN5wGzY8ARI8SBoChd0NdZzgg8KRN8GHOKQwf8+DT7JE2zGIVDsNehKmGUWl8fnkSZpG2UPXsrKefg6GstZQTXw6WTbjhqiiGgIfIDlUYS0bYgW7WVfGkbrNsnccqvOQCn0MKKYg=

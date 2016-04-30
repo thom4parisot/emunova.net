@@ -281,10 +281,9 @@ module.exports = function (grunt) {
           stdout: true
         },
         command: [
-          "for file in `find ./node_modules/data.emunova.net/systems -type f \\( -name '*.jpeg' -o -name '*.gif' -o -name '*.jpg' -o -name '*.png' \\)`",
-            "do dest='./tmp/build/'$(echo $file | gsed -e 's/^.\\+\\/data.emunova.net\\/systems\\/\\([^\\/]\\+\\)/\\1/g')",
-            "mkdir -p $(dirname $dest)",
-            "cp $file $dest",
+          "for file in $(find ./node_modules/data.emunova.net/systems -type f \\( -name '*.jpeg' -o -name '*.gif' -o -name '*.jpg' -o -name '*.png' \\))",
+            "do dest=./tmp/build/${file#*./node_modules/data.emunova.net/systems/}",
+            "mkdir -p $(dirname $dest) && cp $file $dest",
           "done"
         ].join('; ')
       },
@@ -293,10 +292,9 @@ module.exports = function (grunt) {
           stdout: true
         },
         command: [
-          "for file in `find ./node_modules/data.emunova.net/games -type f \\( -name '*.jpeg' -o -name '*.gif' -o -name '*.jpg' -o -name '*.png' \\)`",
-            "do dest='./tmp/build/'$(echo $file | gsed -e 's/^.\\+\\/data.emunova.net\\/games\\/\\([^\\/]\\+\\)/\\1\\/games/g')",
-            "mkdir -p $(dirname $dest)",
-            "cp $file $dest",
+          "for file in $(find ./node_modules/data.emunova.net/games -type f \\( -name '*.jpeg' -o -name '*.gif' -o -name '*.jpg' -o -name '*.png' \\))",
+          "do dest=./tmp/build/${file#*./node_modules/data.emunova.net/games/}",
+            "mkdir -p $(dirname $dest) && cp $file $dest",
           "done"
         ].join('; ')
       }
@@ -352,6 +350,6 @@ module.exports = function (grunt) {
   grunt.registerTask("build-ui", ["concurrent:ui", "uncss", "copy"]);
   grunt.registerTask("build-images", ["responsive_images", "shell:game_images", "shell:system_images"]);
   grunt.registerTask("build-content", ["concurrent:content"]);
-  grunt.registerTask("build-all-slow", ["build-ui", "build-content", "build-images"]);
+  grunt.registerTask("build-all-slow", ["precache", "build-ui", "build-content", "build-images"]);
   grunt.registerTask("build-fast", ["build-ui", "build-content", "uncss"]);
 };
