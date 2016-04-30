@@ -225,35 +225,6 @@ module.exports = function (grunt) {
       }
     },
 
-    uglify: {
-      ui: {
-        files: {
-          "<%= dest %>/assets/<%= version %>/js/bootstrap-modern.min.js": [
-            "src/assets/js/jquery.js",
-            "bower_components/sorttable/sorttable.js",
-          ],
-          "<%= dest %>/assets/<%= version %>/js/bootstrap-ie.min.js": [
-            "src/assets/js/jquery-legacy.js",
-            "bower_components/html5shiv/dist/html5shiv.js"
-          ],
-          "<%= dest %>/assets/<%= version %>/js/core.min.js": [
-            "bower_components/bootstrap/js/collapse.js",
-            "bower_components/bootstrap/js/transitions.js",
-            "bower_components/bootstrap/js/dropdown.js",
-            "bower_components/lazyload/build/lazyload.min.js",
-            "src/assets/js/dynamic-sorter.js",
-            "src/assets/js/rss/remote-content.js",
-            "src/assets/js/main.js"
-          ]
-        },
-        options: {
-          mangle: true,
-          beautify: false,
-          report: 'min'
-        }
-      }
-    },
-
     less: {
       options: {
         compress: true,
@@ -261,7 +232,7 @@ module.exports = function (grunt) {
         paths: [
           "src/assets/less/lib",
           "src/assets/iconfont/css",
-          "bower_components/bootstrap/less"
+          "node_modules/bootstrap/less"
         ]
       },
       components: {
@@ -310,10 +281,9 @@ module.exports = function (grunt) {
           stdout: true
         },
         command: [
-          "for file in `find ./node_modules/data.emunova.net/systems -type f \\( -name '*.jpeg' -o -name '*.gif' -o -name '*.jpg' -o -name '*.png' \\)`",
-            "do dest='./tmp/build/'$(echo $file | gsed -e 's/^.\\+\\/data.emunova.net\\/systems\\/\\([^\\/]\\+\\)/\\1/g')",
-            "mkdir -p $(dirname $dest)",
-            "cp $file $dest",
+          "for file in $(find ./node_modules/data.emunova.net/systems -type f \\( -name '*.jpeg' -o -name '*.gif' -o -name '*.jpg' -o -name '*.png' \\))",
+            "do dest=./tmp/build/${file#*./node_modules/data.emunova.net/systems/}",
+            "mkdir -p $(dirname $dest) && cp $file $dest",
           "done"
         ].join('; ')
       },
@@ -322,10 +292,9 @@ module.exports = function (grunt) {
           stdout: true
         },
         command: [
-          "for file in `find ./node_modules/data.emunova.net/games -type f \\( -name '*.jpeg' -o -name '*.gif' -o -name '*.jpg' -o -name '*.png' \\)`",
-            "do dest='./tmp/build/'$(echo $file | gsed -e 's/^.\\+\\/data.emunova.net\\/games\\/\\([^\\/]\\+\\)/\\1\\/games/g')",
-            "mkdir -p $(dirname $dest)",
-            "cp $file $dest",
+          "for file in $(find ./node_modules/data.emunova.net/games -type f \\( -name '*.jpeg' -o -name '*.gif' -o -name '*.jpg' -o -name '*.png' \\))",
+          "do dest=./tmp/build/${file#*./node_modules/data.emunova.net/games/}",
+            "mkdir -p $(dirname $dest) && cp $file $dest",
           "done"
         ].join('; ')
       }
@@ -348,7 +317,6 @@ module.exports = function (grunt) {
 
     concurrent: {
       ui: [
-        "uglify",
         "less"
       ],
       content: [
@@ -365,36 +333,23 @@ module.exports = function (grunt) {
       options: {
         logConcurrentOutput: true
       }
-    },
-
-    "gh-pages": {
-      options: {
-        base: "<%= dest %>",
-        clone: process.env.BUILD_TMP_DIR || "./tmp/.grunt",
-        repo: "https://" + (process.env.GH_TOKEN ? (process.env.GH_TOKEN + '@') : '')  + "github.com/oncletom/emunova.git"
-      },
-      src: '**/*'
     }
   });
 
   grunt.loadNpmTasks("assemble");
   grunt.loadNpmTasks("grunt-contrib-copy");
   grunt.loadNpmTasks("grunt-contrib-less");
-  grunt.loadNpmTasks("grunt-contrib-uglify");
-  grunt.loadNpmTasks("grunt-gh-pages");
   grunt.loadNpmTasks("grunt-concurrent");
   grunt.loadNpmTasks('grunt-shell');
   grunt.loadNpmTasks("grunt-responsive-images");
   grunt.loadNpmTasks("grunt-uncss");
   grunt.loadTasks('lib/grunt');
 
-  grunt.registerTask("default", ["build"]);
+  grunt.registerTask("default", ["build-content"]);
 
-  grunt.registerTask("build", ["build-pre", "build-content", "build-post"]);
-  grunt.registerTask("build-pre", ["concurrent:ui"]);
-  grunt.registerTask("build-post", ["uncss", "responsive_images", "copy", "shell:game_images", "shell:system_images"]);
+  grunt.registerTask("build-ui", ["concurrent:ui", "uncss", "copy"]);
+  grunt.registerTask("build-images", ["responsive_images", "shell:game_images", "shell:system_images"]);
   grunt.registerTask("build-content", ["concurrent:content"]);
-  grunt.registerTask("build-fast", ["build-pre", "concurrent:content", "uncss"]);
-  grunt.registerTask("deploy", ["build", "gh-pages"]);
-  grunt.registerTask("deploy-fast", ["gh-pages"]);
+  grunt.registerTask("build-all-slow", ["precache", "build-ui", "build-content", "build-images"]);
+  grunt.registerTask("build-fast", ["build-ui", "build-content", "uncss"]);
 };
