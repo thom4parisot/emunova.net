@@ -26,24 +26,22 @@
        <ul class="nav navbar-nav navbar-right">
          <li><a href="http://forums.emunova.net">Forums</a></li>
          <li class="dropdown">
-           <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Contribuer <b class="caret"></b></a>
-
-           <ul class="dropdown-menu">
+           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contribuer <span class="caret"></span></a>
+           <ul class="dropdown-menu" role="menu">
              {{#link-edit page.src}}
-             <li><a href="{{.}}">Modifier/corriger cette page</a></li>
+             <li role="presentation"><a role="menuitem" href="{{.}}">Modifier/corriger cette page</a></li>
              {{else}}
-             <li class="disabled"><a href="{{.}}">Modifier/corriger cette page</a></li>
+             <li class="disabled"><a role="menuitem" href="{{.}}">Modifier/corriger cette page</a></li>
              {{/link-edit}}
            </ul>
          </li>
          <li class="dropdown">
-           <a href="/about/" class="dropdown-toggle" data-toggle="dropdown" data-target="#">À propos  <b class="caret"></b></a>
-
-           <ul class="dropdown-menu">
-             <li><a href="/about/">À propos</a></li>
-             <li><a href="/about/team.html">Équipe</a></li>
-             <li><a href="/about/changelog.html">Changelog</a></li>
-             <li class="dropdown-header">&copy; 2002 - {{now "%Y"}}, Emu Nova</li>
+           <a href="/about/" class="dropdown-toggle" data-toggle="dropdown">À propos <span class="caret"></span></a>
+           <ul class="dropdown-menu" role="menu">
+             <li role="presentation"><a role="menuitem" href="/about/">À propos</a></li>
+             <li role="presentation"><a role="menuitem" href="/about/team.html">Équipe</a></li>
+             <li role="presentation"><a role="menuitem" href="/about/changelog.html">Changelog</a></li>
+             <li class="dropdown-header" role="presentation">&copy; 2002 - {{now "%Y"}}, Emu Nova</li>
            </ul>
          </li>
        </ul>

@@ -303,7 +303,22 @@ module.exports = function (grunt) {
     uncss: {
       dist: {
         options: {
-          ignoreSheets: [/fonts.css/]
+          ignoreSheets: [/fonts.css/],
+          ignore: [
+            // static menu dropdown
+            '.open',
+            '.open>.dropdown-menu',
+            // element toggle
+            '.hidden',
+            '.active',
+            '.collapsed',
+            '.sr-only',
+            // news loaders
+            '/^.progress-bar/',
+            '.loaded',
+            '.error'
+          ],
+          timeout: 3000
         },
         files: {
           '<%= dest %>/assets/<%= version %>/css/core.css': [
