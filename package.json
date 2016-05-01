@@ -43,6 +43,7 @@
     "jquery": "^2.2.3",
     "jquery-builder": "^0.5.0",
     "lazyloadjs": "^3.2.2",
+    "lodash": "^4.11.1",
     "loose-envify": "^1.1.0",
     "npm-run-all": "^1.8.0",
     "sorttable": "github:oncletom/sorttable#develop",
@@ -56,6 +57,9 @@
     "grunt-contrib-watch": "^0.5.3",
     "serve": "^1.4.0",
     "watchify": "^3.7.0"
+  },
+  "optionalDependencies": {
+    "data.emunova.net": "github:oncletom/data.emunova.net#master"
   },
   "browser": {
     "bootstrap/collapse": "./node_modules/bootstrap/js/collapse.js",
