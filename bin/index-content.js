@@ -26,6 +26,7 @@ index({
         system: {
           name: systems[systemId].name,
           url: systems[systemId].url,
+          manufacturer: systems[systemId].manufacturer,
         }
       }));
   }

@@ -1,6 +1,7 @@
 "use strict";
 
 const path = require("path");
+const isProd = process.env.NODE_ENV === 'production';
 
 module.exports = function (grunt) {
   require('time-grunt')(grunt);
@@ -70,7 +71,7 @@ module.exports = function (grunt) {
           id: function(file){
             return file.match(/games\/[^\/]+\/([^\/]+)/)[1];
           },
-          url: (file) => path.dirname(file.match(/games\/(.+)$/)[1]) + '/',
+          url: (file) => path.dirname(file.replace(/^.+\/games\/([^\/]+)\/(.+)$/, "$1/games/$2")) + '/',
           compute: {
             "{%= dirname %}/images/**/*.{jpg,png,gif,jpeg,webp}": {
               "images_count": "count"
@@ -101,7 +102,7 @@ module.exports = function (grunt) {
           id: function(file){
             return file.match(/games\/[^\/]+\/([^\/]+)/)[1];
           },
-          url: (file) => file.match(/games\/(.+)$/, "$1")[1],
+          url: (file) => file.replace(/^.+\/games\/([^\/]+)\/(.+)$/, "$1/games/$2"),
         }
       }
     },
@@ -231,8 +232,7 @@ module.exports = function (grunt) {
 
     less: {
       options: {
-        compress: true,
-        //report: "gzip",
+        compress: isProd,
         paths: [
           "src/assets/less/lib",
           "src/assets/iconfont/css",
@@ -304,36 +304,6 @@ module.exports = function (grunt) {
       }
     },
 
-    uncss: {
-      dist: {
-        options: {
-          ignoreSheets: [/fonts.css/],
-          ignore: [
-            // static menu dropdown
-            '.open',
-            '.open>.dropdown-menu',
-            // element toggle
-            '.hidden',
-            '.active',
-            '.collapsed',
-            '.sr-only',
-            // news loaders
-            '/^.progress-bar/',
-            '.loaded',
-            '.error'
-          ],
-          timeout: 3000
-        },
-        files: {
-          '<%= dest %>/assets/<%= version %>/css/core.css': [
-            '<%= dest %>/*.html',
-            '<%= dest %>/about/*.html',
-            '<%= dest %>/3do/**/*.html'
-          ]
-        }
-      }
-    },
-
     concurrent: {
       ui: [
         "less"
@@ -367,7 +337,7 @@ module.exports = function (grunt) {
 
   grunt.registerTask("default", ["build-content"]);
 
-  grunt.registerTask("build-ui", ["concurrent:ui", "copy", "uncss"]);
+  grunt.registerTask("build-ui", ["concurrent:ui", "copy"]);
   grunt.registerTask("build-images", ["responsive_images", "shell:game_images", "shell:system_images"]);
   grunt.registerTask("build-content", ["concurrent:content"]);
   grunt.registerTask("build-all-slow", ["precache", "build-ui", "build-content", "build-images"]);
