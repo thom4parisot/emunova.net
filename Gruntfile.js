@@ -96,7 +96,7 @@ module.exports = function (grunt) {
           stack: true,
           find: "*/images/**/*.{jpg,png,gif,jpeg,webp}",
           rename: function(dest){
-            return dest.replace(/games\//, 'games/games-images-');
+            return dest.replace(/games\//, 'games-images/');
           },
           id: function(file){
             return file.match(/games\/[^\/]+\/([^\/]+)/)[1];
