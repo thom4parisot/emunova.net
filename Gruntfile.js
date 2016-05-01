@@ -1,6 +1,6 @@
 "use strict";
 
-var path = require("path");
+const path = require("path");
 
 module.exports = function (grunt) {
   require('time-grunt')(grunt);
@@ -30,6 +30,7 @@ module.exports = function (grunt) {
           id: function(file){
             return file.match(/systems\/([^\/]+)/)[1];
           },
+          url: (file, system) => `${system.id}/`,
           compute: {
             "{%= dirname %}/images/**/*.{jpg,png,gif,jpeg,webp}": {
               "images_count": "count"
@@ -54,7 +55,8 @@ module.exports = function (grunt) {
           id: function(file){
             var f = file.match(/images\/([^\/]+)/)[1];
             return _str.slugify(path.basename(f, path.extname(f)));
-          }
+          },
+          url: (file) => file.match(/systems\/(.+)$/, "$1")[1],
         }
       },
       games: {
@@ -68,6 +70,7 @@ module.exports = function (grunt) {
           id: function(file){
             return file.match(/games\/[^\/]+\/([^\/]+)/)[1];
           },
+          url: (file) => path.dirname(file.match(/games\/(.+)$/)[1]) + '/',
           compute: {
             "{%= dirname %}/images/**/*.{jpg,png,gif,jpeg,webp}": {
               "images_count": "count"
@@ -93,11 +96,12 @@ module.exports = function (grunt) {
           stack: true,
           find: "*/images/**/*.{jpg,png,gif,jpeg,webp}",
           rename: function(dest){
-            return dest.replace(/games\//, 'games/games-images-');
+            return dest.replace(/games\//, 'games-images/');
           },
           id: function(file){
             return file.match(/games\/[^\/]+\/([^\/]+)/)[1];
-          }
+          },
+          url: (file) => file.match(/games\/(.+)$/, "$1")[1],
         }
       }
     },
