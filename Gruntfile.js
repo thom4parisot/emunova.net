@@ -332,7 +332,6 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks("grunt-concurrent");
   grunt.loadNpmTasks('grunt-shell');
   grunt.loadNpmTasks("grunt-responsive-images");
-  grunt.loadNpmTasks("grunt-uncss");
   grunt.loadTasks('lib/grunt');
 
   grunt.registerTask("default", ["build-content"]);
