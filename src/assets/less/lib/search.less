@@ -1,5 +1,24 @@
 
-.ais-hits--item {
+#search-results-wrapper {
+  .result-link {
+    border-bottom: 1px solid @gray-lighter;
+    display: block;
+    padding: floor(@navbar-padding-vertical / 2) 0;
+    transition: border-color .3s ease;
+
+    &, &:hover, &:focus {
+      text-decoration: none;
+    }
+
+    &:hover {
+      border-color: @gray-light;
+
+      .result-title {
+        text-decoration: underline;
+      }
+    }
+  }
+
   .result-title {
     display: block;
     font-weight: bold;
@@ -7,5 +26,30 @@
     text-overflow: ellipsis;
     width: 100%;
     white-space: nowrap;
+  }
+
+  .highlight {
+    box-shadow: 0 -4px 0 fade(@brand-primary, 25%) inset;
+  }
+
+  .result-metadata {
+    color: @gray-light;
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    .result-metadata__item {
+      flex: 1;
+    }
+
+    .result-metadata__item--system {
+      flex: 2;
+    }
+
+    .result-metadata__item--date {
+      padding-right: @navbar-padding-horizontal;
+      text-align: right;
+    }
   }
 }
