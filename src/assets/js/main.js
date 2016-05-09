@@ -9,7 +9,7 @@ const lzld = require('lazyloadjs');
 const DynamicSorter = require('./dynamic-sorter');
 const RemoteContent = require('./rss/remote-content');
 const SortTable = require('sorttable');
-const searchClient = require('algoliasearch');
+const searchClient = require('algoliasearch/lite');
 const debounce = require('lodash/debounce');
 const stars = require('../../../lib/handlebars/ratings').stars;
 
