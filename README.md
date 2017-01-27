@@ -1,4 +1,4 @@
-# [emunova.net](https://emunova.net) [![Build Status](https://travis-ci.org/oncletom/emunova.net.svg?branch=master)](https://travis-ci.org/oncletom/emunova.net)
+# [emunova.net](https://emunova.net) [![Build Status](https://travis-ci.org/oncletom/data.emunova.net.svg?branch=master)](https://travis-ci.org/oncletom/data.emunova.net) [![Build Status](https://travis-ci.org/oncletom/emunova.net.svg?branch=master)](https://travis-ci.org/oncletom/emunova.net)
 
 ## Installing
 
