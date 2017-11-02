@@ -1,6 +1,7 @@
 ---
 user: Mattcould
 rating: 4
+type: review
 published: 2005-05-15T15:35:34.000Z
 legacy_url: http://www.emunova.net/veda/test/950.htm
 ---

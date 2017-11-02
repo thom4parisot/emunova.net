@@ -1,6 +1,7 @@
 ---
 user: Nevarxard
 rating: 3.5
+type: rating
 published: 2009-06-24T19:02:30.000Z
 legacy_url: http://www.emunova.net/veda/test/1687.htm#comment-11608
 ---

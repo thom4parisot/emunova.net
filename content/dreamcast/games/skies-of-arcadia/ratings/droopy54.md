@@ -1,6 +1,7 @@
 ---
 user: droopy54
 rating: 4.5
+type: rating
 published: 2003-04-22T22:30:24.000Z
 legacy_url: http://www.emunova.net/veda/test/12.htm#comment-1824
 ---

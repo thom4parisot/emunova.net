@@ -1,6 +1,7 @@
 ---
 user: Flamethrower46
 rating: 4.5
+type: rating
 published: 2012-09-07T03:25:33.000Z
 legacy_url: http://www.emunova.net/veda/test/2942.htm#comment-15999
 ---

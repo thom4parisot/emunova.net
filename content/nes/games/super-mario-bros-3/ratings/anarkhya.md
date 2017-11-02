@@ -1,6 +1,7 @@
 ---
 user: anarkhya
 rating: 4.5
+type: rating
 published: 2005-07-03T11:18:44.000Z
 legacy_url: http://www.emunova.net/veda/test/194.htm#comment-3412
 ---

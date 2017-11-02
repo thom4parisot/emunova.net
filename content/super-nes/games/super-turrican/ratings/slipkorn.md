@@ -1,6 +1,7 @@
 ---
 user: slipkorn
 rating: 2
+type: rating
 published: 2005-06-29T12:46:42.000Z
 legacy_url: http://www.emunova.net/veda/test/450.htm#comment-3387
 ---

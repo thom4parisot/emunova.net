@@ -1,6 +1,7 @@
 ---
 user: anawel
 rating: 5
+type: rating
 published: 2005-11-18T03:38:45.000Z
 legacy_url: http://www.emunova.net/veda/test/863.htm#comment-4267
 ---

@@ -1,6 +1,7 @@
 ---
 user: Raven
 rating: 3
+type: rating
 published: 2006-06-24T11:41:39.000Z
 legacy_url: http://www.emunova.net/veda/test/273.htm#comment-5554
 ---

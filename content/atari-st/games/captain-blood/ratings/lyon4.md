@@ -1,6 +1,7 @@
 ---
 user: lyon4
 rating: 4.5
+type: rating
 published: 2007-06-20T09:46:02.000Z
 legacy_url: http://www.emunova.net/veda/test/843.htm#comment-8211
 ---

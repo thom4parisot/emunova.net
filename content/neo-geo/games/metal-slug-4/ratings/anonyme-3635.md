@@ -1,6 +1,7 @@
 ---
 user: Anonyme 3635
 rating: 3.5
+type: rating
 published: 2005-08-25T10:00:45.000Z
 legacy_url: http://www.emunova.net/veda/test/902.htm#comment-3635
 ---

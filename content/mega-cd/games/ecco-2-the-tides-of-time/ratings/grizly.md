@@ -1,6 +1,7 @@
 ---
 user: grizly
 rating: 4
+type: rating
 published: 2005-05-18T08:34:05.000Z
 legacy_url: http://www.emunova.net/veda/test/416.htm#comment-3098
 ---

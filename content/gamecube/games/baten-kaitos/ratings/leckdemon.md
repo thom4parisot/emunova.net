@@ -1,6 +1,7 @@
 ---
 user: Leckdemon
 rating: 5
+type: rating
 published: 2005-12-28T08:12:53.000Z
 legacy_url: http://www.emunova.net/veda/test/1262.htm#comment-4470
 ---

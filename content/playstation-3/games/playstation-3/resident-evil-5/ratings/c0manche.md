@@ -1,6 +1,7 @@
 ---
 user: C0manche
 rating: 1
+type: rating
 published: 2011-06-27T11:32:13.000Z
 legacy_url: http://www.emunova.net/veda/test/3114.htm#comment-15221
 ---

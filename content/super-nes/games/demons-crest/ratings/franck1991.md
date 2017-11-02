@@ -1,6 +1,7 @@
 ---
 user: franck1991
 rating: 5
+type: rating
 published: 2005-03-01T15:05:48.000Z
 legacy_url: http://www.emunova.net/veda/test/587.htm#comment-2629
 ---

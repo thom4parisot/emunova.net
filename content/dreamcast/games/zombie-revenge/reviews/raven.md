@@ -1,6 +1,7 @@
 ---
 user: Raven
 rating: 4
+type: review
 published: 2004-09-03T18:33:55.000Z
 legacy_url: http://www.emunova.net/veda/test/680.htm
 ---

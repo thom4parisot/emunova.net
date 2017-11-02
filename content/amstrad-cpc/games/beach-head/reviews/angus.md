@@ -1,6 +1,7 @@
 ---
 user: Angus
 rating: 3.5
+type: review
 published: 2006-11-23T09:59:59.000Z
 legacy_url: http://www.emunova.net/veda/test/1816.htm
 ---

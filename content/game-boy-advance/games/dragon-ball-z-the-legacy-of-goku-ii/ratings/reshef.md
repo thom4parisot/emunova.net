@@ -1,6 +1,7 @@
 ---
 user: Reshef
 rating: 3.5
+type: rating
 published: 2005-08-28T15:42:47.000Z
 legacy_url: http://www.emunova.net/veda/test/168.htm#comment-3658
 ---

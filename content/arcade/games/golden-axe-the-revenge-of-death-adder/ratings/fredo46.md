@@ -1,6 +1,7 @@
 ---
 user: fredo46
 rating: 4.5
+type: rating
 published: 2008-07-30T12:35:12.000Z
 legacy_url: http://www.emunova.net/veda/test/2412.htm#comment-9809
 ---

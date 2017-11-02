@@ -1,6 +1,7 @@
 ---
 user: Dgueul
 rating: 5
+type: rating
 published: 2007-01-21T19:48:44.000Z
 legacy_url: http://www.emunova.net/veda/test/419.htm#comment-7340
 ---

@@ -1,6 +1,7 @@
 ---
 user: greatxerox
 rating: 5
+type: rating
 published: 2006-01-17T00:06:39.000Z
 legacy_url: http://www.emunova.net/veda/test/178.htm#comment-4547
 ---

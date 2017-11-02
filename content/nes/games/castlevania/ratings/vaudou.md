@@ -1,6 +1,7 @@
 ---
 user: Vaudou
 rating: 5
+type: rating
 published: 2013-06-18T03:17:32.000Z
 legacy_url: http://www.emunova.net/veda/test/971.htm#comment-16390
 ---

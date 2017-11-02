@@ -1,6 +1,7 @@
 ---
 user: Ti Dragon
 rating: 4
+type: rating
 published: 2005-12-28T15:15:35.000Z
 legacy_url: http://www.emunova.net/veda/test/1276.htm#comment-4473
 ---

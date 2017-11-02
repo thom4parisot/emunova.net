@@ -1,6 +1,7 @@
 ---
 user: gamez
 rating: 2.5
+type: rating
 published: 2010-06-26T15:41:33.000Z
 legacy_url: http://www.emunova.net/veda/test/1958.htm#comment-13827
 ---

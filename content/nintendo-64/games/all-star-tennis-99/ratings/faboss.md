@@ -1,6 +1,7 @@
 ---
 user: faboss
 rating: 3.5
+type: rating
 published: 2003-07-26T22:05:44.000Z
 legacy_url: http://www.emunova.net/veda/test/180.htm#comment-344
 ---

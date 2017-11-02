@@ -1,6 +1,7 @@
 ---
 user: barbarian\_bros
 rating: 4
+type: rating
 published: 2008-04-23T16:12:47.000Z
 legacy_url: http://www.emunova.net/veda/test/2337.htm#comment-9484
 ---

@@ -1,6 +1,7 @@
 ---
 user: Raeglin
 rating: 4
+type: rating
 published: 2010-03-28T17:29:48.000Z
 legacy_url: http://www.emunova.net/veda/test/3783.htm#comment-13240
 ---

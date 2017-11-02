@@ -1,6 +1,7 @@
 ---
 user: Krizalid
 rating: 4
+type: review
 published: 2004-07-20T15:39:55.000Z
 legacy_url: http://www.emunova.net/veda/test/625.htm
 ---

@@ -1,6 +1,7 @@
 ---
 user: blaster65
 rating: 5
+type: rating
 published: 2008-12-22T22:04:59.000Z
 legacy_url: http://www.emunova.net/veda/test/1718.htm#comment-10630
 ---

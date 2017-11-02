@@ -1,6 +1,7 @@
 ---
 user: yohko\_kurama
 rating: 3.5
+type: rating
 published: 2006-04-22T15:17:03.000Z
 legacy_url: http://www.emunova.net/veda/test/88.htm#comment-5017
 ---

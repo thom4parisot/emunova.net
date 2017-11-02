@@ -1,6 +1,7 @@
 ---
 user: dlfrsilver
 rating: 4.5
+type: rating
 published: 2007-01-25T13:33:47.000Z
 legacy_url: http://www.emunova.net/veda/test/277.htm#comment-7363
 ---

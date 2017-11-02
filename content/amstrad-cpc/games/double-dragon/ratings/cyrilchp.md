@@ -1,6 +1,7 @@
 ---
 user: cyrilchp
 rating: 4
+type: rating
 published: 2011-04-15T17:40:29.000Z
 legacy_url: http://www.emunova.net/veda/test/3797.htm#comment-15066
 ---

@@ -1,6 +1,7 @@
 ---
 user: Lagaes
 rating: 2.5
+type: rating
 published: 2007-06-04T22:55:09.000Z
 legacy_url: http://www.emunova.net/veda/test/1515.htm#comment-8134
 ---

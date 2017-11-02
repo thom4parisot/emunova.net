@@ -1,6 +1,7 @@
 ---
 user: EMERSON
 rating: 5
+type: rating
 published: 2008-02-10T12:19:49.000Z
 legacy_url: http://www.emunova.net/veda/test/1643.htm#comment-9211
 ---

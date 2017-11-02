@@ -1,6 +1,7 @@
 ---
 user: kdris
 rating: 5
+type: rating
 published: 2007-01-19T03:03:23.000Z
 legacy_url: http://www.emunova.net/veda/test/1133.htm#comment-7331
 ---

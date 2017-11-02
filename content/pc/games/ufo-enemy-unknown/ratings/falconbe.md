@@ -1,6 +1,7 @@
 ---
 user: falconbe
 rating: 5
+type: rating
 published: 2008-04-03T20:35:55.000Z
 legacy_url: http://www.emunova.net/veda/test/2062.htm#comment-9417
 ---

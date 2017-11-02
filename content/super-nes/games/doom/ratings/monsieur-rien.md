@@ -1,6 +1,7 @@
 ---
 user: Monsieur Rien
 rating: 3.5
+type: rating
 published: 2009-08-04T23:27:19.000Z
 legacy_url: http://www.emunova.net/veda/test/35.htm#comment-11802
 ---

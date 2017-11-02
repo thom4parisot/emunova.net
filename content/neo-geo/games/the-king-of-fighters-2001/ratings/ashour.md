@@ -1,6 +1,7 @@
 ---
 user: ashour
 rating: 4
+type: rating
 published: 2005-12-27T13:49:17.000Z
 legacy_url: http://www.emunova.net/veda/test/428.htm#comment-4461
 ---

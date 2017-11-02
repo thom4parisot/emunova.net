@@ -1,6 +1,7 @@
 ---
 user: Thorikamast
 rating: 4
+type: rating
 published: 2006-06-14T01:50:11.000Z
 legacy_url: http://www.emunova.net/veda/test/520.htm#comment-5463
 ---

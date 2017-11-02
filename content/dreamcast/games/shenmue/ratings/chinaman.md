@@ -1,6 +1,7 @@
 ---
 user: ChinaMan
 rating: 5
+type: rating
 published: 2007-03-15T21:07:46.000Z
 legacy_url: http://www.emunova.net/veda/test/688.htm#comment-7738
 ---

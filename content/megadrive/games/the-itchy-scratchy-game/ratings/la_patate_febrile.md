@@ -1,6 +1,7 @@
 ---
 user: La\_Patate\_Fébrile
 rating: 1
+type: rating
 published: 2006-10-11T11:44:36.000Z
 legacy_url: http://www.emunova.net/veda/test/1704.htm#comment-6352
 ---

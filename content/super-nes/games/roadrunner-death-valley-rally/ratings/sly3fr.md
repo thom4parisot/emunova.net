@@ -1,6 +1,7 @@
 ---
 user: sly3fr
 rating: 1.5
+type: rating
 published: 2008-07-04T16:34:21.000Z
 legacy_url: http://www.emunova.net/veda/test/1485.htm#comment-9743
 ---

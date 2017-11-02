@@ -1,6 +1,7 @@
 ---
 user: jegougou
 rating: 3
+type: rating
 published: 2006-12-19T08:25:09.000Z
 legacy_url: http://www.emunova.net/veda/test/1702.htm#comment-7202
 ---

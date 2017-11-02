@@ -1,6 +1,7 @@
 ---
 user: Maxledingue
 rating: 4
+type: rating
 published: 2005-09-15T15:31:54.000Z
 legacy_url: http://www.emunova.net/veda/test/869.htm#comment-3795
 ---

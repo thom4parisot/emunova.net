@@ -1,6 +1,7 @@
 ---
 user: Rouliass
 rating: 4.5
+type: rating
 published: 2010-04-23T11:53:12.000Z
 legacy_url: http://www.emunova.net/veda/test/533.htm#comment-13423
 ---

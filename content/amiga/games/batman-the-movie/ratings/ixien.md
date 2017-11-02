@@ -1,6 +1,7 @@
 ---
 user: ixien
 rating: 4
+type: rating
 published: 2011-07-16T07:07:18.000Z
 legacy_url: http://www.emunova.net/veda/test/817.htm#comment-15325
 ---

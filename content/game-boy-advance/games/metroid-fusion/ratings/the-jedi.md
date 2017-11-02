@@ -1,6 +1,7 @@
 ---
 user: The Jedi
 rating: 3.5
+type: rating
 published: 2003-12-24T23:13:39.000Z
 legacy_url: http://www.emunova.net/veda/test/364.htm#comment-819
 ---

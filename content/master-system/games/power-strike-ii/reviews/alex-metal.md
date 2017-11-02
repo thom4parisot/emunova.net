@@ -1,6 +1,7 @@
 ---
 user: Alex-Metal
 rating: 4.5
+type: review
 published: 2008-01-23T23:08:19.000Z
 legacy_url: http://www.emunova.net/veda/test/2448.htm
 ---

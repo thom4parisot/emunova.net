@@ -1,6 +1,7 @@
 ---
 user: ROMANO387
 rating: 4.5
+type: rating
 published: 2007-03-26T04:33:19.000Z
 legacy_url: http://www.emunova.net/veda/test/116.htm#comment-7815
 ---

@@ -1,6 +1,7 @@
 ---
 user: monsieur D
 rating: 5
+type: rating
 published: 2004-11-28T12:04:43.000Z
 legacy_url: http://www.emunova.net/veda/test/743.htm#comment-2015
 ---

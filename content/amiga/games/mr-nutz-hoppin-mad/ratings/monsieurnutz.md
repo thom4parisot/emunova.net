@@ -1,6 +1,7 @@
 ---
 user: MonsieurNutz
 rating: 5
+type: rating
 published: 2007-02-28T02:56:59.000Z
 legacy_url: http://www.emunova.net/veda/test/426.htm#comment-7597
 ---

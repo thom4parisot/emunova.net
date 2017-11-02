@@ -1,6 +1,7 @@
 ---
 user: cosmicmath
 rating: 4
+type: rating
 published: 2010-11-07T22:24:42.000Z
 legacy_url: http://www.emunova.net/veda/test/2698.htm#comment-14451
 ---

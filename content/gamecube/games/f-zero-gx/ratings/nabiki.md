@@ -1,6 +1,7 @@
 ---
 user: Nabiki
 rating: 5
+type: rating
 published: 2007-09-29T09:55:52.000Z
 legacy_url: http://www.emunova.net/veda/test/470.htm#comment-8650
 ---

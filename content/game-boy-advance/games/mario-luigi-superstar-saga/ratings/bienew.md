@@ -1,6 +1,7 @@
 ---
 user: Bienew
 rating: 5
+type: rating
 published: 2004-11-20T21:46:00.000Z
 legacy_url: http://www.emunova.net/veda/test/541.htm#comment-1998
 ---

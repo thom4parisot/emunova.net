@@ -1,6 +1,7 @@
 ---
 user: pourquoi56
 rating: 4.5
+type: rating
 published: 2008-03-02T18:57:51.000Z
 legacy_url: http://www.emunova.net/veda/test/744.htm#comment-9298
 ---

@@ -1,6 +1,7 @@
 ---
 user: goldman
 rating: 3.5
+type: rating
 published: 2009-07-21T14:46:38.000Z
 legacy_url: http://www.emunova.net/veda/test/247.htm#comment-11715
 ---

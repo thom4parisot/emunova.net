@@ -1,6 +1,7 @@
 ---
 user: jbam2
 rating: 3.5
+type: rating
 published: 2005-09-03T22:35:33.000Z
 legacy_url: http://www.emunova.net/veda/test/1073.htm#comment-3715
 ---

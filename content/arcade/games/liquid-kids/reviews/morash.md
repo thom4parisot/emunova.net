@@ -1,6 +1,7 @@
 ---
 user: Morash
 rating: 3.5
+type: review
 published: 2006-10-11T23:10:33.000Z
 legacy_url: http://www.emunova.net/veda/test/1712.htm
 ---

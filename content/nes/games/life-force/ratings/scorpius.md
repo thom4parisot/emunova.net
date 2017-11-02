@@ -1,6 +1,7 @@
 ---
 user: Scorpius
 rating: 5
+type: rating
 published: 2009-03-09T18:45:50.000Z
 legacy_url: http://www.emunova.net/veda/test/3102.htm#comment-11062
 ---

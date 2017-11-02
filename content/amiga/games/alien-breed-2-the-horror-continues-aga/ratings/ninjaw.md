@@ -1,6 +1,7 @@
 ---
 user: ninjaw
 rating: 4
+type: rating
 published: 2004-03-20T23:23:30.000Z
 legacy_url: http://www.emunova.net/veda/test/490.htm#comment-1410
 ---

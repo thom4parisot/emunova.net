@@ -1,6 +1,7 @@
 ---
 user: jonathanb
 rating: 2
+type: rating
 published: 2008-10-19T16:49:08.000Z
 legacy_url: http://www.emunova.net/veda/test/349.htm#comment-10313
 ---

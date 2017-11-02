@@ -1,6 +1,7 @@
 ---
 user: manatane
 rating: 3.5
+type: rating
 published: 2011-07-30T16:19:03.000Z
 legacy_url: http://www.emunova.net/veda/test/1151.htm#comment-15367
 ---

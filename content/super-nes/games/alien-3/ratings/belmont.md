@@ -1,6 +1,7 @@
 ---
 user: Belmont
 rating: 4
+type: rating
 published: 2005-04-15T18:10:11.000Z
 legacy_url: http://www.emunova.net/veda/test/410.htm#comment-2901
 ---

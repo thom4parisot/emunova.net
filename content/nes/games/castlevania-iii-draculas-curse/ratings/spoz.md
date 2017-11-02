@@ -1,6 +1,7 @@
 ---
 user: Spoz
 rating: 4.5
+type: rating
 published: 2013-12-17T10:00:00.000Z
 ---
 Une excellente suite au premier, Simon's Quest étant à part vu son concept totalement différent. 

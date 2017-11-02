@@ -1,6 +1,7 @@
 ---
 user: Tatsuya
 rating: 5
+type: rating
 published: 2004-06-27T22:22:11.000Z
 legacy_url: http://www.emunova.net/veda/test/580.htm#comment-1331
 ---

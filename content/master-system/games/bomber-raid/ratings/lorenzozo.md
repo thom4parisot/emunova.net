@@ -1,6 +1,7 @@
 ---
 user: LorenZozO
 rating: 4.5
+type: rating
 published: 2008-03-06T22:56:48.000Z
 legacy_url: http://www.emunova.net/veda/test/1985.htm#comment-9317
 ---

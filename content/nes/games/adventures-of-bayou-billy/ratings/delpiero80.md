@@ -1,6 +1,7 @@
 ---
 user: delpiero80
 rating: 4.5
+type: rating
 published: 2008-05-19T09:09:44.000Z
 legacy_url: http://www.emunova.net/veda/test/1781.htm#comment-9574
 ---

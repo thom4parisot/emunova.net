@@ -1,6 +1,7 @@
 ---
 user: Mars Matrix
 rating: 4
+type: rating
 published: 2003-07-02T22:09:50.000Z
 legacy_url: http://www.emunova.net/veda/test/139.htm#comment-590
 ---

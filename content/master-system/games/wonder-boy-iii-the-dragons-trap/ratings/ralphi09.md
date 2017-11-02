@@ -1,6 +1,7 @@
 ---
 user: ralphi09
 rating: 5
+type: rating
 published: 2005-07-08T19:52:16.000Z
 legacy_url: http://www.emunova.net/veda/test/554.htm#comment-3443
 ---

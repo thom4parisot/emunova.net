@@ -1,6 +1,7 @@
 ---
 user: alcore
 rating: 5
+type: rating
 published: 2012-03-15T12:15:12.000Z
 legacy_url: http://www.emunova.net/veda/test/411.htm#comment-15738
 ---

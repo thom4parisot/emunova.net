@@ -1,6 +1,7 @@
 ---
 user: Blazovitch
 rating: 4.5
+type: rating
 published: 2008-10-16T12:15:42.000Z
 legacy_url: http://www.emunova.net/veda/test/314.htm#comment-10281
 ---

@@ -1,6 +1,7 @@
 ---
 user: melvis
 rating: 4
+type: rating
 published: 2010-11-09T08:34:11.000Z
 legacy_url: http://www.emunova.net/veda/test/1968.htm#comment-14466
 ---

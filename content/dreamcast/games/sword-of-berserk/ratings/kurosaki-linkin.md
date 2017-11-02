@@ -1,6 +1,7 @@
 ---
 user: kurosaki-linkin
 rating: 4
+type: rating
 published: 2007-05-14T22:08:32.000Z
 legacy_url: http://www.emunova.net/veda/test/1287.htm#comment-8047
 ---

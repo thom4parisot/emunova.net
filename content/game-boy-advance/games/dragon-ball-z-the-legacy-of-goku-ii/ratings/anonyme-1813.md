@@ -1,6 +1,7 @@
 ---
 user: Anonyme 1813
 rating: 4
+type: rating
 published: 2003-07-21T22:30:13.000Z
 legacy_url: http://www.emunova.net/veda/test/168.htm#comment-1813
 ---

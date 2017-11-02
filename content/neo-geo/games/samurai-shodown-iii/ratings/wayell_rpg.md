@@ -1,6 +1,7 @@
 ---
 user: Wayell\_rpg
 rating: 4
+type: rating
 published: 2004-03-20T23:22:03.000Z
 legacy_url: http://www.emunova.net/veda/test/488.htm#comment-1323
 ---

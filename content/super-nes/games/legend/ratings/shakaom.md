@@ -1,6 +1,7 @@
 ---
 user: shakaom
 rating: 3.5
+type: rating
 published: 2010-12-08T10:13:35.000Z
 legacy_url: http://www.emunova.net/veda/test/711.htm#comment-14673
 ---

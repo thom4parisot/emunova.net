@@ -1,6 +1,7 @@
 ---
 user: olivier1404
 rating: 5
+type: rating
 published: 2005-03-02T13:01:26.000Z
 legacy_url: http://www.emunova.net/veda/test/121.htm#comment-2648
 ---

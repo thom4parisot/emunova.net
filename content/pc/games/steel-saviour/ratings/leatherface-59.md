@@ -1,6 +1,7 @@
 ---
 user: Leatherface 59
 rating: 4.5
+type: rating
 published: 2009-12-19T21:38:44.000Z
 legacy_url: http://www.emunova.net/veda/test/1011.htm#comment-12637
 ---

@@ -1,6 +1,7 @@
 ---
 user: Europeen
 rating: 4.5
+type: rating
 published: 2004-03-20T23:19:17.000Z
 legacy_url: http://www.emunova.net/veda/test/489.htm#comment-1157
 ---

@@ -1,6 +1,7 @@
 ---
 user: faboss
 rating: 2.5
+type: rating
 published: 2003-06-24T22:04:05.000Z
 legacy_url: http://www.emunova.net/veda/test/127.htm#comment-245
 ---

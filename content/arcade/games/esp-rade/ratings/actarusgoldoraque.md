@@ -1,6 +1,7 @@
 ---
 user: Actarusgoldoraque
 rating: 5
+type: rating
 published: 2008-01-30T14:08:32.000Z
 legacy_url: http://www.emunova.net/veda/test/128.htm#comment-9149
 ---

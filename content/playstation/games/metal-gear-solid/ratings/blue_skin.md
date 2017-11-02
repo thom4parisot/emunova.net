@@ -1,6 +1,7 @@
 ---
 user: Blue\_Skin
 rating: 5
+type: rating
 published: 2005-09-05T14:53:08.000Z
 legacy_url: http://www.emunova.net/veda/test/149.htm#comment-3724
 ---

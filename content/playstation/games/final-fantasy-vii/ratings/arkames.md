@@ -1,6 +1,7 @@
 ---
 user: Arkames
 rating: 4.5
+type: rating
 published: 2007-03-13T22:20:51.000Z
 legacy_url: http://www.emunova.net/veda/test/195.htm#comment-7727
 ---

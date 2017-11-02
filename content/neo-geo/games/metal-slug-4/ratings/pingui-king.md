@@ -1,6 +1,7 @@
 ---
 user: Pingui-King
 rating: 4
+type: rating
 published: 2005-08-31T10:20:01.000Z
 legacy_url: http://www.emunova.net/veda/test/902.htm#comment-3684
 ---

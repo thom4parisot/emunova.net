@@ -1,6 +1,7 @@
 ---
 user: Clev
 rating: 4.5
+type: rating
 published: 2005-11-05T23:57:47.000Z
 legacy_url: http://www.emunova.net/veda/test/54.htm#comment-4206
 ---

@@ -1,6 +1,7 @@
 ---
 user: Toy
 rating: 3.5
+type: rating
 published: 2004-12-30T13:57:40.000Z
 legacy_url: http://www.emunova.net/veda/test/485.htm#comment-2330
 ---

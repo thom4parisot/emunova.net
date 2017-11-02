@@ -1,6 +1,7 @@
 ---
 user: Dens
 rating: 4
+type: rating
 published: 2004-07-14T17:45:36.000Z
 legacy_url: http://www.emunova.net/veda/test/610.htm#comment-1807
 ---

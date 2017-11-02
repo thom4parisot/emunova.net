@@ -1,6 +1,7 @@
 ---
 user: sexe-a-piles
 rating: 5
+type: rating
 published: 2005-12-08T11:14:58.000Z
 legacy_url: http://www.emunova.net/veda/test/743.htm#comment-4403
 ---

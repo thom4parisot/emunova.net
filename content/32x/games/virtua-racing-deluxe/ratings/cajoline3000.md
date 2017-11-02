@@ -1,6 +1,7 @@
 ---
 user: cajoline3000
 rating: 2.5
+type: rating
 published: 2007-10-02T22:27:41.000Z
 legacy_url: http://www.emunova.net/veda/test/283.htm#comment-8661
 ---

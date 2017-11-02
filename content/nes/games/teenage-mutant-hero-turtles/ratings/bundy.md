@@ -1,6 +1,7 @@
 ---
 user: bundy
 rating: 4
+type: rating
 published: 2010-11-16T20:12:43.000Z
 legacy_url: http://www.emunova.net/veda/test/530.htm#comment-14513
 ---

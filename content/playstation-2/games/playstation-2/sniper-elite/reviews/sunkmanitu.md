@@ -1,6 +1,7 @@
 ---
 user: sunkmanitu
 rating: 4.5
+type: review
 published: 2008-11-17T06:09:31.000Z
 legacy_url: http://www.emunova.net/veda/test/2951.htm
 ---

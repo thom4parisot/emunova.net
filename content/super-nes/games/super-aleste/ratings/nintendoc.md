@@ -1,6 +1,7 @@
 ---
 user: NINTENDOC
 rating: 5
+type: rating
 published: 2006-07-19T17:46:34.000Z
 legacy_url: http://www.emunova.net/veda/test/407.htm#comment-5755
 ---

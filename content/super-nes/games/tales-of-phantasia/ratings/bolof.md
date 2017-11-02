@@ -1,6 +1,7 @@
 ---
 user: Bolof
 rating: 4.5
+type: rating
 published: 2004-11-15T19:13:53.000Z
 legacy_url: http://www.emunova.net/veda/test/157.htm#comment-1963
 ---

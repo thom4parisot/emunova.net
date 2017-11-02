@@ -1,6 +1,7 @@
 ---
 user: cahan
 rating: 4
+type: rating
 published: 2009-07-31T13:56:26.000Z
 legacy_url: http://www.emunova.net/veda/test/950.htm#comment-11772
 ---

@@ -1,6 +1,7 @@
 ---
 user: Arkelios
 rating: 4
+type: rating
 published: 2007-03-18T11:19:55.000Z
 legacy_url: http://www.emunova.net/veda/test/530.htm#comment-7751
 ---

@@ -1,6 +1,7 @@
 ---
 user: mattleboss
 rating: 4
+type: rating
 published: 2004-12-22T16:59:19.000Z
 legacy_url: http://www.emunova.net/veda/test/116.htm#comment-2230
 ---

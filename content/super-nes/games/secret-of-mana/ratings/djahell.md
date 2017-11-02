@@ -1,6 +1,7 @@
 ---
 user: djahell
 rating: 5
+type: rating
 published: 2005-01-25T15:30:13.000Z
 legacy_url: http://www.emunova.net/veda/test/785.htm#comment-2454
 ---

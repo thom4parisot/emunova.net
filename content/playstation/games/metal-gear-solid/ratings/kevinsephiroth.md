@@ -1,6 +1,7 @@
 ---
 user: KevinSephiroth
 rating: 4.5
+type: rating
 published: 2006-01-01T17:07:11.000Z
 legacy_url: http://www.emunova.net/veda/test/149.htm#comment-4487
 ---

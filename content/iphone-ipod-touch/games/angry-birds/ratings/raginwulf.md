@@ -1,6 +1,7 @@
 ---
 user: raginwulf
 rating: 3.5
+type: rating
 published: 2011-08-19T13:13:28.000Z
 legacy_url: http://www.emunova.net/veda/test/4040.htm#comment-15454
 ---

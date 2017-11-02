@@ -1,6 +1,7 @@
 ---
 user: Kyoshiro
 rating: 4
+type: review
 published: 2005-05-01T09:29:57.000Z
 legacy_url: http://www.emunova.net/veda/test/933.htm
 ---

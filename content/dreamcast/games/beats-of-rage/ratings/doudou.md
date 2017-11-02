@@ -1,6 +1,7 @@
 ---
 user: doudou
 rating: 2
+type: rating
 published: 2004-07-06T16:38:10.000Z
 legacy_url: http://www.emunova.net/veda/test/590.htm#comment-1755
 ---

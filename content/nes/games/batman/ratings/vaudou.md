@@ -1,6 +1,7 @@
 ---
 user: Vaudou
 rating: 5
+type: rating
 published: 2013-06-17T23:56:51.000Z
 legacy_url: http://www.emunova.net/veda/test/1950.htm#comment-16389
 ---

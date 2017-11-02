@@ -1,6 +1,7 @@
 ---
 user: shinjofredo
 rating: 4.5
+type: rating
 published: 2007-12-31T14:28:08.000Z
 legacy_url: http://www.emunova.net/veda/test/891.htm#comment-9026
 ---

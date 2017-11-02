@@ -1,6 +1,7 @@
 ---
 user: cyclopebox
 rating: 3.5
+type: rating
 published: 2005-08-25T16:59:37.000Z
 legacy_url: http://www.emunova.net/veda/test/1059.htm#comment-3637
 ---

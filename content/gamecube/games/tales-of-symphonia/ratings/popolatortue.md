@@ -1,6 +1,7 @@
 ---
 user: popolatortue
 rating: 2.5
+type: rating
 published: 2007-03-11T21:06:46.000Z
 legacy_url: http://www.emunova.net/veda/test/1059.htm#comment-7654
 ---

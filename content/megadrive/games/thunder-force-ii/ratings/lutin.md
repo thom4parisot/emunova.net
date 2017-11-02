@@ -1,6 +1,7 @@
 ---
 user: lutin
 rating: 4.5
+type: rating
 published: 2009-03-20T07:29:12.000Z
 legacy_url: http://www.emunova.net/veda/test/1802.htm#comment-11087
 ---

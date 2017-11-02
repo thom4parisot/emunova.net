@@ -1,6 +1,7 @@
 ---
 user: Kimuji
 rating: 3
+type: rating
 published: 2010-02-17T03:20:57.000Z
 legacy_url: http://www.emunova.net/veda/test/3721.htm#comment-12966
 ---

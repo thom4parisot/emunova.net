@@ -1,6 +1,7 @@
 ---
 user: glabamirio
 rating: 2
+type: rating
 published: 2006-06-05T15:11:01.000Z
 legacy_url: http://www.emunova.net/veda/test/902.htm#comment-5304
 ---

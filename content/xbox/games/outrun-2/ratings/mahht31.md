@@ -1,6 +1,7 @@
 ---
 user: Mahht31
 rating: 4
+type: rating
 published: 2010-04-28T14:47:11.000Z
 legacy_url: http://www.emunova.net/veda/test/1035.htm#comment-13479
 ---

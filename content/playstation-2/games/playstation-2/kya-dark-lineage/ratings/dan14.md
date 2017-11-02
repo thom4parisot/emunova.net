@@ -1,6 +1,7 @@
 ---
 user: Dan14
 rating: 2.5
+type: rating
 published: 2006-07-13T07:34:35.000Z
 legacy_url: http://www.emunova.net/veda/test/371.htm#comment-5700
 ---

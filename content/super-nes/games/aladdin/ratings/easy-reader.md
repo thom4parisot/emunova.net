@@ -1,6 +1,7 @@
 ---
 user: easy reader
 rating: 4.5
+type: rating
 published: 2005-12-30T20:53:38.000Z
 legacy_url: http://www.emunova.net/veda/test/681.htm#comment-4480
 ---

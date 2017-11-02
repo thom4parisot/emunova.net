@@ -1,6 +1,7 @@
 ---
 user: joby
 rating: 3.5
+type: rating
 published: 2008-04-20T15:40:17.000Z
 legacy_url: http://www.emunova.net/veda/test/2660.htm#comment-9476
 ---

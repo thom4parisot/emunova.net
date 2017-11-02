@@ -1,6 +1,7 @@
 ---
 user: Epona
 rating: 4.5
+type: rating
 published: 2005-04-16T14:55:20.000Z
 legacy_url: http://www.emunova.net/veda/test/894.htm#comment-2908
 ---

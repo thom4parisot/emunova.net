@@ -1,6 +1,7 @@
 ---
 user: Strider
 rating: 5
+type: rating
 published: 2011-04-06T16:30:41.000Z
 legacy_url: http://www.emunova.net/veda/test/1939.htm#comment-15051
 ---

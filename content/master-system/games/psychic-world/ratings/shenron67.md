@@ -1,6 +1,7 @@
 ---
 user: Shenron67
 rating: 3.5
+type: rating
 published: 2013-01-19T11:28:03.000Z
 legacy_url: http://www.emunova.net/veda/test/2034.htm#comment-16282
 ---

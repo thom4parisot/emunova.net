@@ -1,6 +1,7 @@
 ---
 user: skipper
 rating: 3.5
+type: rating
 published: 2006-04-27T13:15:07.000Z
 legacy_url: http://www.emunova.net/veda/test/435.htm#comment-5058
 ---

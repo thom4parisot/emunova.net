@@ -1,6 +1,7 @@
 ---
 user: motley
 rating: 2
+type: rating
 published: 2007-09-24T10:05:18.000Z
 legacy_url: http://www.emunova.net/veda/test/2300.htm#comment-8632
 ---

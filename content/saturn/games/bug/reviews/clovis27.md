@@ -1,6 +1,7 @@
 ---
 user: clovis27
 rating: 3.5
+type: review
 published: 2007-09-18T23:49:03.000Z
 legacy_url: http://www.emunova.net/veda/test/2220.htm
 ---

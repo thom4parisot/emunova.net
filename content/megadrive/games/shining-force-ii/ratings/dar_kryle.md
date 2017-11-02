@@ -1,6 +1,7 @@
 ---
 user: Dar\_Kryle
 rating: 5
+type: rating
 published: 2005-04-23T23:00:15.000Z
 legacy_url: http://www.emunova.net/veda/test/772.htm#comment-2947
 ---

@@ -1,6 +1,7 @@
 ---
 user: darkknight88
 rating: 4
+type: rating
 published: 2009-10-28T00:07:05.000Z
 legacy_url: http://www.emunova.net/veda/test/859.htm#comment-12261
 ---

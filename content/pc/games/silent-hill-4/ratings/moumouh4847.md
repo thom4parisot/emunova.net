@@ -1,6 +1,7 @@
 ---
 user: moumouh48/47
 rating: 5
+type: rating
 published: 2010-02-20T19:37:53.000Z
 legacy_url: http://www.emunova.net/veda/test/2686.htm#comment-12995
 ---

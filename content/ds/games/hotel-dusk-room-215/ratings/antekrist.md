@@ -1,6 +1,7 @@
 ---
 user: Antekrist
 rating: 3
+type: rating
 published: 2011-05-25T14:10:22.000Z
 legacy_url: http://www.emunova.net/veda/test/2540.htm#comment-15130
 ---

@@ -1,6 +1,7 @@
 ---
 user: Maxence
 rating: 3.5
+type: rating
 published: 2005-03-20T15:16:15.000Z
 legacy_url: http://www.emunova.net/veda/test/314.htm#comment-2802
 ---

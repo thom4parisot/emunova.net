@@ -1,6 +1,7 @@
 ---
 user: vincelay
 rating: 4.5
+type: rating
 published: 2010-02-04T22:09:16.000Z
 legacy_url: http://www.emunova.net/veda/test/332.htm#comment-12887
 ---

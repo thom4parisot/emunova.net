@@ -1,6 +1,7 @@
 ---
 user: Minou
 rating: 4.5
+type: rating
 published: 2005-11-11T15:59:53.000Z
 legacy_url: http://www.emunova.net/veda/test/353.htm#comment-4233
 ---

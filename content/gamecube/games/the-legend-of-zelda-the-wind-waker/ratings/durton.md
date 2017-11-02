@@ -1,6 +1,7 @@
 ---
 user: Durton
 rating: 4.5
+type: rating
 published: 2006-06-12T08:25:30.000Z
 legacy_url: http://www.emunova.net/veda/test/462.htm#comment-5427
 ---

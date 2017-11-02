@@ -1,6 +1,7 @@
 ---
 user: sunkmanitu
 rating: 4.5
+type: rating
 published: 2008-01-16T01:19:31.000Z
 legacy_url: http://www.emunova.net/veda/test/1400.htm#comment-9081
 ---

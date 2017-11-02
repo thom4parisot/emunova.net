@@ -1,6 +1,7 @@
 ---
 user: Project Katana
 rating: 5
+type: rating
 published: 2008-07-14T18:03:56.000Z
 legacy_url: http://www.emunova.net/veda/test/462.htm#comment-9774
 ---

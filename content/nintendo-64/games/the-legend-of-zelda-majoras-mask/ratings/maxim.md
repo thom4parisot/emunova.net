@@ -1,6 +1,7 @@
 ---
 user: Maxim
 rating: 5
+type: rating
 published: 2006-04-05T17:18:00.000Z
 legacy_url: http://www.emunova.net/veda/test/259.htm#comment-4907
 ---

@@ -1,6 +1,7 @@
 ---
 user: darkdams
 rating: 4.5
+type: rating
 published: 2006-03-01T02:47:53.000Z
 legacy_url: http://www.emunova.net/veda/test/349.htm#comment-4736
 ---

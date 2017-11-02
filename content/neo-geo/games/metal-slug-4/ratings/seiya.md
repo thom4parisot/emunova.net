@@ -1,6 +1,7 @@
 ---
 user: seiya
 rating: 3.5
+type: rating
 published: 2005-04-26T15:18:03.000Z
 legacy_url: http://www.emunova.net/veda/test/902.htm#comment-2964
 ---

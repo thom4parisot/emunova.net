@@ -1,6 +1,7 @@
 ---
 user: Angus
 rating: 2.5
+type: review
 published: 2007-03-25T02:45:07.000Z
 legacy_url: http://www.emunova.net/veda/test/2030.htm
 ---

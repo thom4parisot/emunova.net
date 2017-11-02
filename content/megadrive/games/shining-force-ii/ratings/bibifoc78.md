@@ -1,6 +1,7 @@
 ---
 user: bibifoc78
 rating: 5
+type: rating
 published: 2010-01-23T10:00:13.000Z
 legacy_url: http://www.emunova.net/veda/test/772.htm#comment-12803
 ---

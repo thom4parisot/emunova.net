@@ -1,6 +1,7 @@
 ---
 user: heloudo
 rating: 4
+type: rating
 published: 2005-12-01T12:13:05.000Z
 legacy_url: http://www.emunova.net/veda/test/271.htm#comment-4368
 ---

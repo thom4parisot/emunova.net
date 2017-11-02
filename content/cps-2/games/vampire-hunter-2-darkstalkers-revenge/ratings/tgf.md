@@ -1,6 +1,7 @@
 ---
 user: TGF
 rating: 3.5
+type: rating
 published: 2010-10-03T11:05:25.000Z
 legacy_url: http://www.emunova.net/veda/test/3857.htm#comment-14166
 ---

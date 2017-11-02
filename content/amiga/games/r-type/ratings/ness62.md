@@ -1,6 +1,7 @@
 ---
 user: ness62
 rating: 4
+type: rating
 published: 2004-01-05T23:14:21.000Z
 legacy_url: http://www.emunova.net/veda/test/386.htm#comment-861
 ---

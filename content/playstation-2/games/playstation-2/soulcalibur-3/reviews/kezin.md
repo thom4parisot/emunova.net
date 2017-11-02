@@ -1,6 +1,7 @@
 ---
 user: Kezin
 rating: 4.5
+type: review
 published: 2007-09-24T20:20:09.000Z
 legacy_url: http://www.emunova.net/veda/test/1731.htm
 ---

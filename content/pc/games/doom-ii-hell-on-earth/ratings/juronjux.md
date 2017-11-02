@@ -1,6 +1,7 @@
 ---
 user: juronjux
 rating: 4.5
+type: rating
 published: 2008-01-02T18:18:53.000Z
 legacy_url: http://www.emunova.net/veda/test/727.htm#comment-9031
 ---

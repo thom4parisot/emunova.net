@@ -1,6 +1,7 @@
 ---
 user: Leckdemon
 rating: 4.5
+type: review
 published: 2006-06-21T22:45:47.000Z
 legacy_url: http://www.emunova.net/veda/test/1460.htm
 ---

@@ -1,6 +1,7 @@
 ---
 user: voxuni
 rating: 4
+type: rating
 published: 2006-12-16T00:15:36.000Z
 legacy_url: http://www.emunova.net/veda/test/1858.htm#comment-7175
 ---

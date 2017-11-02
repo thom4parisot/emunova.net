@@ -1,6 +1,7 @@
 ---
 user: pronche
 rating: 4
+type: rating
 published: 2005-02-08T15:10:39.000Z
 legacy_url: http://www.emunova.net/veda/test/732.htm#comment-2496
 ---

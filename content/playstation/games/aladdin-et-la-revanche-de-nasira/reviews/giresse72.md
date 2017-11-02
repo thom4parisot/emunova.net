@@ -1,6 +1,7 @@
 ---
 user: Giresse72
 rating: 4
+type: review
 published: 1970-01-01T00:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/4224.htm
 ---

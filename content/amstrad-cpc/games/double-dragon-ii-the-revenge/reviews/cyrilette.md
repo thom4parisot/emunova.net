@@ -1,6 +1,7 @@
 ---
 user: Cyrilette
 rating: 4
+type: review
 published: 2010-04-12T09:33:26.000Z
 legacy_url: http://www.emunova.net/veda/test/3798.htm
 ---

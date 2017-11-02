@@ -1,6 +1,7 @@
 ---
 user: pred
 rating: 4
+type: rating
 published: 2005-10-27T18:24:38.000Z
 legacy_url: http://www.emunova.net/veda/test/969.htm#comment-4115
 ---

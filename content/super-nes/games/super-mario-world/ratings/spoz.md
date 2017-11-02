@@ -1,6 +1,7 @@
 ---
 user: Spoz
 rating: 5
+type: rating
 published: 2010-06-18T18:56:34.000Z
 legacy_url: http://www.emunova.net/veda/test/47.htm#comment-13803
 ---

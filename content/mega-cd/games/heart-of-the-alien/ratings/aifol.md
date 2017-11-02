@@ -1,6 +1,7 @@
 ---
 user: aifol
 rating: 5
+type: rating
 published: 2011-01-24T17:48:35.000Z
 legacy_url: http://www.emunova.net/veda/test/1497.htm#comment-14902
 ---

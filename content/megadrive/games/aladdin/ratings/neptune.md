@@ -1,6 +1,7 @@
 ---
 user: Neptune
 rating: 4.5
+type: rating
 published: 2006-12-22T20:00:43.000Z
 legacy_url: http://www.emunova.net/veda/test/586.htm#comment-7214
 ---

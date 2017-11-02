@@ -1,6 +1,7 @@
 ---
 user: Kenseiden
 rating: 3
+type: review
 published: 2007-07-27T06:12:14.000Z
 legacy_url: http://www.emunova.net/veda/test/2197.htm
 ---

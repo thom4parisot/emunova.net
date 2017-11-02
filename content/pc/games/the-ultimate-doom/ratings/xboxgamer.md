@@ -1,6 +1,7 @@
 ---
 user: xboxgamer
 rating: 4.5
+type: rating
 published: 2007-08-08T04:00:27.000Z
 legacy_url: http://www.emunova.net/veda/test/724.htm#comment-8474
 ---

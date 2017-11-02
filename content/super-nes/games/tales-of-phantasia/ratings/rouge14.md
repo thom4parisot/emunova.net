@@ -1,6 +1,7 @@
 ---
 user: rouge14
 rating: 5
+type: rating
 published: 2003-07-08T22:17:16.000Z
 legacy_url: http://www.emunova.net/veda/test/157.htm#comment-1036
 ---

@@ -1,6 +1,7 @@
 ---
 user: daface
 rating: 4.5
+type: rating
 published: 2010-10-28T17:05:18.000Z
 legacy_url: http://www.emunova.net/veda/test/589.htm#comment-14368
 ---

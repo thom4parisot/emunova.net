@@ -1,6 +1,7 @@
 ---
 user: The Big Noz
 rating: 4.5
+type: rating
 published: 2005-05-04T19:46:19.000Z
 legacy_url: http://www.emunova.net/veda/test/258.htm#comment-3005
 ---

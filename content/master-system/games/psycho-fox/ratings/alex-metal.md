@@ -1,6 +1,7 @@
 ---
 user: Alex-Metal
 rating: 5
+type: rating
 published: 2007-11-27T08:14:40.000Z
 legacy_url: http://www.emunova.net/veda/test/649.htm#comment-8865
 ---

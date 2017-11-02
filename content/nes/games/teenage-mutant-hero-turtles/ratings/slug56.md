@@ -1,6 +1,7 @@
 ---
 user: slug56
 rating: 1.5
+type: rating
 published: 2008-02-03T10:06:55.000Z
 legacy_url: http://www.emunova.net/veda/test/530.htm#comment-9178
 ---

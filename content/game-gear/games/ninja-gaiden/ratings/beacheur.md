@@ -1,6 +1,7 @@
 ---
 user: beacheur
 rating: 3.5
+type: rating
 published: 2006-11-22T11:13:22.000Z
 legacy_url: http://www.emunova.net/veda/test/788.htm#comment-6847
 ---

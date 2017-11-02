@@ -1,6 +1,7 @@
 ---
 user: ien
 rating: 4.5
+type: rating
 published: 2011-01-21T12:58:18.000Z
 legacy_url: http://www.emunova.net/veda/test/2041.htm#comment-14895
 ---

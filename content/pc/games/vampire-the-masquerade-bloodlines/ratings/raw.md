@@ -1,6 +1,7 @@
 ---
 user: Raw
 rating: 1.5
+type: rating
 published: 2006-04-24T10:57:03.000Z
 legacy_url: http://www.emunova.net/veda/test/1134.htm#comment-5038
 ---

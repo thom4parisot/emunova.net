@@ -1,6 +1,7 @@
 ---
 user: Sebkos
 rating: 5
+type: review
 published: 2005-05-13T18:31:34.000Z
 legacy_url: http://www.emunova.net/veda/test/947.htm
 ---

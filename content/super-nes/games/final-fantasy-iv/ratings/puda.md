@@ -1,6 +1,7 @@
 ---
 user: Puda
 rating: 4
+type: rating
 published: 2010-01-06T11:58:28.000Z
 legacy_url: http://www.emunova.net/veda/test/614.htm#comment-12710
 ---

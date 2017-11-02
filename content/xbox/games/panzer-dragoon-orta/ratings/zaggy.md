@@ -1,6 +1,7 @@
 ---
 user: Zaggy
 rating: 4.5
+type: rating
 published: 2006-07-20T20:47:45.000Z
 legacy_url: http://www.emunova.net/veda/test/335.htm#comment-5770
 ---

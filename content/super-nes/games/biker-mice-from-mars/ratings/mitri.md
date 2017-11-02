@@ -1,6 +1,7 @@
 ---
 user: mitri
 rating: 2.5
+type: rating
 published: 2007-04-11T15:28:35.000Z
 legacy_url: http://www.emunova.net/veda/test/1605.htm#comment-7905
 ---

@@ -1,6 +1,7 @@
 ---
 user: Mafio
 rating: 4
+type: rating
 published: 2004-12-09T13:54:48.000Z
 legacy_url: http://www.emunova.net/veda/test/746.htm#comment-2102
 ---

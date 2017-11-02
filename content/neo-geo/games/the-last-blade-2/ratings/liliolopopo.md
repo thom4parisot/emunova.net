@@ -1,6 +1,7 @@
 ---
 user: liliolopopo
 rating: 4.5
+type: rating
 published: 2005-03-03T00:58:29.000Z
 legacy_url: http://www.emunova.net/veda/test/387.htm#comment-2655
 ---

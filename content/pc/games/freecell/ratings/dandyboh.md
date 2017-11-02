@@ -1,6 +1,7 @@
 ---
 user: dandyboh
 rating: 3.5
+type: rating
 published: 2007-04-11T21:33:13.000Z
 legacy_url: http://www.emunova.net/veda/test/2090.htm#comment-7914
 ---

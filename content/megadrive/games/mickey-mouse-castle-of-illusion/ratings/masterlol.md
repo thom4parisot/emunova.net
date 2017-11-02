@@ -1,6 +1,7 @@
 ---
 user: masterlol
 rating: 4
+type: rating
 published: 2006-06-26T13:51:02.000Z
 legacy_url: http://www.emunova.net/veda/test/1505.htm#comment-5588
 ---

@@ -1,6 +1,7 @@
 ---
 user: Syrus
 rating: 5
+type: rating
 published: 2005-12-05T19:37:22.000Z
 legacy_url: http://www.emunova.net/veda/test/116.htm#comment-4395
 ---

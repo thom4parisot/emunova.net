@@ -1,6 +1,7 @@
 ---
 user: elboulangero
 rating: 5
+type: rating
 published: 2007-10-27T10:22:07.000Z
 legacy_url: http://www.emunova.net/veda/test/588.htm#comment-8748
 ---

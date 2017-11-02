@@ -1,6 +1,7 @@
 ---
 user: r-nest
 rating: 4
+type: rating
 published: 2005-02-27T20:28:14.000Z
 legacy_url: http://www.emunova.net/veda/test/872.htm#comment-2619
 ---

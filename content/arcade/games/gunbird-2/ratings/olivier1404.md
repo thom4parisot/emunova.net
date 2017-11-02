@@ -1,6 +1,7 @@
 ---
 user: olivier1404
 rating: 4.5
+type: rating
 published: 2005-03-03T08:33:12.000Z
 legacy_url: http://www.emunova.net/veda/test/322.htm#comment-2656
 ---

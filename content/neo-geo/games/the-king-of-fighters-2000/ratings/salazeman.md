@@ -1,6 +1,7 @@
 ---
 user: salazeman
 rating: 4.5
+type: rating
 published: 2005-03-08T15:06:37.000Z
 legacy_url: http://www.emunova.net/veda/test/390.htm#comment-2692
 ---

@@ -1,6 +1,7 @@
 ---
 user: chubalgarr
 rating: 1.5
+type: rating
 published: 2011-07-12T20:13:36.000Z
 legacy_url: http://www.emunova.net/veda/test/1702.htm#comment-15321
 ---

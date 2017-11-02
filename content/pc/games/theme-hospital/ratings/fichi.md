@@ -1,6 +1,7 @@
 ---
 user: Fichi
 rating: 4.5
+type: rating
 published: 2010-03-08T23:21:07.000Z
 legacy_url: http://www.emunova.net/veda/test/1972.htm#comment-13130
 ---

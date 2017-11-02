@@ -1,6 +1,7 @@
 ---
 user: seb-le-ouf-06
 rating: 3.5
+type: rating
 published: 2007-06-20T07:05:47.000Z
 legacy_url: http://www.emunova.net/veda/test/1261.htm#comment-8196
 ---

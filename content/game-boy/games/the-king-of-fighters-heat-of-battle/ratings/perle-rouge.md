@@ -1,6 +1,7 @@
 ---
 user: Perle rouge
 rating: 4
+type: rating
 published: 2005-03-04T13:26:52.000Z
 legacy_url: http://www.emunova.net/veda/test/215.htm#comment-2664
 ---

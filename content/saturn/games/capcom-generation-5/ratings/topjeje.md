@@ -1,6 +1,7 @@
 ---
 user: topjeje
 rating: 2.5
+type: rating
 published: 2006-08-23T13:58:48.000Z
 legacy_url: http://www.emunova.net/veda/test/1586.htm#comment-5998
 ---

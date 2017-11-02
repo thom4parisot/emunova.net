@@ -1,6 +1,7 @@
 ---
 user: DoubleZ
 rating: 4
+type: rating
 published: 2012-01-01T23:33:34.000Z
 legacy_url: http://www.emunova.net/veda/test/4197.htm#comment-15681
 ---

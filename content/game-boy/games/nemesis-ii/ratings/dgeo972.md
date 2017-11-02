@@ -1,6 +1,7 @@
 ---
 user: dgeo972
 rating: 4.5
+type: rating
 published: 2010-04-15T21:12:48.000Z
 legacy_url: http://www.emunova.net/veda/test/2926.htm#comment-13369
 ---

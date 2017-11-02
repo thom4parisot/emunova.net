@@ -1,6 +1,7 @@
 ---
 user: Anonyme 7338
 rating: 4.5
+type: rating
 published: 2007-01-21T08:53:19.000Z
 legacy_url: http://www.emunova.net/veda/test/256.htm#comment-7338
 ---

@@ -1,6 +1,7 @@
 ---
 user: panch
 rating: 4.5
+type: rating
 published: 2011-04-15T14:19:41.000Z
 legacy_url: http://www.emunova.net/veda/test/837.htm#comment-15065
 ---

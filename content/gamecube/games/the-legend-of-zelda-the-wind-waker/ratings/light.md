@@ -1,6 +1,7 @@
 ---
 user: light
 rating: 3
+type: rating
 published: 2005-09-10T01:17:39.000Z
 legacy_url: http://www.emunova.net/veda/test/462.htm#comment-3754
 ---

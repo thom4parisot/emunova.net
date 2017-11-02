@@ -1,6 +1,7 @@
 ---
 user: Raeglin
 rating: 3.5
+type: review
 published: 2009-12-16T12:31:50.000Z
 legacy_url: http://www.emunova.net/veda/test/3585.htm
 ---

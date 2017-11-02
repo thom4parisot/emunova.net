@@ -1,6 +1,7 @@
 ---
 user: Mafio
 rating: 5
+type: rating
 published: 2007-05-13T17:36:42.000Z
 legacy_url: http://www.emunova.net/veda/test/2020.htm#comment-8036
 ---

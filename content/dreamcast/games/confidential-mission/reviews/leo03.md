@@ -1,6 +1,7 @@
 ---
 user: leo03
 rating: 4
+type: review
 published: 2006-05-13T14:39:09.000Z
 legacy_url: http://www.emunova.net/veda/test/1431.htm
 ---

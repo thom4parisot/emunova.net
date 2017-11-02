@@ -1,6 +1,7 @@
 ---
 user: SiZiOUS
 rating: 4
+type: rating
 published: 2006-03-27T16:51:27.000Z
 legacy_url: http://www.emunova.net/veda/test/532.htm#comment-4856
 ---

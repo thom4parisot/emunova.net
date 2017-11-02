@@ -1,6 +1,7 @@
 ---
 user: jbam2
 rating: 5
+type: rating
 published: 2005-01-11T22:31:00.000Z
 legacy_url: http://www.emunova.net/veda/test/296.htm#comment-2417
 ---

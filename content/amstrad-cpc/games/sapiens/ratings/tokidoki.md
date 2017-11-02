@@ -1,6 +1,7 @@
 ---
 user: tokidoki
 rating: 4.5
+type: rating
 published: 2005-02-27T04:43:13.000Z
 legacy_url: http://www.emunova.net/veda/test/762.htm#comment-2612
 ---

@@ -1,6 +1,7 @@
 ---
 user: jahiro
 rating: 4
+type: rating
 published: 2005-02-01T17:00:45.000Z
 legacy_url: http://www.emunova.net/veda/test/136.htm#comment-2479
 ---

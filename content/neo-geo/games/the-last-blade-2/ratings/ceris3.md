@@ -1,6 +1,7 @@
 ---
 user: Ceris3
 rating: 5
+type: rating
 published: 2005-05-28T14:06:54.000Z
 legacy_url: http://www.emunova.net/veda/test/387.htm#comment-3186
 ---

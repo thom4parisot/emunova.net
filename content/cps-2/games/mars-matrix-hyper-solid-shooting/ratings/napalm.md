@@ -1,6 +1,7 @@
 ---
 user: Napalm
 rating: 3
+type: rating
 published: 2003-08-02T22:06:18.000Z
 legacy_url: http://www.emunova.net/veda/test/189.htm#comment-378
 ---

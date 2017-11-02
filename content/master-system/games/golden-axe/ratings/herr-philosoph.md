@@ -1,6 +1,7 @@
 ---
 user: Herr Philosoph
 rating: 3
+type: rating
 published: 2010-03-04T12:14:57.000Z
 legacy_url: http://www.emunova.net/veda/test/360.htm#comment-13075
 ---

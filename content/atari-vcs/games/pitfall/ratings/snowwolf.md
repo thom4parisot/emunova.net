@@ -1,6 +1,7 @@
 ---
 user: SnowWolf
 rating: 3.5
+type: rating
 published: 2010-06-16T11:03:28.000Z
 legacy_url: http://www.emunova.net/veda/test/2394.htm#comment-13794
 ---

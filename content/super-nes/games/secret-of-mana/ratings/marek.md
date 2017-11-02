@@ -1,6 +1,7 @@
 ---
 user: Marek
 rating: 4.5
+type: rating
 published: 2006-05-16T10:05:49.000Z
 legacy_url: http://www.emunova.net/veda/test/785.htm#comment-5140
 ---

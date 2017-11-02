@@ -1,6 +1,7 @@
 ---
 user: chasseurdelaville
 rating: 5
+type: rating
 published: 2012-04-11T14:32:03.000Z
 legacy_url: http://www.emunova.net/veda/test/438.htm#comment-15769
 ---

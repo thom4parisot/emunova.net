@@ -1,6 +1,7 @@
 ---
 user: ADK
 rating: 3.5
+type: rating
 published: 2008-03-08T19:47:28.000Z
 legacy_url: http://www.emunova.net/veda/test/1349.htm#comment-9328
 ---

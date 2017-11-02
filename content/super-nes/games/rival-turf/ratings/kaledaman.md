@@ -1,6 +1,7 @@
 ---
 user: KaleDaMan
 rating: 3.5
+type: rating
 published: 2008-12-20T11:02:43.000Z
 legacy_url: http://www.emunova.net/veda/test/1921.htm#comment-10612
 ---

@@ -1,6 +1,7 @@
 ---
 user: BrochetteMaster
 rating: 3.5
+type: rating
 published: 2005-01-07T10:45:25.000Z
 legacy_url: http://www.emunova.net/veda/test/787.htm#comment-2399
 ---

@@ -1,6 +1,7 @@
 ---
 user: Julio
 rating: 4.5
+type: review
 published: 2003-12-08T23:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/339.htm
 ---

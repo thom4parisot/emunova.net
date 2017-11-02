@@ -1,6 +1,7 @@
 ---
 user: thomasdes
 rating: 4
+type: rating
 published: 2005-03-31T12:05:23.000Z
 legacy_url: http://www.emunova.net/veda/test/401.htm#comment-2849
 ---

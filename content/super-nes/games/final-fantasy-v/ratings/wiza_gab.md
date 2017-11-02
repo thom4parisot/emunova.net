@@ -1,6 +1,7 @@
 ---
 user: wiza\_gab
 rating: 4.5
+type: rating
 published: 2006-03-03T00:07:15.000Z
 legacy_url: http://www.emunova.net/veda/test/381.htm#comment-4742
 ---

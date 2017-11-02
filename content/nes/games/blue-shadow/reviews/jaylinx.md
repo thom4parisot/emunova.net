@@ -1,6 +1,7 @@
 ---
 user: Jaylinx
 rating: 4
+type: review
 published: 2004-12-31T18:35:21.000Z
 legacy_url: http://www.emunova.net/veda/test/823.htm
 ---

@@ -1,6 +1,7 @@
 ---
 user: Strider
 rating: 3.5
+type: rating
 published: 2006-07-31T06:21:12.000Z
 legacy_url: http://www.emunova.net/veda/test/1554.htm#comment-5855
 ---

@@ -1,6 +1,7 @@
 ---
 user: nimporte51
 rating: 3.5
+type: rating
 published: 2007-09-19T05:54:34.000Z
 legacy_url: http://www.emunova.net/veda/test/2005.htm#comment-8611
 ---

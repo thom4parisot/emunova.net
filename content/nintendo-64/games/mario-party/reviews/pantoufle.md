@@ -1,6 +1,7 @@
 ---
 user: pantoufle
 rating: 4
+type: review
 published: 2008-09-01T08:31:58.000Z
 legacy_url: http://www.emunova.net/veda/test/2854.htm
 ---

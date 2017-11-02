@@ -1,6 +1,7 @@
 ---
 user: J.J.
 rating: 2.5
+type: rating
 published: 2007-02-25T12:21:47.000Z
 legacy_url: http://www.emunova.net/veda/test/1148.htm#comment-7571
 ---

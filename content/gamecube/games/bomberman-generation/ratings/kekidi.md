@@ -1,6 +1,7 @@
 ---
 user: Kékidi
 rating: 2
+type: rating
 published: 2012-05-15T18:13:53.000Z
 legacy_url: http://www.emunova.net/veda/test/4238.htm#comment-15824
 ---

@@ -1,6 +1,7 @@
 ---
 user: Tomy
 rating: 4.5
+type: rating
 published: 2003-05-03T22:32:11.000Z
 legacy_url: http://www.emunova.net/veda/test/51.htm#comment-1931
 ---

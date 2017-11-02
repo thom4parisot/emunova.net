@@ -1,6 +1,7 @@
 ---
 user: Anonyme 8055
 rating: 3
+type: rating
 published: 2007-05-14T22:46:56.000Z
 legacy_url: http://www.emunova.net/veda/test/1715.htm#comment-8055
 ---

@@ -1,6 +1,7 @@
 ---
 user: audioslaver
 rating: 4.5
+type: rating
 published: 2008-08-14T10:29:01.000Z
 legacy_url: http://www.emunova.net/veda/test/29.htm#comment-9847
 ---

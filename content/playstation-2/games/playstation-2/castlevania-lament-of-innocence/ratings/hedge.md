@@ -1,6 +1,7 @@
 ---
 user: hedge
 rating: 1.5
+type: rating
 published: 2006-11-05T00:12:10.000Z
 legacy_url: http://www.emunova.net/veda/test/515.htm#comment-6631
 ---

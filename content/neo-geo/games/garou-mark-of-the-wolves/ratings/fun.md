@@ -1,6 +1,7 @@
 ---
 user: FuN
 rating: 4.5
+type: rating
 published: 2013-04-25T17:06:02.000Z
 legacy_url: http://www.emunova.net/veda/test/330.htm#comment-16354
 ---

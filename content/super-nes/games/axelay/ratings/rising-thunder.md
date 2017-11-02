@@ -1,6 +1,7 @@
 ---
 user: Rising Thunder
 rating: 5
+type: rating
 published: 2004-12-25T20:41:02.000Z
 legacy_url: http://www.emunova.net/veda/test/468.htm#comment-2250
 ---

@@ -1,6 +1,7 @@
 ---
 user: Donni
 rating: 5
+type: rating
 published: 2011-10-11T09:27:05.000Z
 legacy_url: http://www.emunova.net/veda/test/744.htm#comment-15560
 ---

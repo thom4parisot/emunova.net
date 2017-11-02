@@ -1,6 +1,7 @@
 ---
 user: nerok
 rating: 4
+type: rating
 published: 2003-07-05T22:24:23.000Z
 legacy_url: http://www.emunova.net/veda/test/146.htm#comment-1463
 ---

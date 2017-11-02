@@ -1,6 +1,7 @@
 ---
 user: dj.PESSOA
 rating: 5
+type: rating
 published: 2012-05-05T11:03:30.000Z
 legacy_url: http://www.emunova.net/veda/test/3177.htm#comment-15806
 ---

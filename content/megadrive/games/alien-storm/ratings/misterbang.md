@@ -1,6 +1,7 @@
 ---
 user: misterbang
 rating: 4
+type: rating
 published: 2008-04-27T17:58:44.000Z
 legacy_url: http://www.emunova.net/veda/test/145.htm#comment-9492
 ---

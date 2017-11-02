@@ -1,6 +1,7 @@
 ---
 user: ygrek
 rating: 5
+type: rating
 published: 2012-03-17T23:22:43.000Z
 legacy_url: http://www.emunova.net/veda/test/289.htm#comment-15742
 ---

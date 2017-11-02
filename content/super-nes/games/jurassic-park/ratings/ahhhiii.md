@@ -1,6 +1,7 @@
 ---
 user: Ahhhiii
 rating: 4.5
+type: rating
 published: 2008-01-03T13:10:23.000Z
 legacy_url: http://www.emunova.net/veda/test/123.htm#comment-9035
 ---

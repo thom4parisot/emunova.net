@@ -1,6 +1,7 @@
 ---
 user: doudou
 rating: 4
+type: rating
 published: 2004-12-13T00:54:22.000Z
 legacy_url: http://www.emunova.net/veda/test/739.htm#comment-2140
 ---

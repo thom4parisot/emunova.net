@@ -1,6 +1,7 @@
 ---
 user: Sigfrodi
 rating: 3.5
+type: rating
 published: 2003-07-09T22:05:02.000Z
 legacy_url: http://www.emunova.net/veda/test/161.htm#comment-302
 ---

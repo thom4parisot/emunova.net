@@ -1,6 +1,7 @@
 ---
 user: fano
 rating: 5
+type: rating
 published: 2010-07-14T22:29:07.000Z
 legacy_url: http://www.emunova.net/veda/test/578.htm#comment-13866
 ---

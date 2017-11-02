@@ -1,6 +1,7 @@
 ---
 user: ackman
 rating: 5
+type: rating
 published: 2005-06-16T08:10:39.000Z
 legacy_url: http://www.emunova.net/veda/test/536.htm#comment-3282
 ---

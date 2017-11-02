@@ -1,6 +1,7 @@
 ---
 user: leo03
 rating: 4
+type: rating
 published: 2006-11-25T10:47:22.000Z
 legacy_url: http://www.emunova.net/veda/test/1823.htm#comment-6877
 ---

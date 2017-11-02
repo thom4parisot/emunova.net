@@ -1,6 +1,7 @@
 ---
 user: devinseven
 rating: 3.5
+type: rating
 published: 2009-01-25T23:47:30.000Z
 legacy_url: http://www.emunova.net/veda/test/2973.htm#comment-10848
 ---

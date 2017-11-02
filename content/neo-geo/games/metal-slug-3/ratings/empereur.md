@@ -1,6 +1,7 @@
 ---
 user: empereur
 rating: 5
+type: rating
 published: 2006-06-10T06:23:21.000Z
 legacy_url: http://www.emunova.net/veda/test/392.htm#comment-5414
 ---

@@ -1,6 +1,7 @@
 ---
 user: KaitoKito
 rating: 5
+type: rating
 published: 2009-11-11T11:13:48.000Z
 legacy_url: http://www.emunova.net/veda/test/47.htm#comment-12375
 ---

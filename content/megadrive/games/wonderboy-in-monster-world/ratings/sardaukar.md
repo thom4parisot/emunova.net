@@ -1,6 +1,7 @@
 ---
 user: Sardaukar
 rating: 5
+type: rating
 published: 2005-11-21T22:40:25.000Z
 legacy_url: http://www.emunova.net/veda/test/1210.htm#comment-4319
 ---

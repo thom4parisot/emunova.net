@@ -1,6 +1,7 @@
 ---
 user: erematrus
 rating: 4
+type: rating
 published: 2008-02-25T15:22:09.000Z
 legacy_url: http://www.emunova.net/veda/test/1844.htm#comment-9281
 ---

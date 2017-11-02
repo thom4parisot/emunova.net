@@ -1,6 +1,7 @@
 ---
 user: Boss 424
 rating: 3.5
+type: rating
 published: 2011-05-03T22:33:14.000Z
 legacy_url: http://www.emunova.net/veda/test/230.htm#comment-15094
 ---

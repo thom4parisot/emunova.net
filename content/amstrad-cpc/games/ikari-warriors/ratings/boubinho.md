@@ -1,6 +1,7 @@
 ---
 user: Boubiñho
 rating: 4.5
+type: rating
 published: 2011-10-23T14:02:19.000Z
 legacy_url: http://www.emunova.net/veda/test/1936.htm#comment-15577
 ---

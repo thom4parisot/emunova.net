@@ -1,6 +1,7 @@
 ---
 user: MrBean
 rating: 4.5
+type: rating
 published: 2009-01-13T01:31:33.000Z
 legacy_url: http://www.emunova.net/veda/test/1968.htm#comment-10765
 ---

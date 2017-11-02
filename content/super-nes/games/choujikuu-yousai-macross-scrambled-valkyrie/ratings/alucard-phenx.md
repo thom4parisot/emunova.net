@@ -1,6 +1,7 @@
 ---
 user: Alucard PhénX
 rating: 4
+type: rating
 published: 2006-04-02T18:27:11.000Z
 legacy_url: http://www.emunova.net/veda/test/689.htm#comment-4886
 ---

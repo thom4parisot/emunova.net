@@ -1,6 +1,7 @@
 ---
 user: Darkfaltz
 rating: 5
+type: rating
 published: 2003-08-14T22:14:09.000Z
 legacy_url: http://www.emunova.net/veda/test/216.htm#comment-849
 ---

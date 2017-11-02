@@ -1,6 +1,7 @@
 ---
 user: LHLH
 rating: 5
+type: rating
 published: 2006-02-16T19:41:34.000Z
 legacy_url: http://www.emunova.net/veda/test/977.htm#comment-4657
 ---

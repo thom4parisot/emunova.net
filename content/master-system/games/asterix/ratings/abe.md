@@ -1,6 +1,7 @@
 ---
 user: Abe
 rating: 4
+type: rating
 published: 2006-06-05T16:49:27.000Z
 legacy_url: http://www.emunova.net/veda/test/1477.htm#comment-5314
 ---

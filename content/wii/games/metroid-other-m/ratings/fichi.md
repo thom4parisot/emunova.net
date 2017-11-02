@@ -1,6 +1,7 @@
 ---
 user: Fichi
 rating: 3
+type: rating
 published: 2011-01-24T06:09:44.000Z
 legacy_url: http://www.emunova.net/veda/test/4045.htm#comment-14901
 ---

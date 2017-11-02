@@ -1,6 +1,7 @@
 ---
 user: Spoz
 rating: 4
+type: review
 published: 2009-07-01T16:41:28.000Z
 legacy_url: http://www.emunova.net/veda/test/3301.htm
 ---

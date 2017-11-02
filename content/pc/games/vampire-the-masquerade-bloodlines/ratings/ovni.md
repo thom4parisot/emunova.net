@@ -1,6 +1,7 @@
 ---
 user: OVNI
 rating: 4
+type: rating
 published: 2007-09-14T19:16:12.000Z
 legacy_url: http://www.emunova.net/veda/test/1134.htm#comment-8599
 ---

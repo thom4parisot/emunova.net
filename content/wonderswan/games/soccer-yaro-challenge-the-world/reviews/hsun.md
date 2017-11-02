@@ -1,6 +1,7 @@
 ---
 user: Hsun
 rating: 3
+type: review
 published: 2004-08-02T19:27:47.000Z
 legacy_url: http://www.emunova.net/veda/test/643.htm
 ---

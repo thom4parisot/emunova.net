@@ -1,6 +1,7 @@
 ---
 user: jokind
 rating: 3.5
+type: rating
 published: 2005-12-08T11:58:41.000Z
 legacy_url: http://www.emunova.net/veda/test/259.htm#comment-4405
 ---

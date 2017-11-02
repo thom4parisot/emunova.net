@@ -1,6 +1,7 @@
 ---
 user: g0t.milk
 rating: 4
+type: rating
 published: 2005-06-03T10:27:24.000Z
 legacy_url: http://www.emunova.net/veda/test/152.htm#comment-3200
 ---

@@ -1,6 +1,7 @@
 ---
 user: dragoonhead
 rating: 4
+type: rating
 published: 2010-04-15T21:50:22.000Z
 legacy_url: http://www.emunova.net/veda/test/3104.htm#comment-13370
 ---

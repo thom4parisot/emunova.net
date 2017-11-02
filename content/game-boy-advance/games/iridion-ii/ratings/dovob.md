@@ -1,6 +1,7 @@
 ---
 user: dovob
 rating: 3.5
+type: rating
 published: 2009-04-26T16:44:21.000Z
 legacy_url: http://www.emunova.net/veda/test/276.htm#comment-11283
 ---

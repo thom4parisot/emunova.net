@@ -1,6 +1,7 @@
 ---
 user: Double impact
 rating: 2.5
+type: rating
 published: 2012-12-03T10:13:58.000Z
 legacy_url: http://www.emunova.net/veda/test/2477.htm#comment-16262
 ---

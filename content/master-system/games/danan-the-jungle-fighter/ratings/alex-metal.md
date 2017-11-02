@@ -1,6 +1,7 @@
 ---
 user: Alex-Metal
 rating: 3.5
+type: rating
 published: 2007-11-27T08:12:50.000Z
 legacy_url: http://www.emunova.net/veda/test/1986.htm#comment-8864
 ---

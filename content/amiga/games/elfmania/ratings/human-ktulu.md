@@ -1,6 +1,7 @@
 ---
 user: Human Ktulu
 rating: 3
+type: rating
 published: 2008-09-08T11:19:55.000Z
 legacy_url: http://www.emunova.net/veda/test/2874.htm#comment-9964
 ---

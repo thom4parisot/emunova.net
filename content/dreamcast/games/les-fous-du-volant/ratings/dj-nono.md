@@ -1,6 +1,7 @@
 ---
 user: DJ NONO
 rating: 5
+type: rating
 published: 2006-02-25T08:40:30.000Z
 legacy_url: http://www.emunova.net/veda/test/739.htm#comment-4708
 ---

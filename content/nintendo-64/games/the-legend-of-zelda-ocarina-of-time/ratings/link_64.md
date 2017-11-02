@@ -1,6 +1,7 @@
 ---
 user: Link\_64
 rating: 5
+type: rating
 published: 2003-05-01T22:08:12.000Z
 legacy_url: http://www.emunova.net/veda/test/41.htm#comment-492
 ---

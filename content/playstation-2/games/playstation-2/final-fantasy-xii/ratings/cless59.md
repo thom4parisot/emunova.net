@@ -1,6 +1,7 @@
 ---
 user: cless59
 rating: 3.5
+type: rating
 published: 2008-08-12T21:18:02.000Z
 legacy_url: http://www.emunova.net/veda/test/2702.htm#comment-9840
 ---

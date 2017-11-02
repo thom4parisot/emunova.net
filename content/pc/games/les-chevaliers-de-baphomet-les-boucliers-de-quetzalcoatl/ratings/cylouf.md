@@ -1,6 +1,7 @@
 ---
 user: cylouf
 rating: 4
+type: rating
 published: 2010-10-09T18:38:23.000Z
 legacy_url: http://www.emunova.net/veda/test/3983.htm#comment-14225
 ---

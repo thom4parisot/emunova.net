@@ -1,6 +1,7 @@
 ---
 user: BBG
 rating: 2.5
+type: rating
 published: 2003-12-08T23:18:32.000Z
 legacy_url: http://www.emunova.net/veda/test/339.htm#comment-1112
 ---

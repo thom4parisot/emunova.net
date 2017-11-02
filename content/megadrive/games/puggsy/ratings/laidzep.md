@@ -1,6 +1,7 @@
 ---
 user: Laidzep
 rating: 5
+type: rating
 published: 2010-01-18T15:39:54.000Z
 legacy_url: http://www.emunova.net/veda/test/2958.htm#comment-12761
 ---

@@ -1,6 +1,7 @@
 ---
 user: omega\_21
 rating: 4.5
+type: rating
 published: 2007-07-24T12:24:22.000Z
 legacy_url: http://www.emunova.net/veda/test/1635.htm#comment-8410
 ---

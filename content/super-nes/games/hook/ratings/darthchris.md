@@ -1,6 +1,7 @@
 ---
 user: darthchris
 rating: 3.5
+type: rating
 published: 2008-05-12T13:47:22.000Z
 legacy_url: http://www.emunova.net/veda/test/39.htm#comment-9541
 ---

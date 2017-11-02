@@ -1,6 +1,7 @@
 ---
 user: Pulsahr
 rating: 4.5
+type: rating
 published: 2004-12-03T11:03:58.000Z
 legacy_url: http://www.emunova.net/veda/test/572.htm#comment-2056
 ---

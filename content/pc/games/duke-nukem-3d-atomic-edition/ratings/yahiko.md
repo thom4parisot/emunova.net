@@ -1,6 +1,7 @@
 ---
 user: Yahiko
 rating: 5
+type: rating
 published: 2004-12-11T19:23:13.000Z
 legacy_url: http://www.emunova.net/veda/test/771.htm#comment-2115
 ---

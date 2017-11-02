@@ -1,6 +1,7 @@
 ---
 user: PeJ
 rating: 4.5
+type: rating
 published: 2004-11-30T12:48:28.000Z
 legacy_url: http://www.emunova.net/veda/test/445.htm#comment-2034
 ---

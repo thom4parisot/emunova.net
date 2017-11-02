@@ -1,6 +1,7 @@
 ---
 user: Magnio
 rating: 4
+type: review
 published: 2010-06-27T15:15:03.000Z
 legacy_url: http://www.emunova.net/veda/test/3893.htm
 ---

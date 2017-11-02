@@ -1,6 +1,7 @@
 ---
 user: XJP
 rating: 4.5
+type: rating
 published: 2007-07-21T14:17:49.000Z
 legacy_url: http://www.emunova.net/veda/test/790.htm#comment-8396
 ---

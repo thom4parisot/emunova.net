@@ -1,6 +1,7 @@
 ---
 user: jenny211
 rating: 2.5
+type: rating
 published: 2005-05-16T05:35:31.000Z
 legacy_url: http://www.emunova.net/veda/test/946.htm#comment-3081
 ---

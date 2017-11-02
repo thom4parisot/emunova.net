@@ -1,6 +1,7 @@
 ---
 user: manulelutin
 rating: 4.5
+type: rating
 published: 2006-02-02T21:54:13.000Z
 legacy_url: http://www.emunova.net/veda/test/1313.htm#comment-4598
 ---

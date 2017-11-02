@@ -1,6 +1,7 @@
 ---
 user: ShadowFox
 rating: 4
+type: rating
 published: 2005-10-13T20:10:49.000Z
 legacy_url: http://www.emunova.net/veda/test/1134.htm#comment-4045
 ---

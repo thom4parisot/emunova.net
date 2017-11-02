@@ -1,6 +1,7 @@
 ---
 user: fresolo
 rating: 5
+type: rating
 published: 2011-06-02T21:08:34.000Z
 legacy_url: http://www.emunova.net/veda/test/413.htm#comment-15149
 ---

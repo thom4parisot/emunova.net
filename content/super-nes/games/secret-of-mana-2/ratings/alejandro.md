@@ -1,6 +1,7 @@
 ---
 user: alejandro
 rating: 3.5
+type: rating
 published: 2005-03-01T17:42:48.000Z
 legacy_url: http://www.emunova.net/veda/test/134.htm#comment-2636
 ---

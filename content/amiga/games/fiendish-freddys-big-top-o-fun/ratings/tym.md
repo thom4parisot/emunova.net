@@ -1,6 +1,7 @@
 ---
 user: TYM
 rating: 4
+type: rating
 published: 2006-07-13T14:42:50.000Z
 legacy_url: http://www.emunova.net/veda/test/832.htm#comment-5706
 ---

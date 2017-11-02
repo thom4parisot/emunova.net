@@ -1,6 +1,7 @@
 ---
 user: Sigfrodi
 rating: 2.5
+type: rating
 published: 2010-03-14T18:17:45.000Z
 legacy_url: http://www.emunova.net/veda/test/2520.htm#comment-13182
 ---

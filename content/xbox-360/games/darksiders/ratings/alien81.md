@@ -1,6 +1,7 @@
 ---
 user: alien81
 rating: 4.5
+type: rating
 published: 2011-08-23T07:56:23.000Z
 legacy_url: http://www.emunova.net/veda/test/4046.htm#comment-15466
 ---

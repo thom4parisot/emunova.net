@@ -1,6 +1,7 @@
 ---
 user: RainbowRimbaud
 rating: 3.5
+type: rating
 published: 2010-04-27T21:51:05.000Z
 legacy_url: http://www.emunova.net/veda/test/2393.htm#comment-13472
 ---

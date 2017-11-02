@@ -1,6 +1,7 @@
 ---
 user: Dark Bobob
 rating: 5
+type: review
 published: 2003-06-29T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/133.htm
 ---

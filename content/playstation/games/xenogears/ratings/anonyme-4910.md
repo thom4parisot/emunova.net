@@ -1,6 +1,7 @@
 ---
 user: Anonyme 4910
 rating: 2.5
+type: rating
 published: 2006-04-06T12:25:14.000Z
 legacy_url: http://www.emunova.net/veda/test/209.htm#comment-4910
 ---

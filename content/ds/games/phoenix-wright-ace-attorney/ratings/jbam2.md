@@ -1,6 +1,7 @@
 ---
 user: jbam2
 rating: 4
+type: rating
 published: 2006-08-09T01:52:40.000Z
 legacy_url: http://www.emunova.net/veda/test/1308.htm#comment-5901
 ---

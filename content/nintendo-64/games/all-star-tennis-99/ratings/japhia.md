@@ -1,6 +1,7 @@
 ---
 user: Japhia
 rating: 2.5
+type: rating
 published: 2009-03-15T12:13:21.000Z
 legacy_url: http://www.emunova.net/veda/test/180.htm#comment-11077
 ---

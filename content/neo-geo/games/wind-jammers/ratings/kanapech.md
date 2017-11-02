@@ -1,6 +1,7 @@
 ---
 user: kanapech
 rating: 4.5
+type: rating
 published: 2005-08-26T09:52:12.000Z
 legacy_url: http://www.emunova.net/veda/test/79.htm#comment-3645
 ---

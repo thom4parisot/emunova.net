@@ -1,6 +1,7 @@
 ---
 user: Musimon
 rating: 4.5
+type: rating
 published: 2009-01-17T18:59:17.000Z
 legacy_url: http://www.emunova.net/veda/test/2328.htm#comment-10782
 ---

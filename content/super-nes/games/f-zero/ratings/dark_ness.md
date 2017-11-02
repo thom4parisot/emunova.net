@@ -1,6 +1,7 @@
 ---
 user: Dark\_ness
 rating: 4
+type: rating
 published: 2006-06-26T19:10:48.000Z
 legacy_url: http://www.emunova.net/veda/test/167.htm#comment-5597
 ---

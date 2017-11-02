@@ -1,6 +1,7 @@
 ---
 user: exodus
 rating: 4
+type: rating
 published: 2003-04-20T22:02:32.000Z
 legacy_url: http://www.emunova.net/veda/test/7.htm#comment-152
 ---

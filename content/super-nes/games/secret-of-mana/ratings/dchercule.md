@@ -1,6 +1,7 @@
 ---
 user: DChercule
 rating: 5
+type: rating
 published: 2008-04-28T15:41:50.000Z
 legacy_url: http://www.emunova.net/veda/test/785.htm#comment-9499
 ---

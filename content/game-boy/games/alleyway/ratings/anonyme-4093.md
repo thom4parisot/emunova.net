@@ -1,6 +1,7 @@
 ---
 user: Anonyme 4093
 rating: 3
+type: rating
 published: 2005-10-22T17:52:58.000Z
 legacy_url: http://www.emunova.net/veda/test/707.htm#comment-4093
 ---

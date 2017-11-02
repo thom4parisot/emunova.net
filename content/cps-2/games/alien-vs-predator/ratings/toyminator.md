@@ -1,6 +1,7 @@
 ---
 user: toyminator
 rating: 4
+type: rating
 published: 2005-05-30T15:29:27.000Z
 legacy_url: http://www.emunova.net/veda/test/633.htm#comment-3190
 ---

@@ -1,6 +1,7 @@
 ---
 user: pcqjlvb
 rating: 2.5
+type: rating
 published: 2009-02-21T21:47:35.000Z
 legacy_url: http://www.emunova.net/veda/test/823.htm#comment-10979
 ---

@@ -1,6 +1,7 @@
 ---
 user: olivieryuyu
 rating: 0.5
+type: rating
 published: 2005-05-16T08:09:02.000Z
 legacy_url: http://www.emunova.net/veda/test/951.htm#comment-3082
 ---

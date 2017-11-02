@@ -1,6 +1,7 @@
 ---
 user: dogo
 rating: 5
+type: rating
 published: 2005-06-16T02:36:45.000Z
 legacy_url: http://www.emunova.net/veda/test/47.htm#comment-3280
 ---

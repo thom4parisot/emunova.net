@@ -1,6 +1,7 @@
 ---
 user: tchaka
 rating: 5
+type: rating
 published: 2005-06-06T14:36:34.000Z
 legacy_url: http://www.emunova.net/veda/test/387.htm#comment-3214
 ---

@@ -1,6 +1,7 @@
 ---
 user: neogeomaster
 rating: 5
+type: rating
 published: 2009-12-23T00:41:13.000Z
 legacy_url: http://www.emunova.net/veda/test/134.htm#comment-12651
 ---

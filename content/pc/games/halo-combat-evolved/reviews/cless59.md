@@ -1,6 +1,7 @@
 ---
 user: cless59
 rating: 4
+type: review
 published: 2010-07-04T10:17:21.000Z
 legacy_url: http://www.emunova.net/veda/test/3872.htm
 ---

@@ -1,6 +1,7 @@
 ---
 user: xdr
 rating: 4
+type: rating
 published: 2005-12-19T17:04:09.000Z
 legacy_url: http://www.emunova.net/veda/test/711.htm#comment-4434
 ---

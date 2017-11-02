@@ -1,6 +1,7 @@
 ---
 user: Maitre\_Glof
 rating: 1.5
+type: rating
 published: 2007-03-01T18:14:16.000Z
 legacy_url: http://www.emunova.net/veda/test/1983.htm#comment-7603
 ---

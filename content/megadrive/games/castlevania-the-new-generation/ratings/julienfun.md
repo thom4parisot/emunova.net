@@ -1,6 +1,7 @@
 ---
 user: JulienFun
 rating: 3.5
+type: rating
 published: 2005-04-23T21:29:02.000Z
 legacy_url: http://www.emunova.net/veda/test/928.htm#comment-2939
 ---

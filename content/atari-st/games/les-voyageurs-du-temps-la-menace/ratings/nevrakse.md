@@ -1,6 +1,7 @@
 ---
 user: nevrakse
 rating: 3
+type: rating
 published: 2013-01-30T19:57:18.000Z
 legacy_url: http://www.emunova.net/veda/test/484.htm#comment-16291
 ---

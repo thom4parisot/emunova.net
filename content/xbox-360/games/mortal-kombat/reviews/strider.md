@@ -1,6 +1,7 @@
 ---
 user: Strider
 rating: 4.5
+type: review
 published: 2011-08-05T16:12:58.000Z
 legacy_url: http://www.emunova.net/veda/test/4133.htm
 ---

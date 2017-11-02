@@ -1,6 +1,7 @@
 ---
 user: Slayn
 rating: 5
+type: rating
 published: 2003-08-09T22:31:51.000Z
 legacy_url: http://www.emunova.net/veda/test/209.htm#comment-1911
 ---

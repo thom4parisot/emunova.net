@@ -1,6 +1,7 @@
 ---
 user: jpaul
 rating: 5
+type: rating
 published: 2005-11-26T18:12:27.000Z
 legacy_url: http://www.emunova.net/veda/test/442.htm#comment-4345
 ---

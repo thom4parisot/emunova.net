@@ -1,6 +1,7 @@
 ---
 user: Nicolas
 rating: 4
+type: rating
 published: 2005-06-23T19:29:12.000Z
 legacy_url: http://www.emunova.net/veda/test/60.htm#comment-3355
 ---

@@ -1,6 +1,7 @@
 ---
 user: hinageshi
 rating: 5
+type: rating
 published: 2010-06-24T10:59:52.000Z
 legacy_url: http://www.emunova.net/veda/test/3871.htm#comment-13820
 ---

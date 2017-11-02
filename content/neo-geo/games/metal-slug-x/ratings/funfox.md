@@ -1,6 +1,7 @@
 ---
 user: FUNFOX
 rating: 4.5
+type: rating
 published: 2006-03-15T22:26:37.000Z
 legacy_url: http://www.emunova.net/veda/test/354.htm#comment-4806
 ---

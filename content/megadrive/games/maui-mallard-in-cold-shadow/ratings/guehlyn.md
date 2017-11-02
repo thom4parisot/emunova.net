@@ -1,6 +1,7 @@
 ---
 user: Guehlyn
 rating: 4
+type: rating
 published: 2008-11-14T12:55:38.000Z
 legacy_url: http://www.emunova.net/veda/test/1800.htm#comment-10369
 ---

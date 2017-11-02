@@ -1,6 +1,7 @@
 ---
 user: wood21
 rating: 4.5
+type: rating
 published: 2005-01-19T17:48:35.000Z
 legacy_url: http://www.emunova.net/veda/test/56.htm#comment-2438
 ---

@@ -1,6 +1,7 @@
 ---
 user: Mafio
 rating: 3.5
+type: rating
 published: 2004-11-29T16:57:08.000Z
 legacy_url: http://www.emunova.net/veda/test/549.htm#comment-2021
 ---

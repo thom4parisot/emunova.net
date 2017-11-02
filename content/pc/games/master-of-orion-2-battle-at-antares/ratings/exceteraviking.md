@@ -1,6 +1,7 @@
 ---
 user: Exceteraviking
 rating: 4
+type: rating
 published: 2005-02-11T00:30:08.000Z
 legacy_url: http://www.emunova.net/veda/test/861.htm#comment-2508
 ---

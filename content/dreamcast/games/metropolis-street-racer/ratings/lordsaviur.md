@@ -1,6 +1,7 @@
 ---
 user: lord.saviur
 rating: 4
+type: rating
 published: 2007-06-18T10:05:35.000Z
 legacy_url: http://www.emunova.net/veda/test/8.htm#comment-8190
 ---

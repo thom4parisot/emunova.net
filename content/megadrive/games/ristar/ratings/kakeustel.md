@@ -1,6 +1,7 @@
 ---
 user: kakeustel
 rating: 4.5
+type: rating
 published: 2008-10-07T15:33:58.000Z
 legacy_url: http://www.emunova.net/veda/test/148.htm#comment-10056
 ---

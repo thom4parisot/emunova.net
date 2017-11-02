@@ -1,6 +1,7 @@
 ---
 user: Arch
 rating: 4.5
+type: rating
 published: 2012-11-27T10:25:19.000Z
 legacy_url: http://www.emunova.net/veda/test/1689.htm#comment-16123
 ---

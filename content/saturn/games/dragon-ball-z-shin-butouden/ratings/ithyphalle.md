@@ -1,6 +1,7 @@
 ---
 user: Ithyphalle
 rating: 2.5
+type: rating
 published: 2009-06-16T19:52:44.000Z
 legacy_url: http://www.emunova.net/veda/test/1159.htm#comment-11560
 ---

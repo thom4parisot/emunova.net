@@ -1,6 +1,7 @@
 ---
 user: Spacewolf1
 rating: 3.5
+type: review
 published: 2007-04-01T03:44:36.000Z
 legacy_url: http://www.emunova.net/veda/test/2001.htm
 ---

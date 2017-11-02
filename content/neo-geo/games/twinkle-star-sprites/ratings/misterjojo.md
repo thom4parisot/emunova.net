@@ -1,6 +1,7 @@
 ---
 user: misterjojo
 rating: 4.5
+type: rating
 published: 2003-08-01T22:25:22.000Z
 legacy_url: http://www.emunova.net/veda/test/188.htm#comment-1522
 ---

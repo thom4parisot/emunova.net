@@ -1,6 +1,7 @@
 ---
 user: bowserrrr
 rating: 4.5
+type: rating
 published: 2005-03-20T11:30:23.000Z
 legacy_url: http://www.emunova.net/veda/test/878.htm#comment-2800
 ---

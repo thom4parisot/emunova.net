@@ -1,6 +1,7 @@
 ---
 user: Saga
 rating: 5
+type: rating
 published: 2004-06-04T22:28:08.000Z
 legacy_url: http://www.emunova.net/veda/test/558.htm#comment-1688
 ---

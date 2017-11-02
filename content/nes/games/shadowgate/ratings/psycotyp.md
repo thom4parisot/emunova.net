@@ -1,6 +1,7 @@
 ---
 user: PsycoTyp
 rating: 3.5
+type: rating
 published: 2005-07-21T13:40:14.000Z
 legacy_url: http://www.emunova.net/veda/test/620.htm#comment-3487
 ---

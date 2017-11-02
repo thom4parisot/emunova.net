@@ -1,6 +1,7 @@
 ---
 user: Koma
 rating: 4.5
+type: rating
 published: 2010-05-31T21:53:33.000Z
 legacy_url: http://www.emunova.net/veda/test/3423.htm#comment-13699
 ---

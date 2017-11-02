@@ -1,6 +1,7 @@
 ---
 user: mathieu12
 rating: 0.5
+type: rating
 published: 2005-08-26T17:55:05.000Z
 legacy_url: http://www.emunova.net/veda/test/421.htm#comment-3652
 ---

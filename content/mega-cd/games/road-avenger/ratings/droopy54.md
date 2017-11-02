@@ -1,6 +1,7 @@
 ---
 user: droopy54
 rating: 4
+type: rating
 published: 2003-10-24T22:29:58.000Z
 legacy_url: http://www.emunova.net/veda/test/300.htm#comment-1798
 ---

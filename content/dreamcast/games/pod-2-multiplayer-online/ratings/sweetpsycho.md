@@ -1,6 +1,7 @@
 ---
 user: Sweetpsycho
 rating: 1.5
+type: rating
 published: 2011-03-12T01:07:25.000Z
 legacy_url: http://www.emunova.net/veda/test/3869.htm#comment-15010
 ---

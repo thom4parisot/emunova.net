@@ -1,6 +1,7 @@
 ---
 user: Wyzargo
 rating: 4
+type: rating
 published: 2010-09-25T19:25:38.000Z
 legacy_url: http://www.emunova.net/veda/test/3267.htm#comment-14113
 ---

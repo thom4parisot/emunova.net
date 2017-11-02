@@ -1,6 +1,7 @@
 ---
 user: hairy
 rating: 4
+type: rating
 published: 2008-03-25T10:14:15.000Z
 legacy_url: http://www.emunova.net/veda/test/2624.htm#comment-9402
 ---

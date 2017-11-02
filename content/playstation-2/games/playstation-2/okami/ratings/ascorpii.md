@@ -1,6 +1,7 @@
 ---
 user: aScorpii
 rating: 4.5
+type: rating
 published: 2007-05-27T14:30:59.000Z
 legacy_url: http://www.emunova.net/veda/test/2020.htm#comment-8094
 ---

@@ -1,6 +1,7 @@
 ---
 user: Silverg
 rating: 3.5
+type: rating
 published: 2009-07-09T03:59:37.000Z
 legacy_url: http://www.emunova.net/veda/test/2640.htm#comment-11654
 ---

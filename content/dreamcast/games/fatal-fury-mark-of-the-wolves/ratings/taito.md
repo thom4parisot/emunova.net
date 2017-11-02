@@ -1,6 +1,7 @@
 ---
 user: TAITO
 rating: 5
+type: rating
 published: 2010-05-06T14:15:58.000Z
 legacy_url: http://www.emunova.net/veda/test/3822.htm#comment-13540
 ---

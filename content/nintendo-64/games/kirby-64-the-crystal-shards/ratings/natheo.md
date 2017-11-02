@@ -1,6 +1,7 @@
 ---
 user: natheo
 rating: 3.5
+type: rating
 published: 2009-04-11T19:12:12.000Z
 legacy_url: http://www.emunova.net/veda/test/610.htm#comment-11218
 ---

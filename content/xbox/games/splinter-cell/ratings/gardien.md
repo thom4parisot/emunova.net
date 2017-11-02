@@ -1,6 +1,7 @@
 ---
 user: Gardien
 rating: 5
+type: rating
 published: 2007-02-19T11:08:46.000Z
 legacy_url: http://www.emunova.net/veda/test/73.htm#comment-7546
 ---

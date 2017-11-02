@@ -1,6 +1,7 @@
 ---
 user: Anonyme 1700
 rating: 4
+type: rating
 published: 2003-07-07T22:28:20.000Z
 legacy_url: http://www.emunova.net/veda/test/154.htm#comment-1700
 ---

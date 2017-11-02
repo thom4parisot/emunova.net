@@ -1,6 +1,7 @@
 ---
 user: Mati24
 rating: 3.5
+type: rating
 published: 2004-12-12T17:14:40.000Z
 legacy_url: http://www.emunova.net/veda/test/777.htm#comment-2130
 ---

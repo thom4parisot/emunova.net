@@ -1,6 +1,7 @@
 ---
 user: Sigfrodi
 rating: 5
+type: review
 published: 2003-04-20T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/7.htm
 ---

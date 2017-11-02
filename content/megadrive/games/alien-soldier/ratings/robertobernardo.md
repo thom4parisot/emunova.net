@@ -1,6 +1,7 @@
 ---
 user: robertobernardo
 rating: 3
+type: rating
 published: 2010-05-14T22:47:03.000Z
 legacy_url: http://www.emunova.net/veda/test/147.htm#comment-13598
 ---

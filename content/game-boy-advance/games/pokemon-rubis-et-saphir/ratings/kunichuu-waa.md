@@ -1,6 +1,7 @@
 ---
 user: Kunichuu Waa
 rating: 3
+type: rating
 published: 2003-09-01T22:14:18.000Z
 legacy_url: http://www.emunova.net/veda/test/256.htm#comment-858
 ---

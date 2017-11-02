@@ -1,6 +1,7 @@
 ---
 user: cylouf
 rating: 3.5
+type: rating
 published: 2011-07-09T12:51:33.000Z
 legacy_url: http://www.emunova.net/veda/test/2020.htm#comment-15294
 ---

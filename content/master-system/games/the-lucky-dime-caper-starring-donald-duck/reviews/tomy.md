@@ -1,6 +1,7 @@
 ---
 user: Tomy
 rating: 4.5
+type: review
 published: 2005-03-05T16:27:13.000Z
 legacy_url: http://www.emunova.net/veda/test/888.htm
 ---

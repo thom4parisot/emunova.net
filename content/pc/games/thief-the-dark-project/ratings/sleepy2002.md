@@ -1,6 +1,7 @@
 ---
 user: sleepy2002
 rating: 4.5
+type: rating
 published: 2005-05-09T09:38:44.000Z
 legacy_url: http://www.emunova.net/veda/test/945.htm#comment-3043
 ---

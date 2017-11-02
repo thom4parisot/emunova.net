@@ -1,6 +1,7 @@
 ---
 user: SLAYER
 rating: 4
+type: rating
 published: 2005-02-11T14:13:48.000Z
 legacy_url: http://www.emunova.net/veda/test/415.htm#comment-2531
 ---

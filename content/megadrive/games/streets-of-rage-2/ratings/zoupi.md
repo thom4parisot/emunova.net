@@ -1,6 +1,7 @@
 ---
 user: zoupi
 rating: 5
+type: rating
 published: 2006-03-24T22:53:39.000Z
 legacy_url: http://www.emunova.net/veda/test/272.htm#comment-4839
 ---

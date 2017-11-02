@@ -1,6 +1,7 @@
 ---
 user: JDTulkas
 rating: 4.5
+type: rating
 published: 2003-04-22T22:00:35.000Z
 legacy_url: http://www.emunova.net/veda/test/11.htm#comment-35
 ---

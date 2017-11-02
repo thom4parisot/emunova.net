@@ -1,6 +1,7 @@
 ---
 user: Saint Squall
 rating: 4.5
+type: rating
 published: 2008-03-06T04:17:15.000Z
 legacy_url: http://www.emunova.net/veda/test/952.htm#comment-9312
 ---

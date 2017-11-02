@@ -1,6 +1,7 @@
 ---
 user: Halbinos
 rating: 3.5
+type: review
 published: 2011-01-10T17:03:11.000Z
 legacy_url: http://www.emunova.net/veda/test/21.htm#comment-14847
 ---

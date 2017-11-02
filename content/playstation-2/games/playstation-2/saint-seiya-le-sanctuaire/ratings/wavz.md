@@ -1,6 +1,7 @@
 ---
 user: Wavz
 rating: 1
+type: rating
 published: 2005-10-07T17:44:18.000Z
 legacy_url: http://www.emunova.net/veda/test/1119.htm#comment-3958
 ---

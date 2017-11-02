@@ -1,6 +1,7 @@
 ---
 user: Fakh
 rating: 1
+type: rating
 published: 2011-02-07T23:49:20.000Z
 legacy_url: http://www.emunova.net/veda/test/3294.htm#comment-14953
 ---

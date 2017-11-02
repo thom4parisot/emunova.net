@@ -1,6 +1,7 @@
 ---
 user: dragoonhead
 rating: 4.5
+type: rating
 published: 2006-03-28T19:47:27.000Z
 legacy_url: http://www.emunova.net/veda/test/167.htm#comment-4861
 ---

@@ -1,6 +1,7 @@
 ---
 user: Alexb
 rating: 5
+type: rating
 published: 2005-03-23T09:40:09.000Z
 legacy_url: http://www.emunova.net/veda/test/29.htm#comment-2820
 ---

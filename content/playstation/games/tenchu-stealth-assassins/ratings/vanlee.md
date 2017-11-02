@@ -1,6 +1,7 @@
 ---
 user: vanlee
 rating: 4.5
+type: rating
 published: 2007-09-17T17:45:31.000Z
 legacy_url: http://www.emunova.net/veda/test/1072.htm#comment-8606
 ---

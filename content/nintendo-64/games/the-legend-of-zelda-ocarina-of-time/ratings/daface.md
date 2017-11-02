@@ -1,6 +1,7 @@
 ---
 user: daface
 rating: 5
+type: rating
 published: 2010-04-26T16:01:31.000Z
 legacy_url: http://www.emunova.net/veda/test/41.htm#comment-13451
 ---

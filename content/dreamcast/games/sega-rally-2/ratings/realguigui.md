@@ -1,6 +1,7 @@
 ---
 user: realguigui
 rating: 3
+type: rating
 published: 2008-05-17T20:49:29.000Z
 legacy_url: http://www.emunova.net/veda/test/94.htm#comment-9561
 ---

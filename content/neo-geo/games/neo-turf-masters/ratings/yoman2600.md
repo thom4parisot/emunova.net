@@ -1,6 +1,7 @@
 ---
 user: yoman2600
 rating: 3.5
+type: rating
 published: 2003-07-26T22:05:25.000Z
 legacy_url: http://www.emunova.net/veda/test/178.htm#comment-325
 ---

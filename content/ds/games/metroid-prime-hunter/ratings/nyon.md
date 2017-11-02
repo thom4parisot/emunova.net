@@ -1,6 +1,7 @@
 ---
 user: NyOn
 rating: 3
+type: rating
 published: 2007-02-20T14:28:48.000Z
 legacy_url: http://www.emunova.net/veda/test/1959.htm#comment-7552
 ---

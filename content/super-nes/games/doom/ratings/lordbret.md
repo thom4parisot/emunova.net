@@ -1,6 +1,7 @@
 ---
 user: LordBret
 rating: 0.5
+type: rating
 published: 2011-12-28T00:57:01.000Z
 legacy_url: http://www.emunova.net/veda/test/35.htm#comment-15674
 ---

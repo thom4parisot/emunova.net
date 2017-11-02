@@ -1,6 +1,7 @@
 ---
 user: Lestato
 rating: 4.5
+type: rating
 published: 2005-02-28T04:51:58.000Z
 legacy_url: http://www.emunova.net/veda/test/869.htm#comment-2621
 ---

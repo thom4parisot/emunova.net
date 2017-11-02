@@ -1,6 +1,7 @@
 ---
 user: R O C K
 rating: 5
+type: rating
 published: 2003-05-02T22:17:18.000Z
 legacy_url: http://www.emunova.net/veda/test/45.htm#comment-1038
 ---

@@ -1,6 +1,7 @@
 ---
 user: chubalgarr
 rating: 4
+type: rating
 published: 2011-07-12T18:44:18.000Z
 legacy_url: http://www.emunova.net/veda/test/2181.htm#comment-15311
 ---

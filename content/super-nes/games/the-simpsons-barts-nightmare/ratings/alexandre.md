@@ -1,6 +1,7 @@
 ---
 user: alexandre
 rating: 5
+type: rating
 published: 2005-03-30T21:49:53.000Z
 legacy_url: http://www.emunova.net/veda/test/630.htm#comment-2846
 ---

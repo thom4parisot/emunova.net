@@ -1,6 +1,7 @@
 ---
 user: moritzo
 rating: 4.5
+type: rating
 published: 2003-08-03T22:30:55.000Z
 legacy_url: http://www.emunova.net/veda/test/194.htm#comment-1855
 ---

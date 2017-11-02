@@ -1,6 +1,7 @@
 ---
 user: malbrogia
 rating: 5
+type: rating
 published: 2007-03-21T20:54:09.000Z
 legacy_url: http://www.emunova.net/veda/test/1187.htm#comment-7787
 ---

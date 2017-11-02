@@ -1,6 +1,7 @@
 ---
 user: cahan
 rating: 4
+type: rating
 published: 2009-08-24T19:51:37.000Z
 legacy_url: http://www.emunova.net/veda/test/701.htm#comment-11924
 ---

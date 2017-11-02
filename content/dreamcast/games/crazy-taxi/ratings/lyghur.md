@@ -1,6 +1,7 @@
 ---
 user: Lyghur
 rating: 2
+type: rating
 published: 2003-04-23T22:05:42.000Z
 legacy_url: http://www.emunova.net/veda/test/17.htm#comment-342
 ---

@@ -1,6 +1,7 @@
 ---
 user: emulation@phil
 rating: 3
+type: rating
 published: 2005-09-09T11:14:38.000Z
 legacy_url: http://www.emunova.net/veda/test/243.htm#comment-3749
 ---

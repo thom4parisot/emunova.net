@@ -1,6 +1,7 @@
 ---
 user: MeTAl LiNK
 rating: 3
+type: rating
 published: 2003-08-21T22:16:45.000Z
 legacy_url: http://www.emunova.net/veda/test/235.htm#comment-1005
 ---

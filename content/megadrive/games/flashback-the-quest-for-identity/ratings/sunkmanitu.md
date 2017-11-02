@@ -1,6 +1,7 @@
 ---
 user: sunkmanitu
 rating: 5
+type: rating
 published: 2008-01-16T01:36:39.000Z
 legacy_url: http://www.emunova.net/veda/test/645.htm#comment-9082
 ---

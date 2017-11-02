@@ -1,6 +1,7 @@
 ---
 user: corrigo
 rating: 4
+type: rating
 published: 2010-01-04T17:04:10.000Z
 legacy_url: http://www.emunova.net/veda/test/1186.htm#comment-12702
 ---

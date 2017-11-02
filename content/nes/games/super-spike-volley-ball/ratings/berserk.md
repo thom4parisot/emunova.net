@@ -1,6 +1,7 @@
 ---
 user: berserk
 rating: 3.5
+type: rating
 published: 2005-06-28T20:08:17.000Z
 legacy_url: http://www.emunova.net/veda/test/130.htm#comment-3382
 ---

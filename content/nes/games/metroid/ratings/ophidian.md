@@ -1,6 +1,7 @@
 ---
 user: Ophidian
 rating: 4.5
+type: rating
 published: 2005-02-17T16:52:51.000Z
 legacy_url: http://www.emunova.net/veda/test/719.htm#comment-2567
 ---

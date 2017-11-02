@@ -1,6 +1,7 @@
 ---
 user: easy reader
 rating: 3.5
+type: rating
 published: 2005-12-30T20:51:14.000Z
 legacy_url: http://www.emunova.net/veda/test/89.htm#comment-4479
 ---

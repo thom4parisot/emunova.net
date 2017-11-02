@@ -1,6 +1,7 @@
 ---
 user: veja
 rating: 3
+type: rating
 published: 2003-08-22T22:08:03.000Z
 legacy_url: http://www.emunova.net/veda/test/237.htm#comment-483
 ---

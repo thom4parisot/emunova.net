@@ -1,6 +1,7 @@
 ---
 user: seb-le-ouf-06
 rating: 4.5
+type: rating
 published: 2007-06-20T07:44:41.000Z
 legacy_url: http://www.emunova.net/veda/test/1919.htm#comment-8202
 ---

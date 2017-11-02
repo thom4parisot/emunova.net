@@ -1,6 +1,7 @@
 ---
 user: GeNeSiS
 rating: 4
+type: rating
 published: 2006-08-15T13:57:17.000Z
 legacy_url: http://www.emunova.net/veda/test/1261.htm#comment-5926
 ---

@@ -1,6 +1,7 @@
 ---
 user: phil22
 rating: 4.5
+type: rating
 published: 2004-11-16T11:04:51.000Z
 legacy_url: http://www.emunova.net/veda/test/577.htm#comment-1974
 ---

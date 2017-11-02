@@ -1,6 +1,7 @@
 ---
 user: popolatortue
 rating: 4
+type: rating
 published: 2008-09-01T20:03:03.000Z
 legacy_url: http://www.emunova.net/veda/test/2808.htm#comment-9928
 ---

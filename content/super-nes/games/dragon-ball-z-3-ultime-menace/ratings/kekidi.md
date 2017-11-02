@@ -1,6 +1,7 @@
 ---
 user: Kékidi
 rating: 3.5
+type: rating
 published: 2005-01-20T14:23:53.000Z
 legacy_url: http://www.emunova.net/veda/test/324.htm#comment-2442
 ---

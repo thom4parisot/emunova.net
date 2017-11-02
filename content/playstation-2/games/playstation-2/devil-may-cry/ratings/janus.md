@@ -1,6 +1,7 @@
 ---
 user: Janus
 rating: 4
+type: rating
 published: 2005-08-05T18:31:10.000Z
 legacy_url: http://www.emunova.net/veda/test/742.htm#comment-3539
 ---

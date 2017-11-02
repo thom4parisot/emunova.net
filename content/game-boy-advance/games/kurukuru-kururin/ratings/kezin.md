@@ -1,6 +1,7 @@
 ---
 user: Kezin
 rating: 4
+type: rating
 published: 2005-08-24T16:49:12.000Z
 legacy_url: http://www.emunova.net/veda/test/66.htm#comment-3633
 ---

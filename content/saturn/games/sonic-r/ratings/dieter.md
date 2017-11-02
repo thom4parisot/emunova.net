@@ -1,6 +1,7 @@
 ---
 user: Dieter
 rating: 3.5
+type: rating
 published: 2008-05-02T07:57:47.000Z
 legacy_url: http://www.emunova.net/veda/test/423.htm#comment-9517
 ---

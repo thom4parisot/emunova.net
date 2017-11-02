@@ -1,6 +1,7 @@
 ---
 user: Gui-Gui
 rating: 4
+type: rating
 published: 2005-06-15T13:49:45.000Z
 legacy_url: http://www.emunova.net/veda/test/363.htm#comment-3261
 ---

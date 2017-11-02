@@ -1,6 +1,7 @@
 ---
 user: adrien
 rating: 1
+type: rating
 published: 2004-03-28T22:20:21.000Z
 legacy_url: http://www.emunova.net/veda/test/498.htm#comment-1221
 ---

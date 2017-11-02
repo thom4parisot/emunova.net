@@ -1,6 +1,7 @@
 ---
 user: bryanquaterback
 rating: 5
+type: rating
 published: 2005-08-13T17:15:16.000Z
 legacy_url: http://www.emunova.net/veda/test/349.htm#comment-3578
 ---

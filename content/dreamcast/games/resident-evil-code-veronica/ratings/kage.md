@@ -1,6 +1,7 @@
 ---
 user: Kage
 rating: 4
+type: rating
 published: 2003-10-04T22:25:19.000Z
 legacy_url: http://www.emunova.net/veda/test/279.htm#comment-1519
 ---

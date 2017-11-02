@@ -1,6 +1,7 @@
 ---
 user: Aligarion
 rating: 4
+type: rating
 published: 2005-06-29T07:35:47.000Z
 legacy_url: http://www.emunova.net/veda/test/457.htm#comment-3384
 ---

@@ -1,6 +1,7 @@
 ---
 user: Fans\_Diaz
 rating: 4.5
+type: rating
 published: 2005-08-20T22:11:05.000Z
 legacy_url: http://www.emunova.net/veda/test/862.htm#comment-3606
 ---

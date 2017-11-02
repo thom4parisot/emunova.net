@@ -1,6 +1,7 @@
 ---
 user: yukimura
 rating: 2
+type: rating
 published: 2006-03-09T23:06:20.000Z
 legacy_url: http://www.emunova.net/veda/test/290.htm#comment-4781
 ---

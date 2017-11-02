@@ -1,6 +1,7 @@
 ---
 user: Ozymandias
 rating: 3.5
+type: rating
 published: 2003-05-11T22:19:41.000Z
 legacy_url: http://www.emunova.net/veda/test/70.htm#comment-1181
 ---

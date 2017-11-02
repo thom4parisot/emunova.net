@@ -1,6 +1,7 @@
 ---
 user: thanelkc
 rating: 5
+type: rating
 published: 2006-01-01T13:58:44.000Z
 legacy_url: http://www.emunova.net/veda/test/14.htm#comment-4482
 ---

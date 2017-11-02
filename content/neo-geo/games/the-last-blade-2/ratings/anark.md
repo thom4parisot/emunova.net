@@ -1,6 +1,7 @@
 ---
 user: Anark
 rating: 5
+type: rating
 published: 2006-11-26T20:29:30.000Z
 legacy_url: http://www.emunova.net/veda/test/387.htm#comment-6991
 ---

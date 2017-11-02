@@ -1,6 +1,7 @@
 ---
 user: aquarea
 rating: 4.5
+type: rating
 published: 2005-07-08T18:12:03.000Z
 legacy_url: http://www.emunova.net/veda/test/1020.htm#comment-3442
 ---

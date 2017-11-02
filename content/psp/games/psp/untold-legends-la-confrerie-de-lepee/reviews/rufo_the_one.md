@@ -1,6 +1,7 @@
 ---
 user: RuFo\_ThE\_oNe
 rating: 2.5
+type: review
 published: 2005-10-14T18:54:58.000Z
 legacy_url: http://www.emunova.net/veda/test/1141.htm
 ---

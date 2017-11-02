@@ -1,6 +1,7 @@
 ---
 user: Runik
 rating: 5
+type: rating
 published: 2006-02-20T16:59:46.000Z
 legacy_url: http://www.emunova.net/veda/test/924.htm#comment-4673
 ---

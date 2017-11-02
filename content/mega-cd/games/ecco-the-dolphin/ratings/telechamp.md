@@ -1,6 +1,7 @@
 ---
 user: telechamp
 rating: 3
+type: rating
 published: 2006-07-26T10:33:19.000Z
 legacy_url: http://www.emunova.net/veda/test/417.htm#comment-5804
 ---

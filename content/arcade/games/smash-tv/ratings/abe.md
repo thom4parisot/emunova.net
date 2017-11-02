@@ -1,6 +1,7 @@
 ---
 user: Abe
 rating: 3.5
+type: rating
 published: 2008-03-24T03:32:00.000Z
 legacy_url: http://www.emunova.net/veda/test/2625.htm#comment-9395
 ---

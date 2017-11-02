@@ -1,6 +1,7 @@
 ---
 user: faab
 rating: 4.5
+type: rating
 published: 2006-05-20T13:18:15.000Z
 legacy_url: http://www.emunova.net/veda/test/345.htm#comment-5184
 ---

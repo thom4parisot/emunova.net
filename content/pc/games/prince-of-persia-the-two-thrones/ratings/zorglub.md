@@ -1,6 +1,7 @@
 ---
 user: zorglub
 rating: 4.5
+type: rating
 published: 2008-03-03T13:39:46.000Z
 legacy_url: http://www.emunova.net/veda/test/2594.htm#comment-9305
 ---

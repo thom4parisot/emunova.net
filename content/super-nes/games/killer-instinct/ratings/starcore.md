@@ -1,6 +1,7 @@
 ---
 user: starcore
 rating: 4.5
+type: rating
 published: 2005-12-05T22:58:32.000Z
 legacy_url: http://www.emunova.net/veda/test/264.htm#comment-4397
 ---

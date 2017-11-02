@@ -1,6 +1,7 @@
 ---
 user: bowserrrr
 rating: 3
+type: rating
 published: 2005-08-15T08:14:19.000Z
 legacy_url: http://www.emunova.net/veda/test/377.htm#comment-3585
 ---

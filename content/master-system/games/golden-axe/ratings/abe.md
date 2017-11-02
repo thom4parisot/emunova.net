@@ -1,6 +1,7 @@
 ---
 user: Abe
 rating: 4
+type: rating
 published: 2003-12-21T23:24:40.000Z
 legacy_url: http://www.emunova.net/veda/test/360.htm#comment-1480
 ---

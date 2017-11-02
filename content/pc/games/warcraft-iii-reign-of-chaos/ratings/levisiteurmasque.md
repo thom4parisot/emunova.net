@@ -1,6 +1,7 @@
 ---
 user: LeVisiteurmasqué
 rating: 3.5
+type: rating
 published: 2007-02-26T18:17:19.000Z
 legacy_url: http://www.emunova.net/veda/test/1857.htm#comment-7578
 ---

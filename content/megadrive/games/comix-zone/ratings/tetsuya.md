@@ -1,6 +1,7 @@
 ---
 user: Tetsuya
 rating: 4
+type: rating
 published: 2005-04-02T22:36:56.000Z
 legacy_url: http://www.emunova.net/veda/test/361.htm#comment-2855
 ---

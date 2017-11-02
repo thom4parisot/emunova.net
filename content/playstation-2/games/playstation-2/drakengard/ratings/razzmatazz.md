@@ -1,6 +1,7 @@
 ---
 user: Razzmatazz
 rating: 2.5
+type: rating
 published: 2005-11-29T22:04:14.000Z
 legacy_url: http://www.emunova.net/veda/test/1247.htm#comment-4361
 ---

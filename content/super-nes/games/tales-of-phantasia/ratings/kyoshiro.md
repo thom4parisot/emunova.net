@@ -1,6 +1,7 @@
 ---
 user: Kyoshiro
 rating: 4.5
+type: rating
 published: 2005-04-23T10:33:56.000Z
 legacy_url: http://www.emunova.net/veda/test/157.htm#comment-2930
 ---

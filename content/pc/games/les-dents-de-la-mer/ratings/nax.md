@@ -1,6 +1,7 @@
 ---
 user: -Nax-
 rating: 4
+type: rating
 published: 2009-02-09T07:23:58.000Z
 legacy_url: http://www.emunova.net/veda/test/2037.htm#comment-10913
 ---

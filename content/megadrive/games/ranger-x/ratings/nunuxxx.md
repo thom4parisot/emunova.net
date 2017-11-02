@@ -1,6 +1,7 @@
 ---
 user: nunuxxx
 rating: 5
+type: rating
 published: 2006-03-27T05:31:13.000Z
 legacy_url: http://www.emunova.net/veda/test/1244.htm#comment-4851
 ---

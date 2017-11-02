@@ -1,6 +1,7 @@
 ---
 user: AllenWalker
 rating: 2.5
+type: review
 published: 2010-12-12T14:41:42.000Z
 legacy_url: http://www.emunova.net/veda/test/4019.htm
 ---

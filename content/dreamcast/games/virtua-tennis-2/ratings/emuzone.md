@@ -1,6 +1,7 @@
 ---
 user: emuzone
 rating: 4.5
+type: rating
 published: 2010-01-25T14:48:10.000Z
 legacy_url: http://www.emunova.net/veda/test/20.htm#comment-12843
 ---

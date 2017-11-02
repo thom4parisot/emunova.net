@@ -1,6 +1,7 @@
 ---
 user: clovis27
 rating: 3.5
+type: rating
 published: 2008-01-31T19:08:08.000Z
 legacy_url: http://www.emunova.net/veda/test/24.htm#comment-9159
 ---

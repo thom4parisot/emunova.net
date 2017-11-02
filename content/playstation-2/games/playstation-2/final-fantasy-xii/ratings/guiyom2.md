@@ -1,6 +1,7 @@
 ---
 user: guiyom2
 rating: 4
+type: rating
 published: 2008-06-10T12:25:54.000Z
 legacy_url: http://www.emunova.net/veda/test/2702.htm#comment-9631
 ---

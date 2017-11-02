@@ -1,6 +1,7 @@
 ---
 user: mathieu12
 rating: 4.5
+type: review
 published: 2005-08-02T19:44:14.000Z
 legacy_url: http://www.emunova.net/veda/test/1041.htm
 ---

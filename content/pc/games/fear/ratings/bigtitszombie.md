@@ -1,6 +1,7 @@
 ---
 user: BigTitsZombie
 rating: 3.5
+type: rating
 published: 2010-10-21T15:04:32.000Z
 legacy_url: http://www.emunova.net/veda/test/1711.htm#comment-14326
 ---

@@ -1,6 +1,7 @@
 ---
 user: manatane
 rating: 0
+type: rating
 published: 2012-06-23T11:44:01.000Z
 legacy_url: http://www.emunova.net/veda/test/978.htm#comment-15903
 ---

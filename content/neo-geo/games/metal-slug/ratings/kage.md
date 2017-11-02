@@ -1,6 +1,7 @@
 ---
 user: Kage
 rating: 4.5
+type: rating
 published: 2000-06-18T22:25:20.000Z
 legacy_url: http://www.emunova.net/veda/test/116.htm#comment-1520
 ---

@@ -1,6 +1,7 @@
 ---
 user: Kony Donales
 rating: 4
+type: rating
 published: 2010-06-24T02:07:06.000Z
 legacy_url: http://www.emunova.net/veda/test/627.htm#comment-13819
 ---

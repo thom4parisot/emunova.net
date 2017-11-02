@@ -1,6 +1,7 @@
 ---
 user: kakaroto
 rating: 4
+type: rating
 published: 2004-10-08T20:45:16.000Z
 legacy_url: http://www.emunova.net/veda/test/701.htm#comment-1892
 ---

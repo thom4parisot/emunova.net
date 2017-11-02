@@ -1,6 +1,7 @@
 ---
 user: Shadowdwarf
 rating: 4
+type: rating
 published: 2004-12-04T13:17:27.000Z
 legacy_url: http://www.emunova.net/veda/test/27.htm#comment-2071
 ---

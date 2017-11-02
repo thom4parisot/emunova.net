@@ -1,6 +1,7 @@
 ---
 user: Green\_w@rrior
 rating: 4.5
+type: rating
 published: 2005-05-12T19:57:35.000Z
 legacy_url: http://www.emunova.net/veda/test/789.htm#comment-3051
 ---

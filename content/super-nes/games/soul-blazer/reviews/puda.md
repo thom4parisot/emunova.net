@@ -1,6 +1,7 @@
 ---
 user: Puda
 rating: 3.5
+type: review
 published: 2014-04-07T18:47:26.000Z
 ---
 

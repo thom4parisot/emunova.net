@@ -1,6 +1,7 @@
 ---
 user: sherifdelespace
 rating: 4.5
+type: rating
 published: 2005-04-05T16:04:43.000Z
 legacy_url: http://www.emunova.net/veda/test/773.htm#comment-2861
 ---

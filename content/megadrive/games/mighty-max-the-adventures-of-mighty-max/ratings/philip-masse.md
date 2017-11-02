@@ -1,6 +1,7 @@
 ---
 user: Philip Masse
 rating: 2
+type: rating
 published: 2010-07-04T07:24:28.000Z
 legacy_url: http://www.emunova.net/veda/test/2955.htm#comment-13845
 ---

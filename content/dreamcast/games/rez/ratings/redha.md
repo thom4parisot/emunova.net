@@ -1,6 +1,7 @@
 ---
 user: redha
 rating: 5
+type: rating
 published: 2005-08-17T18:43:06.000Z
 legacy_url: http://www.emunova.net/veda/test/891.htm#comment-3593
 ---

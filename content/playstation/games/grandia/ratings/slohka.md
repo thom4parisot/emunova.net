@@ -1,6 +1,7 @@
 ---
 user: SLOHKA
 rating: 4.5
+type: rating
 published: 2003-07-30T22:13:40.000Z
 legacy_url: http://www.emunova.net/veda/test/183.htm#comment-820
 ---

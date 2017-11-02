@@ -1,6 +1,7 @@
 ---
 user: omcrab
 rating: 1
+type: rating
 published: 2008-08-14T21:41:03.000Z
 legacy_url: http://www.emunova.net/veda/test/1408.htm#comment-9853
 ---

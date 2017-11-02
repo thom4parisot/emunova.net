@@ -1,6 +1,7 @@
 ---
 user: SNKpoucin
 rating: 5
+type: rating
 published: 2003-04-24T22:24:16.000Z
 legacy_url: http://www.emunova.net/veda/test/21.htm#comment-1456
 ---

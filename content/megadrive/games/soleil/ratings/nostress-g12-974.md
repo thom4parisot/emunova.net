@@ -1,6 +1,7 @@
 ---
 user: nostress g12 974
 rating: 5
+type: rating
 published: 2010-02-26T17:37:47.000Z
 legacy_url: http://www.emunova.net/veda/test/244.htm#comment-13033
 ---

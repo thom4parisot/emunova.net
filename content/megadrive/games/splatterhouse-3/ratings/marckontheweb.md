@@ -1,6 +1,7 @@
 ---
 user: marckontheweb
 rating: 3.5
+type: rating
 published: 2008-12-17T01:56:57.000Z
 legacy_url: http://www.emunova.net/veda/test/377.htm#comment-10587
 ---

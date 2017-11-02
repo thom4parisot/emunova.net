@@ -1,6 +1,7 @@
 ---
 user: doudou
 rating: 4.5
+type: rating
 published: 2003-12-08T23:29:18.000Z
 legacy_url: http://www.emunova.net/veda/test/340.htm#comment-1758
 ---

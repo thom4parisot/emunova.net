@@ -1,6 +1,7 @@
 ---
 user: vincelay
 rating: 2
+type: rating
 published: 2010-02-04T18:56:05.000Z
 legacy_url: http://www.emunova.net/veda/test/573.htm#comment-12886
 ---

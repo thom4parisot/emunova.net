@@ -1,6 +1,7 @@
 ---
 user: alien81
 rating: 5
+type: rating
 published: 2011-08-01T14:22:33.000Z
 legacy_url: http://www.emunova.net/veda/test/688.htm#comment-15395
 ---

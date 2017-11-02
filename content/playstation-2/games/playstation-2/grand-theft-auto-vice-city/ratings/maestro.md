@@ -1,6 +1,7 @@
 ---
 user: Maestro
 rating: 3.5
+type: rating
 published: 2005-06-30T14:09:54.000Z
 legacy_url: http://www.emunova.net/veda/test/223.htm#comment-3394
 ---

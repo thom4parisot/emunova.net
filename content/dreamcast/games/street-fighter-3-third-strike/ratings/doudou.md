@@ -1,6 +1,7 @@
 ---
 user: doudou
 rating: 0.5
+type: rating
 published: 2004-08-27T14:47:42.000Z
 legacy_url: http://www.emunova.net/veda/test/670.htm#comment-1850
 ---

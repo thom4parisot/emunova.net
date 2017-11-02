@@ -1,6 +1,7 @@
 ---
 user: kustom86
 rating: 4.5
+type: rating
 published: 2005-09-24T11:32:23.000Z
 legacy_url: http://www.emunova.net/veda/test/1088.htm#comment-3844
 ---

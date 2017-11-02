@@ -1,6 +1,7 @@
 ---
 user: daishta
 rating: 4.5
+type: rating
 published: 2003-08-28T22:28:41.000Z
 legacy_url: http://www.emunova.net/veda/test/250.htm#comment-1721
 ---

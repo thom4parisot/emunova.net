@@ -1,6 +1,7 @@
 ---
 user: Rob Nukem
 rating: 5
+type: review
 published: 2011-05-15T11:06:36.000Z
 legacy_url: http://www.emunova.net/veda/test/4107.htm
 ---

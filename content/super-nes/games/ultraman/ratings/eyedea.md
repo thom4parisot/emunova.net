@@ -1,6 +1,7 @@
 ---
 user: Eyedea
 rating: 0
+type: rating
 published: 2010-11-14T12:49:49.000Z
 legacy_url: http://www.emunova.net/veda/test/582.htm#comment-14503
 ---

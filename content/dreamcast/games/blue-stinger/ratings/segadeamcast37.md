@@ -1,6 +1,7 @@
 ---
 user: segadeamcast37
 rating: 4.5
+type: rating
 published: 2009-11-09T23:59:06.000Z
 legacy_url: http://www.emunova.net/veda/test/2933.htm#comment-12364
 ---

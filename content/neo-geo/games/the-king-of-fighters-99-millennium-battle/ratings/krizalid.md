@@ -1,6 +1,7 @@
 ---
 user: Krizalid
 rating: 4
+type: rating
 published: 2003-12-19T23:17:54.000Z
 legacy_url: http://www.emunova.net/veda/test/356.htm#comment-1074
 ---

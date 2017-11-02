@@ -1,6 +1,7 @@
 ---
 user: Magnio
 rating: 4.5
+type: rating
 published: 2010-11-01T10:44:33.000Z
 legacy_url: http://www.emunova.net/veda/test/2974.htm#comment-14391
 ---

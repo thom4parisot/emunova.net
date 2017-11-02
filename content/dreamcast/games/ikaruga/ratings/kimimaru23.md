@@ -1,6 +1,7 @@
 ---
 user: kimimaru23
 rating: 5
+type: rating
 published: 2008-04-13T05:17:12.000Z
 legacy_url: http://www.emunova.net/veda/test/92.htm#comment-9449
 ---

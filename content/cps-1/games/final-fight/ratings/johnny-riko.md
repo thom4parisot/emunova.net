@@ -1,6 +1,7 @@
 ---
 user: johnny riko
 rating: 5
+type: rating
 published: 2008-01-03T18:30:58.000Z
 legacy_url: http://www.emunova.net/veda/test/543.htm#comment-9038
 ---

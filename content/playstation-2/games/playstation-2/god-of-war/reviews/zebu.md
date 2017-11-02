@@ -1,6 +1,7 @@
 ---
 user: Zebu
 rating: 2.5
+type: review
 published: 2006-06-08T21:54:12.000Z
 legacy_url: http://www.emunova.net/veda/test/1371.htm
 ---

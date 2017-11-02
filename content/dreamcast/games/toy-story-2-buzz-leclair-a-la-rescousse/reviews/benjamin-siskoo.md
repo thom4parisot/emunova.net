@@ -1,6 +1,7 @@
 ---
 user: Benjamin Siskoo
 rating: 3.5
+type: review
 published: 2008-06-01T04:18:24.000Z
 legacy_url: http://www.emunova.net/veda/test/2705.htm
 ---

@@ -1,6 +1,7 @@
 ---
 user: AKA44
 rating: 4.5
+type: rating
 published: 2005-06-20T17:38:47.000Z
 legacy_url: http://www.emunova.net/veda/test/580.htm#comment-3334
 ---

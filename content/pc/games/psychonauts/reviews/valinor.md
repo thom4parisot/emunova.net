@@ -1,6 +1,7 @@
 ---
 user: Valinor
 rating: 5
+type: review
 published: 2007-03-18T02:19:07.000Z
 legacy_url: http://www.emunova.net/veda/test/2021.htm
 ---

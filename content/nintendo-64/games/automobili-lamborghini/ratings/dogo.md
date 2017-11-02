@@ -1,6 +1,7 @@
 ---
 user: dogo
 rating: 2
+type: rating
 published: 2011-09-10T20:38:44.000Z
 legacy_url: http://www.emunova.net/veda/test/3228.htm#comment-15502
 ---

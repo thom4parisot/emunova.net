@@ -1,6 +1,7 @@
 ---
 user: Kenshiro84
 rating: 4.5
+type: rating
 published: 2004-11-29T17:28:31.000Z
 legacy_url: http://www.emunova.net/veda/test/742.htm#comment-2025
 ---

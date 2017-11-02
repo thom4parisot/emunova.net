@@ -1,6 +1,7 @@
 ---
 user: Koma
 rating: 3
+type: rating
 published: 2007-02-14T18:28:06.000Z
 legacy_url: http://www.emunova.net/veda/test/765.htm#comment-7516
 ---

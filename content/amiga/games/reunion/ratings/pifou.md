@@ -1,6 +1,7 @@
 ---
 user: pifou
 rating: 3
+type: rating
 published: 2008-09-26T20:21:09.000Z
 legacy_url: http://www.emunova.net/veda/test/337.htm#comment-10039
 ---

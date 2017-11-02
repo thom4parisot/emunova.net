@@ -1,6 +1,7 @@
 ---
 user: R O C K
 rating: 3.5
+type: review
 published: 2004-07-19T14:52:09.000Z
 legacy_url: http://www.emunova.net/veda/test/619.htm
 ---

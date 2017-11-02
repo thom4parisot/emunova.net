@@ -1,6 +1,7 @@
 ---
 user: Dodo
 rating: 4
+type: rating
 published: 2003-11-12T23:20:14.000Z
 legacy_url: http://www.emunova.net/veda/test/321.htm#comment-1214
 ---

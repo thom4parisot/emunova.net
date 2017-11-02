@@ -1,6 +1,7 @@
 ---
 user: Beef
 rating: 4.5
+type: rating
 published: 2008-02-24T22:15:21.000Z
 legacy_url: http://www.emunova.net/veda/test/2081.htm#comment-9279
 ---

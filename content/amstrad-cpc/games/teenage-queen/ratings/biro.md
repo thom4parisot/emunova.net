@@ -1,6 +1,7 @@
 ---
 user: Biro
 rating: 4
+type: rating
 published: 2009-07-28T12:41:56.000Z
 legacy_url: http://www.emunova.net/veda/test/3315.htm#comment-11764
 ---

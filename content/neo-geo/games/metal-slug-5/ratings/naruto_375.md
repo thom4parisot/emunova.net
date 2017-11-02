@@ -1,6 +1,7 @@
 ---
 user: naruto\_375
 rating: 5
+type: rating
 published: 2006-07-16T11:38:03.000Z
 legacy_url: http://www.emunova.net/veda/test/449.htm#comment-5735
 ---

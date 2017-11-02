@@ -1,6 +1,7 @@
 ---
 user: c2h6o
 rating: 4
+type: rating
 published: 2006-02-23T10:17:39.000Z
 legacy_url: http://www.emunova.net/veda/test/374.htm#comment-4688
 ---

@@ -1,6 +1,7 @@
 ---
 user: MasterShadows
 rating: 5
+type: rating
 published: 2005-03-21T08:00:02.000Z
 legacy_url: http://www.emunova.net/veda/test/876.htm#comment-2806
 ---

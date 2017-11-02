@@ -1,6 +1,7 @@
 ---
 user: fefefefei
 rating: 4
+type: rating
 published: 2003-08-18T22:09:23.000Z
 legacy_url: http://www.emunova.net/veda/test/221.htm#comment-563
 ---

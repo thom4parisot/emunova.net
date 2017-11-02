@@ -1,6 +1,7 @@
 ---
 user: Masters
 rating: 4
+type: rating
 published: 2004-12-05T15:13:46.000Z
 legacy_url: http://www.emunova.net/veda/test/621.htm#comment-2077
 ---

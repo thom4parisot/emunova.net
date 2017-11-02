@@ -1,6 +1,7 @@
 ---
 user: JDTulkas
 rating: 4
+type: rating
 published: 2003-05-11T22:02:36.000Z
 legacy_url: http://www.emunova.net/veda/test/73.htm#comment-156
 ---

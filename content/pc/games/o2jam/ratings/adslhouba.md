@@ -1,6 +1,7 @@
 ---
 user: adslhouba
 rating: 4
+type: rating
 published: 2007-10-08T12:20:20.000Z
 legacy_url: http://www.emunova.net/veda/test/1746.htm#comment-8690
 ---

@@ -1,6 +1,7 @@
 ---
 user: Predator
 rating: 4
+type: rating
 published: 2003-08-23T22:12:22.000Z
 legacy_url: http://www.emunova.net/veda/test/243.htm#comment-742
 ---

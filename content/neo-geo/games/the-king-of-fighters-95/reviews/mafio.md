@@ -1,6 +1,7 @@
 ---
 user: Mafio
 rating: 3.5
+type: review
 published: 2005-05-15T15:15:28.000Z
 legacy_url: http://www.emunova.net/veda/test/948.htm
 ---

@@ -1,6 +1,7 @@
 ---
 user: Xyno
 rating: 3.5
+type: rating
 published: 2005-03-06T05:56:57.000Z
 legacy_url: http://www.emunova.net/veda/test/887.htm#comment-2680
 ---

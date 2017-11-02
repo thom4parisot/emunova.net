@@ -1,6 +1,7 @@
 ---
 user: lork22
 rating: 3.5
+type: rating
 published: 2003-07-31T22:24:09.000Z
 legacy_url: http://www.emunova.net/veda/test/185.htm#comment-1449
 ---

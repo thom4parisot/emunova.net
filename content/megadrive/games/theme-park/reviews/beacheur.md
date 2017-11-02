@@ -1,6 +1,7 @@
 ---
 user: beacheur
 rating: 3.5
+type: review
 published: 2007-03-21T03:17:17.000Z
 legacy_url: http://www.emunova.net/veda/test/2022.htm
 ---

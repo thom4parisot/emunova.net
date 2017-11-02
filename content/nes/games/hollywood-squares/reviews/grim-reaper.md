@@ -1,6 +1,7 @@
 ---
 user: Grim Reaper
 rating: 1
+type: review
 published: 2004-07-09T09:52:39.000Z
 legacy_url: http://www.emunova.net/veda/test/600.htm
 ---

@@ -1,6 +1,7 @@
 ---
 user: cless59
 rating: 4
+type: rating
 published: 2006-07-23T17:31:05.000Z
 legacy_url: http://www.emunova.net/veda/test/79.htm#comment-5780
 ---

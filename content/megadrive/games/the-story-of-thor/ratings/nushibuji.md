@@ -1,6 +1,7 @@
 ---
 user: Nushibuji
 rating: 3.5
+type: rating
 published: 2009-08-08T02:32:59.000Z
 legacy_url: http://www.emunova.net/veda/test/402.htm#comment-11817
 ---

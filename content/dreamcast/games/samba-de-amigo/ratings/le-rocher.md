@@ -1,6 +1,7 @@
 ---
 user: le rocher
 rating: 4
+type: rating
 published: 2006-05-17T19:20:09.000Z
 legacy_url: http://www.emunova.net/veda/test/1448.htm#comment-5150
 ---

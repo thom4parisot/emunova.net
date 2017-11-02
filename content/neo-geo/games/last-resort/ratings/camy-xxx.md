@@ -1,6 +1,7 @@
 ---
 user: CAMY XXX
 rating: 4.5
+type: rating
 published: 2005-11-18T12:20:09.000Z
 legacy_url: http://www.emunova.net/veda/test/696.htm#comment-4272
 ---

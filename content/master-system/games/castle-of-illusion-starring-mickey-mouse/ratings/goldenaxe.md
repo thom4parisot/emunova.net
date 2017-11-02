@@ -1,6 +1,7 @@
 ---
 user: goldenaxe
 rating: 4.5
+type: rating
 published: 2008-03-22T11:27:33.000Z
 legacy_url: http://www.emunova.net/veda/test/408.htm#comment-9381
 ---

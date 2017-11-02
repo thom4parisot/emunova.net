@@ -1,6 +1,7 @@
 ---
 user: Anonyme 5050
 rating: 5
+type: rating
 published: 2006-04-25T19:32:34.000Z
 legacy_url: http://www.emunova.net/veda/test/195.htm#comment-5050
 ---

@@ -1,6 +1,7 @@
 ---
 user: alejandro
 rating: 4.5
+type: review
 published: 2005-02-26T16:48:44.000Z
 legacy_url: http://www.emunova.net/veda/test/869.htm
 ---

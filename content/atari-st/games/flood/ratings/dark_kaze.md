@@ -1,6 +1,7 @@
 ---
 user: Dark\_Kaze
 rating: 4.5
+type: rating
 published: 2005-01-16T22:37:23.000Z
 legacy_url: http://www.emunova.net/veda/test/542.htm#comment-2427
 ---

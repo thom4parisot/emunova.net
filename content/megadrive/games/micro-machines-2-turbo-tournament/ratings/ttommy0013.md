@@ -1,6 +1,7 @@
 ---
 user: ttommy0013
 rating: 5
+type: rating
 published: 2003-12-07T23:22:10.000Z
 legacy_url: http://www.emunova.net/veda/test/338.htm#comment-1330
 ---

@@ -1,6 +1,7 @@
 ---
 user: Cloud-97
 rating: 4.5
+type: rating
 published: 2011-12-22T04:04:35.000Z
 legacy_url: http://www.emunova.net/veda/test/420.htm#comment-15666
 ---

@@ -1,6 +1,7 @@
 ---
 user: slug56
 rating: 4
+type: review
 published: 2008-02-22T23:26:47.000Z
 legacy_url: http://www.emunova.net/veda/test/2576.htm
 ---

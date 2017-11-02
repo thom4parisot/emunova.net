@@ -1,6 +1,7 @@
 ---
 user: iori tsuken
 rating: 5
+type: rating
 published: 2011-12-08T10:55:39.000Z
 legacy_url: http://www.emunova.net/veda/test/89.htm#comment-15648
 ---

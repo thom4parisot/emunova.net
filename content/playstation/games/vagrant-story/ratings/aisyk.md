@@ -1,6 +1,7 @@
 ---
 user: Aisyk
 rating: 1.5
+type: rating
 published: 2006-07-31T20:21:04.000Z
 legacy_url: http://www.emunova.net/veda/test/939.htm#comment-5856
 ---

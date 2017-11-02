@@ -1,6 +1,7 @@
 ---
 user: VEGETO2
 rating: 2
+type: rating
 published: 2012-09-20T15:48:08.000Z
 legacy_url: http://www.emunova.net/veda/test/4263.htm#comment-16015
 ---

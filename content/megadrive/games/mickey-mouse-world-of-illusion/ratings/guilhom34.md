@@ -1,6 +1,7 @@
 ---
 user: Guilhom34
 rating: 4.5
+type: rating
 published: 2010-12-21T00:41:57.000Z
 legacy_url: http://www.emunova.net/veda/test/227.htm#comment-14730
 ---

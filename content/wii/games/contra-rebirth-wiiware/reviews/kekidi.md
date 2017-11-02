@@ -1,6 +1,7 @@
 ---
 user: Kékidi
 rating: 4
+type: review
 published: 2009-11-19T00:44:24.000Z
 legacy_url: http://www.emunova.net/veda/test/3519.htm
 ---

@@ -1,6 +1,7 @@
 ---
 user: daishta
 rating: 4
+type: review
 published: 2004-09-12T13:46:00.000Z
 legacy_url: http://www.emunova.net/veda/test/687.htm
 ---

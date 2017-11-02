@@ -1,6 +1,7 @@
 ---
 user: Angus
 rating: 4.5
+type: rating
 published: 2007-03-12T12:54:10.000Z
 legacy_url: http://www.emunova.net/veda/test/89.htm#comment-7685
 ---

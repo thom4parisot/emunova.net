@@ -1,6 +1,7 @@
 ---
 user: lombrique
 rating: 4
+type: rating
 published: 2003-08-19T22:21:45.000Z
 legacy_url: http://www.emunova.net/veda/test/225.htm#comment-1305
 ---

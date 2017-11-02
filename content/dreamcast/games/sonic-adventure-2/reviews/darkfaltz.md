@@ -1,6 +1,7 @@
 ---
 user: Darkfaltz
 rating: 4
+type: review
 published: 2003-05-29T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/99.htm
 ---

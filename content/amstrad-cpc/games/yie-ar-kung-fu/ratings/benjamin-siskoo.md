@@ -1,6 +1,7 @@
 ---
 user: Benjamin Siskoo
 rating: 4
+type: rating
 published: 2004-12-19T14:48:40.000Z
 legacy_url: http://www.emunova.net/veda/test/787.htm#comment-2199
 ---

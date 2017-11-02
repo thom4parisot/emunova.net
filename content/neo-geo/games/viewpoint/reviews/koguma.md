@@ -1,6 +1,7 @@
 ---
 user: Koguma
 rating: 4.5
+type: review
 published: 2006-09-04T00:28:08.000Z
 legacy_url: http://www.emunova.net/veda/test/1652.htm
 ---

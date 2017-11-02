@@ -1,6 +1,7 @@
 ---
 user: Séboldies
 rating: 4
+type: rating
 published: 2008-06-24T00:23:58.000Z
 legacy_url: http://www.emunova.net/veda/test/915.htm#comment-9688
 ---

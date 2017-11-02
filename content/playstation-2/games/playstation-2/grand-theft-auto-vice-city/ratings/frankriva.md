@@ -1,6 +1,7 @@
 ---
 user: frankriva
 rating: 4.5
+type: rating
 published: 2005-03-27T16:22:02.000Z
 legacy_url: http://www.emunova.net/veda/test/223.htm#comment-2828
 ---

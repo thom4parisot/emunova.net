@@ -1,6 +1,7 @@
 ---
 user: fefefefei
 rating: 4.5
+type: rating
 published: 2003-05-12T22:09:20.000Z
 legacy_url: http://www.emunova.net/veda/test/79.htm#comment-560
 ---

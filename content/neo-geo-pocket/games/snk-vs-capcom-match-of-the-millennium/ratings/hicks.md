@@ -1,6 +1,7 @@
 ---
 user: hicks
 rating: 4
+type: rating
 published: 2004-12-15T11:22:54.000Z
 legacy_url: http://www.emunova.net/veda/test/368.htm#comment-2168
 ---

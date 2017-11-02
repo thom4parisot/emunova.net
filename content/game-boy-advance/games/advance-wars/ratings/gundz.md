@@ -1,6 +1,7 @@
 ---
 user: gundz
 rating: 5
+type: rating
 published: 2005-08-18T12:26:29.000Z
 legacy_url: http://www.emunova.net/veda/test/16.htm#comment-3602
 ---

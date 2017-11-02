@@ -1,6 +1,7 @@
 ---
 user: yoyo
 rating: 5
+type: rating
 published: 2004-04-28T22:21:41.000Z
 legacy_url: http://www.emunova.net/veda/test/526.htm#comment-1301
 ---

@@ -1,6 +1,7 @@
 ---
 user: Viriathe
 rating: 4
+type: rating
 published: 2006-05-12T17:30:36.000Z
 legacy_url: http://www.emunova.net/veda/test/1400.htm#comment-5129
 ---

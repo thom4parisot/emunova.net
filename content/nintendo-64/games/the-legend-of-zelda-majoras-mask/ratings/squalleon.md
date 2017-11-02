@@ -1,6 +1,7 @@
 ---
 user: Squalleon
 rating: 5
+type: rating
 published: 2006-04-25T21:30:22.000Z
 legacy_url: http://www.emunova.net/veda/test/259.htm#comment-5052
 ---

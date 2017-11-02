@@ -1,6 +1,7 @@
 ---
 user: monsieur D
 rating: 0.5
+type: rating
 published: 2005-04-02T14:36:31.000Z
 legacy_url: http://www.emunova.net/veda/test/905.htm#comment-2852
 ---

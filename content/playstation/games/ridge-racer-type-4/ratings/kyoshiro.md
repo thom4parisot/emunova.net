@@ -1,6 +1,7 @@
 ---
 user: Kyoshiro
 rating: 3
+type: rating
 published: 2005-04-23T18:05:08.000Z
 legacy_url: http://www.emunova.net/veda/test/313.htm#comment-2935
 ---

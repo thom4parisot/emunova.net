@@ -1,6 +1,7 @@
 ---
 user: La Pugne
 rating: 0.5
+type: rating
 published: 2013-07-17T21:10:17.000Z
 legacy_url: http://www.emunova.net/veda/test/3489.htm#comment-16403
 ---

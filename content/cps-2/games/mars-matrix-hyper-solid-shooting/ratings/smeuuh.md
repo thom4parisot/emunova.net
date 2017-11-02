@@ -1,6 +1,7 @@
 ---
 user: smeuuh
 rating: 4.5
+type: rating
 published: 2003-08-02T22:26:02.000Z
 legacy_url: http://www.emunova.net/veda/test/189.htm#comment-1562
 ---

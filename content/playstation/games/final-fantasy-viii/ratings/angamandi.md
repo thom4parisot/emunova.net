@@ -1,6 +1,7 @@
 ---
 user: angamandi
 rating: 2
+type: rating
 published: 2007-06-14T11:13:04.000Z
 legacy_url: http://www.emunova.net/veda/test/1491.htm#comment-8177
 ---

@@ -1,6 +1,7 @@
 ---
 user: redaouzineb
 rating: 3
+type: rating
 published: 2011-04-28T15:39:16.000Z
 legacy_url: http://www.emunova.net/veda/test/1209.htm#comment-15089
 ---

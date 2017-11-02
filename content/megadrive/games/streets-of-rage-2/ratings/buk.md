@@ -1,6 +1,7 @@
 ---
 user: BUK
 rating: 4.5
+type: rating
 published: 2007-09-25T21:27:16.000Z
 legacy_url: http://www.emunova.net/veda/test/272.htm#comment-8640
 ---

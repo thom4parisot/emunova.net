@@ -1,6 +1,7 @@
 ---
 user: kakoulak
 rating: 5
+type: rating
 published: 2005-08-17T23:10:51.000Z
 legacy_url: http://www.emunova.net/veda/test/101.htm#comment-3594
 ---

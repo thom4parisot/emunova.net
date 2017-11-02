@@ -1,6 +1,7 @@
 ---
 user: Cyberdid
 rating: 3
+type: rating
 published: 2007-09-25T00:44:35.000Z
 legacy_url: http://www.emunova.net/veda/test/1856.htm#comment-8634
 ---

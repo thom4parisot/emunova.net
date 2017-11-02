@@ -1,6 +1,7 @@
 ---
 user: trunks9
 rating: 5
+type: rating
 published: 2006-07-23T08:41:24.000Z
 legacy_url: http://www.emunova.net/veda/test/1112.htm#comment-5778
 ---

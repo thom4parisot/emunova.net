@@ -1,6 +1,7 @@
 ---
 user: gogetassj4
 rating: 3.5
+type: rating
 published: 2005-10-01T20:43:13.000Z
 legacy_url: http://www.emunova.net/veda/test/1088.htm#comment-3915
 ---

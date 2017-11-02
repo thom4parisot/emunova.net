@@ -1,6 +1,7 @@
 ---
 user: masterlol
 rating: 4.5
+type: rating
 published: 2007-02-10T09:53:44.000Z
 legacy_url: http://www.emunova.net/veda/test/1941.htm#comment-7478
 ---

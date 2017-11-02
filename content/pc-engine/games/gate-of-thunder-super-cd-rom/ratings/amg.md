@@ -1,6 +1,7 @@
 ---
 user: AMG
 rating: 5
+type: rating
 published: 2006-04-10T15:19:52.000Z
 legacy_url: http://www.emunova.net/veda/test/743.htm#comment-4967
 ---

@@ -1,6 +1,7 @@
 ---
 user: Antekrist
 rating: 2.5
+type: review
 published: 2012-05-26T17:23:09.000Z
 legacy_url: http://www.emunova.net/veda/test/4259.htm
 ---

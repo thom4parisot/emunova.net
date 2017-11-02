@@ -1,6 +1,7 @@
 ---
 user: Galzinator
 rating: 4.5
+type: rating
 published: 2012-02-23T12:50:20.000Z
 legacy_url: http://www.emunova.net/veda/test/4108.htm#comment-15729
 ---

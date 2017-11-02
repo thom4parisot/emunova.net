@@ -1,6 +1,7 @@
 ---
 user: Elgaern
 rating: 5
+type: rating
 published: 2007-02-25T08:34:22.000Z
 legacy_url: http://www.emunova.net/veda/test/1977.htm#comment-7570
 ---

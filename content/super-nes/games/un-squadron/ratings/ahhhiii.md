@@ -1,6 +1,7 @@
 ---
 user: Ahhhiii
 rating: 4.5
+type: rating
 published: 2008-01-07T10:15:19.000Z
 legacy_url: http://www.emunova.net/veda/test/2404.htm#comment-9056
 ---

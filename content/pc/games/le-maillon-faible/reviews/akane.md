@@ -1,6 +1,7 @@
 ---
 user: Akané
 rating: 3.5
+type: review
 published: 2007-07-02T15:44:18.000Z
 legacy_url: http://www.emunova.net/veda/test/2154.htm
 ---

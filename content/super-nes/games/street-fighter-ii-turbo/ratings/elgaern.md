@@ -1,6 +1,7 @@
 ---
 user: Elgaern
 rating: 5
+type: rating
 published: 2006-11-11T11:14:45.000Z
 legacy_url: http://www.emunova.net/veda/test/1768.htm#comment-6712
 ---

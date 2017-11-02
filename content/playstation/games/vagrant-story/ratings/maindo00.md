@@ -1,6 +1,7 @@
 ---
 user: Maindo00
 rating: 3
+type: rating
 published: 2009-02-12T21:25:02.000Z
 legacy_url: http://www.emunova.net/veda/test/939.htm#comment-10920
 ---

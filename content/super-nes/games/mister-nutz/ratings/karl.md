@@ -1,6 +1,7 @@
 ---
 user: Karl
 rating: 4.5
+type: rating
 published: 2012-06-09T14:52:47.000Z
 legacy_url: http://www.emunova.net/veda/test/1174.htm#comment-15890
 ---

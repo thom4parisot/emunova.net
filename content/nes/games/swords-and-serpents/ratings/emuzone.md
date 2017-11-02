@@ -1,6 +1,7 @@
 ---
 user: emuzone
 rating: 3.5
+type: rating
 published: 2010-06-07T08:04:43.000Z
 legacy_url: http://www.emunova.net/veda/test/3858.htm#comment-13744
 ---

@@ -1,6 +1,7 @@
 ---
 user: yohko\_kurama
 rating: 5
+type: rating
 published: 2006-04-22T16:35:01.000Z
 legacy_url: http://www.emunova.net/veda/test/396.htm#comment-5026
 ---

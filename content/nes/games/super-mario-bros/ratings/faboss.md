@@ -1,6 +1,7 @@
 ---
 user: faboss
 rating: 5
+type: rating
 published: 2003-06-06T22:08:40.000Z
 legacy_url: http://www.emunova.net/veda/test/109.htm#comment-520
 ---

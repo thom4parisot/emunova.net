@@ -1,6 +1,7 @@
 ---
 user: bundy
 rating: 5
+type: rating
 published: 2011-05-24T12:04:39.000Z
 legacy_url: http://www.emunova.net/veda/test/194.htm#comment-15127
 ---

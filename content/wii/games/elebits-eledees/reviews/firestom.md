@@ -1,6 +1,7 @@
 ---
 user: Firestom
 rating: 4
+type: review
 published: 2008-05-31T10:49:27.000Z
 legacy_url: http://www.emunova.net/veda/test/2683.htm
 ---

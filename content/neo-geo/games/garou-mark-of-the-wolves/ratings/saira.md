@@ -1,6 +1,7 @@
 ---
 user: SAIRA
 rating: 4
+type: rating
 published: 2003-11-23T23:26:59.000Z
 legacy_url: http://www.emunova.net/veda/test/330.htm#comment-1619
 ---

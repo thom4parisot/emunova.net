@@ -1,6 +1,7 @@
 ---
 user: Yoshi256
 rating: 5
+type: rating
 published: 2007-06-27T22:31:59.000Z
 legacy_url: http://www.emunova.net/veda/test/1483.htm#comment-8251
 ---

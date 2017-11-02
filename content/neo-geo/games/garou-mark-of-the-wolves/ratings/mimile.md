@@ -1,6 +1,7 @@
 ---
 user: mimile !!!
 rating: 4.5
+type: rating
 published: 2005-02-16T14:52:22.000Z
 legacy_url: http://www.emunova.net/veda/test/330.htm#comment-2560
 ---

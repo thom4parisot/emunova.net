@@ -1,6 +1,7 @@
 ---
 user: maximecool
 rating: 5
+type: rating
 published: 2009-07-10T19:50:45.000Z
 legacy_url: http://www.emunova.net/veda/test/177.htm#comment-11665
 ---

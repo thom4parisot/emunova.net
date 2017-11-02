@@ -1,6 +1,7 @@
 ---
 user: Seqsy
 rating: 2.5
+type: rating
 published: 2010-04-13T01:50:27.000Z
 legacy_url: http://www.emunova.net/veda/test/1280.htm#comment-13342
 ---

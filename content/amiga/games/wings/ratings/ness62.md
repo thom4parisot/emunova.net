@@ -1,6 +1,7 @@
 ---
 user: ness62
 rating: 4.5
+type: rating
 published: 2011-06-16T20:32:54.000Z
 legacy_url: http://www.emunova.net/veda/test/2135.htm#comment-15161
 ---

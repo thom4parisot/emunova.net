@@ -1,6 +1,7 @@
 ---
 user: tchaka
 rating: 5
+type: rating
 published: 2005-10-03T16:59:56.000Z
 legacy_url: http://www.emunova.net/veda/test/1112.htm#comment-3924
 ---

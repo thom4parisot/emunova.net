@@ -1,6 +1,7 @@
 ---
 user: Diablonicos
 rating: 3.5
+type: rating
 published: 2004-09-03T23:36:07.000Z
 legacy_url: http://www.emunova.net/veda/test/681.htm#comment-1684
 ---

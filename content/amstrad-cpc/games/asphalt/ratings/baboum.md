@@ -1,6 +1,7 @@
 ---
 user: baboum
 rating: 4
+type: rating
 published: 2011-10-06T09:03:49.000Z
 legacy_url: http://www.emunova.net/veda/test/893.htm#comment-15539
 ---

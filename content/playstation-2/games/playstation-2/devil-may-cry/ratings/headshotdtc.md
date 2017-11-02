@@ -1,6 +1,7 @@
 ---
 user: HeadShotDTC
 rating: 5
+type: rating
 published: 2006-10-28T18:13:39.000Z
 legacy_url: http://www.emunova.net/veda/test/742.htm#comment-6492
 ---

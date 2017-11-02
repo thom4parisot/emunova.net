@@ -1,6 +1,7 @@
 ---
 user: Magnio
 rating: 1
+type: rating
 published: 2011-02-07T12:27:44.000Z
 legacy_url: http://www.emunova.net/veda/test/4012.htm#comment-14944
 ---

@@ -1,6 +1,7 @@
 ---
 user: neoshiro
 rating: 4.5
+type: rating
 published: 2004-11-26T15:31:53.000Z
 legacy_url: http://www.emunova.net/veda/test/364.htm#comment-2010
 ---

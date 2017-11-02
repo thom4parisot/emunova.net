@@ -1,6 +1,7 @@
 ---
 user: L@Z3R
 rating: 4
+type: rating
 published: 2008-07-15T11:24:05.000Z
 legacy_url: http://www.emunova.net/veda/test/2768.htm#comment-9775
 ---

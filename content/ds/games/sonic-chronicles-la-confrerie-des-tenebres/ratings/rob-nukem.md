@@ -1,6 +1,7 @@
 ---
 user: Rob Nukem
 rating: 2
+type: rating
 published: 2012-06-23T09:51:27.000Z
 legacy_url: http://www.emunova.net/veda/test/4263.htm#comment-15899
 ---

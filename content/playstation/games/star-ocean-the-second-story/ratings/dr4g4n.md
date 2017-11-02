@@ -1,6 +1,7 @@
 ---
 user: dr4g4n
 rating: 2
+type: rating
 published: 2008-06-27T20:39:21.000Z
 legacy_url: http://www.emunova.net/veda/test/746.htm#comment-9711
 ---

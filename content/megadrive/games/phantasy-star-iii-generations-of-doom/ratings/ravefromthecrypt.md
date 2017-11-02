@@ -1,6 +1,7 @@
 ---
 user: ravefromthecrypt
 rating: 4
+type: rating
 published: 2006-04-13T14:35:35.000Z
 legacy_url: http://www.emunova.net/veda/test/1199.htm#comment-4974
 ---

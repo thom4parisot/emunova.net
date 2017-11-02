@@ -1,6 +1,7 @@
 ---
 user: sabrak
 rating: 5
+type: rating
 published: 2006-04-19T17:53:01.000Z
 legacy_url: http://www.emunova.net/veda/test/420.htm#comment-5015
 ---

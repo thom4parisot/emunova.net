@@ -1,6 +1,7 @@
 ---
 user: Kenseiden
 rating: 3
+type: review
 published: 2006-08-21T13:46:26.000Z
 legacy_url: http://www.emunova.net/veda/test/1605.htm
 ---

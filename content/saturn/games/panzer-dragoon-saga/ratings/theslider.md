@@ -1,6 +1,7 @@
 ---
 user: TheSlider
 rating: 5
+type: rating
 published: 2007-04-28T15:42:01.000Z
 legacy_url: http://www.emunova.net/veda/test/717.htm#comment-7999
 ---

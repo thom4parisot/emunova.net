@@ -1,6 +1,7 @@
 ---
 user: Dorian Gray
 rating: 3
+type: rating
 published: 2005-03-13T17:34:07.000Z
 legacy_url: http://www.emunova.net/veda/test/730.htm#comment-2732
 ---

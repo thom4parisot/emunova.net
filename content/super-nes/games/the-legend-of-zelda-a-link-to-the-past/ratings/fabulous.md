@@ -1,6 +1,7 @@
 ---
 user: Fabulous
 rating: 5
+type: rating
 published: 2005-10-26T00:35:07.000Z
 legacy_url: http://www.emunova.net/veda/test/21.htm#comment-4106
 ---

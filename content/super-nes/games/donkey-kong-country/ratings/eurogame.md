@@ -1,6 +1,7 @@
 ---
 user: eurogame
 rating: 5
+type: rating
 published: 2006-08-25T18:55:07.000Z
 legacy_url: http://www.emunova.net/veda/test/89.htm#comment-6030
 ---

@@ -1,6 +1,7 @@
 ---
 user: aghnar
 rating: 3.5
+type: rating
 published: 2007-06-03T20:17:16.000Z
 legacy_url: http://www.emunova.net/veda/test/457.htm#comment-8133
 ---

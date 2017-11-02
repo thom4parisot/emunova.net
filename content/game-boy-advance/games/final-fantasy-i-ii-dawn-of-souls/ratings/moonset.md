@@ -1,6 +1,7 @@
 ---
 user: Moonset
 rating: 4
+type: rating
 published: 2010-12-29T11:17:46.000Z
 legacy_url: http://www.emunova.net/veda/test/2092.htm#comment-14786
 ---

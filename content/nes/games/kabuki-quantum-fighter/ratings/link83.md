@@ -1,6 +1,7 @@
 ---
 user: Link83
 rating: 4
+type: rating
 published: 2007-03-25T11:07:29.000Z
 legacy_url: http://www.emunova.net/veda/test/2031.htm#comment-7811
 ---

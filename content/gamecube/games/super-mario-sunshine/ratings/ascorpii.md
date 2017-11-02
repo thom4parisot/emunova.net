@@ -1,6 +1,7 @@
 ---
 user: aScorpii
 rating: 4
+type: rating
 published: 2006-12-05T12:41:00.000Z
 legacy_url: http://www.emunova.net/veda/test/621.htm#comment-7080
 ---

@@ -1,6 +1,7 @@
 ---
 user: Anonyme 2419
 rating: 3.5
+type: rating
 published: 2005-01-13T13:15:20.000Z
 legacy_url: http://www.emunova.net/veda/test/360.htm#comment-2419
 ---

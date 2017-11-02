@@ -1,6 +1,7 @@
 ---
 user: clouseau
 rating: 5
+type: rating
 published: 2008-06-25T06:56:03.000Z
 legacy_url: http://www.emunova.net/veda/test/762.htm#comment-9692
 ---

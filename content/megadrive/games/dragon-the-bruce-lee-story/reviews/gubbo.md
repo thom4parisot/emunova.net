@@ -1,6 +1,7 @@
 ---
 user: gubbo
 rating: 2.5
+type: review
 published: 2004-12-30T15:48:52.000Z
 legacy_url: http://www.emunova.net/veda/test/821.htm
 ---

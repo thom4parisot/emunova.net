@@ -1,6 +1,7 @@
 ---
 user: Papayouupapayouulélé
 rating: 0.5
+type: rating
 published: 2009-02-25T06:20:22.000Z
 legacy_url: http://www.emunova.net/veda/test/1640.htm#comment-10998
 ---

@@ -1,6 +1,7 @@
 ---
 user: Anonyme 2549
 rating: 4
+type: rating
 published: 2005-02-15T14:24:04.000Z
 legacy_url: http://www.emunova.net/veda/test/8.htm#comment-2549
 ---

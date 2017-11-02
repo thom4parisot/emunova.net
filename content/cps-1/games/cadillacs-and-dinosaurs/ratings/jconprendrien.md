@@ -1,6 +1,7 @@
 ---
 user: Jconprendrien
 rating: 4
+type: rating
 published: 2005-06-16T08:44:18.000Z
 legacy_url: http://www.emunova.net/veda/test/277.htm#comment-3284
 ---

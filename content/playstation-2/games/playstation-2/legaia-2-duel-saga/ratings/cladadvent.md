@@ -1,6 +1,7 @@
 ---
 user: Clad.advent
 rating: 4
+type: rating
 published: 2003-08-19T22:12:02.000Z
 legacy_url: http://www.emunova.net/veda/test/224.htm#comment-722
 ---

@@ -1,6 +1,7 @@
 ---
 user: Omega
 rating: 4
+type: rating
 published: 2005-02-26T12:45:14.000Z
 legacy_url: http://www.emunova.net/veda/test/354.htm#comment-2603
 ---

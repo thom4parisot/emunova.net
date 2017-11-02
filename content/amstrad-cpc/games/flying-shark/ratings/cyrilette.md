@@ -1,6 +1,7 @@
 ---
 user: Cyrilette
 rating: 3.5
+type: rating
 published: 2010-01-22T12:52:49.000Z
 legacy_url: http://www.emunova.net/veda/test/3679.htm#comment-12793
 ---

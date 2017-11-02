@@ -1,6 +1,7 @@
 ---
 user: David\_le\_ouf
 rating: 3.5
+type: rating
 published: 2005-10-29T22:03:50.000Z
 legacy_url: http://www.emunova.net/veda/test/857.htm#comment-4127
 ---

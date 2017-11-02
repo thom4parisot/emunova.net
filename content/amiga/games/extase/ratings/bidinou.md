@@ -1,6 +1,7 @@
 ---
 user: bidinou
 rating: 5
+type: rating
 published: 2012-04-30T09:03:32.000Z
 legacy_url: http://www.emunova.net/veda/test/1323.htm#comment-15798
 ---

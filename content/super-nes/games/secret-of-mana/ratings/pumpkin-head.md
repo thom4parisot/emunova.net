@@ -1,6 +1,7 @@
 ---
 user: Pumpkin Head
 rating: 5
+type: rating
 published: 2004-12-23T12:55:26.000Z
 legacy_url: http://www.emunova.net/veda/test/785.htm#comment-943
 ---

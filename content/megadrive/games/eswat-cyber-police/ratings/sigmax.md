@@ -1,6 +1,7 @@
 ---
 user: SigmaX
 rating: 3.5
+type: rating
 published: 2013-05-14T03:27:44.000Z
 legacy_url: http://www.emunova.net/veda/test/2067.htm#comment-16369
 ---

@@ -1,6 +1,7 @@
 ---
 user: R O C K
 rating: 4.5
+type: rating
 published: 2000-06-18T22:25:58.000Z
 legacy_url: http://www.emunova.net/veda/test/116.htm#comment-1558
 ---

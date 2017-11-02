@@ -1,6 +1,7 @@
 ---
 user: den2
 rating: 4
+type: rating
 published: 2010-08-25T03:15:31.000Z
 legacy_url: http://www.emunova.net/veda/test/3949.htm#comment-13986
 ---

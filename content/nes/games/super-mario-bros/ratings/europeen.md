@@ -1,6 +1,7 @@
 ---
 user: Europeen
 rating: 5
+type: rating
 published: 2003-06-06T22:19:20.000Z
 legacy_url: http://www.emunova.net/veda/test/109.htm#comment-1160
 ---

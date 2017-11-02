@@ -1,6 +1,7 @@
 ---
 user: Halbinos
 rating: 5
+type: rating
 published: 2011-01-10T17:44:36.000Z
 legacy_url: http://www.emunova.net/veda/test/95.htm#comment-14848
 ---

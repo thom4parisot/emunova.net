@@ -1,6 +1,7 @@
 ---
 user: Seb nukem
 rating: 3
+type: rating
 published: 2008-04-25T09:54:47.000Z
 legacy_url: http://www.emunova.net/veda/test/2660.htm#comment-9488
 ---

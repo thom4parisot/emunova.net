@@ -1,6 +1,7 @@
 ---
 user: Morash
 rating: 4
+type: rating
 published: 2006-04-25T11:52:01.000Z
 legacy_url: http://www.emunova.net/veda/test/227.htm#comment-5047
 ---

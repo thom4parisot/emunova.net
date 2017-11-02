@@ -1,6 +1,7 @@
 ---
 user: wominaboy
 rating: 4
+type: rating
 published: 2013-02-04T21:02:18.000Z
 legacy_url: http://www.emunova.net/veda/test/3907.htm#comment-16297
 ---

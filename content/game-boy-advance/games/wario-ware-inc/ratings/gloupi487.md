@@ -1,6 +1,7 @@
 ---
 user: gloupi487
 rating: 4
+type: rating
 published: 2006-06-23T15:08:38.000Z
 legacy_url: http://www.emunova.net/veda/test/152.htm#comment-5545
 ---

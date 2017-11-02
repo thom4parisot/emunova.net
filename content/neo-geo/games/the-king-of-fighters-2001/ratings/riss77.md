@@ -1,6 +1,7 @@
 ---
 user: riss77
 rating: 2
+type: rating
 published: 2006-04-29T23:10:09.000Z
 legacy_url: http://www.emunova.net/veda/test/428.htm#comment-5061
 ---

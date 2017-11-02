@@ -1,6 +1,7 @@
 ---
 user: Lithium BFG
 rating: 4.5
+type: rating
 published: 2006-06-09T11:15:09.000Z
 legacy_url: http://www.emunova.net/veda/test/247.htm#comment-5404
 ---

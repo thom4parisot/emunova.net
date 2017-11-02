@@ -1,6 +1,7 @@
 ---
 user: ALI
 rating: 4.5
+type: rating
 published: 2003-10-02T22:10:29.000Z
 legacy_url: http://www.emunova.net/veda/test/276.htm#comment-629
 ---

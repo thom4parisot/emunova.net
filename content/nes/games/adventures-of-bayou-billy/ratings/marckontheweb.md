@@ -1,6 +1,7 @@
 ---
 user: marckontheweb
 rating: 3.5
+type: rating
 published: 2008-12-17T01:29:21.000Z
 legacy_url: http://www.emunova.net/veda/test/1781.htm#comment-10576
 ---

@@ -1,6 +1,7 @@
 ---
 user: Guehlyn
 rating: 5
+type: rating
 published: 2009-01-24T07:37:27.000Z
 legacy_url: http://www.emunova.net/veda/test/413.htm#comment-10826
 ---

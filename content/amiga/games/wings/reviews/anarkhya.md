@@ -1,6 +1,7 @@
 ---
 user: anarkhya
 rating: 4.5
+type: review
 published: 2007-08-01T06:13:52.000Z
 legacy_url: http://www.emunova.net/veda/test/2135.htm
 ---

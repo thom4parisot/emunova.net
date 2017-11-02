@@ -1,6 +1,7 @@
 ---
 user: Reflus
 rating: 5
+type: rating
 published: 2006-03-03T19:04:19.000Z
 legacy_url: http://www.emunova.net/veda/test/259.htm#comment-4746
 ---

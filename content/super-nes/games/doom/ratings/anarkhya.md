@@ -1,6 +1,7 @@
 ---
 user: anarkhya
 rating: 0.5
+type: rating
 published: 2005-03-13T23:25:24.000Z
 legacy_url: http://www.emunova.net/veda/test/35.htm#comment-2750
 ---

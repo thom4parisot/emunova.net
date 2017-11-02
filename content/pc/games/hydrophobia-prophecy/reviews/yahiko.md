@@ -1,6 +1,7 @@
 ---
 user: Yahiko
 rating: 3
+type: review
 published: 2012-07-28T19:00:44.000Z
 legacy_url: http://www.emunova.net/veda/test/4277.htm
 ---

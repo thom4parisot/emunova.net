@@ -1,6 +1,7 @@
 ---
 user: SkaarjBerserker
 rating: 4.5
+type: rating
 published: 2004-01-10T23:24:18.000Z
 legacy_url: http://www.emunova.net/veda/test/392.htm#comment-1458
 ---

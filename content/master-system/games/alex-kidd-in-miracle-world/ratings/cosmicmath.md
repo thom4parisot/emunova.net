@@ -1,6 +1,7 @@
 ---
 user: cosmicmath
 rating: 4.5
+type: rating
 published: 2010-10-07T11:06:23.000Z
 legacy_url: http://www.emunova.net/veda/test/1400.htm#comment-14211
 ---

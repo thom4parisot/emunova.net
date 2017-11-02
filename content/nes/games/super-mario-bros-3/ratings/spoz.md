@@ -1,6 +1,7 @@
 ---
 user: Spoz
 rating: 5
+type: rating
 published: 2011-08-08T20:38:11.000Z
 legacy_url: http://www.emunova.net/veda/test/194.htm#comment-15423
 ---

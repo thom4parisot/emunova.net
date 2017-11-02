@@ -1,6 +1,7 @@
 ---
 user: okkazoo95
 rating: 3.5
+type: rating
 published: 2011-12-29T17:26:32.000Z
 legacy_url: http://www.emunova.net/veda/test/433.htm#comment-15677
 ---

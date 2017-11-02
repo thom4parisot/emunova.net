@@ -1,6 +1,7 @@
 ---
 user: sdekaar
 rating: 3
+type: rating
 published: 2009-09-18T11:12:53.000Z
 legacy_url: http://www.emunova.net/veda/test/2812.htm#comment-12006
 ---

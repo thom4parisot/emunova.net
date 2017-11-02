@@ -1,6 +1,7 @@
 ---
 user: Fichi
 rating: 4
+type: review
 published: 2010-04-19T13:59:18.000Z
 legacy_url: http://www.emunova.net/veda/test/3803.htm
 ---

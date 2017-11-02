@@ -1,6 +1,7 @@
 ---
 user: beacheur
 rating: 4.5
+type: rating
 published: 2007-01-24T07:32:28.000Z
 legacy_url: http://www.emunova.net/veda/test/1895.htm#comment-7351
 ---

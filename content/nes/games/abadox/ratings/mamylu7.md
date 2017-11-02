@@ -1,6 +1,7 @@
 ---
 user: mamylu7
 rating: 0.5
+type: rating
 published: 2009-09-18T13:54:36.000Z
 legacy_url: http://www.emunova.net/veda/test/1173.htm#comment-12008
 ---

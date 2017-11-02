@@ -1,6 +1,7 @@
 ---
 user: eternal-newbie
 rating: 4.5
+type: rating
 published: 2009-10-19T08:55:27.000Z
 legacy_url: http://www.emunova.net/veda/test/3453.htm#comment-12182
 ---

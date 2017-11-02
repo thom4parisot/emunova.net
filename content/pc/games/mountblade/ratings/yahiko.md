@@ -1,6 +1,7 @@
 ---
 user: Yahiko
 rating: 4.5
+type: rating
 published: 2010-03-14T22:41:14.000Z
 legacy_url: http://www.emunova.net/veda/test/3535.htm#comment-13184
 ---

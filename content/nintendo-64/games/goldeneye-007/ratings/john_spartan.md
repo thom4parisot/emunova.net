@@ -1,6 +1,7 @@
 ---
 user: John\_Spartan
 rating: 4.5
+type: rating
 published: 2003-07-22T22:22:09.000Z
 legacy_url: http://www.emunova.net/veda/test/177.htm#comment-1329
 ---

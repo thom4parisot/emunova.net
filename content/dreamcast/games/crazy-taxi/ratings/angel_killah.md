@@ -1,6 +1,7 @@
 ---
 user: angel\_killah
 rating: 2.5
+type: rating
 published: 2003-04-23T22:01:57.000Z
 legacy_url: http://www.emunova.net/veda/test/17.htm#comment-117
 ---

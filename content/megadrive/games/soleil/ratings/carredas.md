@@ -1,6 +1,7 @@
 ---
 user: carredas
 rating: 4.5
+type: rating
 published: 2007-06-29T13:30:44.000Z
 legacy_url: http://www.emunova.net/veda/test/244.htm#comment-8273
 ---

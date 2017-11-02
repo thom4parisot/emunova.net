@@ -1,6 +1,7 @@
 ---
 user: exodus
 rating: 4
+type: rating
 published: 2007-01-03T14:48:14.000Z
 legacy_url: http://www.emunova.net/veda/test/861.htm#comment-7264
 ---

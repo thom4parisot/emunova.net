@@ -1,6 +1,7 @@
 ---
 user: Greg au Riz
 rating: 5
+type: rating
 published: 2005-10-06T11:52:19.000Z
 legacy_url: http://www.emunova.net/veda/test/392.htm#comment-3931
 ---

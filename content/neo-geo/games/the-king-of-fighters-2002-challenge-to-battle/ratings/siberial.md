@@ -1,6 +1,7 @@
 ---
 user: siberial
 rating: 4
+type: rating
 published: 2006-03-21T15:30:08.000Z
 legacy_url: http://www.emunova.net/veda/test/349.htm#comment-4829
 ---

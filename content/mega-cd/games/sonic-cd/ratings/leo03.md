@@ -1,6 +1,7 @@
 ---
 user: leo03
 rating: 5
+type: rating
 published: 2005-01-05T07:34:34.000Z
 legacy_url: http://www.emunova.net/veda/test/333.htm#comment-2355
 ---

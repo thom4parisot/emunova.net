@@ -1,6 +1,7 @@
 ---
 user: Licorne blanche invisible
 rating: 3.5
+type: rating
 published: 2009-08-01T20:10:07.000Z
 legacy_url: http://www.emunova.net/veda/test/3325.htm#comment-11780
 ---

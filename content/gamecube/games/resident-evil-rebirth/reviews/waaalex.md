@@ -1,6 +1,7 @@
 ---
 user: waaalex
 rating: 4.5
+type: review
 published: 2010-10-09T14:45:37.000Z
 legacy_url: http://www.emunova.net/veda/test/3971.htm
 ---

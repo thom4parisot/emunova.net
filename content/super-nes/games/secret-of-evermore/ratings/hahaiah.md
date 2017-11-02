@@ -1,6 +1,7 @@
 ---
 user: Hahaiah
 rating: 5
+type: rating
 published: 2007-11-24T16:55:13.000Z
 legacy_url: http://www.emunova.net/veda/test/588.htm#comment-8846
 ---

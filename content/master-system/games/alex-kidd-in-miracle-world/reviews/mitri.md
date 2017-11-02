@@ -1,6 +1,7 @@
 ---
 user: mitri
 rating: 4
+type: review
 published: 2006-05-10T09:56:29.000Z
 legacy_url: http://www.emunova.net/veda/test/1400.htm
 ---

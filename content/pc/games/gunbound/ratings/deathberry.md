@@ -1,6 +1,7 @@
 ---
 user: Deathberry
 rating: 3.5
+type: rating
 published: 2005-08-19T11:17:03.000Z
 legacy_url: http://www.emunova.net/veda/test/1045.htm#comment-3603
 ---

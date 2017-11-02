@@ -1,6 +1,7 @@
 ---
 user: Tiger-Ramon
 rating: 5
+type: rating
 published: 2005-10-13T01:13:31.000Z
 legacy_url: http://www.emunova.net/veda/test/349.htm#comment-4031
 ---

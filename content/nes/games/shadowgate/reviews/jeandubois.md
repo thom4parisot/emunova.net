@@ -1,6 +1,7 @@
 ---
 user: jeandubois
 rating: 3
+type: review
 published: 2004-07-19T16:23:33.000Z
 legacy_url: http://www.emunova.net/veda/test/620.htm
 ---

@@ -1,6 +1,7 @@
 ---
 user: Hankroyd
 rating: 4.5
+type: rating
 published: 2006-12-01T12:56:18.000Z
 legacy_url: http://www.emunova.net/veda/test/221.htm#comment-7036
 ---

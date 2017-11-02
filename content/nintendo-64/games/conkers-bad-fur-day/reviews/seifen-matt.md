@@ -1,6 +1,7 @@
 ---
 user: Seifen Matt
 rating: 3.5
+type: review
 published: 2003-05-12T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/82.htm
 ---

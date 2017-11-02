@@ -1,6 +1,7 @@
 ---
 user: Aioros
 rating: 2
+type: rating
 published: 2007-07-10T08:39:19.000Z
 legacy_url: http://www.emunova.net/veda/test/2130.htm#comment-8345
 ---

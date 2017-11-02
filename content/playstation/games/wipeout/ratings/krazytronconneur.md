@@ -1,6 +1,7 @@
 ---
 user: KrazyTronconneur
 rating: 4
+type: rating
 published: 2006-01-22T23:10:39.000Z
 legacy_url: http://www.emunova.net/veda/test/1301.htm#comment-4566
 ---

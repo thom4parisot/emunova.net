@@ -1,6 +1,7 @@
 ---
 user: copel
 rating: 4.5
+type: rating
 published: 2007-09-29T03:20:28.000Z
 legacy_url: http://www.emunova.net/veda/test/969.htm#comment-8648
 ---

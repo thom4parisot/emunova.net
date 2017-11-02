@@ -1,6 +1,7 @@
 ---
 user: Tom55
 rating: 4
+type: rating
 published: 2010-11-21T20:26:25.000Z
 legacy_url: http://www.emunova.net/veda/test/1518.htm#comment-14545
 ---

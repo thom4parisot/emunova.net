@@ -1,6 +1,7 @@
 ---
 user: Julio
 rating: 5
+type: rating
 published: 2003-07-04T22:18:30.000Z
 legacy_url: http://www.emunova.net/veda/test/144.htm#comment-1110
 ---

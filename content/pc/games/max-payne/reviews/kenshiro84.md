@@ -1,6 +1,7 @@
 ---
 user: Kenshiro84
 rating: 3.5
+type: review
 published: 2007-02-27T01:36:35.000Z
 legacy_url: http://www.emunova.net/veda/test/1979.htm
 ---

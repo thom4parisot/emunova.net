@@ -1,6 +1,7 @@
 ---
 user: Grodaigg
 rating: 4.5
+type: rating
 published: 2005-10-31T20:05:08.000Z
 legacy_url: http://www.emunova.net/veda/test/272.htm#comment-4145
 ---

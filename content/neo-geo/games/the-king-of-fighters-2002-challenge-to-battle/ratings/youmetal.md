@@ -1,6 +1,7 @@
 ---
 user: youmetal
 rating: 4.5
+type: rating
 published: 2005-05-30T12:56:59.000Z
 legacy_url: http://www.emunova.net/veda/test/349.htm#comment-3189
 ---

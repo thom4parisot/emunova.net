@@ -1,6 +1,7 @@
 ---
 user: Winz
 rating: 5
+type: rating
 published: 2012-09-18T15:03:52.000Z
 legacy_url: http://www.emunova.net/veda/test/3177.htm#comment-16010
 ---

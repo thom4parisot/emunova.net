@@ -1,6 +1,7 @@
 ---
 user: faboss
 rating: 4
+type: rating
 published: 2003-04-23T22:06:11.000Z
 legacy_url: http://www.emunova.net/veda/test/18.htm#comment-371
 ---

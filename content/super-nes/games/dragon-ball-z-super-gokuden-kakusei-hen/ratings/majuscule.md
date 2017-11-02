@@ -1,6 +1,7 @@
 ---
 user: majuscule
 rating: 5
+type: rating
 published: 2011-03-20T23:39:11.000Z
 legacy_url: http://www.emunova.net/veda/test/3671.htm#comment-15023
 ---

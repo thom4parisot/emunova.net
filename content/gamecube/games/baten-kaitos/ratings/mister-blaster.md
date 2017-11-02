@@ -1,6 +1,7 @@
 ---
 user: Mister Blaster
 rating: 4.5
+type: rating
 published: 2006-04-26T13:11:58.000Z
 legacy_url: http://www.emunova.net/veda/test/1262.htm#comment-5056
 ---

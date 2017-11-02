@@ -1,6 +1,7 @@
 ---
 user: alonedante
 rating: 4.5
+type: review
 published: 2007-07-25T05:50:25.000Z
 legacy_url: http://www.emunova.net/veda/test/2180.htm
 ---

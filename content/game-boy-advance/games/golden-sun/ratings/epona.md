@@ -1,6 +1,7 @@
 ---
 user: Epona
 rating: 5
+type: rating
 published: 2005-04-16T15:46:44.000Z
 legacy_url: http://www.emunova.net/veda/test/203.htm#comment-2911
 ---

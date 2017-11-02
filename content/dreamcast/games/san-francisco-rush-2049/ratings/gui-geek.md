@@ -1,6 +1,7 @@
 ---
 user: Gui Geek
 rating: 3.5
+type: rating
 published: 2012-02-15T13:39:27.000Z
 legacy_url: http://www.emunova.net/veda/test/1250.htm#comment-15721
 ---

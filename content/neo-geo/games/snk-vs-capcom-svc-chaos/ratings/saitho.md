@@ -1,6 +1,7 @@
 ---
 user: Saitho
 rating: 4.5
+type: rating
 published: 2003-12-08T23:28:16.000Z
 legacy_url: http://www.emunova.net/veda/test/339.htm#comment-1696
 ---

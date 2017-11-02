@@ -1,6 +1,7 @@
 ---
 user: Jalk
 rating: 5
+type: rating
 published: 2005-08-30T22:33:42.000Z
 legacy_url: http://www.emunova.net/veda/test/685.htm#comment-3679
 ---

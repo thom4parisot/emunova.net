@@ -1,6 +1,7 @@
 ---
 user: Anonyme 1707
 rating: 5
+type: rating
 published: 2003-07-22T22:28:27.000Z
 legacy_url: http://www.emunova.net/veda/test/177.htm#comment-1707
 ---

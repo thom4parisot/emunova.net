@@ -1,6 +1,7 @@
 ---
 user: Marc
 rating: 1.5
+type: rating
 published: 2004-03-01T23:21:11.000Z
 legacy_url: http://www.emunova.net/veda/test/464.htm#comment-1271
 ---

@@ -1,6 +1,7 @@
 ---
 user: Apo17
 rating: 4
+type: rating
 published: 2012-01-07T13:20:41.000Z
 legacy_url: http://www.emunova.net/veda/test/2176.htm#comment-15686
 ---

@@ -1,6 +1,7 @@
 ---
 user: VenerZen
 rating: 4
+type: rating
 published: 2005-01-25T16:59:48.000Z
 legacy_url: http://www.emunova.net/veda/test/330.htm#comment-2456
 ---

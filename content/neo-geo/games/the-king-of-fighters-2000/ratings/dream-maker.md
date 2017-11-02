@@ -1,6 +1,7 @@
 ---
 user: Dream Maker
 rating: 4
+type: rating
 published: 2005-04-26T08:22:16.000Z
 legacy_url: http://www.emunova.net/veda/test/390.htm#comment-2962
 ---

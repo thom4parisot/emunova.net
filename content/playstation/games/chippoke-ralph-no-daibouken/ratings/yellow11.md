@@ -1,6 +1,7 @@
 ---
 user: Yellow11
 rating: 4
+type: rating
 published: 2011-06-23T20:57:06.000Z
 legacy_url: http://www.emunova.net/veda/test/3404.htm#comment-15193
 ---

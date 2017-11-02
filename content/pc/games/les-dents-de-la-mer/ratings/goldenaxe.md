@@ -1,6 +1,7 @@
 ---
 user: goldenaxe
 rating: 4
+type: rating
 published: 2010-11-23T13:28:57.000Z
 legacy_url: http://www.emunova.net/veda/test/2037.htm#comment-14562
 ---

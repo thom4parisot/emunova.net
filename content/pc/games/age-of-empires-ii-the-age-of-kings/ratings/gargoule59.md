@@ -1,6 +1,7 @@
 ---
 user: gargoule59
 rating: 5
+type: rating
 published: 2009-10-13T17:34:30.000Z
 legacy_url: http://www.emunova.net/veda/test/3177.htm#comment-12156
 ---

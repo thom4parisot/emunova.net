@@ -1,6 +1,7 @@
 ---
 user: Anonyme 1017
 rating: 4
+type: rating
 published: 2004-02-11T23:16:57.000Z
 legacy_url: http://www.emunova.net/veda/test/442.htm#comment-1017
 ---

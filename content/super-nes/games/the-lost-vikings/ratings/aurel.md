@@ -1,6 +1,7 @@
 ---
 user: aurel
 rating: 4.5
+type: rating
 published: 2005-09-07T14:57:53.000Z
 legacy_url: http://www.emunova.net/veda/test/624.htm#comment-3737
 ---

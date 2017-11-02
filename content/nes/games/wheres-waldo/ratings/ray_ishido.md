@@ -1,6 +1,7 @@
 ---
 user: ray\_ishido
 rating: 2
+type: rating
 published: 2008-06-10T22:33:59.000Z
 legacy_url: http://www.emunova.net/veda/test/2056.htm#comment-9633
 ---

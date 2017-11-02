@@ -1,6 +1,7 @@
 ---
 user: hopi2
 rating: 3
+type: rating
 published: 2010-06-08T10:29:30.000Z
 legacy_url: http://www.emunova.net/veda/test/2865.htm#comment-13750
 ---

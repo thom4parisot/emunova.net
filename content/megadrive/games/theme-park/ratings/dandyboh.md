@@ -1,6 +1,7 @@
 ---
 user: dandyboh
 rating: 3.5
+type: rating
 published: 2007-07-06T13:57:32.000Z
 legacy_url: http://www.emunova.net/veda/test/2022.htm#comment-8314
 ---

@@ -1,6 +1,7 @@
 ---
 user: mattleboss
 rating: 4.5
+type: rating
 published: 2004-12-22T17:07:52.000Z
 legacy_url: http://www.emunova.net/veda/test/353.htm#comment-2231
 ---

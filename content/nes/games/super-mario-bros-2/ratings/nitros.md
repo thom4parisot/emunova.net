@@ -1,6 +1,7 @@
 ---
 user: nitros
 rating: 4.5
+type: rating
 published: 2006-03-10T21:05:23.000Z
 legacy_url: http://www.emunova.net/veda/test/80.htm#comment-4794
 ---

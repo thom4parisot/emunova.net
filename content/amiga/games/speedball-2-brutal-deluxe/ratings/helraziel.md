@@ -1,6 +1,7 @@
 ---
 user: Helraziel
 rating: 4.5
+type: rating
 published: 2005-01-01T17:13:20.000Z
 legacy_url: http://www.emunova.net/veda/test/63.htm#comment-2346
 ---

@@ -1,6 +1,7 @@
 ---
 user: tofdz
 rating: 1
+type: rating
 published: 2005-05-23T03:29:09.000Z
 legacy_url: http://www.emunova.net/veda/test/938.htm#comment-3127
 ---

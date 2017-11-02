@@ -1,6 +1,7 @@
 ---
 user: cahan
 rating: 4.5
+type: rating
 published: 2009-08-03T15:18:12.000Z
 legacy_url: http://www.emunova.net/veda/test/823.htm#comment-11788
 ---

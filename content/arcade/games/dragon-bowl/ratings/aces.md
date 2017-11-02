@@ -1,6 +1,7 @@
 ---
 user: Aces
 rating: 1
+type: rating
 published: 2006-02-22T13:07:13.000Z
 legacy_url: http://www.emunova.net/veda/test/678.htm#comment-4679
 ---

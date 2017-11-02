@@ -1,6 +1,7 @@
 ---
 user: danny
 rating: 5
+type: rating
 published: 2007-07-19T14:47:07.000Z
 legacy_url: http://www.emunova.net/veda/test/1118.htm#comment-8379
 ---

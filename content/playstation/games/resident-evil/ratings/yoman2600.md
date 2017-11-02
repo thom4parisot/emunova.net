@@ -1,6 +1,7 @@
 ---
 user: yoman2600
 rating: 4.5
+type: rating
 published: 2003-05-02T22:11:07.000Z
 legacy_url: http://www.emunova.net/veda/test/45.htm#comment-667
 ---

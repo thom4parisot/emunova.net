@@ -1,6 +1,7 @@
 ---
 user: jahiro
 rating: 4.5
+type: rating
 published: 2005-09-23T21:46:36.000Z
 legacy_url: http://www.emunova.net/veda/test/1093.htm#comment-3837
 ---

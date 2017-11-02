@@ -1,6 +1,7 @@
 ---
 user: G2LOQ
 rating: 5
+type: rating
 published: 2006-02-17T14:53:58.000Z
 legacy_url: http://www.emunova.net/veda/test/1313.htm#comment-4662
 ---

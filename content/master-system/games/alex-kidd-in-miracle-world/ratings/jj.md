@@ -1,6 +1,7 @@
 ---
 user: J.J.
 rating: 4
+type: rating
 published: 2006-11-08T00:21:59.000Z
 legacy_url: http://www.emunova.net/veda/test/1400.htm#comment-6661
 ---

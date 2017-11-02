@@ -1,6 +1,7 @@
 ---
 user: Kékidi
 rating: 5
+type: rating
 published: 2008-06-19T18:35:50.000Z
 legacy_url: http://www.emunova.net/veda/test/2767.htm#comment-9665
 ---

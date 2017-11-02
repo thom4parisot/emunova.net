@@ -1,6 +1,7 @@
 ---
 user: Samgav
 rating: 4.5
+type: rating
 published: 2009-01-30T19:57:10.000Z
 legacy_url: http://www.emunova.net/veda/test/732.htm#comment-10865
 ---

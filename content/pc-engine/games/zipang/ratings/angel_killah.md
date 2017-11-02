@@ -1,6 +1,7 @@
 ---
 user: angel\_killah
 rating: 3.5
+type: rating
 published: 2003-05-02T22:05:13.000Z
 legacy_url: http://www.emunova.net/veda/test/50.htm#comment-313
 ---

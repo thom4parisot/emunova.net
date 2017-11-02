@@ -1,6 +1,7 @@
 ---
 user: Anonyme 2546
 rating: 3
+type: rating
 published: 2005-02-15T14:05:59.000Z
 legacy_url: http://www.emunova.net/veda/test/167.htm#comment-2546
 ---

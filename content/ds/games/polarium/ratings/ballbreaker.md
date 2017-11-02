@@ -1,6 +1,7 @@
 ---
 user: Ballbreaker
 rating: 4
+type: rating
 published: 2006-10-27T09:13:16.000Z
 legacy_url: http://www.emunova.net/veda/test/1741.htm#comment-6478
 ---

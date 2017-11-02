@@ -1,6 +1,7 @@
 ---
 user: PsyKoTine
 rating: 3
+type: rating
 published: 2007-11-27T17:40:03.000Z
 legacy_url: http://www.emunova.net/veda/test/1547.htm#comment-8872
 ---

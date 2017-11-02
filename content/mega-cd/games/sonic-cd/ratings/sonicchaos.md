@@ -1,6 +1,7 @@
 ---
 user: SonicChaos
 rating: 5
+type: rating
 published: 2006-12-19T21:21:24.000Z
 legacy_url: http://www.emunova.net/veda/test/333.htm#comment-7208
 ---

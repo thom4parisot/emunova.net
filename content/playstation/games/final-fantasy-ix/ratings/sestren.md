@@ -1,6 +1,7 @@
 ---
 user: Sestren
 rating: 4.5
+type: rating
 published: 2007-06-29T20:08:39.000Z
 legacy_url: http://www.emunova.net/veda/test/2049.htm#comment-8280
 ---

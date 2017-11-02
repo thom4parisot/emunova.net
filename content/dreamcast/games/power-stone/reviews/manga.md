@@ -1,6 +1,7 @@
 ---
 user: manga
 rating: 4
+type: review
 published: 2004-12-02T14:07:46.000Z
 legacy_url: http://www.emunova.net/veda/test/756.htm
 ---

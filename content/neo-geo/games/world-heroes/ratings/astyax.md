@@ -1,6 +1,7 @@
 ---
 user: Astyax
 rating: 4.5
+type: rating
 published: 2007-03-25T11:03:42.000Z
 legacy_url: http://www.emunova.net/veda/test/1695.htm#comment-7810
 ---

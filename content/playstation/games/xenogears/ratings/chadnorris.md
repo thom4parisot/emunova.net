@@ -1,6 +1,7 @@
 ---
 user: chadnorris
 rating: 5
+type: rating
 published: 2003-08-09T22:16:19.000Z
 legacy_url: http://www.emunova.net/veda/test/209.htm#comment-979
 ---

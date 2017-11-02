@@ -1,6 +1,7 @@
 ---
 user: zanks
 rating: 4
+type: rating
 published: 2005-07-03T09:33:35.000Z
 legacy_url: http://www.emunova.net/veda/test/894.htm#comment-3409
 ---

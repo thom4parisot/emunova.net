@@ -1,6 +1,7 @@
 ---
 user: Keops
 rating: 5
+type: rating
 published: 2003-06-07T22:15:13.000Z
 legacy_url: http://www.emunova.net/veda/test/113.htm#comment-913
 ---

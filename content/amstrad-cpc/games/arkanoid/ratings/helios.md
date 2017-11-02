@@ -1,6 +1,7 @@
 ---
 user: helios
 rating: 4
+type: rating
 published: 2007-10-16T20:29:57.000Z
 legacy_url: http://www.emunova.net/veda/test/1826.htm#comment-8709
 ---

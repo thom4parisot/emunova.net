@@ -1,6 +1,7 @@
 ---
 user: Samus Aran
 rating: 5
+type: rating
 published: 2012-12-10T22:41:45.000Z
 legacy_url: http://www.emunova.net/veda/test/1177.htm#comment-16270
 ---

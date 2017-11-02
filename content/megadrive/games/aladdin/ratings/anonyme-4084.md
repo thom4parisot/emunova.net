@@ -1,6 +1,7 @@
 ---
 user: Anonyme 4084
 rating: 4.5
+type: rating
 published: 2005-10-20T08:47:48.000Z
 legacy_url: http://www.emunova.net/veda/test/586.htm#comment-4084
 ---

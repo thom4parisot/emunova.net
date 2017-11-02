@@ -1,6 +1,7 @@
 ---
 user: aaron melk
 rating: 3
+type: rating
 published: 2006-06-28T03:41:30.000Z
 legacy_url: http://www.emunova.net/veda/test/410.htm#comment-5605
 ---

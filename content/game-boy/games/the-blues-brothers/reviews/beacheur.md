@@ -1,6 +1,7 @@
 ---
 user: beacheur
 rating: 4.5
+type: review
 published: 2007-01-09T02:09:05.000Z
 legacy_url: http://www.emunova.net/veda/test/1892.htm
 ---

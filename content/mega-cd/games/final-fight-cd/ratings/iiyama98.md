@@ -1,6 +1,7 @@
 ---
 user: iiyama98
 rating: 3.5
+type: rating
 published: 2006-09-16T09:51:03.000Z
 legacy_url: http://www.emunova.net/veda/test/1730.htm#comment-6187
 ---

@@ -1,6 +1,7 @@
 ---
 user: hemi42
 rating: 4
+type: rating
 published: 2006-11-27T19:53:58.000Z
 legacy_url: http://www.emunova.net/veda/test/1061.htm#comment-7011
 ---

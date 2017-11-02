@@ -1,6 +1,7 @@
 ---
 user: raoulglloq
 rating: 5
+type: rating
 published: 2008-06-16T13:35:27.000Z
 legacy_url: http://www.emunova.net/veda/test/712.htm#comment-9645
 ---

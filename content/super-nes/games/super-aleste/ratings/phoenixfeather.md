@@ -1,6 +1,7 @@
 ---
 user: PhoenixFeather
 rating: 4
+type: rating
 published: 2006-12-09T17:49:18.000Z
 legacy_url: http://www.emunova.net/veda/test/407.htm#comment-7122
 ---

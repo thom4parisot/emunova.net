@@ -1,6 +1,7 @@
 ---
 user: Kimuji
 rating: 4
+type: rating
 published: 2009-08-11T02:25:01.000Z
 legacy_url: http://www.emunova.net/veda/test/2316.htm#comment-11833
 ---

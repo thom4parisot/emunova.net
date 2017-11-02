@@ -1,6 +1,7 @@
 ---
 user: Death Adder
 rating: 4
+type: rating
 published: 2004-07-27T20:56:03.000Z
 legacy_url: http://www.emunova.net/veda/test/634.htm#comment-1945
 ---

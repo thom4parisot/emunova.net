@@ -1,6 +1,7 @@
 ---
 user: helldraco
 rating: 4.5
+type: rating
 published: 2005-09-25T23:06:48.000Z
 legacy_url: http://www.emunova.net/veda/test/698.htm#comment-3865
 ---

@@ -1,6 +1,7 @@
 ---
 user: Hinoto
 rating: 4
+type: rating
 published: 2008-05-19T20:39:43.000Z
 legacy_url: http://www.emunova.net/veda/test/588.htm#comment-9588
 ---

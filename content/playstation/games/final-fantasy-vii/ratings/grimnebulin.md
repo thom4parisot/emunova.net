@@ -1,6 +1,7 @@
 ---
 user: Grimnebulin
 rating: 5
+type: rating
 published: 2013-03-08T09:46:31.000Z
 legacy_url: http://www.emunova.net/veda/test/195.htm#comment-16323
 ---

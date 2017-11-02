@@ -1,6 +1,7 @@
 ---
 user: MrMoonlight
 rating: 5
+type: rating
 published: 2008-11-28T13:21:56.000Z
 legacy_url: http://www.emunova.net/veda/test/298.htm#comment-10439
 ---

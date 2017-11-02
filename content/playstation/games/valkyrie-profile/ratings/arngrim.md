@@ -1,6 +1,7 @@
 ---
 user: arngrim
 rating: 4.5
+type: rating
 published: 2004-09-06T15:02:37.000Z
 legacy_url: http://www.emunova.net/veda/test/685.htm#comment-1792
 ---

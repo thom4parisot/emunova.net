@@ -1,6 +1,7 @@
 ---
 user: Lightfox
 rating: 4
+type: rating
 published: 2003-05-17T22:14:31.000Z
 legacy_url: http://www.emunova.net/veda/test/85.htm#comment-871
 ---

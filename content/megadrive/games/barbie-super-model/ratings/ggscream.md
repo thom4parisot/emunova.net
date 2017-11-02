@@ -1,6 +1,7 @@
 ---
 user: GGScream
 rating: 0.5
+type: rating
 published: 2006-07-04T16:30:54.000Z
 legacy_url: http://www.emunova.net/veda/test/825.htm#comment-5643
 ---

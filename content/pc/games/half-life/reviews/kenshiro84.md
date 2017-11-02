@@ -1,6 +1,7 @@
 ---
 user: Kenshiro84
 rating: 3
+type: review
 published: 2007-01-11T01:28:05.000Z
 legacy_url: http://www.emunova.net/veda/test/1898.htm
 ---

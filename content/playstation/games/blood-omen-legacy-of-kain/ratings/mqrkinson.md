@@ -1,6 +1,7 @@
 ---
 user: Mqrkinson
 rating: 4.5
+type: rating
 published: 2012-05-24T22:03:24.000Z
 legacy_url: http://www.emunova.net/veda/test/3504.htm#comment-15845
 ---

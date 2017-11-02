@@ -1,6 +1,7 @@
 ---
 user: willmatrix40
 rating: 5
+type: rating
 published: 2009-06-25T09:27:52.000Z
 legacy_url: http://www.emunova.net/veda/test/995.htm#comment-11611
 ---

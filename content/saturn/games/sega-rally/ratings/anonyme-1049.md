@@ -1,6 +1,7 @@
 ---
 user: Anonyme 1049
 rating: 5
+type: rating
 published: 2003-05-06T22:17:29.000Z
 legacy_url: http://www.emunova.net/veda/test/61.htm#comment-1049
 ---

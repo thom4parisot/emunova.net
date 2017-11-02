@@ -1,6 +1,7 @@
 ---
 user: biloute2004
 rating: 5
+type: rating
 published: 2005-05-23T12:29:34.000Z
 legacy_url: http://www.emunova.net/veda/test/330.htm#comment-3133
 ---

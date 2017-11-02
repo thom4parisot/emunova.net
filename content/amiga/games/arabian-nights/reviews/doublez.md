@@ -1,6 +1,7 @@
 ---
 user: DoubleZ
 rating: 4
+type: review
 published: 2006-06-08T21:54:43.000Z
 legacy_url: http://www.emunova.net/veda/test/1461.htm
 ---

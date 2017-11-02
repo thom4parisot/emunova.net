@@ -1,6 +1,7 @@
 ---
 user: boost
 rating: 3.5
+type: rating
 published: 2005-03-21T15:49:59.000Z
 legacy_url: http://www.emunova.net/veda/test/46.htm#comment-2810
 ---

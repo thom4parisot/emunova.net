@@ -1,6 +1,7 @@
 ---
 user: edikka
 rating: 4.5
+type: rating
 published: 2010-12-22T11:16:06.000Z
 legacy_url: http://www.emunova.net/veda/test/2281.htm#comment-14738
 ---

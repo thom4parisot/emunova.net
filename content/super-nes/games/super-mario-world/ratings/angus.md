@@ -1,6 +1,7 @@
 ---
 user: Angus
 rating: 4.5
+type: rating
 published: 2006-11-09T12:07:04.000Z
 legacy_url: http://www.emunova.net/veda/test/47.htm#comment-6686
 ---

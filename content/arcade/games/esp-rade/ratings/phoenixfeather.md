@@ -1,6 +1,7 @@
 ---
 user: PhoenixFeather
 rating: 5
+type: rating
 published: 2006-12-11T14:50:20.000Z
 legacy_url: http://www.emunova.net/veda/test/128.htm#comment-7136
 ---

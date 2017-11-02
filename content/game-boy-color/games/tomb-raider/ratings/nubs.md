@@ -1,6 +1,7 @@
 ---
 user: Nubs
 rating: 4.5
+type: rating
 published: 2010-12-20T19:29:24.000Z
 legacy_url: http://www.emunova.net/veda/test/3145.htm#comment-14729
 ---

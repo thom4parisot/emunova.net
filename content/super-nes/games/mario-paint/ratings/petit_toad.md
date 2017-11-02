@@ -1,6 +1,7 @@
 ---
 user: petit\_toad
 rating: 5
+type: rating
 published: 2006-04-24T21:00:42.000Z
 legacy_url: http://www.emunova.net/veda/test/196.htm#comment-5042
 ---

@@ -1,6 +1,7 @@
 ---
 user: alberichsama
 rating: 5
+type: rating
 published: 2007-02-22T13:30:41.000Z
 legacy_url: http://www.emunova.net/veda/test/1332.htm#comment-7558
 ---

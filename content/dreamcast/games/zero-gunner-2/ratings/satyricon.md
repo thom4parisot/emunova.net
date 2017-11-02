@@ -1,6 +1,7 @@
 ---
 user: Satyricon
 rating: 4.5
+type: rating
 published: 2004-11-30T01:46:19.000Z
 legacy_url: http://www.emunova.net/veda/test/96.htm#comment-2028
 ---

@@ -1,6 +1,7 @@
 ---
 user: pokéman
 rating: 4
+type: rating
 published: 2004-12-21T21:21:14.000Z
 legacy_url: http://www.emunova.net/veda/test/64.htm#comment-2225
 ---

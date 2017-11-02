@@ -1,6 +1,7 @@
 ---
 user: davy1
 rating: 4.5
+type: rating
 published: 2008-10-10T18:46:15.000Z
 legacy_url: http://www.emunova.net/veda/test/1600.htm#comment-10064
 ---

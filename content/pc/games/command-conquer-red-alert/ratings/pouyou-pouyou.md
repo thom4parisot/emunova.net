@@ -1,6 +1,7 @@
 ---
 user: Pouyou-pouyou
 rating: 4
+type: rating
 published: 2008-10-12T22:01:13.000Z
 legacy_url: http://www.emunova.net/veda/test/1895.htm#comment-10087
 ---

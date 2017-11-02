@@ -1,6 +1,7 @@
 ---
 user: Valinor
 rating: 3
+type: rating
 published: 2006-11-18T16:27:39.000Z
 legacy_url: http://www.emunova.net/veda/test/812.htm#comment-6819
 ---

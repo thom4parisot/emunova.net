@@ -1,6 +1,7 @@
 ---
 user: Monsieur Rien
 rating: 5
+type: rating
 published: 2009-08-04T23:18:00.000Z
 legacy_url: http://www.emunova.net/veda/test/344.htm#comment-11801
 ---

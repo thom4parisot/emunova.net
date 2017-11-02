@@ -1,6 +1,7 @@
 ---
 user: MasterShadows
 rating: 5
+type: review
 published: 2005-12-11T12:09:42.000Z
 legacy_url: http://www.emunova.net/veda/test/1263.htm
 ---

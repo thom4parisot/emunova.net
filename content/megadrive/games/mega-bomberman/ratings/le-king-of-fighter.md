@@ -1,6 +1,7 @@
 ---
 user: le king of fighter
 rating: 4.5
+type: rating
 published: 2005-12-27T16:26:55.000Z
 legacy_url: http://www.emunova.net/veda/test/758.htm#comment-4464
 ---

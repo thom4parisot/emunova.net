@@ -1,6 +1,7 @@
 ---
 user: Jedhin
 rating: 4.5
+type: review
 published: 2010-03-09T22:22:01.000Z
 legacy_url: http://www.emunova.net/veda/test/3731.htm
 ---

@@ -1,6 +1,7 @@
 ---
 user: naroin
 rating: 5
+type: rating
 published: 2007-07-25T13:32:56.000Z
 legacy_url: http://www.emunova.net/veda/test/2053.htm#comment-8413
 ---

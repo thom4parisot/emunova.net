@@ -1,6 +1,7 @@
 ---
 user: ninJ
 rating: 4
+type: rating
 published: 2009-05-06T04:33:00.000Z
 legacy_url: http://www.emunova.net/veda/test/284.htm#comment-11330
 ---

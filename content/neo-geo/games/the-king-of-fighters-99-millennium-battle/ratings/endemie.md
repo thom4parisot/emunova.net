@@ -1,6 +1,7 @@
 ---
 user: Endemie
 rating: 3.5
+type: rating
 published: 2005-02-05T22:06:53.000Z
 legacy_url: http://www.emunova.net/veda/test/356.htm#comment-2489
 ---

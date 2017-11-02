@@ -1,6 +1,7 @@
 ---
 user: Fredstone
 rating: 2.5
+type: rating
 published: 2007-10-01T16:34:03.000Z
 legacy_url: http://www.emunova.net/veda/test/18.htm#comment-8659
 ---

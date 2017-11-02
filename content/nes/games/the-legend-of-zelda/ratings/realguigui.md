@@ -1,6 +1,7 @@
 ---
 user: realguigui
 rating: 4
+type: rating
 published: 2013-05-02T12:00:42.000Z
 legacy_url: http://www.emunova.net/veda/test/533.htm#comment-16361
 ---

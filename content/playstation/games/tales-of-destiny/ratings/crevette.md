@@ -1,6 +1,7 @@
 ---
 user: Crevette
 rating: 4.5
+type: rating
 published: 2009-06-20T10:21:44.000Z
 legacy_url: http://www.emunova.net/veda/test/807.htm#comment-11580
 ---

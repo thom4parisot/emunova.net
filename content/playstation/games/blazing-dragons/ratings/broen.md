@@ -1,6 +1,7 @@
 ---
 user: Broen
 rating: 2.5
+type: rating
 published: 2010-03-15T06:15:47.000Z
 legacy_url: http://www.emunova.net/veda/test/3413.htm#comment-13185
 ---

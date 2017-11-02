@@ -1,6 +1,7 @@
 ---
 user: the undertaker
 rating: 3.5
+type: rating
 published: 2005-09-16T19:58:04.000Z
 legacy_url: http://www.emunova.net/veda/test/51.htm#comment-3804
 ---

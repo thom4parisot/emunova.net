@@ -1,6 +1,7 @@
 ---
 user: bandikong
 rating: 5
+type: rating
 published: 2010-01-24T13:02:54.000Z
 legacy_url: http://www.emunova.net/veda/test/95.htm#comment-12828
 ---

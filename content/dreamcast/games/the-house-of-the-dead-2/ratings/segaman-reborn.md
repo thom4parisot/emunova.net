@@ -1,6 +1,7 @@
 ---
 user: segaman reborn
 rating: 5
+type: rating
 published: 2005-11-09T04:22:56.000Z
 legacy_url: http://www.emunova.net/veda/test/1177.htm#comment-4216
 ---

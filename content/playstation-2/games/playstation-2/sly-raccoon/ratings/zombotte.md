@@ -1,6 +1,7 @@
 ---
 user: zombotte
 rating: 3.5
+type: rating
 published: 2011-01-29T09:31:53.000Z
 legacy_url: http://www.emunova.net/veda/test/2701.htm#comment-14923
 ---

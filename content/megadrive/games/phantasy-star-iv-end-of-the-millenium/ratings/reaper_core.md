@@ -1,6 +1,7 @@
 ---
 user: Reaper\_core
 rating: 5
+type: rating
 published: 2009-09-03T13:28:19.000Z
 legacy_url: http://www.emunova.net/veda/test/1874.htm#comment-11947
 ---

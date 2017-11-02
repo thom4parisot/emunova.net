@@ -1,6 +1,7 @@
 ---
 user: cartok
 rating: 4.5
+type: rating
 published: 2007-08-01T12:27:56.000Z
 legacy_url: http://www.emunova.net/veda/test/1770.htm#comment-8446
 ---

@@ -1,6 +1,7 @@
 ---
 user: pway
 rating: 5
+type: rating
 published: 2012-10-09T04:24:54.000Z
 legacy_url: http://www.emunova.net/veda/test/3240.htm#comment-16030
 ---

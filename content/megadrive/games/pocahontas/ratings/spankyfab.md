@@ -1,6 +1,7 @@
 ---
 user: spankyfab
 rating: 5
+type: rating
 published: 2006-02-23T17:37:03.000Z
 legacy_url: http://www.emunova.net/veda/test/1208.htm#comment-4696
 ---

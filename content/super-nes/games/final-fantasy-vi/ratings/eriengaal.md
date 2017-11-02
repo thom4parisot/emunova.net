@@ -1,6 +1,7 @@
 ---
 user: Eriengaal
 rating: 5
+type: rating
 published: 2008-11-15T12:14:49.000Z
 legacy_url: http://www.emunova.net/veda/test/212.htm#comment-10377
 ---

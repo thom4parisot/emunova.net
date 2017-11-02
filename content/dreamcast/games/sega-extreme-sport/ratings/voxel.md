@@ -1,6 +1,7 @@
 ---
 user: Voxel
 rating: 3.5
+type: rating
 published: 2006-02-05T21:47:16.000Z
 legacy_url: http://www.emunova.net/veda/test/1315.htm#comment-4609
 ---

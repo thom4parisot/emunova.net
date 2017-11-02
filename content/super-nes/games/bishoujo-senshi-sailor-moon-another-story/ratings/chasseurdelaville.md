@@ -1,6 +1,7 @@
 ---
 user: chasseurdelaville
 rating: 2.5
+type: rating
 published: 2012-06-30T21:43:52.000Z
 legacy_url: http://www.emunova.net/veda/test/3620.htm#comment-15911
 ---

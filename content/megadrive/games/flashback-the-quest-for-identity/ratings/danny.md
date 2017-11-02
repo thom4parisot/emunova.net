@@ -1,6 +1,7 @@
 ---
 user: danny
 rating: 2.5
+type: rating
 published: 2007-07-15T21:48:58.000Z
 legacy_url: http://www.emunova.net/veda/test/645.htm#comment-8368
 ---

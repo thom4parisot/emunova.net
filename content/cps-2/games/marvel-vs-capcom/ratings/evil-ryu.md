@@ -1,6 +1,7 @@
 ---
 user: Evil Ryu
 rating: 4
+type: rating
 published: 2005-03-01T19:50:25.000Z
 legacy_url: http://www.emunova.net/veda/test/862.htm#comment-2639
 ---

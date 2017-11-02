@@ -1,6 +1,7 @@
 ---
 user: Maitre\_Glof
 rating: 4
+type: rating
 published: 2006-08-25T14:43:53.000Z
 legacy_url: http://www.emunova.net/veda/test/767.htm#comment-6022
 ---

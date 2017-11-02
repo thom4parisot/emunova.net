@@ -1,6 +1,7 @@
 ---
 user: Puda
 rating: 3
+type: review
 published: 2014-05-21T10:29:59+0000
 ---
 16 années, il a fallu attendre 16 années avant que Tex Murphy, l’un des détectives les plus intéressants qui soit dans le monde du jeu vidéo, fasse enfin son grand retour.

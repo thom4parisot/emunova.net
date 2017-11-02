@@ -1,6 +1,7 @@
 ---
 user: yoann pe
 rating: 4
+type: rating
 published: 2011-04-07T06:29:10.000Z
 legacy_url: http://www.emunova.net/veda/test/1503.htm#comment-15054
 ---

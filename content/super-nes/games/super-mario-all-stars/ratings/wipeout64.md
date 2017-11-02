@@ -1,6 +1,7 @@
 ---
 user: wipeout64
 rating: 5
+type: rating
 published: 2009-11-20T16:52:57.000Z
 legacy_url: http://www.emunova.net/veda/test/321.htm#comment-12451
 ---

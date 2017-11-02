@@ -1,6 +1,7 @@
 ---
 user: dembs85
 rating: 5
+type: rating
 published: 2006-04-04T13:09:21.000Z
 legacy_url: http://www.emunova.net/veda/test/1073.htm#comment-4899
 ---

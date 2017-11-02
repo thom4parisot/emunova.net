@@ -1,6 +1,7 @@
 ---
 user: cyber-S
 rating: 5
+type: rating
 published: 2006-09-30T17:11:46.000Z
 legacy_url: http://www.emunova.net/veda/test/412.htm#comment-6271
 ---

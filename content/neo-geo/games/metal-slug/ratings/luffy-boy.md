@@ -1,6 +1,7 @@
 ---
 user: Luffy Boy
 rating: 4
+type: rating
 published: 2006-05-28T08:39:39.000Z
 legacy_url: http://www.emunova.net/veda/test/116.htm#comment-5236
 ---

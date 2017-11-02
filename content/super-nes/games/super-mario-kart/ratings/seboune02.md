@@ -1,6 +1,7 @@
 ---
 user: sébouné02
 rating: 5
+type: rating
 published: 2006-02-10T22:41:13.000Z
 legacy_url: http://www.emunova.net/veda/test/56.htm#comment-4628
 ---

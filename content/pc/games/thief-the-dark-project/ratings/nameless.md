@@ -1,6 +1,7 @@
 ---
 user: Nameless
 rating: 5
+type: rating
 published: 2005-05-09T09:02:03.000Z
 legacy_url: http://www.emunova.net/veda/test/945.htm#comment-3042
 ---

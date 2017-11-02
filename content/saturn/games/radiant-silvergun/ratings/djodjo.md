@@ -1,6 +1,7 @@
 ---
 user: djodjo
 rating: 5
+type: rating
 published: 2005-04-13T00:36:43.000Z
 legacy_url: http://www.emunova.net/veda/test/889.htm#comment-2890
 ---

@@ -1,6 +1,7 @@
 ---
 user: blackgamers
 rating: 4.5
+type: rating
 published: 2006-04-03T18:58:27.000Z
 legacy_url: http://www.emunova.net/veda/test/980.htm#comment-4892
 ---

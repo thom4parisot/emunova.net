@@ -1,6 +1,7 @@
 ---
 user: hijaki
 rating: 2.5
+type: rating
 published: 2008-07-16T16:54:57.000Z
 legacy_url: http://www.emunova.net/veda/test/2050.htm#comment-9779
 ---

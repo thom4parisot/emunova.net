@@ -1,6 +1,7 @@
 ---
 user: eldritch
 rating: 2.5
+type: rating
 published: 2012-07-19T11:53:35.000Z
 legacy_url: http://www.emunova.net/veda/test/3233.htm#comment-15932
 ---

@@ -1,6 +1,7 @@
 ---
 user: Shenron67
 rating: 3
+type: rating
 published: 2013-01-23T18:56:21.000Z
 legacy_url: http://www.emunova.net/veda/test/1990.htm#comment-16286
 ---

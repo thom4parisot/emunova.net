@@ -1,6 +1,7 @@
 ---
 user: Japhia
 rating: 4
+type: rating
 published: 2009-02-25T20:33:05.000Z
 legacy_url: http://www.emunova.net/veda/test/3058.htm#comment-11008
 ---

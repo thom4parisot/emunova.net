@@ -1,6 +1,7 @@
 ---
 user: Antarka
 rating: 5
+type: rating
 published: 2009-09-18T09:09:13.000Z
 legacy_url: http://www.emunova.net/veda/test/102.htm#comment-12005
 ---

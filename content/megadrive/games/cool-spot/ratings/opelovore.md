@@ -1,6 +1,7 @@
 ---
 user: opelovore
 rating: 4
+type: rating
 published: 2005-12-04T11:28:38.000Z
 legacy_url: http://www.emunova.net/veda/test/1243.htm#comment-4375
 ---

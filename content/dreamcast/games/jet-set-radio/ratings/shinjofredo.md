@@ -1,6 +1,7 @@
 ---
 user: shinjofredo
 rating: 4
+type: rating
 published: 2004-12-08T19:02:24.000Z
 legacy_url: http://www.emunova.net/veda/test/764.htm#comment-2092
 ---

@@ -1,6 +1,7 @@
 ---
 user: Aces
 rating: 4
+type: review
 published: 2013-02-04T09:32:48.000Z
 legacy_url: à définir
 ---

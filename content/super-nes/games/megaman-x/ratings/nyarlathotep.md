@@ -1,6 +1,7 @@
 ---
 user: Nyarlathotep
 rating: 5
+type: rating
 published: 2005-04-10T20:56:59.000Z
 legacy_url: http://www.emunova.net/veda/test/71.htm#comment-2874
 ---

@@ -1,6 +1,7 @@
 ---
 user: Delomo
 rating: 5
+type: rating
 published: 2010-01-31T20:13:02.000Z
 legacy_url: http://www.emunova.net/veda/test/89.htm#comment-12869
 ---

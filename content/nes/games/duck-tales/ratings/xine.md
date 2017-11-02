@@ -1,6 +1,7 @@
 ---
 user: Xine
 rating: 3.5
+type: rating
 published: 2005-05-16T09:12:40.000Z
 legacy_url: http://www.emunova.net/veda/test/950.htm#comment-3085
 ---

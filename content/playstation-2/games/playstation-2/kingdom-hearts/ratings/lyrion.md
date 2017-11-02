@@ -1,6 +1,7 @@
 ---
 user: Lyrion
 rating: 4
+type: rating
 published: 2008-08-30T08:26:15.000Z
 legacy_url: http://www.emunova.net/veda/test/2698.htm#comment-9915
 ---

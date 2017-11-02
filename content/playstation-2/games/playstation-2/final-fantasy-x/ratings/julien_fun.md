@@ -1,6 +1,7 @@
 ---
 user: Julien\_fun
 rating: 4.5
+type: rating
 published: 2008-11-03T22:24:44.000Z
 legacy_url: http://www.emunova.net/veda/test/2050.htm#comment-10345
 ---

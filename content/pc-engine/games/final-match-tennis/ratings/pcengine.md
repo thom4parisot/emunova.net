@@ -1,6 +1,7 @@
 ---
 user: pcengine
 rating: 4.5
+type: rating
 published: 2003-08-21T22:20:43.000Z
 legacy_url: http://www.emunova.net/veda/test/233.htm#comment-1243
 ---

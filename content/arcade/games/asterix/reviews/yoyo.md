@@ -1,6 +1,7 @@
 ---
 user: yoyo
 rating: 4
+type: review
 published: 2004-04-12T22:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/512.htm
 ---

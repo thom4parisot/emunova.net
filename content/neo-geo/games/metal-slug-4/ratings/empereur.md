@@ -1,6 +1,7 @@
 ---
 user: empereur
 rating: 3.5
+type: rating
 published: 2006-06-10T06:15:55.000Z
 legacy_url: http://www.emunova.net/veda/test/902.htm#comment-5413
 ---

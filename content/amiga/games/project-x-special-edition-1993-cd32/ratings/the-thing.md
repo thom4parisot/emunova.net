@@ -1,6 +1,7 @@
 ---
 user: the thing
 rating: 4.5
+type: rating
 published: 2009-04-02T19:49:31.000Z
 legacy_url: http://www.emunova.net/veda/test/2902.htm#comment-11161
 ---

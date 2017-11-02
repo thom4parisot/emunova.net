@@ -1,6 +1,7 @@
 ---
 user: Bakus
 rating: 2.5
+type: rating
 published: 2003-05-04T22:18:19.000Z
 legacy_url: http://www.emunova.net/veda/test/53.htm#comment-1099
 ---

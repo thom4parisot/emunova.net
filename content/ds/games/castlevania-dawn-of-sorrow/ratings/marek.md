@@ -1,6 +1,7 @@
 ---
 user: Marek
 rating: 5
+type: rating
 published: 2006-07-20T11:42:34.000Z
 legacy_url: http://www.emunova.net/veda/test/1307.htm#comment-5763
 ---

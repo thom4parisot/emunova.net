@@ -1,6 +1,7 @@
 ---
 user: Human Ktulu
 rating: 2.5
+type: review
 published: 2007-03-06T03:45:49.000Z
 legacy_url: http://www.emunova.net/veda/test/1995.htm
 ---

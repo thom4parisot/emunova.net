@@ -1,6 +1,7 @@
 ---
 user: Spoz
 rating: 4.5
+type: rating
 published: 2013-12-17T10:00:00.000Z
 ---
 Gros coup de nostalgie pour moi puisque je n'avais pas rejoué à ce jeu depuis que mon voisin me l'avait prêté dans les années 90. Et comme ce fut mon seul Castlevania sur NES à l'époque, autant dire que j'ai pris cher au niveau difficulté du gameplay quand j'ai attaqué son prédécesseur il y a un ou deux ans. Mais n'allez pas croire que Simon's quest est facile... Oh non ! La difficulté est ailleurs, puisque c'est l'aspect recherche qui pimentera le tout. Et croyez-moi, il faudra tourner longtemps avant d'avoir résolu toutes les énigmes menant à Dracula. Si je n'avais pas eu un souvenir précis sur comment passer un endroit du jeu, je n'aurais sans doute pas trouvé comment avancer à plusieurs endroits et je serais encore en train de tourner en rond.

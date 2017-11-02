@@ -1,6 +1,7 @@
 ---
 user: nerok
 rating: 4.5
+type: rating
 published: 2004-05-01T22:24:22.000Z
 legacy_url: http://www.emunova.net/veda/test/533.htm#comment-1462
 ---

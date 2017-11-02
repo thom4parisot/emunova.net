@@ -1,6 +1,7 @@
 ---
 user: vanlee
 rating: 3
+type: rating
 published: 2007-09-17T17:50:28.000Z
 legacy_url: http://www.emunova.net/veda/test/1903.htm#comment-8607
 ---

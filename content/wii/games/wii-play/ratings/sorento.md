@@ -1,6 +1,7 @@
 ---
 user: sorento
 rating: 2.5
+type: rating
 published: 2008-06-15T21:16:51.000Z
 legacy_url: http://www.emunova.net/veda/test/2004.htm#comment-9643
 ---

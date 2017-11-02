@@ -1,6 +1,7 @@
 ---
 user: MAD THE MADMAN
 rating: 5
+type: rating
 published: 2004-03-03T23:17:40.000Z
 legacy_url: http://www.emunova.net/veda/test/470.htm#comment-1060
 ---

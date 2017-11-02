@@ -1,6 +1,7 @@
 ---
 user: anarkhya
 rating: 3
+type: rating
 published: 2006-11-02T18:01:57.000Z
 legacy_url: http://www.emunova.net/veda/test/1777.htm#comment-6581
 ---

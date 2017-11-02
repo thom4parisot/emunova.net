@@ -1,6 +1,7 @@
 ---
 user: Spacewolf1
 rating: 4.5
+type: rating
 published: 2003-07-07T22:21:18.000Z
 legacy_url: http://www.emunova.net/veda/test/155.htm#comment-1278
 ---

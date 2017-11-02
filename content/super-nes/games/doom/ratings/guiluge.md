@@ -1,6 +1,7 @@
 ---
 user: guiluge
 rating: 3
+type: rating
 published: 2007-06-11T16:15:23.000Z
 legacy_url: http://www.emunova.net/veda/test/35.htm#comment-8163
 ---

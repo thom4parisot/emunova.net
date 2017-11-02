@@ -1,6 +1,7 @@
 ---
 user: Helraziel
 rating: 3.5
+type: review
 published: 2004-12-30T14:35:24.000Z
 legacy_url: http://www.emunova.net/veda/test/817.htm
 ---

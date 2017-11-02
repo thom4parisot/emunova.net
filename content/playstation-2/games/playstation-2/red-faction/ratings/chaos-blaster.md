@@ -1,6 +1,7 @@
 ---
 user: chaos blaster
 rating: 4.5
+type: rating
 published: 2009-12-20T11:42:52.000Z
 legacy_url: http://www.emunova.net/veda/test/3580.htm#comment-12638
 ---

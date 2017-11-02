@@ -1,6 +1,7 @@
 ---
 user: faonkenstein
 rating: 3
+type: rating
 published: 2011-07-23T19:20:22.000Z
 legacy_url: http://www.emunova.net/veda/test/762.htm#comment-15336
 ---

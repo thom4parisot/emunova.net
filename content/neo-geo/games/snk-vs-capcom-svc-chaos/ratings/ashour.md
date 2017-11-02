@@ -1,6 +1,7 @@
 ---
 user: ashour
 rating: 3.5
+type: rating
 published: 2006-01-07T12:04:17.000Z
 legacy_url: http://www.emunova.net/veda/test/339.htm#comment-4517
 ---

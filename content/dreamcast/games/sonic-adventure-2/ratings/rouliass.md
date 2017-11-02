@@ -1,6 +1,7 @@
 ---
 user: Rouliass
 rating: 3.5
+type: rating
 published: 2015-06-09T12:30:00.000Z
 ---
 

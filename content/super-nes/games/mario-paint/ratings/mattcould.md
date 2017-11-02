@@ -1,6 +1,7 @@
 ---
 user: Mattcould
 rating: 3.5
+type: rating
 published: 2005-05-08T19:42:08.000Z
 legacy_url: http://www.emunova.net/veda/test/196.htm#comment-3033
 ---

@@ -1,6 +1,7 @@
 ---
 user: nevrakse
 rating: 4.5
+type: rating
 published: 2013-02-11T09:25:18.000Z
 legacy_url: http://www.emunova.net/veda/test/2057.htm#comment-16305
 ---

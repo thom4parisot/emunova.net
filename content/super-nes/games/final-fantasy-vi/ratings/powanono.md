@@ -1,6 +1,7 @@
 ---
 user: Powanono
 rating: 5
+type: rating
 published: 2005-09-08T15:07:43.000Z
 legacy_url: http://www.emunova.net/veda/test/212.htm#comment-3743
 ---

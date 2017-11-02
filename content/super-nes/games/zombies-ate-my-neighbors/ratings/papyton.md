@@ -1,6 +1,7 @@
 ---
 user: papyton
 rating: 5
+type: rating
 published: 2006-08-27T17:03:32.000Z
 legacy_url: http://www.emunova.net/veda/test/409.htm#comment-6055
 ---

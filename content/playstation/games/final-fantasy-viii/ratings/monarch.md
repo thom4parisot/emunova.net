@@ -1,6 +1,7 @@
 ---
 user: Monarch
 rating: 5
+type: rating
 published: 2009-06-10T16:03:25.000Z
 legacy_url: http://www.emunova.net/veda/test/1491.htm#comment-11537
 ---

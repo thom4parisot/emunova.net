@@ -1,6 +1,7 @@
 ---
 user: waaalex
 rating: 4.5
+type: rating
 published: 2010-10-14T07:05:28.000Z
 legacy_url: http://www.emunova.net/veda/test/28.htm#comment-14236
 ---

@@ -1,6 +1,7 @@
 ---
 user: Blue\_Skin
 rating: 5
+type: review
 published: 2005-10-06T17:11:36.000Z
 legacy_url: http://www.emunova.net/veda/test/1116.htm
 ---

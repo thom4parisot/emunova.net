@@ -1,6 +1,7 @@
 ---
 user: Arkames
 rating: 1.5
+type: rating
 published: 2007-03-13T22:16:27.000Z
 legacy_url: http://www.emunova.net/veda/test/344.htm#comment-7726
 ---

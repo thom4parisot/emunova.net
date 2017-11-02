@@ -1,6 +1,7 @@
 ---
 user: Ekleziasstek
 rating: 3
+type: rating
 published: 2008-01-03T22:38:57.000Z
 legacy_url: http://www.emunova.net/veda/test/601.htm#comment-9039
 ---

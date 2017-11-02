@@ -1,6 +1,7 @@
 ---
 user: Antekrist
 rating: 2
+type: review
 published: 2014-04-05T12:37:26.000Z
 ---
 

@@ -1,6 +1,7 @@
 ---
 user: Sturm&Fils
 rating: 5
+type: rating
 published: 2005-02-05T10:04:10.000Z
 legacy_url: http://www.emunova.net/veda/test/16.htm#comment-2486
 ---

@@ -1,6 +1,7 @@
 ---
 user: Apokalypse
 rating: 2
+type: rating
 published: 2009-03-24T03:40:37.000Z
 legacy_url: http://www.emunova.net/veda/test/3036.htm#comment-11116
 ---

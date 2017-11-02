@@ -1,6 +1,7 @@
 ---
 user: Julio
 rating: 4.5
+type: review
 published: 2004-08-10T11:04:56.000Z
 legacy_url: http://www.emunova.net/veda/test/649.htm
 ---

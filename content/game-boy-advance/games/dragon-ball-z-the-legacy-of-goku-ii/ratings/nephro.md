@@ -1,6 +1,7 @@
 ---
 user: nephro
 rating: 4
+type: rating
 published: 2007-05-16T02:23:06.000Z
 legacy_url: http://www.emunova.net/veda/test/168.htm#comment-8066
 ---

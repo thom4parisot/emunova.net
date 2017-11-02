@@ -1,6 +1,7 @@
 ---
 user: le rocher
 rating: 4.5
+type: rating
 published: 2006-08-10T15:45:57.000Z
 legacy_url: http://www.emunova.net/veda/test/670.htm#comment-5911
 ---

@@ -1,6 +1,7 @@
 ---
 user: motley
 rating: 2
+type: rating
 published: 2005-11-30T22:37:50.000Z
 legacy_url: http://www.emunova.net/veda/test/1233.htm#comment-4363
 ---

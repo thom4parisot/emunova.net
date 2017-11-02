@@ -1,6 +1,7 @@
 ---
 user: Yean3d
 rating: 2
+type: rating
 published: 2010-06-30T06:53:30.000Z
 legacy_url: http://www.emunova.net/veda/test/2960.htm#comment-13831
 ---

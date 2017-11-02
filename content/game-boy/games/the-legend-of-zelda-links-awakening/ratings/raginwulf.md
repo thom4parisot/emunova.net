@@ -1,6 +1,7 @@
 ---
 user: raginwulf
 rating: 5
+type: rating
 published: 2011-12-01T17:37:35.000Z
 legacy_url: http://www.emunova.net/veda/test/101.htm#comment-15645
 ---

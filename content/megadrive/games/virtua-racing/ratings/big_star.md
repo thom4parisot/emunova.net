@@ -1,6 +1,7 @@
 ---
 user: Big\_Star
 rating: 1.5
+type: rating
 published: 2010-05-13T16:43:04.000Z
 legacy_url: http://www.emunova.net/veda/test/627.htm#comment-13581
 ---

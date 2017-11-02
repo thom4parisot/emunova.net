@@ -1,6 +1,7 @@
 ---
 user: Njordr
 rating: 4
+type: rating
 published: 2004-12-12T00:58:21.000Z
 legacy_url: http://www.emunova.net/veda/test/771.htm#comment-2117
 ---

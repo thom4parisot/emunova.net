@@ -1,6 +1,7 @@
 ---
 user: Bacchus
 rating: 4
+type: rating
 published: 2005-11-22T18:30:07.000Z
 legacy_url: http://www.emunova.net/veda/test/204.htm#comment-4322
 ---

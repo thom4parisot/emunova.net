@@ -1,6 +1,7 @@
 ---
 user: zaaryy
 rating: 4.5
+type: rating
 published: 2007-12-12T10:12:51.000Z
 legacy_url: http://www.emunova.net/veda/test/2057.htm#comment-8936
 ---

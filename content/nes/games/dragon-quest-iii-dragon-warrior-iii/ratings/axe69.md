@@ -1,6 +1,7 @@
 ---
 user: axe69
 rating: 4.5
+type: rating
 published: 2009-01-24T11:28:11.000Z
 legacy_url: http://www.emunova.net/veda/test/3047.htm#comment-10832
 ---

@@ -1,6 +1,7 @@
 ---
 user: gonzo
 rating: 4.5
+type: rating
 published: 2006-02-12T18:57:24.000Z
 legacy_url: http://www.emunova.net/veda/test/627.htm#comment-4636
 ---

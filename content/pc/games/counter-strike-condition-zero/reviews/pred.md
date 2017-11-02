@@ -1,6 +1,7 @@
 ---
 user: pred
 rating: 1.5
+type: review
 published: 2005-11-02T13:42:48.000Z
 legacy_url: http://www.emunova.net/veda/test/1171.htm
 ---

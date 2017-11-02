@@ -1,6 +1,7 @@
 ---
 user: davy1
 rating: 4.5
+type: review
 published: 2009-01-18T02:39:28.000Z
 legacy_url: http://www.emunova.net/veda/test/3029.htm
 ---

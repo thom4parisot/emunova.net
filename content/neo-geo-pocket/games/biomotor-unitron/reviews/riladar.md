@@ -1,6 +1,7 @@
 ---
 user: riladar
 rating: 4
+type: review
 published: 2004-12-02T10:53:28.000Z
 legacy_url: http://www.emunova.net/veda/test/753.htm
 ---

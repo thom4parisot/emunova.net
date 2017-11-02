@@ -1,6 +1,7 @@
 ---
 user: ralphi09
 rating: 5
+type: rating
 published: 2005-07-09T18:15:39.000Z
 legacy_url: http://www.emunova.net/veda/test/980.htm#comment-3451
 ---

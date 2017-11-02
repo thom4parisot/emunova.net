@@ -1,6 +1,7 @@
 ---
 user: Lithium BFG
 rating: 4
+type: rating
 published: 2006-05-13T13:10:20.000Z
 legacy_url: http://www.emunova.net/veda/test/80.htm#comment-5132
 ---

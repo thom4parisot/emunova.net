@@ -1,6 +1,7 @@
 ---
 user: tom3
 rating: 1
+type: rating
 published: 2007-07-08T14:19:39.000Z
 legacy_url: http://www.emunova.net/veda/test/850.htm#comment-8321
 ---

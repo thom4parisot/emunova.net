@@ -1,6 +1,7 @@
 ---
 user: mattttazz
 rating: 4.5
+type: rating
 published: 2008-12-14T21:46:40.000Z
 legacy_url: http://www.emunova.net/veda/test/344.htm#comment-10516
 ---

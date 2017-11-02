@@ -1,6 +1,7 @@
 ---
 user: gestual
 rating: 5
+type: rating
 published: 2008-12-16T20:41:21.000Z
 legacy_url: http://www.emunova.net/veda/test/645.htm#comment-10571
 ---

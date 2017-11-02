@@ -1,6 +1,7 @@
 ---
 user: Over The Top
 rating: 4.5
+type: rating
 published: 2005-10-16T23:10:43.000Z
 legacy_url: http://www.emunova.net/veda/test/530.htm#comment-4069
 ---

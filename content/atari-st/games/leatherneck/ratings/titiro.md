@@ -1,6 +1,7 @@
 ---
 user: titiro
 rating: 4
+type: rating
 published: 2012-02-09T21:18:49.000Z
 legacy_url: http://www.emunova.net/veda/test/1392.htm#comment-15716
 ---

@@ -1,6 +1,7 @@
 ---
 user: dogo
 rating: 4
+type: review
 published: 2012-03-16T14:14:30.000Z
 legacy_url: http://www.emunova.net/veda/test/4233.htm
 ---

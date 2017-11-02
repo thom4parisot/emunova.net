@@ -1,6 +1,7 @@
 ---
 user: 7suna
 rating: 3.5
+type: rating
 published: 2006-03-25T11:16:18.000Z
 legacy_url: http://www.emunova.net/veda/test/79.htm#comment-4842
 ---

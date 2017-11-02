@@ -1,6 +1,7 @@
 ---
 user: Sebko
 rating: 4
+type: rating
 published: 2009-02-20T20:59:00.000Z
 legacy_url: http://www.emunova.net/veda/test/1505.htm#comment-10964
 ---

@@ -1,6 +1,7 @@
 ---
 user: AcidBen
 rating: 4.5
+type: rating
 published: 2007-04-13T09:22:59.000Z
 legacy_url: http://www.emunova.net/veda/test/581.htm#comment-7935
 ---

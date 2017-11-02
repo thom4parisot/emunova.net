@@ -1,6 +1,7 @@
 ---
 user: JayBLOOD
 rating: 5
+type: rating
 published: 2005-04-26T23:26:36.000Z
 legacy_url: http://www.emunova.net/veda/test/925.htm#comment-2966
 ---

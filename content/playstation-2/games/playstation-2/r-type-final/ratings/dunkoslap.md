@@ -1,6 +1,7 @@
 ---
 user: dunkoslap
 rating: 5
+type: rating
 published: 2010-11-23T15:36:34.000Z
 legacy_url: http://www.emunova.net/veda/test/3282.htm#comment-14563
 ---

@@ -1,6 +1,7 @@
 ---
 user: Xradio0headX
 rating: 3.5
+type: rating
 published: 2003-08-31T22:27:22.000Z
 legacy_url: http://www.emunova.net/veda/test/254.htm#comment-1642
 ---

@@ -1,6 +1,7 @@
 ---
 user: Voyageur
 rating: 4.5
+type: rating
 published: 2006-08-30T22:56:41.000Z
 legacy_url: http://www.emunova.net/veda/test/311.htm#comment-6074
 ---

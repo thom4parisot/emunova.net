@@ -1,6 +1,7 @@
 ---
 user: LeVisiteurmasqué
 rating: 5
+type: rating
 published: 2007-02-26T18:21:29.000Z
 legacy_url: http://www.emunova.net/veda/test/1957.htm#comment-7579
 ---

@@ -1,6 +1,7 @@
 ---
 user: christian ngoy
 rating: 4
+type: rating
 published: 2008-03-16T15:38:44.000Z
 legacy_url: http://www.emunova.net/veda/test/2346.htm#comment-9362
 ---

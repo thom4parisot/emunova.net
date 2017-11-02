@@ -1,6 +1,7 @@
 ---
 user: G2LOQ
 rating: 4.5
+type: review
 published: 2005-05-06T17:48:12.000Z
 legacy_url: http://www.emunova.net/veda/test/939.htm
 ---

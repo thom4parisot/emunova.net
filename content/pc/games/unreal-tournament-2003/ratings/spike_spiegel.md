@@ -1,6 +1,7 @@
 ---
 user: Spike\_Spiegel
 rating: 4.5
+type: rating
 published: 2009-05-27T12:15:21.000Z
 legacy_url: http://www.emunova.net/veda/test/3220.htm#comment-11467
 ---

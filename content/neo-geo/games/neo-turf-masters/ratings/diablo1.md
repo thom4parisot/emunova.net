@@ -1,6 +1,7 @@
 ---
 user: diablo1
 rating: 4.5
+type: rating
 published: 2006-06-15T08:25:34.000Z
 legacy_url: http://www.emunova.net/veda/test/178.htm#comment-5477
 ---

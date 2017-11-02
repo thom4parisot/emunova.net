@@ -1,6 +1,7 @@
 ---
 user: Bender.B.Rodriguez
 rating: 5
+type: rating
 published: 2009-01-25T00:41:11.000Z
 legacy_url: http://www.emunova.net/veda/test/1133.htm#comment-10840
 ---

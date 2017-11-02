@@ -1,6 +1,7 @@
 ---
 user: Pile Wonder
 rating: 3.5
+type: rating
 published: 2006-10-25T16:10:04.000Z
 legacy_url: http://www.emunova.net/veda/test/484.htm#comment-6458
 ---

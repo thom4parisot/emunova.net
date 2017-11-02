@@ -1,6 +1,7 @@
 ---
 user: Aces
 rating: 0.5
+type: rating
 published: 2012-03-06T11:50:26.000Z
 legacy_url: http://www.emunova.net/veda/test/2282.htm#comment-15732
 ---

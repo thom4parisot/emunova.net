@@ -1,6 +1,7 @@
 ---
 user: Pourpre
 rating: 5
+type: rating
 published: 2007-06-24T23:37:09.000Z
 legacy_url: http://www.emunova.net/veda/test/685.htm#comment-8222
 ---

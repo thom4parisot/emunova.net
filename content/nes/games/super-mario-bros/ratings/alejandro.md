@@ -1,6 +1,7 @@
 ---
 user: alejandro
 rating: 3.5
+type: rating
 published: 2005-02-24T05:25:02.000Z
 legacy_url: http://www.emunova.net/veda/test/109.htm#comment-2592
 ---

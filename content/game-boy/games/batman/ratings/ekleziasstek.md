@@ -1,6 +1,7 @@
 ---
 user: Ekleziasstek
 rating: 3.5
+type: rating
 published: 2007-11-29T11:42:15.000Z
 legacy_url: http://www.emunova.net/veda/test/1860.htm#comment-8878
 ---

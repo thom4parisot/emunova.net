@@ -1,6 +1,7 @@
 ---
 user: Yoshimano
 rating: 1.5
+type: rating
 published: 2007-06-28T23:18:37.000Z
 legacy_url: http://www.emunova.net/veda/test/1927.htm#comment-8256
 ---

@@ -1,6 +1,7 @@
 ---
 user: beacheur
 rating: 2
+type: rating
 published: 2006-11-22T10:57:48.000Z
 legacy_url: http://www.emunova.net/veda/test/127.htm#comment-6842
 ---

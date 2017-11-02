@@ -1,6 +1,7 @@
 ---
 user: AllenWalker
 rating: 3
+type: rating
 published: 2009-06-02T14:51:18.000Z
 legacy_url: http://www.emunova.net/veda/test/2173.htm#comment-11500
 ---

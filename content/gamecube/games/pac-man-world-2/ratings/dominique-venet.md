@@ -1,6 +1,7 @@
 ---
 user: Dominique VENET
 rating: 5
+type: rating
 published: 2012-09-16T07:33:21.000Z
 legacy_url: http://www.emunova.net/veda/test/4269.htm#comment-16005
 ---

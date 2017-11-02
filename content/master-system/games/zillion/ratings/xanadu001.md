@@ -1,6 +1,7 @@
 ---
 user: Xanadu001
 rating: 3.5
+type: rating
 published: 2010-06-10T23:45:22.000Z
 legacy_url: http://www.emunova.net/veda/test/1715.htm#comment-13779
 ---

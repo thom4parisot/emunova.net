@@ -1,6 +1,7 @@
 ---
 user: Le Hurleur
 rating: 4
+type: rating
 published: 2005-03-06T15:40:50.000Z
 legacy_url: http://www.emunova.net/veda/test/867.htm#comment-2684
 ---

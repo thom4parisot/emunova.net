@@ -1,6 +1,7 @@
 ---
 user: darkrevan1979
 rating: 3
+type: rating
 published: 2007-09-22T17:06:58.000Z
 legacy_url: http://www.emunova.net/veda/test/2301.htm#comment-8621
 ---

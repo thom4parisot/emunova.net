@@ -1,6 +1,7 @@
 ---
 user: neozoom
 rating: 5
+type: rating
 published: 2003-12-09T23:26:08.000Z
 legacy_url: http://www.emunova.net/veda/test/344.htm#comment-1568
 ---

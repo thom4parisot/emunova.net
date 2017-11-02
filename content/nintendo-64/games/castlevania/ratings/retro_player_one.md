@@ -1,6 +1,7 @@
 ---
 user: Retro\_player\_one
 rating: 3
+type: rating
 published: 2010-03-13T11:44:27.000Z
 legacy_url: http://www.emunova.net/veda/test/403.htm#comment-13171
 ---

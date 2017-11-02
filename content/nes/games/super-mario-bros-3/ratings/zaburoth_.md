@@ -1,6 +1,7 @@
 ---
 user: Zaburoth\_
 rating: 2.5
+type: rating
 published: 2008-04-23T19:59:40.000Z
 legacy_url: http://www.emunova.net/veda/test/194.htm#comment-9486
 ---

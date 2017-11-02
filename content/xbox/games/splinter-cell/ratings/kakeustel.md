@@ -1,6 +1,7 @@
 ---
 user: kakeustel
 rating: 4
+type: rating
 published: 2008-05-24T00:21:04.000Z
 legacy_url: http://www.emunova.net/veda/test/73.htm#comment-9596
 ---

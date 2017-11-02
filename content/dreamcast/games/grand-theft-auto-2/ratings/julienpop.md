@@ -1,6 +1,7 @@
 ---
 user: julienpop
 rating: 5
+type: rating
 published: 2012-08-20T13:58:51.000Z
 legacy_url: http://www.emunova.net/veda/test/3431.htm#comment-15968
 ---

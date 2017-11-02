@@ -1,6 +1,7 @@
 ---
 user: Zed
 rating: 5
+type: rating
 published: 2005-01-13T20:36:19.000Z
 legacy_url: http://www.emunova.net/veda/test/772.htm#comment-2421
 ---

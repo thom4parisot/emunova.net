@@ -1,6 +1,7 @@
 ---
 user: dgeo972
 rating: 3
+type: rating
 published: 2010-04-27T17:12:59.000Z
 legacy_url: http://www.emunova.net/veda/test/3100.htm#comment-13464
 ---

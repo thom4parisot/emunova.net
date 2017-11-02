@@ -1,6 +1,7 @@
 ---
 user: ninjaw
 rating: 4
+type: rating
 published: 2004-01-27T23:23:32.000Z
 legacy_url: http://www.emunova.net/veda/test/426.htm#comment-1412
 ---

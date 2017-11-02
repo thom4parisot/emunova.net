@@ -1,6 +1,7 @@
 ---
 user: Chikiboum
 rating: 5
+type: rating
 published: 2008-12-09T10:30:28.000Z
 legacy_url: http://www.emunova.net/veda/test/2958.htm#comment-10489
 ---

@@ -1,6 +1,7 @@
 ---
 user: BURDU WAY
 rating: 5
+type: rating
 published: 2008-05-01T23:35:31.000Z
 legacy_url: http://www.emunova.net/veda/test/109.htm#comment-9514
 ---

@@ -1,6 +1,7 @@
 ---
 user: GamesAndGeeks
 rating: 5
+type: rating
 published: 2006-10-04T23:37:30.000Z
 legacy_url: http://www.emunova.net/veda/test/100.htm#comment-6301
 ---

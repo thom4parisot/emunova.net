@@ -1,6 +1,7 @@
 ---
 user: Ismail31
 rating: 4.5
+type: review
 published: 2009-01-12T09:23:35.000Z
 legacy_url: http://www.emunova.net/veda/test/2996.htm
 ---

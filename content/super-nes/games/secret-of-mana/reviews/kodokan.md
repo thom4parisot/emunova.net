@@ -1,6 +1,7 @@
 ---
 user: kodokan
 rating: 4.5
+type: review
 published: 2004-12-23T12:39:43.000Z
 legacy_url: http://www.emunova.net/veda/test/785.htm
 ---

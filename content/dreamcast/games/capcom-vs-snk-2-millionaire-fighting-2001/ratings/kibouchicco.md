@@ -1,6 +1,7 @@
 ---
 user: Kibouchicco
 rating: 4
+type: rating
 published: 2005-07-23T15:28:07.000Z
 legacy_url: http://www.emunova.net/veda/test/88.htm#comment-3490
 ---

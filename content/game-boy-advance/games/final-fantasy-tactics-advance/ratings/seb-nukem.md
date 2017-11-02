@@ -1,6 +1,7 @@
 ---
 user: Seb nukem
 rating: 4.5
+type: rating
 published: 2009-03-08T19:02:46.000Z
 legacy_url: http://www.emunova.net/veda/test/374.htm#comment-11055
 ---

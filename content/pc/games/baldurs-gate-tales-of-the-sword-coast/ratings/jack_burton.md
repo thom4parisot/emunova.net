@@ -1,6 +1,7 @@
 ---
 user: Jack\_Burton
 rating: 4.5
+type: rating
 published: 2005-07-30T14:05:39.000Z
 legacy_url: http://www.emunova.net/veda/test/991.htm#comment-3509
 ---

@@ -1,6 +1,7 @@
 ---
 user: HereZia
 rating: 4
+type: rating
 published: 2006-08-04T16:27:30.000Z
 legacy_url: http://www.emunova.net/veda/test/987.htm#comment-5874
 ---

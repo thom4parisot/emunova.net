@@ -1,6 +1,7 @@
 ---
 user: compact
 rating: 1
+type: rating
 published: 2009-01-09T02:34:44.000Z
 legacy_url: http://www.emunova.net/veda/test/388.htm#comment-10758
 ---

@@ -1,6 +1,7 @@
 ---
 user: papadjo
 rating: 0
+type: rating
 published: 2010-04-25T10:55:06.000Z
 legacy_url: http://www.emunova.net/veda/test/1126.htm#comment-13434
 ---

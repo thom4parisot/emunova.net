@@ -1,6 +1,7 @@
 ---
 user: Manqi
 rating: 4
+type: rating
 published: 2005-06-25T19:21:40.000Z
 legacy_url: http://www.emunova.net/veda/test/939.htm#comment-3364
 ---

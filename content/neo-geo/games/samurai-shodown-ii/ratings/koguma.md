@@ -1,6 +1,7 @@
 ---
 user: Koguma
 rating: 5
+type: rating
 published: 2006-09-07T20:55:01.000Z
 legacy_url: http://www.emunova.net/veda/test/1663.htm#comment-6119
 ---

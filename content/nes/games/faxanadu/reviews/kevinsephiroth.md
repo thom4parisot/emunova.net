@@ -1,6 +1,7 @@
 ---
 user: KevinSephiroth
 rating: 4
+type: review
 published: 2005-06-25T17:31:06.000Z
 legacy_url: http://www.emunova.net/veda/test/1008.htm
 ---

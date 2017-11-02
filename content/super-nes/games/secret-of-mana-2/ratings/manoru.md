@@ -1,6 +1,7 @@
 ---
 user: manoru
 rating: 5
+type: rating
 published: 2007-05-09T07:11:10.000Z
 legacy_url: http://www.emunova.net/veda/test/134.htm#comment-8029
 ---

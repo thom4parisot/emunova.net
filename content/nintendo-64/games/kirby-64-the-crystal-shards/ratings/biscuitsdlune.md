@@ -1,6 +1,7 @@
 ---
 user: biscuitsdlune
 rating: 4
+type: rating
 published: 2006-11-17T19:28:42.000Z
 legacy_url: http://www.emunova.net/veda/test/610.htm#comment-6772
 ---

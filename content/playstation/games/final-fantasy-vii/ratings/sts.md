@@ -1,6 +1,7 @@
 ---
 user: StS
 rating: 5
+type: rating
 published: 2003-08-04T22:10:26.000Z
 legacy_url: http://www.emunova.net/veda/test/195.htm#comment-626
 ---

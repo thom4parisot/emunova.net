@@ -1,6 +1,7 @@
 ---
 user: kiwi
 rating: 5
+type: rating
 published: 2006-06-29T18:05:54.000Z
 legacy_url: http://www.emunova.net/veda/test/221.htm#comment-5628
 ---

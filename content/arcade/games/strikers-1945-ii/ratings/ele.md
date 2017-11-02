@@ -1,6 +1,7 @@
 ---
 user: Ele
 rating: 4.5
+type: rating
 published: 2008-05-16T16:15:10.000Z
 legacy_url: http://www.emunova.net/veda/test/839.htm#comment-9556
 ---

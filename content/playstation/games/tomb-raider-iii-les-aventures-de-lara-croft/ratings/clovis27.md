@@ -1,6 +1,7 @@
 ---
 user: clovis27
 rating: 4
+type: rating
 published: 2010-02-23T12:54:43.000Z
 legacy_url: http://www.emunova.net/veda/test/3273.htm#comment-13008
 ---

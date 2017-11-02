@@ -1,6 +1,7 @@
 ---
 user: Antarka
 rating: 4.5
+type: review
 published: 2008-12-19T09:22:43.000Z
 legacy_url: http://www.emunova.net/veda/test/2966.htm
 ---

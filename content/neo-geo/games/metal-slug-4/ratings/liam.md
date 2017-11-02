@@ -1,6 +1,7 @@
 ---
 user: liam
 rating: 4
+type: rating
 published: 2006-01-11T09:49:54.000Z
 legacy_url: http://www.emunova.net/veda/test/902.htm#comment-4533
 ---

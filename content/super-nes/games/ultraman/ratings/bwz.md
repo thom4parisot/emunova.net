@@ -1,6 +1,7 @@
 ---
 user: bwz
 rating: 0.5
+type: rating
 published: 2009-04-08T00:17:42.000Z
 legacy_url: http://www.emunova.net/veda/test/582.htm#comment-11192
 ---

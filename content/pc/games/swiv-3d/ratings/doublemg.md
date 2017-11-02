@@ -1,6 +1,7 @@
 ---
 user: DoubleMG
 rating: 3.5
+type: rating
 published: 2009-11-17T18:00:41.000Z
 legacy_url: http://www.emunova.net/veda/test/3156.htm#comment-12420
 ---

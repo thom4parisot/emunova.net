@@ -1,6 +1,7 @@
 ---
 user: leo03
 rating: 4.5
+type: rating
 published: 2007-02-10T09:34:48.000Z
 legacy_url: http://www.emunova.net/veda/test/1942.htm#comment-7477
 ---

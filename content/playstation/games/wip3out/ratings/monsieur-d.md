@@ -1,6 +1,7 @@
 ---
 user: monsieur D
 rating: 4.5
+type: rating
 published: 2005-02-09T06:55:58.000Z
 legacy_url: http://www.emunova.net/veda/test/770.htm#comment-2498
 ---

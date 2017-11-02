@@ -1,6 +1,7 @@
 ---
 user: fou de jeux
 rating: 3.5
+type: rating
 published: 2006-05-31T21:10:41.000Z
 legacy_url: http://www.emunova.net/veda/test/266.htm#comment-5257
 ---

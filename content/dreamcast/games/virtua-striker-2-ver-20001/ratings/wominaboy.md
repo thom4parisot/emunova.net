@@ -1,6 +1,7 @@
 ---
 user: wominaboy
 rating: 4.5
+type: rating
 published: 2013-02-04T20:59:43.000Z
 legacy_url: http://www.emunova.net/veda/test/1650.htm#comment-16296
 ---

@@ -1,6 +1,7 @@
 ---
 user: stephanieberanger
 rating: 1.5
+type: rating
 published: 2008-01-04T15:45:48.000Z
 legacy_url: http://www.emunova.net/veda/test/798.htm#comment-9042
 ---

@@ -1,6 +1,7 @@
 ---
 user: endicott
 rating: 5
+type: rating
 published: 2005-10-22T14:09:43.000Z
 legacy_url: http://www.emunova.net/veda/test/21.htm#comment-4092
 ---

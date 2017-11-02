@@ -1,6 +1,7 @@
 ---
 user: HulkDavidson
 rating: 3.5
+type: rating
 published: 2007-12-26T23:03:15.000Z
 legacy_url: http://www.emunova.net/veda/test/1233.htm#comment-9013
 ---

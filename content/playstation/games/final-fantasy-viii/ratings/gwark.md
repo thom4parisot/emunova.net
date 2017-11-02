@@ -1,6 +1,7 @@
 ---
 user: Gwark
 rating: 2.5
+type: rating
 published: 2008-11-24T02:11:31.000Z
 legacy_url: http://www.emunova.net/veda/test/1491.htm#comment-10424
 ---

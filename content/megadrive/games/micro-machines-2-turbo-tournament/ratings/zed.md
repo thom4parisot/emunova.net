@@ -1,6 +1,7 @@
 ---
 user: Zed
 rating: 4.5
+type: rating
 published: 2004-11-29T17:48:16.000Z
 legacy_url: http://www.emunova.net/veda/test/338.htm#comment-2026
 ---

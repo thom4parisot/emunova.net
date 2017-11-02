@@ -1,6 +1,7 @@
 ---
 user: kain
 rating: 4.5
+type: rating
 published: 2006-07-16T14:35:10.000Z
 legacy_url: http://www.emunova.net/veda/test/934.htm#comment-5736
 ---

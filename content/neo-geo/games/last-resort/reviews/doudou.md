@@ -1,6 +1,7 @@
 ---
 user: doudou
 rating: 4.5
+type: review
 published: 2004-09-22T23:11:07.000Z
 legacy_url: http://www.emunova.net/veda/test/696.htm
 ---

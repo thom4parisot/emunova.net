@@ -1,6 +1,7 @@
 ---
 user: Balthier
 rating: 4.5
+type: rating
 published: 2009-04-04T22:10:23.000Z
 legacy_url: http://www.emunova.net/veda/test/3126.htm#comment-11175
 ---

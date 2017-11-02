@@ -1,6 +1,7 @@
 ---
 user: Retro\_player\_one
 rating: 2
+type: rating
 published: 2010-03-06T15:18:35.000Z
 legacy_url: http://www.emunova.net/veda/test/2104.htm#comment-13110
 ---

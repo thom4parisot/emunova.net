@@ -1,6 +1,7 @@
 ---
 user: Virgilio
 rating: 2
+type: rating
 published: 2007-08-24T09:06:36.000Z
 legacy_url: http://www.emunova.net/veda/test/124.htm#comment-8533
 ---

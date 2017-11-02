@@ -1,6 +1,7 @@
 ---
 user: mimile !!!
 rating: 4
+type: rating
 published: 2005-02-16T14:56:37.000Z
 legacy_url: http://www.emunova.net/veda/test/449.htm#comment-2561
 ---

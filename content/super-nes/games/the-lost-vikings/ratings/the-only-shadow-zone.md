@@ -1,6 +1,7 @@
 ---
 user: the only shadow zone
 rating: 4
+type: rating
 published: 2005-07-14T21:28:51.000Z
 legacy_url: http://www.emunova.net/veda/test/624.htm#comment-3472
 ---

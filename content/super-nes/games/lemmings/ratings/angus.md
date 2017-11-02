@@ -1,6 +1,7 @@
 ---
 user: Angus
 rating: 4
+type: rating
 published: 2006-08-24T10:26:38.000Z
 legacy_url: http://www.emunova.net/veda/test/346.htm#comment-6010
 ---

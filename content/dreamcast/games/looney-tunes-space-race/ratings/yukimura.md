@@ -1,6 +1,7 @@
 ---
 user: yukimura
 rating: 4.5
+type: rating
 published: 2005-07-31T23:55:53.000Z
 legacy_url: http://www.emunova.net/veda/test/855.htm#comment-3515
 ---

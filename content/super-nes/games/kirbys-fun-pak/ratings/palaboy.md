@@ -1,6 +1,7 @@
 ---
 user: palaboy
 rating: 4.5
+type: rating
 published: 2005-08-16T15:39:13.000Z
 legacy_url: http://www.emunova.net/veda/test/1036.htm#comment-3589
 ---
