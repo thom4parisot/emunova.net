@@ -1,0 +1,9 @@
+---
+type: game
+title: 'Ghost House'
+released: 1986
+editor: Sega
+players: 1
+genres:
+  - Action
+---

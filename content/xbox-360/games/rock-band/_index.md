@@ -1,0 +1,9 @@
+---
+type: game
+title: 'Rock Band'
+released: 2008
+editor: 'Electronic Arts'
+players: 4
+genres:
+  - Inclassable
+---

@@ -1,8 +1,0 @@
----
-title: 'Bionicle Heroes'
-released: 2007
-editor: Eidos
-players: 4
-genres:
-  - 'First Person Shooter (FPS)'
----

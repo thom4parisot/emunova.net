@@ -1,8 +1,0 @@
----
-title: 'Heart of the Alien'
-released: 1994
-editor: 'Delphine Software'
-players: 1
-genres:
-  - Action
----

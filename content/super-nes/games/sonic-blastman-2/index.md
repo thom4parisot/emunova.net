@@ -1,8 +1,0 @@
----
-title: 'Sonic Blastman 2'
-released: 1994
-editor: Taito
-players: 2
-genres:
-  - 'Beat them all'
----

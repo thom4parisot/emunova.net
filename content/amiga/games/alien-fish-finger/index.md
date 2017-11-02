@@ -1,8 +1,0 @@
----
-title: 'Alien Fish Finger'
-released: 1995
-editor: 'Domaine Public'
-players: 1
-genres:
-  - Action
----

@@ -1,0 +1,9 @@
+---
+type: game
+title: 'Zillion II : Tri Formation'
+released: 1987
+editor: Sega
+players: 1
+genres:
+  - Action
+---

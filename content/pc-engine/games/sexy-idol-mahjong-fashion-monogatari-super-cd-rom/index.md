@@ -1,8 +1,0 @@
----
-title: 'Sexy Idol Mahjong Fashion Monogatari (Super CD-ROM²)'
-released: 1994
-editor: Nichibutsu
-players: 1
-genres:
-  - Réflexion
----

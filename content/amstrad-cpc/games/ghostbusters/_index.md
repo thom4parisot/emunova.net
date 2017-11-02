@@ -1,0 +1,9 @@
+---
+type: game
+title: Ghostbusters
+released: 1985
+editor: Activision
+players: 1
+genres:
+  - Action
+---

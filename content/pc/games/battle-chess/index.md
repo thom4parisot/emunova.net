@@ -1,8 +1,0 @@
----
-title: 'Battle Chess'
-released: 1988
-editor: Interplay
-players: 1
-genres:
-  - Réflexion
----

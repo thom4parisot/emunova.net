@@ -1,8 +1,0 @@
----
-title: 'Arcade''s Greatest Hits'
-released: 1996
-editor: Midway
-players: 1
-genres:
-  - Inclassable
----

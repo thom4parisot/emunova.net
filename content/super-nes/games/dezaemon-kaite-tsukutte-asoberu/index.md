@@ -1,8 +1,0 @@
----
-title: 'Dezaemon : Kaite Tsukutte Asoberu'
-released: 1994
-editor: Athena
-players: 1
-genres:
-  - 'Shoot Them Up'
----

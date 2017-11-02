@@ -1,8 +1,0 @@
----
-title: 'Highway Encounter'
-released: 1985
-editor: 'Vortex Software'
-players: 1
-genres:
-  - 'Shoot Them Up'
----

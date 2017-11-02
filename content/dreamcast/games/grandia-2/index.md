@@ -1,8 +1,0 @@
----
-title: 'Grandia 2'
-released: 2000
-editor: 'Ubi Soft'
-players: 1
-genres:
-  - 'Role Playing Game (RPG)'
----

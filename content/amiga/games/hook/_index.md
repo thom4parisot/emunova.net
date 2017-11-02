@@ -1,0 +1,9 @@
+---
+type: game
+title: Hook
+released: 1991
+editor: Ocean
+players: 1
+genres:
+  - Aventure
+---

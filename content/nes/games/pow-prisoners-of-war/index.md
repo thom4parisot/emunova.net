@@ -1,8 +1,0 @@
----
-title: 'P.O.W. : Prisoners of War'
-released: 1989
-editor: SNK
-players: 1
-genres:
-  - 'Beat them all'
----

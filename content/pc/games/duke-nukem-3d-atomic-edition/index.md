@@ -1,8 +1,0 @@
----
-title: 'Duke Nukem 3D : Atomic Edition'
-released: 1996
-editor: '3D Realms'
-players: 8
-genres:
-  - 'First Person Shooter (FPS)'
----

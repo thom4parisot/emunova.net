@@ -1,8 +1,0 @@
----
-title: '3D Ultra Pinball : Creep Night'
-released: 1996
-editor: Sierra
-players: 4
-genres:
-  - Réflexion
----

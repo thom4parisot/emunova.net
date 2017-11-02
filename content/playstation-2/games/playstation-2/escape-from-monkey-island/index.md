@@ -1,8 +1,0 @@
----
-title: 'Escape from Monkey Island'
-released: 2001
-editor: 'Lucasfilm / LucasArts'
-players: 1
-genres:
-  - Aventure
----
