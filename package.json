@@ -3,20 +3,12 @@
   "private": true,
   "version": "3.2.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "index": "node ./bin/index-content.js",
-    "serve": "serve -p 3000 --cors --compress --favicon tmp/build/favicon.ico tmp/build",
-    "start": "npm-run-all --parallel serve watch",
-    "test": "grunt test",
-    "build": "npm-run-all build:content build:ui build:bundle",
-    "build:cache": "grunt precache",
-    "build:content": "grunt build-content",
+    "test": "exit 0",
+    "build": "npm-run-all -p 'build:*'",
     "build:bundle": "browserify -e src/assets/js/main.js -o tmp/build/assets/v${npm_package_version}/js/core.min.js",
-    "build:ui": "grunt build-ui",
-    "build:images": "grunt build-images",
-    "watch": "npm-run-all --parallel watch:*",
-    "prewatch:bundle": "npm run build:ui",
+    "watch": "npm-run-all -p watch:*",
     "watch:bundle": "watchify -vd -e src/assets/js/main.js -o tmp/build/assets/v${npm_package_version}/js/core.min.js"
   },
   "repository": {
@@ -30,32 +22,20 @@
   },
   "dependencies": {
     "algoliasearch": "^3.14.0",
-    "assemble": "^0.4.24",
-    "assemble-yaml": "^0.2.1",
-    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-env": "^1.6.1",
     "babelify": "^7.3.0",
     "bootstrap": "~3.1.0",
     "browserify": "^13.0.0",
     "fast-sha256": "^1.0.0",
-    "grunt": "^0.4.1",
-    "grunt-cli": "^1.2.0",
-    "grunt-concurrent": "^0.5.0",
-    "grunt-contrib-copy": "^0.4.1",
-    "grunt-contrib-less": "^1.3.0",
-    "grunt-responsive-images": "^0.1.1",
-    "grunt-shell": "^0.4.0",
     "hyperquest": "^1.3.0",
     "jquery": "^2.2.3",
     "lazyloadjs": "^3.2.2",
     "lodash": "^4.11.1",
-    "loose-envify": "^1.1.0",
     "npm-run-all": "^1.8.0",
     "sorttable": "github:oncletom/sorttable#develop",
-    "time-grunt": "^0.1.1",
     "uglifyify": "^3.0.1"
   },
   "devDependencies": {
-    "serve": "^1.4.0",
     "watchify": "^3.7.0"
   },
   "browser": {
@@ -69,11 +49,10 @@
         "babelify",
         {
           "presets": [
-            "es2015"
+            "env"
           ]
         }
       ],
-      "loose-envify",
       "uglifyify"
     ]
   }

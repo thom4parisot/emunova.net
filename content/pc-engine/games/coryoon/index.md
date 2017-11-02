@@ -1,0 +1,8 @@
+---
+title: Coryoon
+released: 1991
+editor: Naxat
+players: 1
+genres:
+  - 'Shoot Them Up'
+---

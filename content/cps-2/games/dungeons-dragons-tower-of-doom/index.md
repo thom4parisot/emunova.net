@@ -1,0 +1,8 @@
+---
+title: 'Dungeons & Dragons - Tower of Doom'
+released: 1993
+editor: Capcom
+players: 4
+genres:
+  - 'Beat them all'
+---

@@ -1,0 +1,8 @@
+---
+title: 'Double Dragon'
+released: 1987
+editor: 'Technos Japan Corp'
+players: 2
+genres:
+  - 'Beat them all'
+---

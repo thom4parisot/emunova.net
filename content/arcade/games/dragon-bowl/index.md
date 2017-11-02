@@ -1,0 +1,8 @@
+---
+title: 'Dragon Bowl'
+released: 1992
+editor: 'Nics Co LTD'
+players: 2
+genres:
+  - 'Beat them all'
+---

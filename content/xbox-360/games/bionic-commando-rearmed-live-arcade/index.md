@@ -1,0 +1,8 @@
+---
+title: 'Bionic Commando Rearmed (Live Arcade)'
+released: 2008
+editor: Capcom
+players: 4
+genres:
+  - Plates-formes
+---

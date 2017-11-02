@@ -1,0 +1,7 @@
+baseURL = "https://emunova.net/"
+languageCode = "fr-FR"
+title = "Emu Nova"
+theme = "emunova"
+
+noTimes = true
+ignoreFiles = [ "\\.git$" ]

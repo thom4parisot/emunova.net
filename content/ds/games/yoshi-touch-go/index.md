@@ -1,0 +1,8 @@
+---
+title: 'Yoshi Touch & Go'
+released: 2005
+editor: Nintendo
+players: 2
+genres:
+  - Plates-formes
+---
