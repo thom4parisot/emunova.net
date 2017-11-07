@@ -1,17 +1,88 @@
 {{ partial "header.html" . }}
+{{ $Systems := where .Site.Sections "Type" "system" }}
+{{ $Manufacturers := $Systems.GroupByParam "manufacturer" }}
+{{ $DefaultSections := dict "Sections" (slice) }}
 
 <main>
-    <article>
-        {{.Content}}
-    </article>
-    <ul>
+  {{ partial "home/news-section.html" . }}
 
-    {{ range (where .Site.Sections "Type" "system").ByTitle }}
-        <li>
-            <a href="{{.Permalink}}">{{ .Title }}</a>
-        </li>
+
+  <form class="form-inline text-center" role="form" data-target="systems">
+    <div class="form-group form-group-unifield">
+      <div class="form-group">
+        <label class="control-label" for="support-selector">Je cherche un</label>
+      </div>
+      <div class="form-group">
+        <label class="control-label" for="support-selector">système de jeux vidéo</label>
+        <select id="support-selector">
+          <option value="" selected>système de jeux vidéo</option>
+          <optgroup label="Type de support">
+            <option value="type">arcade</option>
+            <option value="type">console</option>
+            <option value="type">console portable</option>
+            <option value="type">console virtuelle</option>
+            <option value="type">ordinateur</option>
+          </optgroup>
+          <optgroup label="Constructeur">
+          {{ range $Manufacturers }}
+              <option value="manufacturer">{{ .Key }}</option>
+          {{ end }}
+          </optgroup>
+        </select>
+      </div>
+      <div class="form-group">
+        <label class="control-label" for="year-operator">sorti à tout moment</label>
+        <select name="year-operator" id="year-operator" class="form-control">
+          <option value="" selected>sorti à tout moment</option>
+          <option value="<">sorti avant</option>
+          <option value="=">sorti en</option>
+          <option value=">">sorti après</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <input type="number" name="year" data-visible-if="year-operator" class="form-control hidden" placeholder="1337" min="1970" max="2013">
+      </div>
+    </div><div class="form-group btn-group">
+    <button class="btn btn-primary" type="button">Actualiser</button>
+    <button class="btn btn-default" type="reset">Recommencer</button>
+  </div>
+  </form>
+
+  <div class="row" data-sorter="systems">
+    {{ range $Systems.ByTitle }}
+      {{- $Games := (index .Sections 0 | default $DefaultSections).Sections -}}
+      {{- $Pictures := .Pages -}}
+      <div class="col-sm-4 col-md-3 col-xs-6" data-year="{{ .Params.released }}" data-type="{{ .Params.system_type }}" data-manufacturer="{{ .Params.manufacturer }}">
+        <h2><a href="{{ .URL }}" rel="bookmark">{{ .Title }}</a></h2>
+
+        <div class="row">
+          <div class="col-sm-6 col-xs-6 lead">
+            <span>{{ .Params.manufacturer }}</span>
+          </div>
+          <div class="col-sm-3 col-md-4 col-xs-6 text-right lead">
+            <strong>{{ .Params.released }}</strong>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-sm-3 col-xs-3">
+            <a href="{{ .Permalink }}games/" rel="bookmark">
+              {{ with len $Games }}
+              <span class="lead">{{ . }}</span><br> {{ i18n "games" . }}
+              {{ end }}
+            </a>
+          </div>
+          <div class="col-sm-3 col-xs-3">
+            <a rel="bookmark" href="{{ .Permalink }}images/">
+              {{ with len $Pictures }}
+              <span class="lead">{{ . }}</span><br> {{ i18n "images" . }}
+              {{ end }}
+            </a>
+          </div>
+        </div>
+      </div>
     {{ end }}
-    </ul>
+  </div>
 </main>
 
 {{ partialCached "footer.html" . }}

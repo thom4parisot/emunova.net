@@ -1,0 +1,7 @@
+[games]
+one = "jeu"
+other = "jeux"
+
+[images]
+one = "image"
+other = "images"

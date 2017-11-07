@@ -1,5 +1,5 @@
-<h1>Page</h1>
+{{ partial "header.html" . }}
 
-<h1 class="single">{{ .Params.name }} ({{ .Page }})</h1>
+{{ .Content }}
 
-{{ .Section }} • {{ .Kind }} • {{ .Type }} • <a href="{{ .Parent.Permalink }}">{{ .Parent }}</a>
+{{ partialCached "footer.html" . }}
