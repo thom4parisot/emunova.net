@@ -1,6 +1,6 @@
 ---
 type: system
-name: ColecoVision
+title: ColecoVision
 forums_uri: 'http://forums.emunova.net/forum/12-emulation-jeux-video-abandonware/'
 system_type: Console
 released: 1982

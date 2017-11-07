@@ -1,6 +1,6 @@
 ---
 type: system
-name: ZN-1
+title: ZN-1
 forums_uri: 'http://forums.emunova.net/forum/46-arcade/'
 system_type: Arcade
 released: 1995

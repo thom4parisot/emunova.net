@@ -1,6 +1,6 @@
 ---
 type: system
-name: 'Nintendo 64'
+title: 'Nintendo 64'
 forums_uri: 'http://forums.emunova.net/forum/9-nintendo/'
 system_type: Console
 released: 1996

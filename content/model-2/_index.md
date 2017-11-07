@@ -1,6 +1,6 @@
 ---
 type: system
-name: 'Model 2'
+title: 'Model 2'
 forums_uri: 'http://forums.emunova.net/forum/46-arcade/'
 system_type: Arcade
 released: 1994

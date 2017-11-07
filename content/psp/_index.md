@@ -1,6 +1,6 @@
 ---
 type: system
-name: PSP
+title: PSP
 forums_uri: 'http://forums.emunova.net/forum/25-sony/'
 system_type: 'Console portable'
 released: 2004

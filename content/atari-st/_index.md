@@ -1,6 +1,6 @@
 ---
 type: system
-name: 'Atari ST'
+title: 'Atari ST'
 forums_uri: 'http://forums.emunova.net/forum/26-atari/'
 system_type: Ordinateur
 released: 1985

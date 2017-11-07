@@ -1,6 +1,6 @@
 ---
 type: system
-name: 'Super NES'
+title: 'Super NES'
 forums_uri: 'http://forums.emunova.net/forum/9-nintendo/'
 alternate_names:
   - SNES
@@ -33,6 +33,7 @@ regions:
   - Europe
 ---
 ---
+type: system
 title:  L'histoire de la Super NES
 ---
 

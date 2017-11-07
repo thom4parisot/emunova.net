@@ -1,6 +1,6 @@
 ---
 type: system
-name: 'iPhone / iPod'
+title: 'iPhone / iPod'
 forums_uri: 'http://forums.emunova.net/forum/85-apple/'
 system_type: Téléphone
 released: 2007

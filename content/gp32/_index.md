@@ -1,6 +1,6 @@
 ---
 type: system
-name: GP32
+title: GP32
 forums_uri: 'http://forums.emunova.net/forum/43-gamepark/'
 system_type: 'Console portable'
 released: 2001

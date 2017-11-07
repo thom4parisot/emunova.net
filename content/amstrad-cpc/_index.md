@@ -1,6 +1,6 @@
 ---
 type: system
-name: CPC
+title: CPC
 forums_uri: 'http://forums.emunova.net/forum/67-amstrad/'
 description: 'La gamme **CPC** était une série de micro-ordinateurs conçus par Amstrad. Elle compte quatre modèles, deux d''entre eux (le CPC 464 et le CPC6128) proposant des versions +, qui embarquent un port cartouche en plus du lecteur de disquettes.'
 system_type: Ordinateur

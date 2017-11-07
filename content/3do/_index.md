@@ -1,6 +1,6 @@
 ---
 type: system
-name: 3DO
+title: 3DO
 forums_uri: 'http://forums.emunova.net/forum/12-emulation-jeux-video-abandonware/'
 system_type: Console
 released: 1993

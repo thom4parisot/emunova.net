@@ -1,6 +1,6 @@
 ---
 type: system
-name: VCS
+title: VCS
 forums_uri: 'http://forums.emunova.net/forum/26-atari/'
 system_type: Console
 released: 1977

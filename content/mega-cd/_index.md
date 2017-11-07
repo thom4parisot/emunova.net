@@ -1,6 +1,6 @@
 ---
 type: system
-name: 'Mega CD'
+title: 'Mega CD'
 forums_uri: 'http://forums.emunova.net/forum/20-sega/'
 system_type: Extension
 released: 1992

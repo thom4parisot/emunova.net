@@ -1,6 +1,6 @@
 ---
 type: system
-name: SuperGrafx
+title: SuperGrafx
 forums_uri: 'http://forums.emunova.net/forum/41-nec/'
 system_type: Console
 released: 1989

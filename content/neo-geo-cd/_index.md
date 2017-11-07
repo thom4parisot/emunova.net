@@ -1,6 +1,6 @@
 ---
 type: system
-name: 'Neo Geo CD'
+title: 'Neo Geo CD'
 forums_uri: 'http://forums.emunova.net/forum/11-snk/'
 system_type: Console
 released: 1994

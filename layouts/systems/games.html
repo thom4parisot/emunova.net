@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+
+<h1><a href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a> Games List</h1>
+
+{{ $Games := .Sections}}
+
+<ul>
+{{ range $Games }}
+  <li>{{ .Section }} • {{ .Kind }} • {{ .Type }} • <a href="{{ .Permalink }}">{{ . }}</a></li>
+{{ end }}
+</ul>
+
+<h2>Ratings and Reviews</h2>
+
+<h2>Reviews</h2>
+
+{{ $Reviews := where .Pages "Type" "in" (slice "rating" "review") }}
+
+<ul>
+{{ range $Reviews }}
+  <li><a href="{{ .Parent.Permalink }}#ratings">{{ .Parent.Title }} • {{ .Params.Rating }}⭑</a></li>
+{{ end }}
+</ul>
+
+{{ partialCached "footer.html" . }}

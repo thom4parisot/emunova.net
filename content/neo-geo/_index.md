@@ -1,6 +1,6 @@
 ---
 type: system
-name: 'Neo Geo'
+title: 'Neo Geo'
 forums_uri: 'http://forums.emunova.net/forum/11-snk/'
 system_type: Arcade
 released: 1990

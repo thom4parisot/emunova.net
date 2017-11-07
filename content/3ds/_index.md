@@ -1,6 +1,6 @@
 ---
 type: system
-name: 3DS
+title: 3DS
 forums_uri: 'http://forums.emunova.net/forum/9-nintendo/'
 system_type: 'Console portable'
 released: 2012

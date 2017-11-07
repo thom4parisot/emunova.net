@@ -1,6 +1,6 @@
 ---
 type: system
-name: Megadrive
+title: Megadrive
 forums_uri: 'http://forums.emunova.net/forum/20-sega/'
 system_type: Console
 alternate_names:

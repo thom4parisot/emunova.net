@@ -1,6 +1,6 @@
 ---
 type: system
-name: C64
+title: C64
 forums_uri: 'http://forums.emunova.net/forum/47-commodore/'
 system_type: Ordinateur
 released: 1982

@@ -1,6 +1,6 @@
 ---
 type: system
-name: Saturn
+title: Saturn
 forums_uri: 'http://forums.emunova.net/forum/20-sega/'
 system_type: Console
 manufacturer: SEGA

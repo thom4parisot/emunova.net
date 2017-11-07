@@ -1,6 +1,6 @@
 ---
 type: system
-name: 'PlayStation 2'
+title: 'PlayStation 2'
 forums_uri: 'http://forums.emunova.net/forum/25-sony/'
 system_type: Console
 released: 2000

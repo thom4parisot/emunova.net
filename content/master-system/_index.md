@@ -1,6 +1,6 @@
 ---
 type: system
-name: 'Master System'
+title: 'Master System'
 forums_uri: 'http://forums.emunova.net/forum/20-sega/'
 system_type: Console
 released: 1984

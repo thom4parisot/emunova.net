@@ -1,6 +1,6 @@
 ---
 type: system
-name: CPS-1
+title: CPS-1
 forums_uri: 'http://forums.emunova.net/forum/46-arcade/'
 system_type: Arcade
 released: 1988

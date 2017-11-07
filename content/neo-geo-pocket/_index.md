@@ -1,6 +1,6 @@
 ---
 type: system
-name: 'Neo Geo Pocket'
+title: 'Neo Geo Pocket'
 forums_uri: 'http://forums.emunova.net/forum/11-snk/'
 system_type: 'Console portable'
 released: 1998

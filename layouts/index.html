@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+
+<main>
+    <article>
+        {{.Content}}
+    </article>
+    <ul>
+
+    {{ range (where .Site.Sections "Type" "system").ByTitle }}
+        <li>
+            <a href="{{.Permalink}}">{{ .Title }}</a>
+        </li>
+    {{ end }}
+    </ul>
+</main>
+
+{{ partialCached "footer.html" . }}

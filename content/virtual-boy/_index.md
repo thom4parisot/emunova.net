@@ -1,6 +1,6 @@
 ---
 type: system
-name: 'Virtual Boy'
+title: 'Virtual Boy'
 forums_uri: 'http://forums.emunova.net/forum/9-nintendo/'
 system_type: Console
 released: 1995

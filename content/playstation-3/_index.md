@@ -1,6 +1,6 @@
 ---
 type: system
-name: 'PlayStation 3'
+title: 'PlayStation 3'
 forums_uri: 'http://forums.emunova.net/forum/25-sony/'
 system_type: Console
 released: 2006

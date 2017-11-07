@@ -1,6 +1,6 @@
 ---
 type: system
-name: 'Wii U'
+title: 'Wii U'
 forums_uri: 'http://forums.emunova.net/forum/9-nintendo/'
 system_type: Console
 manufacturer: Nintendo

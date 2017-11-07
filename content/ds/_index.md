@@ -1,6 +1,6 @@
 ---
 type: system
-name: DS
+title: DS
 forums_uri: 'http://forums.emunova.net/forum/9-nintendo/'
 system_type: 'Console portable'
 released: 2004

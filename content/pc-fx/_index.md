@@ -1,6 +1,6 @@
 ---
 type: system
-name: 'PC FX'
+title: 'PC FX'
 forums_uri: 'http://forums.emunova.net/forum/41-nec/'
 system_type: Console
 released: 1994

@@ -1,6 +1,6 @@
 ---
 type: system
-name: PlayStation
+title: PlayStation
 forums_uri: 'http://forums.emunova.net/forum/25-sony/'
 system_type: Console
 released: 1994

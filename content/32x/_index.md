@@ -1,6 +1,6 @@
 ---
 type: system
-name: 32x
+title: 32x
 forums_uri: 'http://forums.emunova.net/forum/20-sega/'
 description: 'Le **32X** était une extension de la console [Megadrive](/megadrive/) de SEGA permettant de booster la puissance de cette dernière pour en faire une console 32 bits'
 system_type: Extension

@@ -1,6 +1,6 @@
 ---
 type: system
-name: 'Xbox 360'
+title: 'Xbox 360'
 forums_uri: 'http://forums.emunova.net/forum/54-microsoft/'
 system_type: Console
 released: 2005

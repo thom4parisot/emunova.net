@@ -1,6 +1,6 @@
 ---
 type: system
-name: 'Nintendo 64DD'
+title: 'Nintendo 64DD'
 forums_uri: 'http://forums.emunova.net/forum/9-nintendo/'
 system_type: Extension
 released: 1999

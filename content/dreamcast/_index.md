@@ -1,6 +1,6 @@
 ---
 type: system
-name: DreamCast
+title: DreamCast
 forums_uri: 'http://forums.emunova.net/forum/20-sega/'
 system_type: Console
 released: 1998

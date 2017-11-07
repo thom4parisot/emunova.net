@@ -1,0 +1,7 @@
+{{- if eq .Type "system" -}}
+{{ template "systems/section.html" . }}
+{{- else if eq .Type "game" -}}
+{{ template "systems/game.html" . }}
+{{- else if eq (index (split .Dir "/") 1) "games" -}}
+{{ template "systems/games.html" . }}
+{{ else }}\o/{{ end }}

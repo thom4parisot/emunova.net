@@ -1,6 +1,6 @@
 ---
 type: system
-name: Lynx
+title: Lynx
 forums_uri: 'http://forums.emunova.net/forum/26-atari/'
 system_type: 'Console portable'
 released: 1990

@@ -1,6 +1,6 @@
 ---
 type: system
-name: 'PC Engine'
+title: 'PC Engine'
 forums_uri: 'http://forums.emunova.net/forum/41-nec/'
 system_type: Console
 released: 1987

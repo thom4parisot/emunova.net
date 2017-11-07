@@ -1,6 +1,6 @@
 ---
 type: system
-name: NES
+title: NES
 forums_uri: 'http://forums.emunova.net/forum/9-nintendo/'
 system_type: Console
 released: 1985

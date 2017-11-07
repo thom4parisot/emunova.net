@@ -1,6 +1,6 @@
 ---
 type: system
-name: 'Game Gear'
+title: 'Game Gear'
 forums_uri: 'http://forums.emunova.net/forum/20-sega/'
 system_type: 'Console portable'
 released: 1991

@@ -1,6 +1,6 @@
 ---
 type: system
-name: Wonderswan
+title: Wonderswan
 forums_uri: 'http://forums.emunova.net/forum/42-bandai/'
 system_type: 'Console portable'
 released: 2000
