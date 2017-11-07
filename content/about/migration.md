@@ -1,8 +1,9 @@
 ---
 title: Migration vers Emu Nova v3
+menu:
+  main:
+    weight: 50
 ---
-
-# Migration vers Emu Nova v3
 
 Emu Nova a soufflé sa dixième bougie le 12 octobre 2013.
 Après 10 ans de vie, et une refonte entamée il y a 7 ans, il était temps de donner un coup de balais.

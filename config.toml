@@ -9,6 +9,13 @@ pluralizeListTitles = false
 noTimes = true
 ignoreFiles = [ "\\.git$", "node_modules" ]
 
+[params]
+  forums = "https://forums.emunova.net"
+
+  [params.repo]
+  url = "https://github.com/oncletom/emunova.net"
+  branch = "feature/hugo"
+
 [outputs]
 home = ["HTML", "RSS"]
 section = ["HTML"]
