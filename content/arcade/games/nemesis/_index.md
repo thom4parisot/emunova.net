@@ -3,7 +3,7 @@ type: game
 title: Nemesis
 released: 1985
 editors: 
-  -Konami
+  - Konami
 players: 2
 genres:
   - 'Shoot Them Up'

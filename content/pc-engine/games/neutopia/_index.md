@@ -3,7 +3,7 @@ type: game
 title: Neutopia
 released: 1990
 editors: 
-  -'Hudson Soft'
+  - 'Hudson Soft'
 players: 1
 genres:
   - Aventure

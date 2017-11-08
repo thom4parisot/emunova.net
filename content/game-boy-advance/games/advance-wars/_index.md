@@ -3,7 +3,7 @@ type: game
 title: 'Advance Wars'
 released: 2002
 editors: 
-  -'Intelligent Systems'
+  - 'Intelligent Systems'
 players: 4
 genres:
   - Stratégie

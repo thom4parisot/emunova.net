@@ -3,7 +3,7 @@ type: game
 title: Dune
 released: 1991
 editors: 
-  -Virgin
+  - Virgin
 players: 1
 genres:
   - Aventure

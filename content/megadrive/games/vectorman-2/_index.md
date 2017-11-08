@@ -3,7 +3,7 @@ type: game
 title: 'Vectorman 2'
 released: 1996
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - Action

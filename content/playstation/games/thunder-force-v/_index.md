@@ -3,7 +3,7 @@ type: game
 title: 'Thunder Force V'
 released: 1998
 editors: 
-  -Technosoft
+  - Technosoft
 players: 1
 genres:
   - 'Shoot Them Up'

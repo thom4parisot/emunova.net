@@ -3,7 +3,7 @@ type: game
 title: 'Battle Unit Zeoth'
 released: 1990
 editors: 
-  -Jaleco
+  - Jaleco
 players: 1
 genres:
   - 'Shoot Them Up'

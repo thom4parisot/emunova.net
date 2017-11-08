@@ -3,7 +3,7 @@ type: game
 title: Aerobiz
 released: 1993
 editors: 
-  -KOEI
+  - KOEI
 players: 4
 genres:
   - Stratégie

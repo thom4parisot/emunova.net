@@ -3,7 +3,7 @@ type: game
 title: 'Yu-Gi-Oh ! Nightmare Troubadour'
 released: 2005
 editors: 
-  -Konami
+  - Konami
 players: 1
 genres:
   - Stratégie

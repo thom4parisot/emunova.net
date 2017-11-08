@@ -3,7 +3,7 @@ type: game
 title: 'Secret of Mana'
 released: 1994
 editors: 
-  -Square
+  - Square
 players: 3
 genres:
   - 'Role Playing Game (RPG)'

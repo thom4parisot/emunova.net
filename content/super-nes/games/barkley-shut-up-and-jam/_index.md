@@ -3,7 +3,7 @@ type: game
 title: 'Barkley Shut Up and Jam !'
 released: 1994
 editors: 
-  -Accolade
+  - Accolade
 players: 2
 genres:
   - Sport

@@ -3,7 +3,7 @@ type: game
 title: Batty
 released: 1987
 editors: 
-  -Elite
+  - Elite
 players: 2
 genres:
   - Action

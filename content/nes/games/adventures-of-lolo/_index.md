@@ -3,7 +3,7 @@ type: game
 title: 'Adventures of Lolo'
 released: 1988
 editors: 
-  -Nintendo
+  - Nintendo
 players: 1
 genres:
   - Réflexion

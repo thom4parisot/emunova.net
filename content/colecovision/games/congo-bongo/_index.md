@@ -3,7 +3,7 @@ type: game
 title: 'Congo Bongo'
 released: 1984
 editors: 
-  -Sega
+  - Sega
 players: 2
 genres:
   - Plates-formes

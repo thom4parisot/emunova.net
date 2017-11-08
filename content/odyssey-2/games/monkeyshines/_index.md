@@ -3,7 +3,7 @@ type: game
 title: 'Monkeyshines !'
 released: 1982
 editors: 
-  -Philips
+  - Philips
 players: 2
 genres:
   - Plates-formes

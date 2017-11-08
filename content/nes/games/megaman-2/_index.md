@@ -3,7 +3,7 @@ type: game
 title: 'Megaman 2'
 released: 1990
 editors: 
-  -Capcom
+  - Capcom
 players: 1
 genres:
   - Plates-formes

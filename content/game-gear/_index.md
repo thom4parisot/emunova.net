@@ -2,9 +2,11 @@
 type: system
 title: 'Game Gear'
 forums_uri: 'http://forums.emunova.net/forum/20-sega/'
-system_type: 'Console portable'
+system_types: 
+  - 'Console portable'
 released: 1991
-manufacturer: SEGA
+manufacturers: 
+  - SEGA
 bits: 8
 cpu: 'Z80 8-Bit @ 3.58 Mhz'
 ram: '16 Ko'

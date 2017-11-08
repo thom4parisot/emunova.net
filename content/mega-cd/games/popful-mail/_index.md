@@ -3,7 +3,7 @@ type: game
 title: 'Popful Mail'
 released: 1994
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - Action

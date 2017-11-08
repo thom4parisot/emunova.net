@@ -3,7 +3,7 @@ type: game
 title: 'Deus Ex'
 released: 2000
 editors: 
-  -Eidos
+  - Eidos
 players: 8
 genres:
   - 'Role Playing Game (RPG)'

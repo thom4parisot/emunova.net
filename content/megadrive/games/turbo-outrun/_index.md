@@ -3,7 +3,7 @@ type: game
 title: 'Turbo OutRun'
 released: 1992
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - Course

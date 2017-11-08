@@ -3,7 +3,7 @@ type: game
 title: 'RollerCoaster Tycoon'
 released: 1999
 editors: 
-  -Microprose
+  - Microprose
 players: 1
 genres:
   - Simulation

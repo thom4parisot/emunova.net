@@ -3,7 +3,7 @@ type: game
 title: 'Bomb Jack'
 released: 1985
 editors: 
-  -Elite
+  - Elite
 players: 2
 genres:
   - Action

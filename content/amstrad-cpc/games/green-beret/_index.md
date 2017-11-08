@@ -3,7 +3,7 @@ type: game
 title: 'Green Beret'
 released: 1986
 editors: 
-  -Imagine
+  - Imagine
 players: 1
 genres:
   - 'Gun Shooting'

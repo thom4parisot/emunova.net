@@ -3,7 +3,7 @@ type: game
 title: 'Mickey''s Speedway USA'
 released: 2000
 editors: 
-  -RARE
+  - RARE
 players: 4
 genres:
   - Course

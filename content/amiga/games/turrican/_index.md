@@ -3,7 +3,7 @@ type: game
 title: Turrican
 released: 1990
 editors: 
-  -'Rainbow Arts'
+  - 'Rainbow Arts'
 players: 1
 genres:
   - Plates-formes

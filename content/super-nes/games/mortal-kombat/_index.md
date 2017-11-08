@@ -3,7 +3,7 @@ type: game
 title: 'Mortal Kombat'
 released: 1993
 editors: 
-  -Acclaim
+  - Acclaim
 players: 2
 genres:
   - Combat

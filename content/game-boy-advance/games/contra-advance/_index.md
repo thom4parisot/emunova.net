@@ -3,7 +3,7 @@ type: game
 title: 'Contra Advance'
 released: 2003
 editors: 
-  -Konami
+  - Konami
 players: 2
 genres:
   - Action

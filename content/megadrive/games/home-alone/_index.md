@@ -3,7 +3,7 @@ type: game
 title: 'Home Alone'
 released: 1992
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - Action

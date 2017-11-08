@@ -3,7 +3,7 @@ type: game
 title: 'Arkanoid Plus ! (WiiWare)'
 released: 2009
 editors: 
-  -Taito
+  - Taito
 players: 2
 genres:
   - Inclassable

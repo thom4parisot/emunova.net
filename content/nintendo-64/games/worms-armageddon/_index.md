@@ -3,7 +3,7 @@ type: game
 title: 'Worms Armageddon'
 released: 2000
 editors: 
-  -Infogrames
+  - Infogrames
 players: 4
 genres:
   - Inclassable

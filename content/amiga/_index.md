@@ -3,9 +3,11 @@ type: system
 title: Amiga
 forums_uri: 'http://forums.emunova.net/forum/47-commodore/'
 description: 'La gamme **Amiga** était une série de micro-ordinateurs conçus par Commodore. Entre l''Amiga 1000 (1985) et l''Amiga 4000 (1992), neuf ordinateurs différents ont donc vu le jour.'
-system_type: Ordinateur
+system_types: 
+  - Ordinateur
 released: 1985
-manufacturer: Commodore
+manufacturers: 
+  - Commodore
 bits: 16
 cpu: 'Du Motorola MC68000 à environ 7Mhz à l''IBM Power PC G4 (Pegasos/AmigaOne).'
 ram: 'A partir de 512Ko. Extensible à 4Go.'

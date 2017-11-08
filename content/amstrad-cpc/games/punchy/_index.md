@@ -3,7 +3,7 @@ type: game
 title: Punchy
 released: 1984
 editors: 
-  -Amsoft
+  - Amsoft
 players: 1
 genres:
   - Inclassable

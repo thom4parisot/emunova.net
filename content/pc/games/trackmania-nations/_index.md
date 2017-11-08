@@ -3,7 +3,7 @@ type: game
 title: 'Trackmania Nations'
 released: 2006
 editors: 
-  -Focus
+  - Focus
 players: 10
 genres:
   - Course

@@ -3,7 +3,7 @@ type: game
 title: Croc
 released: 1996
 editors: 
-  -'Fox Interactive'
+  - 'Fox Interactive'
 players: 1
 genres:
   - Plates-formes

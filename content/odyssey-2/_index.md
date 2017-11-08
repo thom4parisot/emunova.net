@@ -2,9 +2,11 @@
 type: system
 title: Odyssey²
 forums_uri: 'http://forums.emunova.net/forum/12-emulation-jeux-video-abandonware/'
-system_type: Console
+system_types: 
+  - Console
 released: 1978
-manufacturer: Magnavox
+manufacturers: 
+  - Magnavox
 alternate_names:
   - 'Philips Videopac G7000'
   - 'Philips Videopac'

@@ -3,7 +3,7 @@ type: game
 title: 'Secret Files 2 : Puritas Cordis'
 released: 2009
 editors: 
-  -'Deep Silver'
+  - 'Deep Silver'
 players: 1
 genres:
   - Aventure

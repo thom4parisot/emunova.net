@@ -3,7 +3,7 @@ type: game
 title: 'Lost Eden'
 released: 1995
 editors: 
-  -Cryo
+  - Cryo
 players: 1
 genres:
   - Aventure

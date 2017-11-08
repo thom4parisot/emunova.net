@@ -3,7 +3,7 @@ type: game
 title: 'The Legendary Axe'
 released: 1989
 editors: 
-  -Victor
+  - Victor
 players: 1
 genres:
   - Action

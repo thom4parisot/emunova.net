@@ -3,7 +3,7 @@ type: game
 title: 'Sniper Elite'
 released: 2005
 editors: 
-  -Atari
+  - Atari
 players: 1
 genres:
   - 'First Person Shooter (FPS)'

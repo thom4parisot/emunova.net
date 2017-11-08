@@ -3,7 +3,7 @@ type: game
 title: 'Geometry Wars : Retro Evolved (Live Arcade)'
 released: 2005
 editors: 
-  -'Bizarre Creations'
+  - 'Bizarre Creations'
 players: 1
 genres:
   - 'Shoot Them Up'

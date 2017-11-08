@@ -3,7 +3,7 @@ type: game
 title: 'Steel Battalion'
 released: 2002
 editors: 
-  -Capcom
+  - Capcom
 players: 1
 genres:
   - Action

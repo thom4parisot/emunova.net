@@ -3,7 +3,7 @@ type: game
 title: 'Yu Yu Hakusho : Tournament Tactics'
 released: 2004
 editors: 
-  -Atari
+  - Atari
 players: 2
 genres:
   - Stratégie

@@ -2,9 +2,11 @@
 type: system
 title: 'Master System'
 forums_uri: 'http://forums.emunova.net/forum/20-sega/'
-system_type: Console
+system_types: 
+  - Console
 released: 1984
-manufacturer: SEGA
+manufacturers: 
+  - SEGA
 alternate_names:
   - 'Mark III'
 bits: 8

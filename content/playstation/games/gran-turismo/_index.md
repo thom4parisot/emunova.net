@@ -3,7 +3,7 @@ type: game
 title: 'Gran Turismo'
 released: 1998
 editors: 
-  -Sony
+  - Sony
 players: 2
 genres:
   - Course

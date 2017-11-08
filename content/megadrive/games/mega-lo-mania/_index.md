@@ -3,7 +3,7 @@ type: game
 title: 'Mega Lo Mania'
 released: 1992
 editors: 
-  -Virgin
+  - Virgin
 players: 1
 genres:
   - Stratégie

@@ -3,7 +3,7 @@ type: game
 title: Rampage
 released: 1988
 editors: 
-  -Activision
+  - Activision
 players: 2
 genres:
   - Action

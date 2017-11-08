@@ -3,7 +3,7 @@ type: game
 title: 'Mario Party'
 released: 1998
 editors: 
-  -Nintendo
+  - Nintendo
 players: 4
 genres:
   - Inclassable

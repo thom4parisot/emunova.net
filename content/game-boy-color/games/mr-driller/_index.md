@@ -3,7 +3,7 @@ type: game
 title: 'Mr Driller'
 released: 2000
 editors: 
-  -Namco
+  - Namco
 players: 1
 genres:
   - Réflexion

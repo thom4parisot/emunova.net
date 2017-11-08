@@ -3,7 +3,7 @@ type: game
 title: 'Rad Racer'
 released: 1987
 editors: 
-  -Square
+  - Square
 players: 1
 genres:
   - Course

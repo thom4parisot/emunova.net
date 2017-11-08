@@ -3,7 +3,7 @@ type: game
 title: Flashback
 released: 1993
 editors: 
-  -'US Gold'
+  - 'US Gold'
 players: 1
 genres:
   - Aventure

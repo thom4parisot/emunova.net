@@ -3,7 +3,7 @@ type: game
 title: 'Moto Racer 2'
 released: 1998
 editors: 
-  -'Delphine Software'
+  - 'Delphine Software'
 players: 1
 genres:
   - Course

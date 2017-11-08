@@ -3,7 +3,7 @@ type: game
 title: 'Project Gotham Racing'
 released: 2002
 editors: 
-  -Microsoft
+  - Microsoft
 players: 4
 genres:
   - Course

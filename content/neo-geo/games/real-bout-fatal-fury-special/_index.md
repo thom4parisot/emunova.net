@@ -3,7 +3,7 @@ type: game
 title: 'Real Bout Fatal Fury Special'
 released: 1996
 editors: 
-  -SNK
+  - SNK
 players: 2
 genres:
   - Combat

@@ -3,7 +3,7 @@ type: game
 title: 'Cruis''n World'
 released: 1998
 editors: 
-  -Midway
+  - Midway
 players: 4
 genres:
   - Course

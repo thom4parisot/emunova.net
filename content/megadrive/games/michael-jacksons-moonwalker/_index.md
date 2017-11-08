@@ -3,7 +3,7 @@ type: game
 title: 'Michael Jackson''s Moonwalker'
 released: 1990
 editors: 
-  -Sega
+  - Sega
 players: 2
 genres:
   - Action

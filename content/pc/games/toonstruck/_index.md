@@ -3,7 +3,7 @@ type: game
 title: Toonstruck
 released: 1996
 editors: 
-  -Virgin
+  - Virgin
 players: 1
 genres:
   - Aventure

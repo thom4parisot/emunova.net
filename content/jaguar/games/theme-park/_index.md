@@ -3,7 +3,7 @@ type: game
 title: 'Theme Park'
 released: 1995
 editors: 
-  -Ocean
+  - Ocean
 players: 1
 genres:
   - Simulation

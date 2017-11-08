@@ -3,7 +3,7 @@ type: game
 title: OutRunners
 released: 1994
 editors: 
-  -'Data East'
+  - 'Data East'
 players: 2
 genres:
   - Course

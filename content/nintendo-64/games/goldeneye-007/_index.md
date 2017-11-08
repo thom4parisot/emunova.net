@@ -3,7 +3,7 @@ type: game
 title: 'GoldenEye 007'
 released: 1997
 editors: 
-  -RARE
+  - RARE
 players: 4
 genres:
   - 'First Person Shooter (FPS)'

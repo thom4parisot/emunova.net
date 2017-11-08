@@ -3,7 +3,7 @@ type: game
 title: Sinistron
 released: 1990
 editors: 
-  -IGS
+  - IGS
 players: 2
 genres:
   - 'Shoot Them Up'

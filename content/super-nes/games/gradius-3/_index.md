@@ -3,7 +3,7 @@ type: game
 title: 'Gradius 3'
 released: 1991
 editors: 
-  -Konami
+  - Konami
 players: 2
 genres:
   - 'Shoot Them Up'

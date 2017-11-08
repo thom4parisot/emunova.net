@@ -3,7 +3,7 @@ type: game
 title: 'Chakan the Forever man'
 released: 1993
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - Action

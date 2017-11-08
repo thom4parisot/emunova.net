@@ -3,7 +3,7 @@ type: game
 title: 'Marble Blast Ultra (Live Arcade)'
 released: 2006
 editors: 
-  -GarageGames
+  - GarageGames
 players: 8
 genres:
   - Réflexion

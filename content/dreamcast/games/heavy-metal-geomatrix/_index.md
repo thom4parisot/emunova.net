@@ -3,7 +3,7 @@ type: game
 title: 'Heavy Metal Geomatrix'
 released: 2001
 editors: 
-  -Capcom
+  - Capcom
 players: 2
 genres:
   - Action

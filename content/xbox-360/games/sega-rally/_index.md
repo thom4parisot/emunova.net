@@ -3,7 +3,7 @@ type: game
 title: 'Sega Rally'
 released: 2007
 editors: 
-  -Sega
+  - Sega
 players: 6
 genres:
   - Course

@@ -3,7 +3,7 @@ type: game
 title: 'Thunder Force IV'
 released: 1991
 editors: 
-  -Technosoft
+  - Technosoft
 players: 1
 genres:
   - 'Shoot Them Up'

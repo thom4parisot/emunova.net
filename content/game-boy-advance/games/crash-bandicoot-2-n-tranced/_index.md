@@ -3,7 +3,7 @@ type: game
 title: 'Crash Bandicoot 2 : N-Tranced'
 released: 2003
 editors: 
-  -'Vivendi Universal'
+  - 'Vivendi Universal'
 players: 1
 genres:
   - Plates-formes

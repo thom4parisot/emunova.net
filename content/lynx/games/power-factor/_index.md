@@ -3,7 +3,7 @@ type: game
 title: 'Power Factor'
 released: 1992
 editors: 
-  -Atari
+  - Atari
 players: 1
 genres:
   - 'Beat them all'

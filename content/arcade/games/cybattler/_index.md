@@ -3,7 +3,7 @@ type: game
 title: Cybattler
 released: 1993
 editors: 
-  -Jaleco
+  - Jaleco
 players: 2
 genres:
   - 'Shoot Them Up'

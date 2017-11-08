@@ -3,7 +3,7 @@ type: game
 title: 'Tomb Raider'
 released: 1996
 editors: 
-  -Eidos
+  - Eidos
 players: 1
 genres:
   - Aventure

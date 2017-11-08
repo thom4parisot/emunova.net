@@ -3,7 +3,7 @@ type: game
 title: 'Diddy Kong Racing'
 released: 1997
 editors: 
-  -RARE
+  - RARE
 players: 4
 genres:
   - Course

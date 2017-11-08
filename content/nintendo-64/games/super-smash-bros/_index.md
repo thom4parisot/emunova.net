@@ -3,7 +3,7 @@ type: game
 title: 'Super Smash Bros.'
 released: 1999
 editors: 
-  -Nintendo
+  - Nintendo
 players: 4
 genres:
   - Combat

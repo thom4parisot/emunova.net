@@ -3,7 +3,7 @@ type: game
 title: Excelsior
 released: null
 editors: 
-  -Playmark
+  - Playmark
 players: 2
 genres:
   - Inclassable

@@ -3,7 +3,7 @@ type: game
 title: 'Strip Poker (Core)'
 released: 1985
 editors: 
-  -Core
+  - Core
 players: 1
 genres:
   - Réflexion

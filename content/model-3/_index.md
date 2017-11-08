@@ -2,9 +2,11 @@
 type: system
 title: 'Model 3'
 forums_uri: 'http://forums.emunova.net/forum/46-arcade/'
-system_type: Arcade
+system_types: 
+  - Arcade
 released: 1996
-manufacturer: SEGA
+manufacturers: 
+  - SEGA
 bits: 32
 cpu: '32bits RISC PowerPC 603 66Mhz'
 video: '1000100 polygones par seconde (pour des polygones carrés) ou 2000200 polygones par seconde (pour des polygones triangulaires) en 496x384'

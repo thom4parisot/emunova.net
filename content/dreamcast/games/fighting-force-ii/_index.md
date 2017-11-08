@@ -3,7 +3,7 @@ type: game
 title: 'Fighting Force II'
 released: 1999
 editors: 
-  -Eidos
+  - Eidos
 players: 2
 genres:
   - 'Beat them all'

@@ -3,7 +3,7 @@ type: game
 title: 'CTR : Crash Team Racing'
 released: 1999
 editors: 
-  -Sony
+  - Sony
 players: 4
 genres:
   - Course

@@ -3,7 +3,7 @@ type: game
 title: Kolibri
 released: 1995
 editors: 
-  -Sega
+  - Sega
 players: 2
 genres:
   - 'Shoot Them Up'

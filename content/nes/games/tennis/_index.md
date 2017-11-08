@@ -3,7 +3,7 @@ type: game
 title: Tennis
 released: 1983
 editors: 
-  -Nintendo
+  - Nintendo
 players: 2
 genres:
   - Sport

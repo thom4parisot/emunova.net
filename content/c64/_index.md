@@ -2,9 +2,11 @@
 type: system
 title: C64
 forums_uri: 'http://forums.emunova.net/forum/47-commodore/'
-system_type: Ordinateur
+system_types: 
+  - Ordinateur
 released: 1982
-manufacturer: Commodore
+manufacturers: 
+  - Commodore
 bits: 8
 cpu: 'MOS 6510 1Mhz'
 ram: 64Ko

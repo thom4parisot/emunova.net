@@ -3,7 +3,7 @@ type: game
 title: 'Zero Divide'
 released: 1995
 editors: 
-  -Ocean
+  - Ocean
 players: 2
 genres:
   - Combat

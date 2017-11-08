@@ -3,7 +3,7 @@ type: game
 title: Rampart
 released: 1991
 editors: 
-  -Atari
+  - Atari
 players: 2
 genres:
   - Stratégie

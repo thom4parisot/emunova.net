@@ -3,7 +3,7 @@ type: game
 title: 'Dark Earth'
 released: 1997
 editors: 
-  -Kalysto
+  - Kalysto
 players: 1
 genres:
   - Aventure

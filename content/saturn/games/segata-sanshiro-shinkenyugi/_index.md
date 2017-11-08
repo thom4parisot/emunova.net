@@ -3,7 +3,7 @@ type: game
 title: 'Segata Sanshirô Shinkenyugi'
 released: 1998
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - Inclassable

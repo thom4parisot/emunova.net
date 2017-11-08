@@ -3,7 +3,7 @@ type: game
 title: 'Link : The Faces of Evil'
 released: 1993
 editors: 
-  -Philips
+  - Philips
 players: 1
 genres:
   - Aventure

@@ -3,7 +3,7 @@ type: game
 title: 'Robo Aleste'
 released: 1993
 editors: 
-  -Compile
+  - Compile
 players: 1
 genres:
   - 'Shoot Them Up'

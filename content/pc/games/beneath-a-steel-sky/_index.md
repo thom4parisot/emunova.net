@@ -3,7 +3,7 @@ type: game
 title: 'Beneath a Steel Sky'
 released: 1994
 editors: 
-  -Virgin
+  - Virgin
 players: 1
 genres:
   - Aventure

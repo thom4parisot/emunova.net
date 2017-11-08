@@ -3,7 +3,7 @@ type: game
 title: 'StarFox Assault'
 released: 2005
 editors: 
-  -Nintendo
+  - Nintendo
 players: 4
 genres:
   - 'Shoot Them Up'

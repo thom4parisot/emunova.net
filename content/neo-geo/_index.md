@@ -2,9 +2,11 @@
 type: system
 title: 'Neo Geo'
 forums_uri: 'http://forums.emunova.net/forum/11-snk/'
-system_type: Arcade
+system_types: 
+  - Arcade
 released: 1990
-manufacturer: SNK
+manufacturers: 
+  - SNK
 alternate_names:
   - 'Neo Geo AES'
   - 'Neo Geo MVS'

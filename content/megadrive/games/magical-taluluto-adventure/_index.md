@@ -3,7 +3,7 @@ type: game
 title: 'Magical Taluluto Adventure'
 released: 1992
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - Plates-formes

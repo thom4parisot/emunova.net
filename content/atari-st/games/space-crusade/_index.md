@@ -3,7 +3,7 @@ type: game
 title: 'Space Crusade'
 released: 1992
 editors: 
-  -Gremlin
+  - Gremlin
 players: 3
 genres:
   - Stratégie

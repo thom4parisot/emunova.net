@@ -3,7 +3,7 @@ type: game
 title: 'Jr. Pac-Man'
 released: 1984
 editors: 
-  -Atari
+  - Atari
 players: 1
 genres:
   - Action

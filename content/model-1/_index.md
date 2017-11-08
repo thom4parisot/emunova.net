@@ -2,9 +2,11 @@
 type: system
 title: 'Model 1'
 forums_uri: 'http://forums.emunova.net/forum/46-arcade/'
-system_type: Arcade
+system_types: 
+  - Arcade
 released: 1992
-manufacturer: SEGA
+manufacturers: 
+  - SEGA
 bits: 32
 cpu: '32bits RISC NEC v60 uPD-70616, 16Mhz (2.5 MIPS)'
 video: 'Processeur graphique Fujitsu TGP MB86233 FPU 32bits 16M flops'

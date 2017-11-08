@@ -3,7 +3,7 @@ type: game
 title: 'Elebits (Eledees)'
 released: 2007
 editors: 
-  -Konami
+  - Konami
 players: 3
 genres:
   - 'First Person Shooter (FPS)'

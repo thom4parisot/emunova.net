@@ -3,7 +3,7 @@ type: game
 title: 'Kung Food'
 released: 1992
 editors: 
-  -Atari
+  - Atari
 players: 1
 genres:
   - 'Beat them all'

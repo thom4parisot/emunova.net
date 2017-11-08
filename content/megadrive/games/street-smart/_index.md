@@ -3,7 +3,7 @@ type: game
 title: 'Street Smart'
 released: 1991
 editors: 
-  -'American Treco Corp'
+  - 'American Treco Corp'
 players: 2
 genres:
   - Combat

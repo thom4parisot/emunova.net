@@ -3,7 +3,7 @@ type: game
 title: 'The King of Fighters ''95'
 released: 1995
 editors: 
-  -SNK
+  - SNK
 players: 2
 genres:
   - Combat

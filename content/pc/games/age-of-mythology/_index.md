@@ -3,7 +3,7 @@ type: game
 title: 'Age of Mythology'
 released: 2002
 editors: 
-  -Microsoft
+  - Microsoft
 players: 1
 genres:
   - Stratégie

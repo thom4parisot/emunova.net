@@ -2,9 +2,11 @@
 type: system
 title: 'Mega CD'
 forums_uri: 'http://forums.emunova.net/forum/20-sega/'
-system_type: Extension
+system_types: 
+  - Extension
 released: 1992
-manufacturer: SEGA
+manufacturers: 
+  - SEGA
 alternate_names:
   - 'SEGA CD'
 bits: 16

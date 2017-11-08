@@ -3,7 +3,7 @@ type: game
 title: 'Castlevania : Portrait of Ruin'
 released: 2006
 editors: 
-  -Konami
+  - Konami
 players: 1
 genres:
   - Action

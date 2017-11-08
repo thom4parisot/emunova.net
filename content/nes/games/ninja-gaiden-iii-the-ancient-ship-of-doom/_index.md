@@ -3,7 +3,7 @@ type: game
 title: 'Ninja Gaiden III : The Ancient Ship of Doom'
 released: 1991
 editors: 
-  -Tecmo
+  - Tecmo
 players: 1
 genres:
   - Action

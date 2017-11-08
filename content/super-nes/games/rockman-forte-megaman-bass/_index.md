@@ -3,7 +3,7 @@ type: game
 title: 'Rockman & Forte (Megaman & Bass)'
 released: 1998
 editors: 
-  -Capcom
+  - Capcom
 players: 1
 genres:
   - Action

@@ -3,7 +3,7 @@ type: game
 title: Shadowman
 released: 1999
 editors: 
-  -Acclaim
+  - Acclaim
 players: 1
 genres:
   - Action

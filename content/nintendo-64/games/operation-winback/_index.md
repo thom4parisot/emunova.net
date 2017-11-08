@@ -3,7 +3,7 @@ type: game
 title: 'Operation WinBack'
 released: 2001
 editors: 
-  -KOEI
+  - KOEI
 players: 4
 genres:
   - Action

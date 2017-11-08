@@ -3,7 +3,7 @@ type: game
 title: 'Blue''s Journey'
 released: 1991
 editors: 
-  -SNK
+  - SNK
 players: 2
 genres:
   - Plates-formes

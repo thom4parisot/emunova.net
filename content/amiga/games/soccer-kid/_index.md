@@ -3,7 +3,7 @@ type: game
 title: 'Soccer Kid'
 released: 1993
 editors: 
-  -Krisalis
+  - Krisalis
 players: 1
 genres:
   - Plates-formes

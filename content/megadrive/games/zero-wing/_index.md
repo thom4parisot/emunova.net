@@ -3,7 +3,7 @@ type: game
 title: 'Zero Wing'
 released: 1991
 editors: 
-  -Toaplan
+  - Toaplan
 players: 1
 genres:
   - 'Shoot Them Up'

@@ -3,7 +3,7 @@ type: game
 title: 'Cosmic Smash'
 released: 2000
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - Action

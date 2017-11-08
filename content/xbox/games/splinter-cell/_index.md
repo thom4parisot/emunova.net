@@ -3,7 +3,7 @@ type: game
 title: 'Splinter Cell'
 released: 2002
 editors: 
-  -'Ubi Soft'
+  - 'Ubi Soft'
 players: 1
 genres:
   - Aventure

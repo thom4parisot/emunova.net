@@ -3,7 +3,7 @@ type: game
 title: 'Stunt Car Racer'
 released: 1989
 editors: 
-  -Microprose
+  - Microprose
 players: 4
 genres:
   - Course

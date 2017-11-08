@@ -3,7 +3,7 @@ type: game
 title: 'Aerial Assault'
 released: 1990
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - 'Shoot Them Up'

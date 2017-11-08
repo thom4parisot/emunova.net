@@ -2,9 +2,11 @@
 type: system
 title: ColecoVision
 forums_uri: 'http://forums.emunova.net/forum/12-emulation-jeux-video-abandonware/'
-system_type: Console
+system_types: 
+  - Console
 released: 1982
-manufacturer: Coleco
+manufacturers: 
+  - Coleco
 bits: 8
 cpu: 'Z80A @ 3.58MHz'
 ram: 48Ko

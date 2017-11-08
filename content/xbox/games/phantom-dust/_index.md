@@ -3,7 +3,7 @@ type: game
 title: 'Phantom Dust'
 released: 2004
 editors: 
-  -Microsoft
+  - Microsoft
 players: 4
 genres:
   - Inclassable

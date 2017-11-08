@@ -3,7 +3,7 @@ type: game
 title: 'Mickey''s Dangerous Chase'
 released: 1992
 editors: 
-  -Capcom
+  - Capcom
 players: 1
 genres:
   - Plates-formes

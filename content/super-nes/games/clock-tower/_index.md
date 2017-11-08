@@ -3,7 +3,7 @@ type: game
 title: 'Clock Tower'
 released: 1995
 editors: 
-  -Human
+  - Human
 players: 1
 genres:
   - Aventure

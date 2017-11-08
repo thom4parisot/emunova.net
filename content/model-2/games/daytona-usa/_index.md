@@ -3,7 +3,7 @@ type: game
 title: 'Daytona USA'
 released: 1994
 editors: 
-  -Sega
+  - Sega
 players: 4
 genres:
   - Course

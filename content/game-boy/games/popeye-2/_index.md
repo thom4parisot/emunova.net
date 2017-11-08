@@ -3,7 +3,7 @@ type: game
 title: 'Popeye 2'
 released: 1991
 editors: 
-  -Activision
+  - Activision
 players: 1
 genres:
   - Plates-formes

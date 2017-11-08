@@ -3,7 +3,7 @@ type: game
 title: 'Deep Fear'
 released: 1998
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - Action

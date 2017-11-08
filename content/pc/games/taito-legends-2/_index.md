@@ -3,7 +3,7 @@ type: game
 title: 'Taito Legends 2'
 released: 2006
 editors: 
-  -Taito
+  - Taito
 players: 2
 genres:
   - Action

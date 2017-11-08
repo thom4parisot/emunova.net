@@ -3,7 +3,7 @@ type: game
 title: 'ChuChu Rocket !'
 released: 2010
 editors: 
-  -Sega
+  - Sega
 players: 4
 genres:
   - Réflexion

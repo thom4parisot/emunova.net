@@ -3,7 +3,7 @@ type: game
 title: 'High Speed'
 released: 1991
 editors: 
-  -Tradewest
+  - Tradewest
 players: 4
 genres:
   - Inclassable

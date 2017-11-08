@@ -3,7 +3,7 @@ type: game
 title: Slider
 released: 1991
 editors: 
-  -Infogrames
+  - Infogrames
 players: 1
 genres:
   - Action

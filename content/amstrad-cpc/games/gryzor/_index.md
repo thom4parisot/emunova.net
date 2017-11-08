@@ -3,7 +3,7 @@ type: game
 title: Gryzor
 released: 1988
 editors: 
-  -Konami
+  - Konami
 players: 2
 genres:
   - Action

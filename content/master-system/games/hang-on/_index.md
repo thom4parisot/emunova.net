@@ -3,7 +3,7 @@ type: game
 title: Hang-on
 released: 1985
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - Course

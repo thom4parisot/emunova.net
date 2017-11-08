@@ -3,7 +3,7 @@ type: game
 title: 'Paperboy 2'
 released: 1991
 editors: 
-  -Tengen
+  - Tengen
 players: 1
 genres:
   - Simulation

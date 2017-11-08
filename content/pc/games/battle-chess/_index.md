@@ -3,7 +3,7 @@ type: game
 title: 'Battle Chess'
 released: 1988
 editors: 
-  -Interplay
+  - Interplay
 players: 1
 genres:
   - Réflexion

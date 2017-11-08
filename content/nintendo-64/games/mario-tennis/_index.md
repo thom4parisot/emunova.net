@@ -3,7 +3,7 @@ type: game
 title: 'Mario Tennis'
 released: 2000
 editors: 
-  -Nintendo
+  - Nintendo
 players: 4
 genres:
   - Sport

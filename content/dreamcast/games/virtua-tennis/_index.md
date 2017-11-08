@@ -3,7 +3,7 @@ type: game
 title: 'Virtua Tennis'
 released: 2000
 editors: 
-  -Sega
+  - Sega
 players: 4
 genres:
   - Sport

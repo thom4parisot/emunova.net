@@ -3,7 +3,7 @@ type: game
 title: Ikaruga
 released: 2002
 editors: 
-  -Treasure
+  - Treasure
 players: 2
 genres:
   - 'Shoot Them Up'

@@ -3,7 +3,7 @@ type: game
 title: 'Nemesis II'
 released: 1991
 editors: 
-  -Konami
+  - Konami
 players: 1
 genres:
   - 'Shoot Them Up'

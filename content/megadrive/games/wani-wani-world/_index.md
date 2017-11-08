@@ -3,7 +3,7 @@ type: game
 title: 'Wani Wani World'
 released: 1991
 editors: 
-  -Kaneko
+  - Kaneko
 players: 2
 genres:
   - Action

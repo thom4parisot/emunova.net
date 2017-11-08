@@ -3,7 +3,7 @@ type: game
 title: Batman
 released: 1989
 editors: 
-  -Sunsoft
+  - Sunsoft
 players: 1
 genres:
   - Plates-formes

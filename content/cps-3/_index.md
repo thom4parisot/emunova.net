@@ -2,9 +2,11 @@
 type: system
 title: CPS-3
 forums_uri: 'http://forums.emunova.net/forum/46-arcade/'
-system_type: Arcade
+system_types: 
+  - Arcade
 released: 1996
-manufacturer: Capcom
+manufacturers: 
+  - Capcom
 bits: 32
 cpu: '1 ou 2 processeurs Hitachi SH2 32-bits cadencés à 23MHz chacun'
 ram: 'variable : chaque jeu avait besoin d''un montant de RAM diférent. Capacité maximale : 160Mo (8*16Mo + 4*8Mo)'

@@ -3,7 +3,7 @@ type: game
 title: 'Wayne''s World'
 released: 1992
 editors: 
-  -THQ
+  - THQ
 players: 1
 genres:
   - Plates-formes

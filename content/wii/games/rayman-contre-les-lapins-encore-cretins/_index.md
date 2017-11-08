@@ -3,7 +3,7 @@ type: game
 title: 'Rayman Contre les Lapins ENCORE + Crétins'
 released: 2007
 editors: 
-  -'Ubi Soft'
+  - 'Ubi Soft'
 players: 4
 genres:
   - Inclassable

@@ -3,7 +3,7 @@ type: game
 title: 'Fable : The Lost Chapters'
 released: 2005
 editors: 
-  -Microsoft
+  - Microsoft
 players: 1
 genres:
   - Aventure

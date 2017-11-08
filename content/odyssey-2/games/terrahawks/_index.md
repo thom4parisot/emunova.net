@@ -3,7 +3,7 @@ type: game
 title: Terrahawks
 released: 1983
 editors: 
-  -Philips
+  - Philips
 players: 1
 genres:
   - 'Shoot Them Up'

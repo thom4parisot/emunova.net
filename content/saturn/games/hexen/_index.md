@@ -3,7 +3,7 @@ type: game
 title: Hexen
 released: 1997
 editors: 
-  -'GT Interactive'
+  - 'GT Interactive'
 players: 1
 genres:
   - 'First Person Shooter (FPS)'

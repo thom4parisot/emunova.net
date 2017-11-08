@@ -3,7 +3,7 @@ type: game
 title: 'Kirby''s Pinball Land'
 released: 1993
 editors: 
-  -Nintendo
+  - Nintendo
 players: 1
 genres:
   - Action

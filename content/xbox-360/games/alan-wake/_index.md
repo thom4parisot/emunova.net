@@ -3,7 +3,7 @@ type: game
 title: 'Alan Wake'
 released: 2010
 editors: 
-  -Microsoft
+  - Microsoft
 players: 1
 genres:
   - Action

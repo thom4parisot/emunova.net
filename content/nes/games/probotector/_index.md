@@ -3,7 +3,7 @@ type: game
 title: Probotector
 released: 1990
 editors: 
-  -Konami
+  - Konami
 players: 2
 genres:
   - Action

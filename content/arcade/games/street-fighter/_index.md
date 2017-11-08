@@ -3,7 +3,7 @@ type: game
 title: 'Street Fighter'
 released: 1987
 editors: 
-  -Capcom
+  - Capcom
 players: 2
 genres:
   - Combat

@@ -3,7 +3,7 @@ type: game
 title: Rastan
 released: 1987
 editors: 
-  -Taito
+  - Taito
 players: 2
 genres:
   - Plates-formes

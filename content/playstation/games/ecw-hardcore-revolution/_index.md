@@ -3,7 +3,7 @@ type: game
 title: 'ECW Hardcore Revolution'
 released: 2000
 editors: 
-  -Acclaim
+  - Acclaim
 players: 2
 genres:
   - Combat

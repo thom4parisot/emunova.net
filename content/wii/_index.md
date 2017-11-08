@@ -2,9 +2,11 @@
 type: system
 title: Wii
 forums_uri: 'http://forums.emunova.net/forum/9-nintendo/'
-system_type: Console
+system_types: 
+  - Console
 released: 2006
-manufacturer: Nintendo
+manufacturers: 
+  - Nintendo
 alternate_names:
   - 'Wii Mini'
 bits: 128

@@ -3,7 +3,7 @@ type: game
 title: 'Samurai Shodown'
 released: 1994
 editors: 
-  -Takara
+  - Takara
 players: 2
 genres:
   - 'Beat them up'

@@ -3,7 +3,7 @@ type: game
 title: 'Akuji the Heartless'
 released: 1998
 editors: 
-  -Eidos
+  - Eidos
 players: 1
 genres:
   - Action

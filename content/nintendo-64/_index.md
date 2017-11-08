@@ -2,9 +2,11 @@
 type: system
 title: 'Nintendo 64'
 forums_uri: 'http://forums.emunova.net/forum/9-nintendo/'
-system_type: Console
+system_types: 
+  - Console
 released: 1996
-manufacturer: Nintendo
+manufacturers: 
+  - Nintendo
 alternate_names:
   - N64
 bits: 64

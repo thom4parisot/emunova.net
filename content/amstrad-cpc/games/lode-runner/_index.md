@@ -3,7 +3,7 @@ type: game
 title: 'Lode Runner'
 released: 1989
 editors: 
-  -Loriciel
+  - Loriciel
 players: 1
 genres:
   - Réflexion

@@ -3,7 +3,7 @@ type: game
 title: 'SCP : Containment Breach'
 released: 2012
 editors: 
-  -'Domaine Public'
+  - 'Domaine Public'
 players: 1
 genres:
   - Inclassable

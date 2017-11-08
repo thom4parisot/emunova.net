@@ -3,7 +3,7 @@ type: game
 title: StarCraft
 released: 1998
 editors: 
-  -Blizzard
+  - Blizzard
 players: 8
 genres:
   - Stratégie

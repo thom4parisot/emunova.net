@@ -3,7 +3,7 @@ type: game
 title: 'Mars Matrix'
 released: 2000
 editors: 
-  -Capcom
+  - Capcom
 players: 2
 genres:
   - 'Shoot Them Up'

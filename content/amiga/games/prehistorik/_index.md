@@ -3,7 +3,7 @@ type: game
 title: Prehistorik
 released: 1991
 editors: 
-  -Titus
+  - Titus
 players: 1
 genres:
   - Plates-formes

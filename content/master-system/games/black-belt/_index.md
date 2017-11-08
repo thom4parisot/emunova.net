@@ -3,7 +3,7 @@ type: game
 title: 'Black Belt'
 released: 1986
 editors: 
-  -Sega
+  - Sega
 players: 2
 genres:
   - Action

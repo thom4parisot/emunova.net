@@ -3,7 +3,7 @@ type: game
 title: 'Doom 64'
 released: 1997
 editors: 
-  -Midway
+  - Midway
 players: 1
 genres:
   - 'First Person Shooter (FPS)'

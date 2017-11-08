@@ -2,9 +2,11 @@
 type: system
 title: Lynx
 forums_uri: 'http://forums.emunova.net/forum/26-atari/'
-system_type: 'Console portable'
+system_types: 
+  - 'Console portable'
 released: 1990
-manufacturer: Atari
+manufacturers: 
+  - Atari
 bits: 16
 cpu: 'Processeur 65C02 à 3,6 MHz'
 ram: '64 Ko'

@@ -3,7 +3,7 @@ type: game
 title: 'WWF Wrestlemania'
 released: 1991
 editors: 
-  -Ocean
+  - Ocean
 players: 2
 genres:
   - Combat

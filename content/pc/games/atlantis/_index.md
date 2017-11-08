@@ -3,7 +3,7 @@ type: game
 title: Atlantis
 released: 1997
 editors: 
-  -Cryo
+  - Cryo
 players: 1
 genres:
   - Aventure

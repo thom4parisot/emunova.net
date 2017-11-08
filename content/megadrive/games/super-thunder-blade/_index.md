@@ -3,7 +3,7 @@ type: game
 title: 'Super Thunder Blade'
 released: 1988
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - 'Shoot Them Up'

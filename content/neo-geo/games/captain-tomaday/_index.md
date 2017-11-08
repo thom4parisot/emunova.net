@@ -3,7 +3,7 @@ type: game
 title: 'Captain Tomaday'
 released: 1998
 editors: 
-  -Visco
+  - Visco
 players: 1
 genres:
   - 'Shoot Them Up'

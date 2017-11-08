@@ -3,7 +3,7 @@ type: game
 title: 'Dead or Alive 2'
 released: 2000
 editors: 
-  -Tecmo
+  - Tecmo
 players: 4
 genres:
   - Combat

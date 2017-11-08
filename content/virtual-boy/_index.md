@@ -2,9 +2,11 @@
 type: system
 title: 'Virtual Boy'
 forums_uri: 'http://forums.emunova.net/forum/9-nintendo/'
-system_type: Console
+system_types: 
+  - Console
 released: 1995
-manufacturer: Nintendo
+manufacturers: 
+  - Nintendo
 bits: 32
 cpu: '32-bits RISC cadencé à 20MHz'
 ram: '1 Mbit D-RAM + 512 Kbit P-SRAM pour la vidéo'

@@ -2,9 +2,11 @@
 type: system
 title: PSP
 forums_uri: 'http://forums.emunova.net/forum/25-sony/'
-system_type: 'Console portable'
+system_types: 
+  - 'Console portable'
 released: 2004
-manufacturer: Sony
+manufacturers: 
+  - Sony
 alternate_names:
   - 'PlayStation Portable'
   - 'PSP GO'

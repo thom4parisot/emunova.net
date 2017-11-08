@@ -3,7 +3,7 @@ type: game
 title: 'Big Red Racing'
 released: 1996
 editors: 
-  -Eidos
+  - Eidos
 players: 6
 genres:
   - Course

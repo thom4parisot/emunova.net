@@ -3,7 +3,7 @@ type: game
 title: Fable
 released: 1996
 editors: 
-  -Telstar
+  - Telstar
 players: 1
 genres:
   - Aventure

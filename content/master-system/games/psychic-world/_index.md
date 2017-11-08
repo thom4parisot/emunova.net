@@ -3,7 +3,7 @@ type: game
 title: 'Psychic World'
 released: 1991
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - Action

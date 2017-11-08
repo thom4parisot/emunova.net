@@ -2,9 +2,11 @@
 type: system
 title: Xbox
 forums_uri: 'http://forums.emunova.net/forum/54-microsoft/'
-system_type: Console
+system_types: 
+  - Console
 released: 2001
-manufacturer: Microsoft
+manufacturers: 
+  - Microsoft
 bits: 128
 cpu: 'Celeron 733 mhz'
 ram: '64 mo'

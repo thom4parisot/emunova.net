@@ -3,7 +3,7 @@ type: game
 title: Soleil
 released: 1994
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - Aventure

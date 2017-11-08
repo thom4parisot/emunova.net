@@ -3,7 +3,7 @@ type: game
 title: Krakout
 released: 1987
 editors: 
-  -Gremlin
+  - Gremlin
 players: 1
 genres:
   - Action

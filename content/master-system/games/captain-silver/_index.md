@@ -3,7 +3,7 @@ type: game
 title: 'Captain Silver'
 released: 1988
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - Action

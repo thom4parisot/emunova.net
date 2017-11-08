@@ -2,9 +2,11 @@
 type: system
 title: 'PC Engine'
 forums_uri: 'http://forums.emunova.net/forum/41-nec/'
-system_type: Console
+system_types: 
+  - Console
 released: 1987
-manufacturer: NEC
+manufacturers: 
+  - NEC
 bits: 8
 cpu: '2 Hu6280 à 7,16Mhz'
 ram: '8Ko + 64Ko de VRAM; 64Ko (CD-ROM²); 256Ko (Super CD-ROM²)'

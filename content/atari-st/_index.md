@@ -2,9 +2,11 @@
 type: system
 title: 'Atari ST'
 forums_uri: 'http://forums.emunova.net/forum/26-atari/'
-system_type: Ordinateur
+system_types: 
+  - Ordinateur
 released: 1985
-manufacturer: Atari
+manufacturers: 
+  - Atari
 alternate_names:
   - 'Atari STf'
   - 'Atari STe'

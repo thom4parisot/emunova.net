@@ -3,7 +3,7 @@ type: game
 title: 'Hudson Hawk'
 released: 1991
 editors: 
-  -Sony
+  - Sony
 players: 1
 genres:
   - Plates-formes

@@ -2,9 +2,11 @@
 type: system
 title: NES
 forums_uri: 'http://forums.emunova.net/forum/9-nintendo/'
-system_type: Console
+system_types: 
+  - Console
 released: 1985
-manufacturer: Nintendo
+manufacturers: 
+  - Nintendo
 alternate_names:
   - 'Nintendo Entertainment System'
   - Nintendo

@@ -2,9 +2,11 @@
 type: system
 title: 'Game & Watch'
 forums_uri: 'http://forums.emunova.net/forum/9-nintendo/'
-system_type: 'Console portable'
+system_types: 
+  - 'Console portable'
 released: 1980
-manufacturer: Nintendo
+manufacturers: 
+  - Nintendo
 video: 'écran monochrome simple/double/panoramique à cristaux liquides, certaines séries étaient en couleurs'
 audio: 'synthétiseur sonore guère plus évolué que le speaker de votre PC'
 media:

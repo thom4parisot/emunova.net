@@ -3,7 +3,7 @@ type: game
 title: 'International Track & Field : Summer Games'
 released: 2000
 editors: 
-  -Konami
+  - Konami
 players: 4
 genres:
   - Sport

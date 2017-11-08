@@ -3,7 +3,7 @@ type: game
 title: Phelios
 released: 1991
 editors: 
-  -Namco
+  - Namco
 players: 1
 genres:
   - 'Shoot Them Up'

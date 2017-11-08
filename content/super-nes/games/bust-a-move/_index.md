@@ -3,7 +3,7 @@ type: game
 title: Bust-a-Move
 released: 1995
 editors: 
-  -Taito
+  - Taito
 players: 2
 genres:
   - Réflexion

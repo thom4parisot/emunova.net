@@ -3,7 +3,7 @@ type: game
 title: 'Brave Fencer Musashi'
 released: 1998
 editors: 
-  -Square
+  - Square
 players: 1
 genres:
   - Aventure

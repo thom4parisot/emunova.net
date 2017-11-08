@@ -2,9 +2,11 @@
 type: system
 title: ZN-1
 forums_uri: 'http://forums.emunova.net/forum/46-arcade/'
-system_type: Arcade
+system_types: 
+  - Arcade
 released: 1995
-manufacturer: Sony
+manufacturers: 
+  - Sony
 bits: 32
 cpu: 'R3000A RISC @ 33.87MHz'
 ram: '2 Mo pour le système, 2 Mo pour la vidéo, 512 Ko pour l''audio'

@@ -3,7 +3,7 @@ type: game
 title: 'Blades of Steel'
 released: 1991
 editors: 
-  -Konami
+  - Konami
 players: 2
 genres:
   - Sport

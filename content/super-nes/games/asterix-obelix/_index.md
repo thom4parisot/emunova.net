@@ -3,7 +3,7 @@ type: game
 title: 'Astérix & Obélix'
 released: 1995
 editors: 
-  -Infogrames
+  - Infogrames
 players: 2
 genres:
   - Action

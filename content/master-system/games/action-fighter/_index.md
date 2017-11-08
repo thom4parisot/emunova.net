@@ -3,7 +3,7 @@ type: game
 title: 'Action Fighter'
 released: 1986
 editors: 
-  -Sega
+  - Sega
 players: 2
 genres:
   - 'Shoot Them Up'

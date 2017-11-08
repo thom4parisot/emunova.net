@@ -3,7 +3,7 @@ type: game
 title: Strider
 released: 1989
 editors: 
-  -Capcom
+  - Capcom
 players: 1
 genres:
   - 'Beat them all'

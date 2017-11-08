@@ -3,7 +3,7 @@ type: game
 title: '1943 Kai : Midway Kaisen'
 released: 1988
 editors: 
-  -Capcom
+  - Capcom
 players: 2
 genres:
   - 'Shoot Them Up'

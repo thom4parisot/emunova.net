@@ -3,7 +3,7 @@ type: game
 title: 'GT 64 Championship Edition'
 released: 1998
 editors: 
-  -Ocean
+  - Ocean
 players: 2
 genres:
   - Course

@@ -3,7 +3,7 @@ type: game
 title: 'The Adventures of Dr. Franken'
 released: 1993
 editors: 
-  -DTMC
+  - DTMC
 players: 1
 genres:
   - Action

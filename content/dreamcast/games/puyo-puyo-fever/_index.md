@@ -3,7 +3,7 @@ type: game
 title: 'Puyo Puyo Fever'
 released: 2004
 editors: 
-  -Sega
+  - Sega
 players: 2
 genres:
   - Réflexion

@@ -3,7 +3,7 @@ type: game
 title: FreeCell
 released: null
 editors: 
-  -Microsoft
+  - Microsoft
 players: 1
 genres:
   - Réflexion

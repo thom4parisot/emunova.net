@@ -3,7 +3,7 @@ type: game
 title: 'Fantasy Zone II'
 released: 1988
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - 'Shoot Them Up'

@@ -3,7 +3,7 @@ type: game
 title: 'Short Circuit'
 released: 1987
 editors: 
-  -Ocean
+  - Ocean
 players: 1
 genres:
   - Action

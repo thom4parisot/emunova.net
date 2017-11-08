@@ -3,7 +3,7 @@ type: game
 title: 'Super Widget'
 released: 1993
 editors: 
-  -Atlus
+  - Atlus
 players: 1
 genres:
   - Plates-formes

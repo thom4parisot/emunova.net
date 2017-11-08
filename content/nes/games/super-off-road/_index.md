@@ -3,7 +3,7 @@ type: game
 title: 'Super Off Road'
 released: 1989
 editors: 
-  -RARE
+  - RARE
 players: 4
 genres:
   - Course

@@ -3,7 +3,7 @@ type: game
 title: Impact
 released: 1988
 editors: 
-  -Audiogenic
+  - Audiogenic
 players: 1
 genres:
   - Action

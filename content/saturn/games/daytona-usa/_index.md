@@ -3,7 +3,7 @@ type: game
 title: 'Daytona USA'
 released: 1995
 editors: 
-  -Sega
+  - Sega
 players: 2
 genres:
   - Course

@@ -3,7 +3,7 @@ type: game
 title: 'Plok !'
 released: 1994
 editors: 
-  -Activision
+  - Activision
 players: 1
 genres:
   - Plates-formes

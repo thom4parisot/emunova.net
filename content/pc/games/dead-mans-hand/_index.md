@@ -3,7 +3,7 @@ type: game
 title: 'Dead Man''s Hand'
 released: 2004
 editors: 
-  -Atari
+  - Atari
 players: 1
 genres:
   - 'First Person Shooter (FPS)'

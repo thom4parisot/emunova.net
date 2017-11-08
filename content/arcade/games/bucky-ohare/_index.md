@@ -3,7 +3,7 @@ type: game
 title: 'Bucky O''Hare'
 released: 1992
 editors: 
-  -Konami
+  - Konami
 players: 4
 genres:
   - 'Gun Shooting'

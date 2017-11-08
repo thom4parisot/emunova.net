@@ -3,7 +3,7 @@ type: game
 title: 'The Brainies'
 released: 1996
 editors: 
-  -Titus
+  - Titus
 players: 1
 genres:
   - Réflexion

@@ -3,7 +3,7 @@ type: game
 title: 'Neo Bomberman'
 released: 1997
 editors: 
-  -SNK
+  - SNK
 players: 2
 genres:
   - Stratégie

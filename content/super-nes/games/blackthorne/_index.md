@@ -3,7 +3,7 @@ type: game
 title: Blackthorne
 released: 1994
 editors: 
-  -Interplay
+  - Interplay
 players: 1
 genres:
   - Action

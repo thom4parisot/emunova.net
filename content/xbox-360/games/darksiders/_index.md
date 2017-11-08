@@ -3,7 +3,7 @@ type: game
 title: Darksiders
 released: 2010
 editors: 
-  -THQ
+  - THQ
 players: 1
 genres:
   - Action

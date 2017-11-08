@@ -3,7 +3,7 @@ type: game
 title: 'Raging Fighter'
 released: 1993
 editors: 
-  -Konami
+  - Konami
 players: 2
 genres:
   - Combat

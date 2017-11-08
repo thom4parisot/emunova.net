@@ -3,7 +3,7 @@ type: game
 title: 'Ray Tracers'
 released: 1997
 editors: 
-  -Taito
+  - Taito
 players: 1
 genres:
   - Course

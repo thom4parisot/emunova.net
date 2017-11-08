@@ -3,7 +3,7 @@ type: game
 title: 'Hulk : Ultimate Destruction'
 released: 2005
 editors: 
-  -Sierra
+  - Sierra
 players: 1
 genres:
   - Action

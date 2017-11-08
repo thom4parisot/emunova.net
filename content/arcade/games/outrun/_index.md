@@ -3,7 +3,7 @@ type: game
 title: OutRun
 released: 1986
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - Course

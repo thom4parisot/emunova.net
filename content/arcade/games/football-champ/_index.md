@@ -3,7 +3,7 @@ type: game
 title: 'Football Champ'
 released: 1990
 editors: 
-  -Taito
+  - Taito
 players: 2
 genres:
   - Sport

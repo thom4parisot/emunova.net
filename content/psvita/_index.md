@@ -2,9 +2,11 @@
 type: system
 title: 'PS Vita'
 forums_uri: 'http://forums.emunova.net/forum/25-sony/'
-system_type: 'Console portable'
+system_types: 
+  - 'Console portable'
 released: 2011
-manufacturer: Sony
+manufacturers: 
+  - Sony
 alternate_names:
   - 'PlayStation Vita'
 cpu: 'ARM Cortex-A9 MPCore @ 2GHz'

@@ -3,7 +3,7 @@ type: game
 title: 'Toukon Club'
 released: 1992
 editors: 
-  -Jaleco
+  - Jaleco
 players: 2
 genres:
   - Combat

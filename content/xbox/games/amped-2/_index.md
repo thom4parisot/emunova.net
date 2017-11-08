@@ -3,7 +3,7 @@ type: game
 title: 'Amped 2'
 released: 2003
 editors: 
-  -Microsoft
+  - Microsoft
 players: 4
 genres:
   - Sport

@@ -3,7 +3,7 @@ type: game
 title: Renegade
 released: 1987
 editors: 
-  -Imagine
+  - Imagine
 players: 1
 genres:
   - 'Beat them all'

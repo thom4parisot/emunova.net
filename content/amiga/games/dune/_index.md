@@ -3,7 +3,7 @@ type: game
 title: Dune
 released: 1992
 editors: 
-  -Cryo
+  - Cryo
 players: 1
 genres:
   - Aventure

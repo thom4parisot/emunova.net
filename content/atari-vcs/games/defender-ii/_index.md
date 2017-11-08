@@ -3,7 +3,7 @@ type: game
 title: 'Defender II'
 released: 1984
 editors: 
-  -Williams
+  - Williams
 players: 1
 genres:
   - 'Shoot Them Up'

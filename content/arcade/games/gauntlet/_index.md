@@ -3,7 +3,7 @@ type: game
 title: Gauntlet
 released: 1985
 editors: 
-  -Atari
+  - Atari
 players: 4
 genres:
   - Action

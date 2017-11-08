@@ -3,7 +3,7 @@ type: game
 title: Rocky
 released: 1987
 editors: 
-  -Sega
+  - Sega
 players: 2
 genres:
   - Sport

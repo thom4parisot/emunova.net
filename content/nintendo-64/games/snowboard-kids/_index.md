@@ -3,7 +3,7 @@ type: game
 title: 'Snowboard Kids'
 released: 1998
 editors: 
-  -Atlus
+  - Atlus
 players: 4
 genres:
   - Course

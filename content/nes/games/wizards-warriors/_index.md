@@ -3,7 +3,7 @@ type: game
 title: 'Wizards & Warriors'
 released: 1987
 editors: 
-  -Acclaim
+  - Acclaim
 players: 1
 genres:
   - Aventure

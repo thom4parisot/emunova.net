@@ -3,7 +3,7 @@ type: game
 title: 'Twinkle Star Sprites'
 released: 1996
 editors: 
-  -SNK
+  - SNK
 players: 2
 genres:
   - 'Shoot Them Up'

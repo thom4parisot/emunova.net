@@ -3,7 +3,7 @@ type: game
 title: 'Mortal Kombat 4'
 released: 1999
 editors: 
-  -Midway
+  - Midway
 players: 2
 genres:
   - Combat

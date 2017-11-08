@@ -3,7 +3,7 @@ type: game
 title: 'Forgotten Realms : Demon Stone'
 released: 2004
 editors: 
-  -Atari
+  - Atari
 players: 1
 genres:
   - 'Beat them all'

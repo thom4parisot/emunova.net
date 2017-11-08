@@ -3,7 +3,7 @@ type: game
 title: 'Land Maker'
 released: 1998
 editors: 
-  -Taito
+  - Taito
 players: 2
 genres:
   - Réflexion

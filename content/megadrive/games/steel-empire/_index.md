@@ -3,7 +3,7 @@ type: game
 title: 'Steel Empire'
 released: 1992
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - 'Shoot Them Up'

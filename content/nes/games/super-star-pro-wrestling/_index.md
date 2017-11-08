@@ -3,7 +3,7 @@ type: game
 title: 'Super Star Pro Wrestling'
 released: 1989
 editors: 
-  -Pony
+  - Pony
 players: 2
 genres:
   - Combat

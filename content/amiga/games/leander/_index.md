@@ -3,7 +3,7 @@ type: game
 title: Leander
 released: 1991
 editors: 
-  -Psygnosis
+  - Psygnosis
 players: 1
 genres:
   - Action

@@ -3,7 +3,7 @@ type: game
 title: 'Gremlins 2 : The New Batch'
 released: 1990
 editors: 
-  -Sunsoft
+  - Sunsoft
 players: 1
 genres:
   - Plates-formes

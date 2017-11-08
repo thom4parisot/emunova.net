@@ -3,7 +3,7 @@ type: game
 title: 'Street Fighter II'
 released: 1992
 editors: 
-  -Capcom
+  - Capcom
 players: 2
 genres:
   - Combat

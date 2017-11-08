@@ -3,7 +3,7 @@ type: game
 title: 'Super Mario All-Stars : 25th Anniversary Edition'
 released: 2010
 editors: 
-  -Nintendo
+  - Nintendo
 players: 2
 genres:
   - Plates-formes

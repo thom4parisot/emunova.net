@@ -3,7 +3,7 @@ type: game
 title: 'Ecco The Dolphin'
 released: 1993
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - Aventure

@@ -3,7 +3,7 @@ type: game
 title: Rollcage
 released: 1999
 editors: 
-  -Psygnosis
+  - Psygnosis
 players: 6
 genres:
   - Course

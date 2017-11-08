@@ -3,7 +3,7 @@ type: game
 title: 'Ikari Warriors'
 released: 1986
 editors: 
-  -SNK
+  - SNK
 players: 2
 genres:
   - Action

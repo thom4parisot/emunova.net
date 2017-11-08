@@ -2,9 +2,11 @@
 type: system
 title: VCS
 forums_uri: 'http://forums.emunova.net/forum/26-atari/'
-system_type: Console
+system_types: 
+  - Console
 released: 1977
-manufacturer: Atari
+manufacturers: 
+  - Atari
 alternate_names:
   - 'Atari 2600'
   - 'Atari Video Computer System'

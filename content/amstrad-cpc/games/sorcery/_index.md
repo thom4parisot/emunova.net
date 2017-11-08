@@ -3,7 +3,7 @@ type: game
 title: 'Sorcery +'
 released: 1985
 editors: 
-  -Virgin
+  - Virgin
 players: 1
 genres:
   - Aventure

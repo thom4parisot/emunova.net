@@ -2,9 +2,11 @@
 type: system
 title: GP32
 forums_uri: 'http://forums.emunova.net/forum/43-gamepark/'
-system_type: 'Console portable'
+system_types: 
+  - 'Console portable'
 released: 2001
-manufacturer: Gamepark
+manufacturers: 
+  - Gamepark
 bits: 32
 cpu: '32-bits RISC CPU (ARM9) @ de 60MHz overclockable jusqu''à 166Mhz'
 ram: '8 Mo SDRAM; un montage manuel permet de passer à 32Mo'

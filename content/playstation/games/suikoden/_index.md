@@ -3,7 +3,7 @@ type: game
 title: Suikoden
 released: 1995
 editors: 
-  -Konami
+  - Konami
 players: 1
 genres:
   - 'Role Playing Game (RPG)'

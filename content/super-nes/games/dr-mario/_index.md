@@ -3,7 +3,7 @@ type: game
 title: 'Dr. Mario'
 released: 1998
 editors: 
-  -Nintendo
+  - Nintendo
 players: 2
 genres:
   - Réflexion

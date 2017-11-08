@@ -3,7 +3,7 @@ type: game
 title: 'Araiguma Rascal'
 released: 1994
 editors: 
-  -NCS
+  - NCS
 players: 1
 genres:
   - Réflexion

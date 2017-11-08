@@ -3,7 +3,7 @@ type: game
 title: 'Sexy Droid'
 released: 1992
 editors: 
-  -reLINE
+  - reLINE
 players: 2
 genres:
   - Réflexion

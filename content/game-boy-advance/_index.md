@@ -2,9 +2,11 @@
 type: system
 title: 'Game Boy Advance'
 forums_uri: 'http://forums.emunova.net/forum/9-nintendo/'
-system_type: 'Console portable'
+system_types: 
+  - 'Console portable'
 released: 2000
-manufacturer: Nintendo
+manufacturers: 
+  - Nintendo
 alternate_names:
   - GBA
   - 'Game Boy Advance SP'

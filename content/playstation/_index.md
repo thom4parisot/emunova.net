@@ -2,9 +2,11 @@
 type: system
 title: PlayStation
 forums_uri: 'http://forums.emunova.net/forum/25-sony/'
-system_type: Console
+system_types: 
+  - Console
 released: 1994
-manufacturer: Sony
+manufacturers: 
+  - Sony
 alternate_names:
   - PSX
   - PSOne

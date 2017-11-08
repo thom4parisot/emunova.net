@@ -3,7 +3,7 @@ type: game
 title: 'Flying Shark'
 released: 1987
 editors: 
-  -Taito
+  - Taito
 players: 2
 genres:
   - 'Shoot Them Up'

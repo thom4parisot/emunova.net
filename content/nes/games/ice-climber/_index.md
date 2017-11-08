@@ -3,7 +3,7 @@ type: game
 title: 'Ice Climber'
 released: 1985
 editors: 
-  -Nintendo
+  - Nintendo
 players: 2
 genres:
   - Plates-formes

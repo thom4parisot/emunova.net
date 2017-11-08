@@ -3,7 +3,7 @@ type: game
 title: 'Theme Park'
 released: 1994
 editors: 
-  -Bullfrog
+  - Bullfrog
 players: 1
 genres:
   - Simulation

@@ -2,9 +2,11 @@
 type: system
 title: 'Game Boy Color'
 forums_uri: 'http://forums.emunova.net/forum/9-nintendo/'
-system_type: 'Console portable'
+system_types: 
+  - 'Console portable'
 released: 1998
-manufacturer: Nintendo
+manufacturers: 
+  - Nintendo
 bits: 16
 cpu: '8 bits Z80 modifié, cadencé à 8MHz'
 ram: '16 Ko'

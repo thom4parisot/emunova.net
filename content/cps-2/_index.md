@@ -2,9 +2,11 @@
 type: system
 title: CPS-2
 forums_uri: 'http://forums.emunova.net/forum/46-arcade/'
-system_type: Arcade
+system_types: 
+  - Arcade
 released: 1993
-manufacturer: Capcom
+manufacturers: 
+  - Capcom
 bits: 24
 cpu: 'Custum 68000 16-bits @ 16 MHz'
 video: 'Résolution 384x224, 4096 couleurs affichables en mode 32-bits'

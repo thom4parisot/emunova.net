@@ -3,7 +3,7 @@ type: game
 title: 'Castle of Illusion starring Mickey Mouse'
 released: 1990
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - Plates-formes

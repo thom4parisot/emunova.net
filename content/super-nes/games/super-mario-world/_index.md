@@ -3,7 +3,7 @@ type: game
 title: 'Super Mario World'
 released: 1990
 editors: 
-  -Nintendo
+  - Nintendo
 players: 2
 genres:
   - Plates-formes

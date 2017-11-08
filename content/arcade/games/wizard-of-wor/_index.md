@@ -3,7 +3,7 @@ type: game
 title: 'Wizard of Wor'
 released: 1980
 editors: 
-  -Midway
+  - Midway
 players: 2
 genres:
   - Action

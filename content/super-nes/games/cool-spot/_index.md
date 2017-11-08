@@ -3,7 +3,7 @@ type: game
 title: 'Cool Spot'
 released: 1993
 editors: 
-  -Virgin
+  - Virgin
 players: 1
 genres:
   - Plates-formes

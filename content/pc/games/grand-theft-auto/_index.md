@@ -3,7 +3,7 @@ type: game
 title: 'Grand Theft Auto'
 released: 1997
 editors: 
-  -'BMG Interactive'
+  - 'BMG Interactive'
 players: 1
 genres:
   - Action

@@ -3,7 +3,7 @@ type: game
 title: Pacmania
 released: 1991
 editors: 
-  -'TecMagik Entertainment'
+  - 'TecMagik Entertainment'
 players: 2
 genres:
   - Action

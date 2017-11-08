@@ -2,9 +2,11 @@
 type: system
 title: Jaguar
 forums_uri: 'http://forums.emunova.net/forum/26-atari/'
-system_type: Console
+system_types: 
+  - Console
 released: 1993
-manufacturer: Atari
+manufacturers: 
+  - Atari
 bits: 64
 cpu: 'Motorola 68000 RISC 64-bits @ 13 MHz'
 ram: '2 Mo'

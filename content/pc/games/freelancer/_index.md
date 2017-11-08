@@ -3,7 +3,7 @@ type: game
 title: Freelancer
 released: 2003
 editors: 
-  -Microsoft
+  - Microsoft
 players: 1
 genres:
   - Action

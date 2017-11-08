@@ -2,9 +2,11 @@
 type: system
 title: GameCube
 forums_uri: 'http://forums.emunova.net/forum/9-nintendo/'
-system_type: Console
+system_types: 
+  - Console
 released: 2002
-manufacturer: Nintendo
+manufacturers: 
+  - Nintendo
 alternate_names:
   - NGC
 bits: 128

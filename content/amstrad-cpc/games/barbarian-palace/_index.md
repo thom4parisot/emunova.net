@@ -3,7 +3,7 @@ type: game
 title: 'Barbarian (Palace)'
 released: 1987
 editors: 
-  -Palace
+  - Palace
 players: 2
 genres:
   - Combat

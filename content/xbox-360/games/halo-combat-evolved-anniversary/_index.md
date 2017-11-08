@@ -3,7 +3,7 @@ type: game
 title: 'Halo: Combat Evolved Anniversary'
 released: 2011
 editors: 
-  -Microsoft
+  - Microsoft
 players: 10
 genres:
   - 'First Person Shooter (FPS)'

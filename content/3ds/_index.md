@@ -2,9 +2,11 @@
 type: system
 title: 3DS
 forums_uri: 'http://forums.emunova.net/forum/9-nintendo/'
-system_type: 'Console portable'
+system_types: 
+  - 'Console portable'
 released: 2012
-manufacturer: Nintendo
+manufacturers: 
+  - Nintendo
 alternate_names:
   - 'Nintendo 3DS'
   - 'Nintendo 2DS'

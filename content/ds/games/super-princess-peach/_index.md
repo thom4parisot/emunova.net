@@ -3,7 +3,7 @@ type: game
 title: 'Super Princess Peach'
 released: 2006
 editors: 
-  -Nintendo
+  - Nintendo
 players: 1
 genres:
   - Plates-formes

@@ -2,9 +2,11 @@
 type: system
 title: 'Model 2'
 forums_uri: 'http://forums.emunova.net/forum/46-arcade/'
-system_type: Arcade
+system_types: 
+  - Arcade
 released: 1994
-manufacturer: SEGA
+manufacturers: 
+  - SEGA
 bits: 32
 cpu: '32 bits RISC @ 25MHz'
 video: '300.000 polygones par seconde en 496x384 et 65.536 couleurs'

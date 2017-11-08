@@ -3,7 +3,7 @@ type: game
 title: 'Skulls of the shogun'
 released: 2013
 editors: 
-  -Microsoft
+  - Microsoft
 players: 4
 genres:
   - Stratégie

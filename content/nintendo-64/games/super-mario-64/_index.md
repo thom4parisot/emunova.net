@@ -3,7 +3,7 @@ type: game
 title: 'Super Mario 64'
 released: 1996
 editors: 
-  -Nintendo
+  - Nintendo
 players: 1
 genres:
   - Plates-formes

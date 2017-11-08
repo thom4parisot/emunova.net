@@ -3,7 +3,7 @@ type: game
 title: 'Enduro Racer'
 released: 1987
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - Course

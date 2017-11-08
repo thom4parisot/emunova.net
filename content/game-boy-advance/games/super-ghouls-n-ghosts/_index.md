@@ -3,7 +3,7 @@ type: game
 title: 'Super Ghouls ''n Ghosts'
 released: 2002
 editors: 
-  -Capcom
+  - Capcom
 players: 1
 genres:
   - Plates-formes

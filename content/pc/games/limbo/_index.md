@@ -3,7 +3,7 @@ type: game
 title: Limbo
 released: 2011
 editors: 
-  -Playdead
+  - Playdead
 players: 1
 genres:
   - Plates-formes

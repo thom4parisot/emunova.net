@@ -3,9 +3,11 @@ type: system
 title: 32x
 forums_uri: 'http://forums.emunova.net/forum/20-sega/'
 description: 'Le **32X** était une extension de la console [Megadrive](/megadrive/) de SEGA permettant de booster la puissance de cette dernière pour en faire une console 32 bits'
-system_type: Extension
+system_types: 
+  - Extension
 released: 1994
-manufacturer: SEGA
+manufacturers: 
+  - SEGA
 bits: 32
 cpu: 'Motorola MC 68000 à 12,5 Mhz'
 ram: '6 Mbits pour la programmation image & Sons, 512 Kbits PCM, 128 Kbits de mémoire cache, 64 Kbits pour les sauvegardes et 1 Mbits pour le bios, Cd Roms et CD-a.'

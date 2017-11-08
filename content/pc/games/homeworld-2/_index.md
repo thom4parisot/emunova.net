@@ -3,7 +3,7 @@ type: game
 title: 'Homeworld 2'
 released: 2003
 editors: 
-  -Sierra
+  - Sierra
 players: 6
 genres:
   - Stratégie

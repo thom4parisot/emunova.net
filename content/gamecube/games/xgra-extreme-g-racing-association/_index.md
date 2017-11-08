@@ -3,7 +3,7 @@ type: game
 title: 'XGRA : EXtreme-G Racing Association'
 released: 2003
 editors: 
-  -Acclaim
+  - Acclaim
 players: 4
 genres:
   - Course

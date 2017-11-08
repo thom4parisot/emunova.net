@@ -3,7 +3,7 @@ type: game
 title: "Alone in the Dark"
 released: 1994
 editors: 
-  -"Atari"
+  - "Atari"
 players: 1
 genres:
  - "Aventure"

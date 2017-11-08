@@ -3,7 +3,7 @@ type: game
 title: 'The Legend of Kage'
 released: 1987
 editors: 
-  -Taito
+  - Taito
 players: 1
 genres:
   - Action

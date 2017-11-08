@@ -3,7 +3,7 @@ type: game
 title: 'Plus Plum'
 released: 1999
 editors: 
-  -Takuyo
+  - Takuyo
 players: 2
 genres:
   - Réflexion

@@ -3,7 +3,7 @@ type: game
 title: 'Bomber Hehhe'
 released: 2002
 editors: 
-  -Fujicom
+  - Fujicom
 players: 1
 genres:
   - Inclassable

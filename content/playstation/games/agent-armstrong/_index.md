@@ -3,7 +3,7 @@ type: game
 title: 'Agent Armstrong'
 released: 1997
 editors: 
-  -Virgin
+  - Virgin
 players: 1
 genres:
   - Action

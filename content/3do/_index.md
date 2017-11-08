@@ -2,9 +2,11 @@
 type: system
 title: 3DO
 forums_uri: 'http://forums.emunova.net/forum/12-emulation-jeux-video-abandonware/'
-system_type: Console
+system_types: 
+  - Console
 released: 1993
-manufacturer: 3DO
+manufacturers: 
+  - 3DO
 bits: 32
 cpu: 'ARM60 25Mhz'
 ram: '2 Mo DRAM + 1Mo VRAM'

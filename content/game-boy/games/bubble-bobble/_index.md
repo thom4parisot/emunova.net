@@ -3,7 +3,7 @@ type: game
 title: 'Bubble Bobble'
 released: 1991
 editors: 
-  -Taito
+  - Taito
 players: 1
 genres:
   - Plates-formes

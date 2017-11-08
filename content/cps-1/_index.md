@@ -2,9 +2,11 @@
 type: system
 title: CPS-1
 forums_uri: 'http://forums.emunova.net/forum/46-arcade/'
-system_type: Arcade
+system_types: 
+  - Arcade
 released: 1988
-manufacturer: Capcom
+manufacturers: 
+  - Capcom
 bits: 16
 cpu: 'Motorola 68000 @ 10MHz'
 video: '384 x 224'

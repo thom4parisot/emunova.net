@@ -3,7 +3,7 @@ type: game
 title: 'Flight of the Amazon Queen'
 released: 1995
 editors: 
-  -Renegade
+  - Renegade
 players: 1
 genres:
   - Aventure

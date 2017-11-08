@@ -3,7 +3,7 @@ type: game
 title: 'Dragon''s Lair'
 released: 1992
 editors: 
-  -Elite
+  - Elite
 players: 1
 genres:
   - Action

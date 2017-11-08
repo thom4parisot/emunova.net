@@ -3,7 +3,7 @@ type: game
 title: 'Megaman ZX Advent'
 released: 2007
 editors: 
-  -Capcom
+  - Capcom
 players: 1
 genres:
   - Action

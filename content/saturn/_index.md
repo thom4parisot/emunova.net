@@ -2,8 +2,10 @@
 type: system
 title: Saturn
 forums_uri: 'http://forums.emunova.net/forum/20-sega/'
-system_type: Console
-manufacturer: SEGA
+system_types: 
+  - Console
+manufacturers: 
+  - SEGA
 released: 1994
 bits: 16
 cpu: 'Dual SH-2 32-bit RISC avec SH-1 @ 27.5mhz'

@@ -2,9 +2,11 @@
 type: system
 title: 'Neo Geo Pocket'
 forums_uri: 'http://forums.emunova.net/forum/11-snk/'
-system_type: 'Console portable'
+system_types: 
+  - 'Console portable'
 released: 1998
-manufacturer: SNK
+manufacturers: 
+  - SNK
 alternate_names:
   - NGP
 bits: 16

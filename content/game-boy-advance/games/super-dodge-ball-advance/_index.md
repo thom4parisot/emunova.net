@@ -3,7 +3,7 @@ type: game
 title: 'Super Dodge Ball Advance'
 released: 2001
 editors: 
-  -'Ubi Soft'
+  - 'Ubi Soft'
 players: 2
 genres:
   - Sport

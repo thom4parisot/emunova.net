@@ -3,7 +3,7 @@ type: game
 title: Arkanoid
 released: 1990
 editors: 
-  -Taito
+  - Taito
 players: 1
 genres:
   - Inclassable

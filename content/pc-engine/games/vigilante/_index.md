@@ -3,7 +3,7 @@ type: game
 title: Vigilante
 released: 1989
 editors: 
-  -Irem
+  - Irem
 players: 1
 genres:
   - 'Beat them all'

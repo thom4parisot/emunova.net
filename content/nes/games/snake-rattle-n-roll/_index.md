@@ -3,7 +3,7 @@ type: game
 title: 'Snake Rattle ''n'' Roll'
 released: 1990
 editors: 
-  -Nintendo
+  - Nintendo
 players: 2
 genres:
   - Plates-formes

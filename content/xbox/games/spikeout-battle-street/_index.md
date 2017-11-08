@@ -3,7 +3,7 @@ type: game
 title: 'SpikeOut Battle Street'
 released: 2005
 editors: 
-  -Sega
+  - Sega
 players: 4
 genres:
   - 'Beat them all'

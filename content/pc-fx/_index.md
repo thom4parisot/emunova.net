@@ -2,9 +2,11 @@
 type: system
 title: 'PC FX'
 forums_uri: 'http://forums.emunova.net/forum/41-nec/'
-system_type: Console
+system_types: 
+  - Console
 released: 1994
-manufacturer: NEC
+manufacturers: 
+  - NEC
 bits: 32
 cpu: 'NEC V810 RISC @ 21.5 MHz'
 ram: '2 Mo + 1.25 Mo de mémoire vidéo (VRAM)'

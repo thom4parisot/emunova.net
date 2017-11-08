@@ -3,7 +3,7 @@ type: game
 title: 'Densha de Go! 64'
 released: 1999
 editors: 
-  -Taito
+  - Taito
 players: 1
 genres:
   - Simulation

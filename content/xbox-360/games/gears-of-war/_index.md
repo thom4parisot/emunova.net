@@ -3,7 +3,7 @@ type: game
 title: 'Gears of War'
 released: 2006
 editors: 
-  -Microsoft
+  - Microsoft
 players: 8
 genres:
   - Action

@@ -2,9 +2,11 @@
 type: system
 title: 'Game Boy'
 forums_uri: 'http://forums.emunova.net/forum/9-nintendo/'
-system_type: 'Console portable'
+system_types: 
+  - 'Console portable'
 released: 1989
-manufacturer: Nintendo
+manufacturers: 
+  - Nintendo
 alternate_names:
   - 'Game Boy Light'
   - 'Game Boy Pocket'

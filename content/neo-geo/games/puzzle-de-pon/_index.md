@@ -3,7 +3,7 @@ type: game
 title: 'Puzzle de Pon !'
 released: 1995
 editors: 
-  -SNK
+  - SNK
 players: 2
 genres:
   - Réflexion

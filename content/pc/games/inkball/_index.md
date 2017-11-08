@@ -3,7 +3,7 @@ type: game
 title: Inkball
 released: 2007
 editors: 
-  -Microsoft
+  - Microsoft
 players: 1
 genres:
   - Action

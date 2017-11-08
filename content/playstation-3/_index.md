@@ -2,9 +2,11 @@
 type: system
 title: 'PlayStation 3'
 forums_uri: 'http://forums.emunova.net/forum/25-sony/'
-system_type: Console
+system_types: 
+  - Console
 released: 2006
-manufacturer: Sony
+manufacturers: 
+  - Sony
 alternate_names:
   - PS3
   - 'PS3 Slim'

@@ -3,7 +3,7 @@ type: game
 title: Skyblazer
 released: 1993
 editors: 
-  -Sony
+  - Sony
 players: 1
 genres:
   - Plates-formes

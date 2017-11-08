@@ -2,9 +2,11 @@
 type: system
 title: DreamCast
 forums_uri: 'http://forums.emunova.net/forum/20-sega/'
-system_type: Console
+system_types: 
+  - Console
 released: 1998
-manufacturer: SEGA
+manufacturers: 
+  - SEGA
 bits: 128
 cpu: 'Hitachi SH7750 (famille SH-4) à 200 MHz'
 ram: '16 Mo SD-RAM'

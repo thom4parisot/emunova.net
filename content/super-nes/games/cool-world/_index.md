@@ -3,7 +3,7 @@ type: game
 title: 'Cool World'
 released: 1992
 editors: 
-  -Ocean
+  - Ocean
 players: 1
 genres:
   - Action

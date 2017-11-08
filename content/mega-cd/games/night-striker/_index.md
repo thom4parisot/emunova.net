@@ -3,7 +3,7 @@ type: game
 title: 'Night Striker'
 released: 1993
 editors: 
-  -Taito
+  - Taito
 players: 1
 genres:
   - 'Shoot Them Up'

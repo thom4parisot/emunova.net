@@ -3,7 +3,7 @@ type: game
 title: Cybersled
 released: 1995
 editors: 
-  -Namco
+  - Namco
 players: 2
 genres:
   - Combat

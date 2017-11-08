@@ -3,7 +3,7 @@ type: game
 title: 'The Mask'
 released: 1995
 editors: 
-  -THQ
+  - THQ
 players: 1
 genres:
   - Action

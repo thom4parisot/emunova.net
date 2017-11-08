@@ -3,7 +3,7 @@ type: game
 title: 'Thrill Drive'
 released: 1998
 editors: 
-  -Konami
+  - Konami
 players: 2
 genres:
   - Course

@@ -3,7 +3,7 @@ type: game
 title: 'Chambers of Shaolin'
 released: 1989
 editors: 
-  -Thalion
+  - Thalion
 players: 2
 genres:
   - Combat

@@ -3,7 +3,7 @@ type: game
 title: 'Megaman X5'
 released: 2000
 editors: 
-  -Capcom
+  - Capcom
 players: 1
 genres:
   - Action

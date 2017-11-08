@@ -3,7 +3,7 @@ type: game
 title: 'Remember me'
 released: 2013
 editors: 
-  -Capcom
+  - Capcom
 players: 1
 genres:
   - Aventure

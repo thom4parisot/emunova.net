@@ -3,7 +3,7 @@ type: game
 title: 'Woodruff And The Schnibble Of Azimuth'
 released: 1994
 editors: 
-  -Sierra
+  - Sierra
 players: 1
 genres:
   - Aventure

@@ -3,7 +3,7 @@ type: game
 title: Chill
 released: 1998
 editors: 
-  -Eidos
+  - Eidos
 players: 2
 genres:
   - Sport

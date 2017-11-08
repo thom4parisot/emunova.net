@@ -3,7 +3,7 @@ type: game
 title: 'Dragon Ball Z : Budokai'
 released: 2003
 editors: 
-  -Atari
+  - Atari
 players: 2
 genres:
   - 'Beat them up'

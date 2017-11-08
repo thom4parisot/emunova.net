@@ -3,7 +3,7 @@ type: game
 title: 'Castlevania : Symphony of the Night'
 released: 1997
 editors: 
-  -Konami
+  - Konami
 players: 1
 genres:
   - Aventure

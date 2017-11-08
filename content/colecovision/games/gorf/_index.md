@@ -3,7 +3,7 @@ type: game
 title: Gorf
 released: 1981
 editors: 
-  -Midway
+  - Midway
 players: 2
 genres:
   - 'Shoot Them Up'

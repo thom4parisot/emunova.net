@@ -3,7 +3,7 @@ type: game
 title: 'American Gladiators'
 released: 1993
 editors: 
-  -Gametek
+  - Gametek
 players: 2
 genres:
   - Inclassable

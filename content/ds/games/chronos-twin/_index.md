@@ -3,7 +3,7 @@ type: game
 title: 'Chronos Twin'
 released: 2007
 editors: 
-  -'Oxygen Games'
+  - 'Oxygen Games'
 players: 1
 genres:
   - Action

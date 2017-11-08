@@ -3,7 +3,7 @@ type: game
 title: 'Shadow Fighter'
 released: 1995
 editors: 
-  -Gremlin
+  - Gremlin
 players: 2
 genres:
   - Combat

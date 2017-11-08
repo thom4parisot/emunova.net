@@ -3,7 +3,7 @@ type: game
 title: 'Mystical Ninja 2 starring Goemon'
 released: 1999
 editors: 
-  -Konami
+  - Konami
 players: 4
 genres:
   - Plates-formes

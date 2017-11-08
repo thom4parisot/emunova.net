@@ -3,7 +3,7 @@ type: game
 title: Wip3out
 released: null
 editors: 
-  -Psygnosis
+  - Psygnosis
 players: 4
 genres:
   - Course

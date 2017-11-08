@@ -3,7 +3,7 @@ type: game
 title: 'The Terminator'
 released: 1994
 editors: 
-  -Virgin
+  - Virgin
 players: 1
 genres:
   - Action

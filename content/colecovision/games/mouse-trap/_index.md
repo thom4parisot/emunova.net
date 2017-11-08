@@ -3,7 +3,7 @@ type: game
 title: 'Mouse Trap'
 released: 1982
 editors: 
-  -Exidy
+  - Exidy
 players: 2
 genres:
   - Action

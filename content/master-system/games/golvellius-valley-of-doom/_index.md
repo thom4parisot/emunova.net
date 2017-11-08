@@ -3,7 +3,7 @@ type: game
 title: 'Golvellius : Valley Of Doom'
 released: 1988
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - Aventure

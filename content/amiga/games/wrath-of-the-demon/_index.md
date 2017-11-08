@@ -3,7 +3,7 @@ type: game
 title: 'Wrath of the Demon'
 released: 1990
 editors: 
-  -Readysoft
+  - Readysoft
 players: 1
 genres:
   - Aventure

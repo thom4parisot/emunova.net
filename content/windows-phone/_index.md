@@ -2,9 +2,11 @@
 type: system
 title: 'Windows Phone'
 forums_uri: 'http://forums.emunova.net/forum/54-microsoft/'
-system_type: Téléphone
+system_types: 
+  - Téléphone
 released: 2010
-manufacturer: Microsoft
+manufacturers: 
+  - Microsoft
 media:
   - Digital
 ---

@@ -3,7 +3,7 @@ type: game
 title: 'Resident Evil : Code Veronica'
 released: 2000
 editors: 
-  -Capcom
+  - Capcom
 players: 1
 genres:
   - Action

@@ -3,7 +3,7 @@ type: game
 title: 'Body Harvest'
 released: 1999
 editors: 
-  -Gremlin
+  - Gremlin
 players: 1
 genres:
   - Action

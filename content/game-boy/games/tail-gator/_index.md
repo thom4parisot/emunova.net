@@ -3,7 +3,7 @@ type: game
 title: 'Tail ''Gator'
 released: 1991
 editors: 
-  -Natsume
+  - Natsume
 players: 1
 genres:
   - Plates-formes

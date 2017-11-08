@@ -3,7 +3,7 @@ type: game
 title: 'Panzer Dragoon Saga'
 released: 1998
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - 'Role Playing Game (RPG)'

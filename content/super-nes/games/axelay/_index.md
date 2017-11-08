@@ -3,7 +3,7 @@ type: game
 title: Axelay
 released: 1992
 editors: 
-  -Konami
+  - Konami
 players: 1
 genres:
   - 'Shoot Them Up'

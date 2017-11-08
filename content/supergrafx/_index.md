@@ -2,9 +2,11 @@
 type: system
 title: SuperGrafx
 forums_uri: 'http://forums.emunova.net/forum/41-nec/'
-system_type: Console
+system_types: 
+  - Console
 released: 1989
-manufacturer: NEC
+manufacturers: 
+  - NEC
 bits: 8
 cpu: '65816 et Hu6280 à 7Mhz'
 ram: 32Ko

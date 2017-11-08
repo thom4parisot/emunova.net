@@ -3,7 +3,7 @@ type: game
 title: 'Castlevania Chronicles'
 released: 2001
 editors: 
-  -Konami
+  - Konami
 players: 1
 genres:
   - Plates-formes

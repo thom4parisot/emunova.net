@@ -7,23 +7,37 @@ alternate_names:
   - 'Super Famicom'
   - 'Super Nintendo'
   - 'Super Nintendo Entertainment System'
-system_type: Console
-manufacturer: Nintendo
+system_types:
+  - Console
+manufacturers:
+  - Nintendo
 released: 1991
 bits: 16
 media:
   - Cartouche
 cpu:
-  bit: 16
-  model: 5A22
-  frequency: 3.58
-  manufacturer: Ricoh
+  - bit: 16
+    model: 5A22
+    frequency: 3.58
+    manufacturers:
+      - Ricoh
 ram: 128
 gpu:
-  - {manufacturer: Ricoh, model: 5c77, ram: 32, colours: 32768, resolutions: [256x224, 512x448]}
-  - {manufacturer: Ricoh, model: 5C78, ram: 32, colours: 32768, resolutions: [256x224, 512x448]}
+  - manufacturers:
+      - Ricoh
+    model: 5c77
+    ram: 32
+    colours: 32768
+    resolutions: [256x224, 512x448]
+  - manufacturers:
+      - Ricoh
+    model: 5C78
+    ram: 32
+    colours: 32768
+    resolutions: [256x224, 512x448]
 dsp:
-  manufacturer: Sony
+  manufacturers:
+    - Sony
   model: SPC700
   channels: 8
   frequency: 1024
@@ -31,10 +45,6 @@ regions:
   - Japan
   - 'North America'
   - Europe
----
----
-type: system
-title:  L'histoire de la Super NES
 ---
 
 La reine des consoles de la génération des 16 bits, une suprématie incontestée grâce à des titres comme Super Mario World,
@@ -44,7 +54,7 @@ Elle nous a aussi offert en fin de vie des titres d'exception comme Final Fantas
 
 Noter que la fin de la Super NES marque le fin du règne sans partage (en tant que constructeur de hardware) de Nintendo sur le monde du jeu vidéo.
 
----
+<!--more-->
 
 # Contexte et histoire de la console
 

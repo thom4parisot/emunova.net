@@ -3,7 +3,7 @@ type: game
 title: 'Undercover Cops'
 released: 1992
 editors: 
-  -Irem
+  - Irem
 players: 3
 genres:
   - 'Beat them all'

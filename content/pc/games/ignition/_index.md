@@ -3,7 +3,7 @@ type: game
 title: Ignition
 released: 1997
 editors: 
-  -Virgin
+  - Virgin
 players: 2
 genres:
   - Course

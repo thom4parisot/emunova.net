@@ -3,7 +3,7 @@ type: game
 title: 'Battle Pinball'
 released: 1995
 editors: 
-  -Banpresto
+  - Banpresto
 players: 1
 genres:
   - Inclassable

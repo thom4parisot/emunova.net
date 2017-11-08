@@ -3,7 +3,7 @@ type: game
 title: 'Pop ''n TwinBee'
 released: 1993
 editors: 
-  -Konami
+  - Konami
 players: 2
 genres:
   - 'Shoot Them Up'

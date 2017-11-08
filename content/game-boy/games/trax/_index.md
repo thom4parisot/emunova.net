@@ -3,7 +3,7 @@ type: game
 title: Trax
 released: 1991
 editors: 
-  -Nintendo
+  - Nintendo
 players: 4
 genres:
   - 'Shoot Them Up'

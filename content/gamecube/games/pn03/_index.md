@@ -3,7 +3,7 @@ type: game
 title: P.N.03
 released: 2003
 editors: 
-  -Capcom
+  - Capcom
 players: 1
 genres:
   - Action

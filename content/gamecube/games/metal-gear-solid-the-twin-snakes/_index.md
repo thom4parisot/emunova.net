@@ -3,7 +3,7 @@ type: game
 title: 'Metal Gear Solid : The Twin Snakes'
 released: 2004
 editors: 
-  -Konami
+  - Konami
 players: 1
 genres:
   - Aventure

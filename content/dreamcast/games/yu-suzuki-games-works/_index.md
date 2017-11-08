@@ -3,7 +3,7 @@ type: game
 title: 'Yu Suzuki Games Works'
 released: 2001
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - Inclassable

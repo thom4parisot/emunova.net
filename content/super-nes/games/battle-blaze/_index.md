@@ -3,7 +3,7 @@ type: game
 title: 'Battle Blaze'
 released: 1992
 editors: 
-  -Sammy
+  - Sammy
 players: 2
 genres:
   - Combat

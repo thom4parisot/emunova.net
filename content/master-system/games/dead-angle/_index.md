@@ -3,7 +3,7 @@ type: game
 title: 'Dead Angle'
 released: 1989
 editors: 
-  -Sega
+  - Sega
 players: 1
 genres:
   - 'Gun Shooting'

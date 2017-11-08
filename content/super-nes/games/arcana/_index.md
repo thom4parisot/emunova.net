@@ -3,7 +3,7 @@ type: game
 title: Arcana
 released: 1992
 editors: 
-  -Hal
+  - Hal
 players: 1
 genres:
   - 'Role Playing Game (RPG)'

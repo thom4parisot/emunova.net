@@ -2,9 +2,11 @@
 type: system
 title: Wonderswan
 forums_uri: 'http://forums.emunova.net/forum/42-bandai/'
-system_type: 'Console portable'
+system_types: 
+  - 'Console portable'
 released: 2000
-manufacturer: Bandai
+manufacturers: 
+  - Bandai
 bits: 16
 cpu: 'NEC V30 MZ 16-bits @ 3MHz'
 ram: '128 Ko de VRAM (vidéo) & 512 Ko de RAM'

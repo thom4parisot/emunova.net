@@ -3,7 +3,7 @@ type: game
 title: 'Super Breakout'
 released: 1978
 editors: 
-  -Atari
+  - Atari
 players: 1
 genres:
   - Action
