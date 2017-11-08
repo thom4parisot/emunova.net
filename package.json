@@ -5,13 +5,14 @@
   "description": "",
   "scripts": {
     "index": "node ./bin/index-content.js",
+    "hugo:serve": "hugo serve",
+    "hugo:build": "hugo --baseURL https://emunova.net",
     "test": "exit 0",
     "less": "lessc --include-path=static/less/lib:node_modules/bootstrap/less",
-    "dump": "echo $npm_package_scripts_build_css",
-    "build": "npm-run-all -p 'build:*'",
+    "build": "run-p hugo:build 'build:*'",
     "build:js": "browserify -g [ uglifyify -c -m ] -o static/bundle.js static/assets/js/main.js",
     "build:css": "$npm_package_scripts_less static/less/core.less static/bundle.css",
-    "watch": "npm-run-all -p 'watch:*'",
+    "start": "run-p hugo:serve 'watch:*'",
     "watch:js": "watchify -vd -o static/bundle.js static/assets/js/main.js",
     "watch:css": "nodemon -e less -w static/less -x 'npm run build:css'"
   },
@@ -27,19 +28,19 @@
   "dependencies": {
     "algoliasearch": "^3.14.0",
     "babel-preset-env": "^1.6.1",
-    "babelify": "^7.3.0",
     "bootstrap": "~3.1.0",
-    "browserify": "^13.0.0",
     "fast-sha256": "^1.0.0",
-    "hyperquest": "^1.3.0",
     "jquery": "^2.2.3",
     "less": "^2.7.3",
     "lodash": "^4.11.1",
-    "npm-run-all": "^1.8.0",
     "sorttable": "github:oncletom/sorttable#develop"
   },
   "devDependencies": {
+    "babelify": "^8.0.0",
+    "browserify": "^14.5.0",
+    "hyperquest": "^2.1.2",
     "nodemon": "^1.12.1",
+    "npm-run-all": "^4.1.2",
     "uglifyify": "^4.0.4",
     "watchify": "^3.7.0"
   },

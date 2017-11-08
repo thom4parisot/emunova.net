@@ -1,29 +1,28 @@
 # [emunova.net](https://emunova.net) [![Build Status](https://travis-ci.org/oncletom/emunova.net.svg?branch=master)](https://travis-ci.org/oncletom/emunova.net)
 
-## Installing
+# Install
 
 ```bash
+$ brew install hugo
 $ git clone https://github.com/oncletom/emunova.net.git --branch master --single-branch
 $ cd emunova.net
 $ npm install
 ```
 
-## Assembling
+# Assembling
 
-### Production
+## Production
 
 ```bash
-$ hugo convert
 $ npm run build
 ```
 
 Files will be available in the `./public` folder.
 
-### Development
+## Development
 
 ```bash
-$ hugo serve
-$ npm run watch
+$ npm start
 ```
 
 Website will be available at [localhost:1313](http://localhost:1313/).
