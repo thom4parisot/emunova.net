@@ -49,7 +49,8 @@
   </form>
 
   <div class="row" data-sorter="systems">
-    {{ range $Systems.ByTitle }}
+    {{ range $index, $System := $Systems.ByTitle }}
+      {{- $i := add $index 1 -}}
       {{- $Games := (index .Sections 0 | default $DefaultSections).Sections -}}
       {{- $Pictures := .Pages -}}
       <div class="col-sm-4 col-md-3 col-xs-6" data-year="{{ .Params.released }}" data-type="{{ .Params.system_type }}" data-manufacturer="{{ .Params.manufacturer }}">
@@ -81,6 +82,10 @@
           </div>
         </div>
       </div>
+
+      {{- if eq (mod $i 4) 0 }}<div class="clearfix visible-md visible-lg"></div>{{ end -}}
+      {{- if eq (mod $i 3) 0 }}<div class="clearfix visible-sm"></div>{{ end -}}
+      {{- if eq (mod $i 2) 0 }}<div class="clearfix visible-xs"></div>{{ end -}}
     {{ end }}
   </div>
 </main>
