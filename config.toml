@@ -5,6 +5,7 @@ DefaultContentLanguage = "fr"
 languageCode = "fr-FR"
 defaultContentLanguageInSubdir = false
 
+disableLiveReload = true
 pluralizeListTitles = false
 noTimes = true
 ignoreFiles = [ "\\.git$", "node_modules" ]

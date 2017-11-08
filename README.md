@@ -1,13 +1,11 @@
-# [emunova.net](https://emunova.net) [![Build Status](https://travis-ci.org/oncletom/data.emunova.net.svg?branch=master)](https://travis-ci.org/oncletom/data.emunova.net) [![Build Status](https://travis-ci.org/oncletom/emunova.net.svg?branch=master)](https://travis-ci.org/oncletom/emunova.net)
+# [emunova.net](https://emunova.net) [![Build Status](https://travis-ci.org/oncletom/emunova.net.svg?branch=master)](https://travis-ci.org/oncletom/emunova.net)
 
 ## Installing
 
-[`data.emunova.net`](https://github.com/oncletom/data.emunova.net) must have been installed first.
-
 ```bash
-git clone https://github.com/oncletom/emunova.net.git --branch master --single-branch
-npm install
-npm link data.emunova.net
+$ git clone https://github.com/oncletom/emunova.net.git --branch master --single-branch
+$ cd emunova.net
+$ npm install
 ```
 
 ## Assembling
@@ -15,21 +13,17 @@ npm link data.emunova.net
 ### Production
 
 ```bash
-npm run build
+$ hugo convert
+$ npm run build
 ```
+
+Files will be available in the `./public` folder.
 
 ### Development
 
-By default, it will build things for the 3DO system only.
-
 ```bash
-NODE_ENV=dev npm run build
+$ hugo serve
+$ npm run watch
 ```
 
-You can change that by exposing the `SYSTEM` env variable:
-
-```bash
-NODE_ENV=dev npm run build -- --system arcade
-```
-
-This will then assemble only the `arcade` system.
+Website will be available at [localhost:1313](http://localhost:1313/).
