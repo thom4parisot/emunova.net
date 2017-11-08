@@ -2,7 +2,8 @@
 type: game
 title: 'Panzer Dragoon Zwei'
 released: 1996
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - 'Shoot Them Up'

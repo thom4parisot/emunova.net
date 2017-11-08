@@ -2,7 +2,8 @@
 type: game
 title: 'Death Rally'
 released: 1996
-editor: Apogee
+editors: 
+  -Apogee
 players: 2
 genres:
   - Course

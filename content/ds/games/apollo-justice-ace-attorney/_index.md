@@ -2,7 +2,8 @@
 type: game
 title: 'Apollo Justice : Ace Attorney'
 released: 2008
-editor: Capcom
+editors: 
+  -Capcom
 players: 1
 genres:
   - Réflexion

@@ -2,7 +2,8 @@
 type: game
 title: 'No One Lives Forever'
 released: 2000
-editor: 'Fox Interactive'
+editors: 
+  -'Fox Interactive'
 players: 1
 genres:
   - 'First Person Shooter (FPS)'

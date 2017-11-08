@@ -2,7 +2,8 @@
 type: game
 title: 'Pokémon Version Bleue'
 released: 1996
-editor: Nintendo
+editors: 
+  -Nintendo
 players: 2
 genres:
   - 'Role Playing Game (RPG)'

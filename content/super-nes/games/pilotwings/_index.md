@@ -2,7 +2,8 @@
 type: game
 title: Pilotwings
 released: 1992
-editor: Nintendo
+editors: 
+  -Nintendo
 players: 1
 genres:
   - Simulation

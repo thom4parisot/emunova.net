@@ -2,7 +2,8 @@
 type: game
 title: Carcassonne
 released: 2010
-editor: TheCodingMonkeys
+editors: 
+  -TheCodingMonkeys
 players: 5
 genres:
   - Stratégie

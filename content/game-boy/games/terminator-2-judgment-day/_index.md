@@ -2,7 +2,8 @@
 type: game
 title: 'Terminator 2 : Judgment Day'
 released: 1992
-editor: Capcom
+editors: 
+  -Capcom
 players: 1
 genres:
   - 'Beat them all'

@@ -2,7 +2,8 @@
 type: game
 title: 'Art Alive !'
 released: 1992
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Inclassable

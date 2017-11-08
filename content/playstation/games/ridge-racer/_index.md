@@ -2,7 +2,8 @@
 type: game
 title: 'Ridge Racer'
 released: 1995
-editor: Namco
+editors: 
+  -Namco
 players: 1
 genres:
   - Course

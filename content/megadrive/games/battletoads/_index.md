@@ -2,7 +2,8 @@
 type: game
 title: Battletoads
 released: 1993
-editor: Sega
+editors: 
+  -Sega
 players: 2
 genres:
   - 'Beat them all'

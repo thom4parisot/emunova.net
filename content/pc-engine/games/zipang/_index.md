@@ -2,7 +2,8 @@
 type: game
 title: Zipang
 released: 2000
-editor: Taito
+editors: 
+  -Taito
 players: 1
 genres:
   - Action

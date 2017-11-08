@@ -2,7 +2,8 @@
 type: game
 title: Blade
 released: 2000
-editor: Activision
+editors: 
+  -Activision
 players: 1
 genres:
   - Action

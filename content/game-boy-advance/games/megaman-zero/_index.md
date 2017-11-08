@@ -2,7 +2,8 @@
 type: game
 title: 'Megaman Zero'
 released: 2002
-editor: Capcom
+editors: 
+  -Capcom
 players: 1
 genres:
   - Action

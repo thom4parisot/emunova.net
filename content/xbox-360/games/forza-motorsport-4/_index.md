@@ -2,7 +2,8 @@
 type: game
 title: 'Forza Motorsport 4'
 released: 2011
-editor: Microsoft
+editors: 
+  -Microsoft
 players: 10
 genres:
   - Course

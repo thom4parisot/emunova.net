@@ -2,7 +2,8 @@
 type: game
 title: 'Dame de Pique'
 released: null
-editor: Microsoft
+editors: 
+  -Microsoft
 players: 4
 genres:
   - Réflexion

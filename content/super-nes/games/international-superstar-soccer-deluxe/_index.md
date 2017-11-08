@@ -2,7 +2,8 @@
 type: game
 title: 'International Superstar Soccer Deluxe'
 released: 1995
-editor: Konami
+editors: 
+  -Konami
 players: 4
 genres:
   - Sport

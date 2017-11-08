@@ -2,7 +2,8 @@
 type: game
 title: 'NHL Breakaway 99'
 released: 1998
-editor: Acclaim
+editors: 
+  -Acclaim
 players: 4
 genres:
   - Sport

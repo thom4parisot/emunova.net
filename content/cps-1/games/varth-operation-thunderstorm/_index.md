@@ -2,7 +2,8 @@
 type: game
 title: 'Varth : Operation Thunderstorm'
 released: 1992
-editor: Capcom
+editors: 
+  -Capcom
 players: 2
 genres:
   - 'Shoot Them Up'

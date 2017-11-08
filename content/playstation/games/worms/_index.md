@@ -2,7 +2,8 @@
 type: game
 title: Worms
 released: 1995
-editor: Ocean
+editors: 
+  -Ocean
 players: 4
 genres:
   - Stratégie

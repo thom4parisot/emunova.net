@@ -2,7 +2,8 @@
 type: game
 title: 'Real Bout Garou Densetsu Special'
 released: 1997
-editor: SNK
+editors: 
+  -SNK
 players: 2
 genres:
   - 'Beat them up'

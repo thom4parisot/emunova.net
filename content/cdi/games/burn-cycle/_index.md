@@ -2,7 +2,8 @@
 type: game
 title: 'Burn : Cycle'
 released: 1994
-editor: Philips
+editors: 
+  -Philips
 players: 1
 genres:
   - Aventure

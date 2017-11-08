@@ -2,7 +2,8 @@
 type: game
 title: Pac-in-Time
 released: 1994
-editor: Namco
+editors: 
+  -Namco
 players: 1
 genres:
   - Plates-formes

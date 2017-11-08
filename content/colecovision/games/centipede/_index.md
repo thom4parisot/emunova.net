@@ -2,7 +2,8 @@
 type: game
 title: Centipede
 released: 1983
-editor: Atari
+editors: 
+  -Atari
 players: 2
 genres:
   - 'Shoot Them Up'

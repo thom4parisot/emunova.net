@@ -2,7 +2,8 @@
 type: game
 title: 'Grand Theft Auto : Chinatown Wars'
 released: 2009
-editor: Rockstar
+editors: 
+  -Rockstar
 players: 1
 genres:
   - Action

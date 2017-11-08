@@ -2,7 +2,8 @@
 type: game
 title: 'Battle Isle'
 released: 1991
-editor: 'Blue Bytes'
+editors: 
+  -'Blue Bytes'
 players: 2
 genres:
   - Stratégie

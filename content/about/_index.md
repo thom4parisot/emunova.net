@@ -2,7 +2,8 @@
 title: À propos d'Emu Nova
 menu:
   main:
-    weight: 100
+    name:  À propos
+    weight: 1
 ---
 
 <p class="lead">Emu Nova est un site communautaire dédié au <em>rétrogaming</em> et aux <em>jeux vidéo vintage</em>.</p>

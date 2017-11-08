@@ -2,7 +2,8 @@
 type: game
 title: 'NBA Jam Extreme'
 released: 1996
-editor: Acclaim
+editors: 
+  -Acclaim
 players: 4
 genres:
   - Sport

@@ -2,7 +2,8 @@
 type: game
 title: 'Devil''s Crush'
 released: 1990
-editor: Naxat
+editors: 
+  -Naxat
 players: 2
 genres:
   - Action

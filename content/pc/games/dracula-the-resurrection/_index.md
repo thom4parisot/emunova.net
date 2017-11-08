@@ -2,7 +2,8 @@
 type: game
 title: 'Dracula : The Resurrection'
 released: 1999
-editor: 'Microïds / MC2'
+editors: 
+  -'Microïds / MC2'
 players: 1
 genres:
   - Aventure

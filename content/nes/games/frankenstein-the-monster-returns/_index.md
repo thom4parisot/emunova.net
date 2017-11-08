@@ -2,7 +2,8 @@
 type: game
 title: 'Frankenstein (The Monster Returns)'
 released: 1990
-editor: 'Ban Dai'
+editors: 
+  -'Ban Dai'
 players: 1
 genres:
   - Action

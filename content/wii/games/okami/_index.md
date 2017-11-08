@@ -2,7 +2,8 @@
 type: game
 title: Okami
 released: 2008
-editor: Capcom
+editors: 
+  -Capcom
 players: 1
 genres:
   - Aventure

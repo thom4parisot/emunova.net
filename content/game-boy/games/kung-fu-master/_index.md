@@ -2,7 +2,8 @@
 type: game
 title: 'Kung Fu Master'
 released: 1990
-editor: Irem
+editors: 
+  -Irem
 players: 1
 genres:
   - 'Beat them all'

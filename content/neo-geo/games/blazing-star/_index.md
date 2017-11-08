@@ -2,7 +2,8 @@
 type: game
 title: 'Blazing Star'
 released: 1998
-editor: Yumekobo
+editors: 
+  -Yumekobo
 players: 2
 genres:
   - 'Shoot Them Up'

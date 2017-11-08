@@ -2,7 +2,8 @@
 type: game
 title: 'Cutthroat Island'
 released: 1996
-editor: Acclaim
+editors: 
+  -Acclaim
 players: 1
 genres:
   - Aventure

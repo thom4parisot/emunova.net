@@ -2,7 +2,8 @@
 type: game
 title: 'Super Street Fighter II'
 released: 1994
-editor: Capcom
+editors: 
+  -Capcom
 players: 8
 genres:
   - Combat

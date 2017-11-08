@@ -2,7 +2,8 @@
 type: game
 title: Painkiller
 released: 2004
-editor: 'DreamCatcher Interactive'
+editors: 
+  -'DreamCatcher Interactive'
 players: 10
 genres:
   - 'First Person Shooter (FPS)'

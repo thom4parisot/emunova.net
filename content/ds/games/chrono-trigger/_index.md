@@ -2,7 +2,8 @@
 type: game
 title: 'Chrono Trigger'
 released: 2009
-editor: Square
+editors: 
+  -Square
 players: 2
 genres:
   - 'Role Playing Game (RPG)'

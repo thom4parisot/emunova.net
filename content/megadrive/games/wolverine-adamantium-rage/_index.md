@@ -2,7 +2,8 @@
 type: game
 title: 'Wolverine : Adamantium Rage'
 released: 1994
-editor: Acclaim
+editors: 
+  -Acclaim
 players: 1
 genres:
   - 'Beat them all'

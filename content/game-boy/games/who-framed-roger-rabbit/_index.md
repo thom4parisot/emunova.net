@@ -2,7 +2,8 @@
 type: game
 title: 'Who Framed Roger Rabbit'
 released: 1991
-editor: Capcom
+editors: 
+  -Capcom
 players: 1
 genres:
   - Aventure

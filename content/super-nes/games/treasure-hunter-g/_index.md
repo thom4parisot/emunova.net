@@ -2,7 +2,8 @@
 type: game
 title: 'Treasure Hunter G'
 released: 1996
-editor: Square
+editors: 
+  -Square
 players: 1
 genres:
   - 'Role Playing Game (RPG)'

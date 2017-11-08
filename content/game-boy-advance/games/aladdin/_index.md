@@ -2,7 +2,8 @@
 type: game
 title: Aladdin
 released: 2003
-editor: Capcom
+editors: 
+  -Capcom
 players: 1
 genres:
   - Plates-formes

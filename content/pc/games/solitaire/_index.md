@@ -2,7 +2,8 @@
 type: game
 title: Solitaire
 released: 1992
-editor: Microsoft
+editors: 
+  -Microsoft
 players: 1
 genres:
   - Réflexion

@@ -2,7 +2,8 @@
 type: game
 title: 'Space Crusade : The Voyage Beyond'
 released: 1992
-editor: Gremlin
+editors: 
+  -Gremlin
 players: 3
 genres:
   - Stratégie

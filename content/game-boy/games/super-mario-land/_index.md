@@ -2,7 +2,8 @@
 type: game
 title: 'Super Mario Land'
 released: 1989
-editor: Nintendo
+editors: 
+  -Nintendo
 players: 1
 genres:
   - Plates-formes

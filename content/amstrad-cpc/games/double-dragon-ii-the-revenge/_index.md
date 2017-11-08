@@ -2,7 +2,8 @@
 type: game
 title: 'Double Dragon II : The Revenge'
 released: 1989
-editor: Virgin
+editors: 
+  -Virgin
 players: 2
 genres:
   - 'Beat them all'

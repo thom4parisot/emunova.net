@@ -2,7 +2,8 @@
 type: game
 title: 'Earthworm Jim 2'
 released: 2002
-editor: 'Majesco Games'
+editors: 
+  -'Majesco Games'
 players: 1
 genres:
   - Plates-formes

@@ -2,7 +2,8 @@
 type: game
 title: 'James Pond'
 released: 1991
-editor: 'Electronic Arts'
+editors: 
+  -'Electronic Arts'
 players: 1
 genres:
   - Action

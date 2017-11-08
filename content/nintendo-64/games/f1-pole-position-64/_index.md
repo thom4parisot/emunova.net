@@ -2,7 +2,8 @@
 type: game
 title: 'F1 Pole Position 64'
 released: 1997
-editor: Human
+editors: 
+  -Human
 players: 2
 genres:
   - Course

@@ -2,7 +2,8 @@
 type: game
 title: Paperboy
 released: 1988
-editor: Mindscape
+editors: 
+  -Mindscape
 players: 2
 genres:
   - Action

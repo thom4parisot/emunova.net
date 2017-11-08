@@ -2,7 +2,8 @@
 type: game
 title: 'Harry Potter et le Prisonnier d''Azkaban'
 released: 2004
-editor: 'Electronic Arts'
+editors: 
+  -'Electronic Arts'
 players: 1
 genres:
   - 'Role Playing Game (RPG)'

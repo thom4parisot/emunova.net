@@ -2,7 +2,8 @@
 type: game
 title: Silkworm
 released: 1988
-editor: Tecmo
+editors: 
+  -Tecmo
 players: 2
 genres:
   - 'Shoot Them Up'

@@ -2,7 +2,8 @@
 type: game
 title: Universe
 released: 1994
-editor: 'Core Design'
+editors: 
+  -'Core Design'
 players: 1
 genres:
   - Aventure

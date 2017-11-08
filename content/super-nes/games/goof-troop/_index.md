@@ -2,7 +2,8 @@
 type: game
 title: 'Goof Troop'
 released: 1993
-editor: Capcom
+editors: 
+  -Capcom
 players: 2
 genres:
   - Réflexion

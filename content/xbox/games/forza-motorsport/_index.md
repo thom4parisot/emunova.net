@@ -2,7 +2,8 @@
 type: game
 title: 'Forza Motorsport'
 released: 2005
-editor: Microsoft
+editors: 
+  -Microsoft
 players: 10
 genres:
   - Course

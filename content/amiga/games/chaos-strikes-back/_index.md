@@ -2,7 +2,8 @@
 type: game
 title: 'Chaos Strikes Back'
 released: 1990
-editor: FTL
+editors: 
+  -FTL
 players: 1
 genres:
   - 'Role Playing Game (RPG)'

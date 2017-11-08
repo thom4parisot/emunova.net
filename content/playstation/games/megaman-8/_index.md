@@ -2,7 +2,8 @@
 type: game
 title: 'Megaman 8'
 released: 1996
-editor: Capcom
+editors: 
+  -Capcom
 players: 1
 genres:
   - Plates-formes

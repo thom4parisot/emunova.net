@@ -2,7 +2,8 @@
 type: game
 title: 'Kyuukyoku Mahjong Idol Graphic'
 released: 1992
-editor: 'Game Express'
+editors: 
+  -'Game Express'
 players: 1
 genres:
   - Réflexion

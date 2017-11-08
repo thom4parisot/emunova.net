@@ -2,7 +2,8 @@
 type: game
 title: 'Tetris DS'
 released: 2006
-editor: Nintendo
+editors: 
+  -Nintendo
 players: 10
 genres:
   - Réflexion

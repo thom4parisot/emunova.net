@@ -2,7 +2,8 @@
 type: game
 title: Doom
 released: 1994
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - 'First Person Shooter (FPS)'

@@ -2,7 +2,8 @@
 type: game
 title: 'Wonderboy in Monster World'
 released: 1991
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Action

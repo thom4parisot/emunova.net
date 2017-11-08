@@ -2,7 +2,8 @@
 type: game
 title: Duel
 released: 1979
-editor: Radiola
+editors: 
+  -Radiola
 players: 2
 genres:
   - Action

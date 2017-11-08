@@ -2,7 +2,8 @@
 type: game
 title: Polarium
 released: 2005
-editor: Nintendo
+editors: 
+  -Nintendo
 players: 2
 genres:
   - Réflexion

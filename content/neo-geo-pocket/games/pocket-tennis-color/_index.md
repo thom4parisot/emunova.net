@@ -2,7 +2,8 @@
 type: game
 title: 'Pocket Tennis Color'
 released: 1999
-editor: SNK
+editors: 
+  -SNK
 players: 2
 genres:
   - Sport

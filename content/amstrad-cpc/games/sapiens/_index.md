@@ -2,7 +2,8 @@
 type: game
 title: Sapiens
 released: 1986
-editor: Loriciel
+editors: 
+  -Loriciel
 players: 1
 genres:
   - Aventure

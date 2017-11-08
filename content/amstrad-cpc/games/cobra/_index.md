@@ -2,7 +2,8 @@
 type: game
 title: Cobra
 released: 1987
-editor: Ocean
+editors: 
+  -Ocean
 players: 1
 genres:
   - Action

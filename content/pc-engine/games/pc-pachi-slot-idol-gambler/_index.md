@@ -2,7 +2,8 @@
 type: game
 title: 'PC Pachi-Slot Idol Gambler'
 released: 1992
-editor: 'Game Express'
+editors: 
+  -'Game Express'
 players: 1
 genres:
   - Inclassable

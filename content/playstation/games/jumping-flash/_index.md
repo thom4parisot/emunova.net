@@ -2,7 +2,8 @@
 type: game
 title: 'Jumping Flash !'
 released: 1995
-editor: Sony
+editors: 
+  -Sony
 players: 1
 genres:
   - Plates-formes

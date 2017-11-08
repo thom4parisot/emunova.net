@@ -2,7 +2,8 @@
 type: game
 title: Landstalker
 released: 1993
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - 'Role Playing Game (RPG)'

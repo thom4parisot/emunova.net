@@ -2,7 +2,8 @@
 type: game
 title: 'Les Dents de la Mer'
 released: 2006
-editor: Majesco
+editors: 
+  -Majesco
 players: 1
 genres:
   - Action

@@ -2,7 +2,8 @@
 type: game
 title: 'Mortal Kombat Mythologies Sub-Zero'
 released: 1998
-editor: Midway
+editors: 
+  -Midway
 players: 1
 genres:
   - 'Beat them all'

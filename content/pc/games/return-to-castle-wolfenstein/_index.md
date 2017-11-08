@@ -2,7 +2,8 @@
 type: game
 title: 'Return to Castle Wolfenstein'
 released: 2001
-editor: Activision
+editors: 
+  -Activision
 players: 1
 genres:
   - 'First Person Shooter (FPS)'

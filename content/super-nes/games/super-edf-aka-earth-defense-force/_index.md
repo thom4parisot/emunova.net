@@ -2,7 +2,8 @@
 type: game
 title: 'Super E.D.F. (aka Earth Defense Force)'
 released: 1991
-editor: Jaleco
+editors: 
+  -Jaleco
 players: 1
 genres:
   - 'Shoot Them Up'

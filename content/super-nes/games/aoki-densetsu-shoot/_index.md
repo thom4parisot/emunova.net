@@ -2,7 +2,8 @@
 type: game
 title: 'Aoki Densetsu Shoot !'
 released: 1994
-editor: KSS
+editors: 
+  -KSS
 players: 1
 genres:
   - Sport

@@ -2,7 +2,8 @@
 type: game
 title: 'Chocolat Savior'
 released: 2004
-editor: 'Domaine Public'
+editors: 
+  -'Domaine Public'
 players: 1
 genres:
   - 'Beat them all'

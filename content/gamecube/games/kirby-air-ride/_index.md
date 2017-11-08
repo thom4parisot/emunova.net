@@ -2,7 +2,8 @@
 type: game
 title: 'Kirby Air Ride'
 released: 2003
-editor: Nintendo
+editors: 
+  -Nintendo
 players: 4
 genres:
   - Course

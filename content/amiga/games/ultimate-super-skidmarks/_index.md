@@ -2,7 +2,8 @@
 type: game
 title: 'Ultimate Super Skidmarks'
 released: 1998
-editor: N/C
+editors: 
+  -N/C
 players: 4
 genres:
   - Course

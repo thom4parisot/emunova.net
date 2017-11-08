@@ -2,7 +2,8 @@
 type: game
 title: 'Mass Effect 2'
 released: 2010
-editor: 'Electronic Arts'
+editors: 
+  -'Electronic Arts'
 players: 1
 genres:
   - Aventure

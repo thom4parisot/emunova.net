@@ -2,7 +2,8 @@
 type: game
 title: 'Kabuki Quantum Fighter'
 released: 1991
-editor: Hal
+editors: 
+  -Hal
 players: 1
 genres:
   - Action

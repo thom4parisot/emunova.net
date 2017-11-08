@@ -2,7 +2,8 @@
 type: game
 title: 'NHK Okaasan to Issho Niko Niko Pun'
 released: 1991
-editor: NHK
+editors: 
+  -NHK
 players: 1
 genres:
   - Plates-formes

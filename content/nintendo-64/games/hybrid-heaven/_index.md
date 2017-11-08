@@ -2,7 +2,8 @@
 type: game
 title: 'Hybrid Heaven'
 released: 1999
-editor: Konami
+editors: 
+  -Konami
 players: 2
 genres:
   - 'Role Playing Game (RPG)'

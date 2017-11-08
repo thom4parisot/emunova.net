@@ -2,7 +2,8 @@
 type: game
 title: 'Day Dreamin'' Davey'
 released: 1992
-editor: Hal
+editors: 
+  -Hal
 players: 1
 genres:
   - Aventure

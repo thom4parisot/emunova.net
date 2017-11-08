@@ -2,7 +2,8 @@
 type: game
 title: 'Legacy of the Wizard'
 released: 1989
-editor: Broderbund
+editors: 
+  -Broderbund
 players: 1
 genres:
   - Aventure

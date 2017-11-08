@@ -2,7 +2,8 @@
 type: game
 title: 'Shufflepuck Cafe'
 released: 1989
-editor: Broderbund
+editors: 
+  -Broderbund
 players: 1
 genres:
   - Inclassable

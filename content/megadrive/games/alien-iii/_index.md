@@ -2,7 +2,8 @@
 type: game
 title: 'Alien III'
 released: 1992
-editor: Acclaim
+editors: 
+  -Acclaim
 players: 1
 genres:
   - Action

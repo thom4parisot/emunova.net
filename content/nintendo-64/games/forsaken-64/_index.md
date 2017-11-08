@@ -2,7 +2,8 @@
 type: game
 title: 'Forsaken 64'
 released: 1998
-editor: Acclaim
+editors: 
+  -Acclaim
 players: 4
 genres:
   - 'Shoot Them Up'

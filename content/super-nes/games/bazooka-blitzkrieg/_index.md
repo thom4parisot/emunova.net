@@ -2,7 +2,8 @@
 type: game
 title: 'Bazooka Blitzkrieg'
 released: 1992
-editor: 'Ban Dai'
+editors: 
+  -'Ban Dai'
 players: 1
 genres:
   - 'Gun Shooting'

@@ -2,7 +2,8 @@
 type: game
 title: 'Tomb Raider Underworld'
 released: 2009
-editor: 'Crystal Dynamics'
+editors: 
+  -'Crystal Dynamics'
 players: 1
 genres:
   - Aventure

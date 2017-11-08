@@ -2,7 +2,8 @@
 type: game
 title: Macross
 released: 1992
-editor: Branpresto
+editors: 
+  -Branpresto
 players: 2
 genres:
   - 'Shoot Them Up'

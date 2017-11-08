@@ -2,7 +2,8 @@
 type: game
 title: 'Wings of Death'
 released: 1990
-editor: Thalion
+editors: 
+  -Thalion
 players: 1
 genres:
   - 'Shoot Them Up'

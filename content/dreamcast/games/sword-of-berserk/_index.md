@@ -2,7 +2,8 @@
 type: game
 title: 'Sword of Berserk'
 released: 1999
-editor: Eidos
+editors: 
+  -Eidos
 players: 1
 genres:
   - 'Beat them all'

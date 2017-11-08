@@ -2,7 +2,8 @@
 type: game
 title: 'Castlevania : Vampire Kiss'
 released: 1995
-editor: Konami
+editors: 
+  -Konami
 players: 1
 genres:
   - Plates-formes

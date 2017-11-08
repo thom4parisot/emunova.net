@@ -2,7 +2,8 @@
 type: game
 title: 'Final Fantasy Fables : Chocobo Tales'
 released: 2006
-editor: 'Square Enix'
+editors: 
+  -'Square Enix'
 players: 2
 genres:
   - Inclassable

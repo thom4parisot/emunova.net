@@ -2,7 +2,8 @@
 type: game
 title: Talespin
 released: 1992
-editor: Sega
+editors: 
+  -Sega
 players: 2
 genres:
   - Plates-formes

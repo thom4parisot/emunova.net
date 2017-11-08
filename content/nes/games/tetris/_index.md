@@ -2,7 +2,8 @@
 type: game
 title: Tetris
 released: 1989
-editor: Nintendo
+editors: 
+  -Nintendo
 players: 1
 genres:
   - Réflexion

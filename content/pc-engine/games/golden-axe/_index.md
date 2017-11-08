@@ -2,7 +2,8 @@
 type: game
 title: 'Golden Axe'
 released: 1990
-editor: Telenet
+editors: 
+  -Telenet
 players: 1
 genres:
   - 'Beat them all'

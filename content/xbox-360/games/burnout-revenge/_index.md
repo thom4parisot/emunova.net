@@ -2,7 +2,8 @@
 type: game
 title: 'Burnout Revenge'
 released: 2006
-editor: 'Electronic Arts'
+editors: 
+  -'Electronic Arts'
 players: 4
 genres:
   - Course

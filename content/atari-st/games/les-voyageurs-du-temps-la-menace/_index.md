@@ -2,7 +2,8 @@
 type: game
 title: 'Les Voyageurs du Temps : La Menace'
 released: 1989
-editor: 'Delphine Software'
+editors: 
+  -'Delphine Software'
 players: 1
 genres:
   - Aventure

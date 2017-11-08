@@ -2,7 +2,8 @@
 type: game
 title: 'Bubble Bobble'
 released: 1987
-editor: Taito
+editors: 
+  -Taito
 players: 2
 genres:
   - Plates-formes

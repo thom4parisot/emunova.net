@@ -2,7 +2,8 @@
 type: game
 title: 'Galaxy Force'
 released: 1989
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - 'Shoot Them Up'

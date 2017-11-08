@@ -2,7 +2,8 @@
 type: game
 title: Hellbender
 released: 1996
-editor: Microsoft
+editors: 
+  -Microsoft
 players: 4
 genres:
   - Action

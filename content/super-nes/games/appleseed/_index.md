@@ -2,7 +2,8 @@
 type: game
 title: Appleseed
 released: 1994
-editor: Visit
+editors: 
+  -Visit
 players: 2
 genres:
   - Action

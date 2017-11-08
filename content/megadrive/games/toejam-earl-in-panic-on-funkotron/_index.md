@@ -2,7 +2,8 @@
 type: game
 title: 'ToeJam & Earl In Panic On Funkotron'
 released: 1993
-editor: Sega
+editors: 
+  -Sega
 players: 2
 genres:
   - Action

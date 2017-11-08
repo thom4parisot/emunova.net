@@ -2,7 +2,8 @@
 type: game
 title: 'Konami Hyper Soccer'
 released: 1992
-editor: Konami
+editors: 
+  -Konami
 players: 2
 genres:
   - Sport

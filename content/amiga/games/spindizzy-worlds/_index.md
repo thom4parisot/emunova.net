@@ -2,7 +2,8 @@
 type: game
 title: 'Spindizzy Worlds'
 released: 1990
-editor: Activision
+editors: 
+  -Activision
 players: 1
 genres:
   - Action

@@ -2,7 +2,8 @@
 type: game
 title: 'Weird Dreams'
 released: 1990
-editor: Rainbird
+editors: 
+  -Rainbird
 players: 1
 genres:
   - Action

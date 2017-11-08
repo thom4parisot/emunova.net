@@ -2,7 +2,8 @@
 type: game
 title: Homeworld
 released: 1999
-editor: Sierra
+editors: 
+  -Sierra
 players: 1
 genres:
   - Stratégie

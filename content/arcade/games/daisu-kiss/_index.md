@@ -2,7 +2,8 @@
 type: game
 title: 'Daisu kiss'
 released: 1996
-editor: Konami
+editors: 
+  -Konami
 players: 1
 genres:
   - Simulation

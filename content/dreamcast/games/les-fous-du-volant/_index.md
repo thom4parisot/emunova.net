@@ -2,7 +2,8 @@
 type: game
 title: 'Les Fous du Volant'
 released: 2000
-editor: Infogrames
+editors: 
+  -Infogrames
 players: 4
 genres:
   - Course

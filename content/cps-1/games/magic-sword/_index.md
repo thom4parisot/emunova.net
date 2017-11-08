@@ -2,7 +2,8 @@
 type: game
 title: 'Magic Sword'
 released: 1990
-editor: Capcom
+editors: 
+  -Capcom
 players: 2
 genres:
   - 'Beat them all'

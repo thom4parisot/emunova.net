@@ -2,7 +2,8 @@
 type: game
 title: 'Traps ''n Treasures'
 released: 1993
-editor: 'Starbyte Software'
+editors: 
+  -'Starbyte Software'
 players: 1
 genres:
   - Aventure

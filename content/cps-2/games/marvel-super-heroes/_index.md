@@ -2,7 +2,8 @@
 type: game
 title: 'Marvel Super Heroes'
 released: 1995
-editor: Capcom
+editors: 
+  -Capcom
 players: 2
 genres:
   - Combat

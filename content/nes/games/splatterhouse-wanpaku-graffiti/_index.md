@@ -2,7 +2,8 @@
 type: game
 title: 'Splatterhouse Wanpaku Graffiti'
 released: 1989
-editor: Namco
+editors: 
+  -Namco
 players: 1
 genres:
   - 'Beat them all'

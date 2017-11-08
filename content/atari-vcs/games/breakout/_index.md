@@ -2,7 +2,8 @@
 type: game
 title: Breakout
 released: 1978
-editor: Atari
+editors: 
+  -Atari
 players: 2
 genres:
   - Action

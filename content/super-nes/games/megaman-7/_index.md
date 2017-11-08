@@ -2,7 +2,8 @@
 type: game
 title: 'Megaman 7'
 released: 1995
-editor: Capcom
+editors: 
+  -Capcom
 players: 1
 genres:
   - Plates-formes

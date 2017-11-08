@@ -2,7 +2,8 @@
 type: game
 title: 'Full Auto'
 released: 2006
-editor: Sega
+editors: 
+  -Sega
 players: 8
 genres:
   - Course

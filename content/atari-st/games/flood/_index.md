@@ -2,7 +2,8 @@
 type: game
 title: Flood
 released: 1990
-editor: Bullfrog
+editors: 
+  -Bullfrog
 players: 1
 genres:
   - Plates-formes

@@ -2,7 +2,8 @@
 type: game
 title: 'Block Kuzushi'
 released: 1995
-editor: Pow
+editors: 
+  -Pow
 players: 1
 genres:
   - Action

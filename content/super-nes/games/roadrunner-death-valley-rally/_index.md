@@ -2,7 +2,8 @@
 type: game
 title: 'Roadrunner : Death Valley Rally'
 released: 1992
-editor: Sunsoft
+editors: 
+  -Sunsoft
 players: 1
 genres:
   - Plates-formes

@@ -2,7 +2,8 @@
 type: game
 title: 'Gradius Advance'
 released: 2001
-editor: Konami
+editors: 
+  -Konami
 players: 1
 genres:
   - 'Shoot Them Up'

@@ -2,7 +2,8 @@
 type: game
 title: OnEscapee
 released: 1997
-editor: Invictus
+editors: 
+  -Invictus
 players: 1
 genres:
   - Action

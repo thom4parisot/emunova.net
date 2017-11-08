@@ -2,7 +2,8 @@
 type: game
 title: 'Jets ''n'' Guns'
 released: 2004
-editor: 'Rake in Grass'
+editors: 
+  -'Rake in Grass'
 players: 1
 genres:
   - 'Shoot Them Up'

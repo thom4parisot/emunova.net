@@ -2,7 +2,8 @@
 type: game
 title: 'Street Fighter II'
 released: 1991
-editor: Capcom
+editors: 
+  -Capcom
 players: 2
 genres:
   - Combat

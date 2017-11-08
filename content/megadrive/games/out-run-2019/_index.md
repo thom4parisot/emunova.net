@@ -2,7 +2,8 @@
 type: game
 title: 'Out Run 2019'
 released: 1993
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Course

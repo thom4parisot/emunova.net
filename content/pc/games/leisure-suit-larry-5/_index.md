@@ -2,7 +2,8 @@
 type: game
 title: 'Leisure Suit Larry 5'
 released: 1991
-editor: Sierra
+editors: 
+  -Sierra
 players: 1
 genres:
   - Aventure

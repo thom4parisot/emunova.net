@@ -2,7 +2,8 @@
 type: game
 title: 'Ashita no Joe'
 released: 1992
-editor: Konami
+editors: 
+  -Konami
 players: 1
 genres:
   - 'Beat them up'

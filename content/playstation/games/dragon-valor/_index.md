@@ -2,7 +2,8 @@
 type: game
 title: 'Dragon Valor'
 released: 1999
-editor: Namco
+editors: 
+  -Namco
 players: 1
 genres:
   - Action

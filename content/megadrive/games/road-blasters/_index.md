@@ -2,7 +2,8 @@
 type: game
 title: 'Road Blasters'
 released: 1991
-editor: Tengen
+editors: 
+  -Tengen
 players: 1
 genres:
   - Course

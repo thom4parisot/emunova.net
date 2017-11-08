@@ -2,7 +2,8 @@
 type: game
 title: 'Fantastic Adventures of Dizzy'
 released: 1993
-editor: Codemasters
+editors: 
+  -Codemasters
 players: 1
 genres:
   - Action

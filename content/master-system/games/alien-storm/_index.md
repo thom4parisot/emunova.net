@@ -2,7 +2,8 @@
 type: game
 title: 'Alien Storm'
 released: 1991
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Action

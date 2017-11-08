@@ -2,7 +2,8 @@
 type: game
 title: 'Colin McRae : DiRT'
 released: 2007
-editor: Codemasters
+editors: 
+  -Codemasters
 players: 10
 genres:
   - Course

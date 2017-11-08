@@ -2,7 +2,8 @@
 type: game
 title: SoulCalibur
 released: 1999
-editor: Namco
+editors: 
+  -Namco
 players: 2
 genres:
   - Combat

@@ -2,7 +2,8 @@
 type: game
 title: 'Mighty ! Pang'
 released: 2000
-editor: Capcom
+editors: 
+  -Capcom
 players: 2
 genres:
   - 'Gun Shooting'

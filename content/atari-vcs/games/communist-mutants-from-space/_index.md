@@ -2,7 +2,8 @@
 type: game
 title: 'Communist Mutants From Space'
 released: 1982
-editor: Starpath
+editors: 
+  -Starpath
 players: 4
 genres:
   - 'Shoot Them Up'

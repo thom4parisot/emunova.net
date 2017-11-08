@@ -2,7 +2,8 @@
 type: game
 title: 'The Peace Keepers'
 released: 1993
-editor: Jaleco
+editors: 
+  -Jaleco
 players: 2
 genres:
   - 'Beat them all'

@@ -2,7 +2,8 @@
 type: game
 title: 'Porsche Challenge'
 released: 1997
-editor: Sony
+editors: 
+  -Sony
 players: 2
 genres:
   - Course

@@ -2,7 +2,8 @@
 type: game
 title: 'Metroid : Zero Mission'
 released: 2004
-editor: Nintendo
+editors: 
+  -Nintendo
 players: 1
 genres:
   - Action

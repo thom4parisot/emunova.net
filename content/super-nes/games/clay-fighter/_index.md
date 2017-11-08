@@ -2,7 +2,8 @@
 type: game
 title: 'Clay Fighter'
 released: 1993
-editor: Interplay
+editors: 
+  -Interplay
 players: 2
 genres:
   - Combat

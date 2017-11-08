@@ -2,7 +2,8 @@
 type: game
 title: Abadox
 released: 1989
-editor: Natsume
+editors: 
+  -Natsume
 players: 1
 genres:
   - 'Shoot Them Up'

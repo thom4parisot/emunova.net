@@ -2,7 +2,8 @@
 type: game
 title: 'Power Strike'
 released: 1988
-editor: Compile
+editors: 
+  -Compile
 players: 1
 genres:
   - 'Shoot Them Up'

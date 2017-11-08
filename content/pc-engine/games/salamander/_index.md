@@ -2,7 +2,8 @@
 type: game
 title: Salamander
 released: 1991
-editor: Konami
+editors: 
+  -Konami
 players: 2
 genres:
   - 'Shoot Them Up'

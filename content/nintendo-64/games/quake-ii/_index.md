@@ -2,7 +2,8 @@
 type: game
 title: 'Quake II'
 released: 1999
-editor: Activision
+editors: 
+  -Activision
 players: 4
 genres:
   - 'First Person Shooter (FPS)'

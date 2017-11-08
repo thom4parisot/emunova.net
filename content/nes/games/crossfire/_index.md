@@ -2,7 +2,8 @@
 type: game
 title: CrossFire
 released: 1990
-editor: 'Kyugo Boueki'
+editors: 
+  -'Kyugo Boueki'
 players: 1
 genres:
   - 'Gun Shooting'

@@ -2,7 +2,8 @@
 type: game
 title: 'Konami Antiques MSX Collection Ultra Pack'
 released: 1998
-editor: Konami
+editors: 
+  -Konami
 players: 1
 genres:
   - Inclassable

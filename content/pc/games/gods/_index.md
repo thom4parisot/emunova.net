@@ -2,7 +2,8 @@
 type: game
 title: Gods
 released: 1991
-editor: Renegade
+editors: 
+  -Renegade
 players: 1
 genres:
   - Action

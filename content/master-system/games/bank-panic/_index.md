@@ -2,7 +2,8 @@
 type: game
 title: 'Bank Panic'
 released: 1987
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Action

@@ -2,7 +2,8 @@
 type: game
 title: 'Super Hang On'
 released: 1989
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Course

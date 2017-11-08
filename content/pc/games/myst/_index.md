@@ -2,7 +2,8 @@
 type: game
 title: Myst
 released: 1994
-editor: Broderbund
+editors: 
+  -Broderbund
 players: 1
 genres:
   - Réflexion

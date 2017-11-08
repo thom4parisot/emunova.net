@@ -2,7 +2,8 @@
 type: game
 title: 'Looney Tunes Space Race'
 released: 2000
-editor: Infogrames
+editors: 
+  -Infogrames
 players: 4
 genres:
   - Course

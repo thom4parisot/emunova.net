@@ -2,7 +2,8 @@
 type: game
 title: 'The Witcher'
 released: 2007
-editor: Atari
+editors: 
+  -Atari
 players: 1
 genres:
   - 'Role Playing Game (RPG)'

@@ -2,7 +2,8 @@
 type: game
 title: Galaga
 released: 1981
-editor: Namco
+editors: 
+  -Namco
 players: 2
 genres:
   - 'Shoot Them Up'

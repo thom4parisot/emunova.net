@@ -2,7 +2,8 @@
 type: game
 title: 'Sengoku Blade'
 released: 1996
-editor: Atlus
+editors: 
+  -Atlus
 players: 2
 genres:
   - 'Shoot Them Up'

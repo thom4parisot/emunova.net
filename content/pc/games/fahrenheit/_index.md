@@ -2,7 +2,8 @@
 type: game
 title: Fahrenheit
 released: 2005
-editor: 'Quantic Dreams'
+editors: 
+  -'Quantic Dreams'
 publisher: Atari
 players: 1
 genres:

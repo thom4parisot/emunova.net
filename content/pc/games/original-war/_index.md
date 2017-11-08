@@ -2,7 +2,8 @@
 type: game
 title: 'Original War'
 released: 2001
-editor: Virgin
+editors: 
+  -Virgin
 players: 1
 genres:
   - Wargame

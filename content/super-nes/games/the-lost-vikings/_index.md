@@ -2,7 +2,8 @@
 type: game
 title: 'The Lost Vikings'
 released: 1992
-editor: Interplay
+editors: 
+  -Interplay
 players: 1
 genres:
   - Réflexion

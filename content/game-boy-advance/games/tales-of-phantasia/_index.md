@@ -2,7 +2,8 @@
 type: game
 title: 'Tales of Phantasia'
 released: 2003
-editor: Namco
+editors: 
+  -Namco
 players: 1
 genres:
   - 'Role Playing Game (RPG)'

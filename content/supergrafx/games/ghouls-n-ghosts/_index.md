@@ -2,7 +2,8 @@
 type: game
 title: 'Ghouls ''n Ghosts'
 released: 1991
-editor: 'NEC Avenue'
+editors: 
+  -'NEC Avenue'
 players: 2
 genres:
   - Plates-formes

@@ -2,7 +2,8 @@
 type: game
 title: 'Fortified Zone'
 released: 1991
-editor: Jaleco
+editors: 
+  -Jaleco
 players: 2
 genres:
   - Action

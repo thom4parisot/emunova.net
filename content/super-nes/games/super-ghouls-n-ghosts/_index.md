@@ -2,7 +2,8 @@
 type: game
 title: 'Super Ghouls ''n Ghosts'
 released: 1991
-editor: Capcom
+editors: 
+  -Capcom
 players: 2
 genres:
   - Plates-formes

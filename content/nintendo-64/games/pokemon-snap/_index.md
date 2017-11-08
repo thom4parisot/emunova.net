@@ -2,7 +2,8 @@
 type: game
 title: 'Pokémon Snap'
 released: 1999
-editor: Nintendo
+editors: 
+  -Nintendo
 players: 1
 genres:
   - Inclassable

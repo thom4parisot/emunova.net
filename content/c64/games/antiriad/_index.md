@@ -2,7 +2,8 @@
 type: game
 title: Antiriad
 released: 1986
-editor: Palace
+editors: 
+  -Palace
 players: 1
 genres:
   - Plates-formes

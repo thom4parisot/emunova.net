@@ -2,7 +2,8 @@
 type: game
 title: 'Knight Rider'
 released: 1988
-editor: Acclaim
+editors: 
+  -Acclaim
 players: 1
 genres:
   - Course

@@ -2,7 +2,8 @@
 type: game
 title: POD
 released: 1997
-editor: 'Ubi Soft'
+editors: 
+  -'Ubi Soft'
 players: 8
 genres:
   - Course

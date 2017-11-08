@@ -2,7 +2,8 @@
 type: game
 title: 'Contra Force'
 released: 1992
-editor: Konami
+editors: 
+  -Konami
 players: 2
 genres:
   - 'Gun Shooting'

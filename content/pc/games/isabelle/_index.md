@@ -2,7 +2,8 @@
 type: game
 title: Isabelle
 released: 1999
-editor: Belisa
+editors: 
+  -Belisa
 players: 1
 genres:
   - Aventure

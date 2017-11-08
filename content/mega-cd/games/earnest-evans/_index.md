@@ -2,7 +2,8 @@
 type: game
 title: 'Earnest Evans'
 released: 1991
-editor: Wolfteam
+editors: 
+  -Wolfteam
 players: 1
 genres:
   - Action

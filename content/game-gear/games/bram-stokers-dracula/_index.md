@@ -2,7 +2,8 @@
 type: game
 title: 'Bram Stoker''s Dracula'
 released: 1993
-editor: Psygnosis
+editors: 
+  -Psygnosis
 players: 1
 genres:
   - Aventure

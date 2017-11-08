@@ -2,7 +2,8 @@
 type: game
 title: 'Dead Moon'
 released: 1991
-editor: Natsume
+editors: 
+  -Natsume
 players: 2
 genres:
   - 'Shoot Them Up'

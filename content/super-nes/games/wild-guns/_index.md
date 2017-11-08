@@ -2,7 +2,8 @@
 type: game
 title: 'Wild Guns'
 released: 1994
-editor: Natsume
+editors: 
+  -Natsume
 players: 2
 genres:
   - 'Gun Shooting'

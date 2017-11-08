@@ -2,7 +2,8 @@
 type: game
 title: 'Maupiti Island'
 released: 1990
-editor: Lankhor
+editors: 
+  -Lankhor
 players: 1
 genres:
   - Aventure

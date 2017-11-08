@@ -2,7 +2,8 @@
 type: game
 title: REZ
 released: 2001
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - 'Shoot Them Up'

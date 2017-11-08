@@ -2,7 +2,8 @@
 type: game
 title: Gunlock
 released: 1993
-editor: Taito
+editors: 
+  -Taito
 players: 2
 genres:
   - 'Shoot Them Up'

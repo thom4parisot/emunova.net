@@ -2,7 +2,8 @@
 type: game
 title: Descent
 released: 1994
-editor: Interplay
+editors: 
+  -Interplay
 players: 1
 genres:
   - 'First Person Shooter (FPS)'

@@ -2,7 +2,8 @@
 type: game
 title: 'Space Invaders'
 released: 1997
-editor: Taito
+editors: 
+  -Taito
 players: 2
 genres:
   - 'Shoot Them Up'

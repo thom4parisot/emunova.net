@@ -2,7 +2,8 @@
 type: game
 title: 'Gaia Master Kessen ! Seikiou Densetsu'
 released: 2001
-editor: Capcom
+editors: 
+  -Capcom
 players: 4
 genres:
   - Inclassable

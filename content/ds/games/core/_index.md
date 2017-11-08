@@ -2,7 +2,8 @@
 type: game
 title: C.O.R.E.
 released: 2009
-editor: 'Graffiti Entertainment'
+editors: 
+  -'Graffiti Entertainment'
 players: 4
 genres:
   - 'First Person Shooter (FPS)'

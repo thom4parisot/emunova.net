@@ -2,7 +2,8 @@
 type: game
 title: 'WipeOut 64'
 released: 1998
-editor: Psygnosis
+editors: 
+  -Psygnosis
 players: 4
 genres:
   - Course

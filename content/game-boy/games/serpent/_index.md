@@ -2,7 +2,8 @@
 type: game
 title: Serpent
 released: 1990
-editor: Naxat
+editors: 
+  -Naxat
 players: 2
 genres:
   - Réflexion

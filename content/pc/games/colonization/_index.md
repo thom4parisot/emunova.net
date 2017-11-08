@@ -2,7 +2,8 @@
 type: game
 title: Colonization
 released: 1994
-editor: Microprose
+editors: 
+  -Microprose
 players: 1
 genres:
   - Stratégie

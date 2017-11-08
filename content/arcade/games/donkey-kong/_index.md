@@ -2,7 +2,8 @@
 type: game
 title: 'Donkey Kong'
 released: 1981
-editor: Nintendo
+editors: 
+  -Nintendo
 players: 2
 genres:
   - Plates-formes

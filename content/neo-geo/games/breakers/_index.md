@@ -2,7 +2,8 @@
 type: game
 title: Breakers
 released: 1996
-editor: Visco
+editors: 
+  -Visco
 players: 2
 genres:
   - Combat

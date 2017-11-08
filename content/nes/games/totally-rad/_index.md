@@ -2,7 +2,8 @@
 type: game
 title: 'Totally Rad'
 released: 1990
-editor: Jaleco
+editors: 
+  -Jaleco
 players: 1
 genres:
   - Plates-formes

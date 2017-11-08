@@ -2,7 +2,8 @@
 type: game
 title: Astérix
 released: 1993
-editor: Infogrames
+editors: 
+  -Infogrames
 players: 1
 genres:
   - Plates-formes

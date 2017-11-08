@@ -2,7 +2,8 @@
 type: game
 title: 'Xena : Warrior Princess - The Talisman of Fate'
 released: 1999
-editor: Titus
+editors: 
+  -Titus
 players: 4
 genres:
   - Combat

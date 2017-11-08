@@ -2,7 +2,8 @@
 type: game
 title: 'Pocky & Rocky'
 released: 1993
-editor: Natsume
+editors: 
+  -Natsume
 players: 2
 genres:
   - Action

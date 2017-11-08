@@ -2,7 +2,8 @@
 type: game
 title: 'Mario is Missing'
 released: 1993
-editor: Nintendo
+editors: 
+  -Nintendo
 players: 1
 genres:
   - Inclassable

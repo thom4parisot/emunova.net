@@ -2,7 +2,8 @@
 type: game
 title: 'Annet Futatabi'
 released: 1993
-editor: Wolfteam
+editors: 
+  -Wolfteam
 players: 1
 genres:
   - 'Beat them all'

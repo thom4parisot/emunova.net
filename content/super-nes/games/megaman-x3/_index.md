@@ -2,7 +2,8 @@
 type: game
 title: 'Megaman X3'
 released: 1995
-editor: Capcom
+editors: 
+  -Capcom
 players: 1
 genres:
   - Action

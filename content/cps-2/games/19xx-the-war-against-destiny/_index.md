@@ -2,7 +2,8 @@
 type: game
 title: '19XX : The War against Destiny'
 released: 1995
-editor: Capcom
+editors: 
+  -Capcom
 players: 2
 genres:
   - 'Shoot Them Up'

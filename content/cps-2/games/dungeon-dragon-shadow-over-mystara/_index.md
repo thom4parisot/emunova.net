@@ -2,7 +2,8 @@
 type: game
 title: 'Dungeon & Dragon : Shadow over Mystara'
 released: 1996
-editor: Capcom
+editors: 
+  -Capcom
 players: 4
 genres:
   - 'Beat them all'

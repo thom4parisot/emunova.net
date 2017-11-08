@@ -2,7 +2,8 @@
 type: game
 title: MetroCross
 released: 1990
-editor: Probe
+editors: 
+  -Probe
 players: 2
 genres:
   - Plates-formes

@@ -2,7 +2,8 @@
 type: game
 title: 'Quake II'
 released: 1997
-editor: 'ID Soft'
+editors: 
+  -'ID Soft'
 players: 10
 genres:
   - 'First Person Shooter (FPS)'

@@ -2,7 +2,8 @@
 type: game
 title: Savage
 released: 1989
-editor: Probe
+editors: 
+  -Probe
 players: 1
 genres:
   - Inclassable

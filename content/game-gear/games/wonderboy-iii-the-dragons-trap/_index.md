@@ -2,7 +2,8 @@
 type: game
 title: 'WonderBoy III - The Dragon''s Trap'
 released: 1992
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Plates-formes

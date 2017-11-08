@@ -2,7 +2,8 @@
 type: game
 title: 'Micro Machine Turbo tournament 96'''
 released: 1995
-editor: Codemasters
+editors: 
+  -Codemasters
 players: 8
 genres:
   - Course

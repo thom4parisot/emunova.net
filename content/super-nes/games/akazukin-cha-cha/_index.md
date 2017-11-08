@@ -2,7 +2,8 @@
 type: game
 title: 'Akazukin Cha Cha'
 released: 1996
-editor: Tomy
+editors: 
+  -Tomy
 players: 1
 genres:
   - Aventure

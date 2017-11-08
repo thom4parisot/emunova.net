@@ -2,7 +2,8 @@
 type: game
 title: 'Roadsters Trophy'
 released: 1999
-editor: Titus
+editors: 
+  -Titus
 players: 2
 genres:
   - Course

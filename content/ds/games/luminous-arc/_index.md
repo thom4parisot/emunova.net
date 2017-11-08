@@ -2,7 +2,8 @@
 type: game
 title: 'Luminous Arc'
 released: 2007
-editor: Atlus
+editors: 
+  -Atlus
 players: 2
 genres:
   - 'Role Playing Game (RPG)'

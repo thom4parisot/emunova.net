@@ -2,7 +2,8 @@
 type: game
 title: Rollergames
 released: 1990
-editor: Konami
+editors: 
+  -Konami
 players: 1
 genres:
   - 'Beat them all'

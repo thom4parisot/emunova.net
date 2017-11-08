@@ -2,7 +2,8 @@
 type: game
 title: 'Pro Wrestling'
 released: 1986
-editor: Sega
+editors: 
+  -Sega
 players: 2
 genres:
   - Sport

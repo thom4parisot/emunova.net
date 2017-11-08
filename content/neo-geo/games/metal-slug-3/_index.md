@@ -2,7 +2,8 @@
 type: game
 title: 'Metal Slug 3'
 released: 2000
-editor: SNK
+editors: 
+  -SNK
 players: 2
 genres:
   - Action

@@ -2,7 +2,8 @@
 type: game
 title: Blazeon
 released: 1992
-editor: Atlus
+editors: 
+  -Atlus
 players: 1
 genres:
   - 'Shoot Them Up'

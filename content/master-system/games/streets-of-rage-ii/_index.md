@@ -2,7 +2,8 @@
 type: game
 title: 'Streets of Rage II'
 released: 1993
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - 'Beat them all'

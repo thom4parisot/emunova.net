@@ -2,7 +2,8 @@
 type: game
 title: 'Harry Potter à l''École des Sorciers'
 released: 2002
-editor: 'Electronic Arts'
+editors: 
+  -'Electronic Arts'
 players: 1
 genres:
   - Aventure

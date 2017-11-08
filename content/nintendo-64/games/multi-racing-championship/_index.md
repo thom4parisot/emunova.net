@@ -2,7 +2,8 @@
 type: game
 title: 'Multi-Racing Championship'
 released: 1997
-editor: Ocean
+editors: 
+  -Ocean
 players: 2
 genres:
   - Course

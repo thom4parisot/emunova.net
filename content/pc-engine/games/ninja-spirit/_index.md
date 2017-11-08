@@ -2,7 +2,8 @@
 type: game
 title: 'Ninja Spirit'
 released: 1990
-editor: Irem
+editors: 
+  -Irem
 players: 1
 genres:
   - Action

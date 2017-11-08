@@ -2,7 +2,8 @@
 type: game
 title: 'Porky Pig''s Haunted Holiday'
 released: 1995
-editor: Sunsoft
+editors: 
+  -Sunsoft
 players: 1
 genres:
   - Plates-formes

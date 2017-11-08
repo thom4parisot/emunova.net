@@ -2,7 +2,8 @@
 type: game
 title: 'Wing Commander Prophecy'
 released: 1997
-editor: 'Electronic Arts'
+editors: 
+  -'Electronic Arts'
 players: 1
 genres:
   - Simulation

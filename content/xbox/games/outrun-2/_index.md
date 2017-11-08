@@ -2,7 +2,8 @@
 type: game
 title: 'OutRun 2'
 released: 2004
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Course

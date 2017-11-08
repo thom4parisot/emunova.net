@@ -2,7 +2,8 @@
 type: game
 title: 'Super Star Soldier'
 released: 1990
-editor: 'Hudson Soft'
+editors: 
+  -'Hudson Soft'
 players: 1
 genres:
   - 'Shoot Them Up'

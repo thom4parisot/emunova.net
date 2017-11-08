@@ -2,7 +2,8 @@
 type: game
 title: 'Brutal : Paws Of Fury'
 released: 1994
-editor: Gametek
+editors: 
+  -Gametek
 players: 2
 genres:
   - Combat

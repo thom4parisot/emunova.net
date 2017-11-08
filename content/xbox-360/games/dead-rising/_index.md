@@ -2,7 +2,8 @@
 type: game
 title: 'Dead Rising'
 released: 2006
-editor: Capcom
+editors: 
+  -Capcom
 players: 1
 genres:
   - 'Beat them all'

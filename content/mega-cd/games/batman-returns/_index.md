@@ -2,7 +2,8 @@
 type: game
 title: 'Batman Returns'
 released: 1993
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Action

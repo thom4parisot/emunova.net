@@ -2,7 +2,8 @@
 type: game
 title: 'Wii Sports'
 released: 2006
-editor: Nintendo
+editors: 
+  -Nintendo
 players: 4
 genres:
   - Sport

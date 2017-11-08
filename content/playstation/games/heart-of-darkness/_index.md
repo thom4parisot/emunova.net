@@ -2,7 +2,8 @@
 type: game
 title: 'Heart of Darkness'
 released: 1998
-editor: Ocean
+editors: 
+  -Ocean
 players: 1
 genres:
   - Plates-formes

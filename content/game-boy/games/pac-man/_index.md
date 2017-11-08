@@ -2,7 +2,8 @@
 type: game
 title: Pac-Man
 released: 1991
-editor: Namco
+editors: 
+  -Namco
 players: 2
 genres:
   - Action

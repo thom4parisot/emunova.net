@@ -2,7 +2,8 @@
 type: game
 title: Cadash
 released: 1989
-editor: Taito
+editors: 
+  -Taito
 players: 2
 genres:
   - Aventure

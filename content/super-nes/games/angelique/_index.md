@@ -2,7 +2,8 @@
 type: game
 title: Angelique
 released: 1994
-editor: KOEI
+editors: 
+  -KOEI
 players: 1
 genres:
   - Simulation

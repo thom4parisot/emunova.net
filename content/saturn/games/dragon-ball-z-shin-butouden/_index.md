@@ -2,7 +2,8 @@
 type: game
 title: 'Dragon Ball Z Shin Butouden'
 released: 1995
-editor: 'Ban Dai'
+editors: 
+  -'Ban Dai'
 players: 2
 genres:
   - Combat

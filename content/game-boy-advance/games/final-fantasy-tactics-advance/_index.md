@@ -2,7 +2,8 @@
 type: game
 title: 'Final Fantasy Tactics Advance'
 released: 2003
-editor: Square
+editors: 
+  -Square
 players: 1
 genres:
   - 'Role Playing Game (RPG)'

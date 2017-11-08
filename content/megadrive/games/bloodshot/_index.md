@@ -2,7 +2,8 @@
 type: game
 title: Bloodshot
 released: 1994
-editor: Acclaim
+editors: 
+  -Acclaim
 players: 2
 genres:
   - 'First Person Shooter (FPS)'

@@ -2,7 +2,8 @@
 type: game
 title: Stuntman
 released: 2003
-editor: Infogrames
+editors: 
+  -Infogrames
 players: 2
 genres:
   - Course

@@ -2,7 +2,8 @@
 type: game
 title: Rockford
 released: 1988
-editor: Mastertronic
+editors: 
+  -Mastertronic
 players: 1
 genres:
   - Réflexion

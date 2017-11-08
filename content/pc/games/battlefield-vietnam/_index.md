@@ -2,7 +2,8 @@
 type: game
 title: 'Battlefield Vietnam'
 released: 2004
-editor: 'Electronic Arts'
+editors: 
+  -'Electronic Arts'
 players: 10
 genres:
   - 'First Person Shooter (FPS)'

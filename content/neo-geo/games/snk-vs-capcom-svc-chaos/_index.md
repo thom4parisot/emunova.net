@@ -2,7 +2,8 @@
 type: game
 title: 'SNK vs. Capcom : SVC Chaos'
 released: 2003
-editor: SNK
+editors: 
+  -SNK
 players: 2
 genres:
   - Combat

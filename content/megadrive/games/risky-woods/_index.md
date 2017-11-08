@@ -2,7 +2,8 @@
 type: game
 title: 'Risky Woods'
 released: 1992
-editor: 'Electronic Arts'
+editors: 
+  -'Electronic Arts'
 players: 1
 genres:
   - Plates-formes

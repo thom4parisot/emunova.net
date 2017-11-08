@@ -2,7 +2,8 @@
 type: game
 title: 'Turok : Rage Wars'
 released: 1999
-editor: Acclaim
+editors: 
+  -Acclaim
 players: 1
 genres:
   - Action

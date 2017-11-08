@@ -2,7 +2,8 @@
 type: game
 title: 'Ferrari Grand Prix Challenge'
 released: 1992
-editor: Acclaim
+editors: 
+  -Acclaim
 players: 1
 genres:
   - Course

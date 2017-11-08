@@ -2,7 +2,8 @@
 type: game
 title: 'Super Turrican 2'
 released: 1995
-editor: Ocean
+editors: 
+  -Ocean
 players: 1
 genres:
   - Action

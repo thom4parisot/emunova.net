@@ -2,7 +2,8 @@
 type: game
 title: 'Metal Mutant'
 released: 1991
-editor: Silmarils
+editors: 
+  -Silmarils
 players: 1
 genres:
   - Action

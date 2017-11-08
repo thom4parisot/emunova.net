@@ -2,7 +2,8 @@
 type: game
 title: Glover
 released: 1998
-editor: 'Hasbro Interactive'
+editors: 
+  -'Hasbro Interactive'
 players: 1
 genres:
   - Plates-formes

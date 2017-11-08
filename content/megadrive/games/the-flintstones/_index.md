@@ -2,7 +2,8 @@
 type: game
 title: 'The Flintstones'
 released: 1993
-editor: Taito
+editors: 
+  -Taito
 players: 1
 genres:
   - Plates-formes

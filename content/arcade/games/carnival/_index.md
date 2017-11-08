@@ -2,7 +2,8 @@
 type: game
 title: Carnival
 released: 1980
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Action

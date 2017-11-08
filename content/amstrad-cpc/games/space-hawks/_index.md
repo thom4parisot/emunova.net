@@ -2,7 +2,8 @@
 type: game
 title: 'Space Hawks'
 released: 1984
-editor: Amsoft
+editors: 
+  -Amsoft
 players: 2
 genres:
   - 'Shoot Them Up'

@@ -2,7 +2,8 @@
 type: game
 title: 'Panzer General'
 released: 1994
-editor: SSI
+editors: 
+  -SSI
 players: 2
 genres:
   - Wargame

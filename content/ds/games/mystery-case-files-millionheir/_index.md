@@ -2,7 +2,8 @@
 type: game
 title: 'Mystery Case Files : MillionHeir'
 released: 2008
-editor: Nintendo
+editors: 
+  -Nintendo
 players: 4
 genres:
   - Réflexion

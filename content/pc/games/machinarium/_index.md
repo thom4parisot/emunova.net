@@ -2,7 +2,8 @@
 type: game
 title: Machinarium
 released: 2010
-editor: N/C
+editors: 
+  -N/C
 players: 1
 genres:
   - Aventure

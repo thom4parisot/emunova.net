@@ -2,7 +2,8 @@
 type: game
 title: 'Funky Jet'
 released: 1992
-editor: 'Mitchell Corporation'
+editors: 
+  -'Mitchell Corporation'
 players: 2
 genres:
   - Plates-formes

@@ -2,7 +2,8 @@
 type: game
 title: 'Vandal Heart'
 released: 2000
-editor: Konami
+editors: 
+  -Konami
 players: 1
 genres:
   - Wargame

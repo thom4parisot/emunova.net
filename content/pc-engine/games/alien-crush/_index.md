@@ -2,7 +2,8 @@
 type: game
 title: 'Alien Crush'
 released: 1988
-editor: Naxat
+editors: 
+  -Naxat
 players: 1
 genres:
   - Action

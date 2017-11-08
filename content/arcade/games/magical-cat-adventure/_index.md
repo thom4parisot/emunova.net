@@ -2,7 +2,8 @@
 type: game
 title: 'Magical Cat Adventure'
 released: 1993
-editor: N/C
+editors: 
+  -N/C
 players: 2
 genres:
   - Plates-formes

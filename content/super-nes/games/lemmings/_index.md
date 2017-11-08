@@ -2,7 +2,8 @@
 type: game
 title: Lemmings
 released: 1991
-editor: Sunsoft
+editors: 
+  -Sunsoft
 players: 2
 genres:
   - Réflexion

@@ -2,7 +2,8 @@
 type: game
 title: 'Harry Potter et la Coupe de Feu'
 released: 2005
-editor: 'Electronic Arts'
+editors: 
+  -'Electronic Arts'
 players: 3
 genres:
   - Aventure

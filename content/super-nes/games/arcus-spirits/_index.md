@@ -2,7 +2,8 @@
 type: game
 title: 'Arcus Spirits'
 released: 1993
-editor: 'Renovation Products'
+editors: 
+  -'Renovation Products'
 players: 2
 genres:
   - Action

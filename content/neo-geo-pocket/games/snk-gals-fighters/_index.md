@@ -2,7 +2,8 @@
 type: game
 title: 'SNK Gals Fighters'
 released: 2000
-editor: SNK
+editors: 
+  -SNK
 players: 2
 genres:
   - Combat

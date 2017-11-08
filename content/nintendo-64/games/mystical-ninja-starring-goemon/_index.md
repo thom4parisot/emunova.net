@@ -2,7 +2,8 @@
 type: game
 title: 'Mystical Ninja - starring Goemon'
 released: 1998
-editor: Konami
+editors: 
+  -Konami
 players: 1
 genres:
   - Action

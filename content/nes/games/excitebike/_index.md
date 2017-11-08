@@ -2,7 +2,8 @@
 type: game
 title: Excitebike
 released: 1984
-editor: Nintendo
+editors: 
+  -Nintendo
 players: 1
 genres:
   - Course

@@ -2,7 +2,8 @@
 type: game
 title: Switch
 released: 1993
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Inclassable

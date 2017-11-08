@@ -2,7 +2,8 @@
 type: game
 title: 'Bram Stoker''s Dracula'
 released: 1993
-editor: Sony
+editors: 
+  -Sony
 players: 1
 genres:
   - Plates-formes

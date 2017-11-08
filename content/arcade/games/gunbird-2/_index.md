@@ -2,7 +2,8 @@
 type: game
 title: 'Gunbird 2'
 released: 1998
-editor: Psikyo
+editors: 
+  -Psikyo
 players: 2
 genres:
   - 'Shoot Them Up'

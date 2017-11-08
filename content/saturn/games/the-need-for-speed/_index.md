@@ -2,7 +2,8 @@
 type: game
 title: 'The Need for Speed'
 released: 1996
-editor: 'Electronic Arts'
+editors: 
+  -'Electronic Arts'
 players: 2
 genres:
   - Course

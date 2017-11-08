@@ -2,7 +2,8 @@
 type: game
 title: 'Blood Money'
 released: 1989
-editor: Psygnosis
+editors: 
+  -Psygnosis
 players: 2
 genres:
   - 'Shoot Them Up'

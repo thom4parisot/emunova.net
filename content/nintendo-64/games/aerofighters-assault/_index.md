@@ -2,7 +2,8 @@
 type: game
 title: 'Aerofighters Assault'
 released: 1998
-editor: 'Video System'
+editors: 
+  -'Video System'
 players: 2
 genres:
   - 'Shoot Them Up'

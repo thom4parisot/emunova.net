@@ -2,7 +2,8 @@
 type: game
 title: 'Venus Flytrap'
 released: 1990
-editor: Gremlin
+editors: 
+  -Gremlin
 players: 2
 genres:
   - Plates-formes

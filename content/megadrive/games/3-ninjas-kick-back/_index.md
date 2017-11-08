@@ -2,7 +2,8 @@
 type: game
 title: '3 Ninjas Kick Back'
 released: 1994
-editor: Sony
+editors: 
+  -Sony
 players: 2
 genres:
   - Plates-formes

@@ -2,7 +2,8 @@
 type: game
 title: 'Yu-Gi-Oh Worldwide Edition'
 released: 2003
-editor: Konami
+editors: 
+  -Konami
 players: 2
 genres:
   - Stratégie

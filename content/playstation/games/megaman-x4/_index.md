@@ -2,7 +2,8 @@
 type: game
 title: 'Megaman X4'
 released: 1997
-editor: Capcom
+editors: 
+  -Capcom
 players: 1
 genres:
   - Plates-formes

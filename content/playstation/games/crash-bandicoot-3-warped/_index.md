@@ -2,7 +2,8 @@
 type: game
 title: 'Crash Bandicoot 3 : Warped'
 released: 1998
-editor: Sony
+editors: 
+  -Sony
 players: 1
 genres:
   - Plates-formes

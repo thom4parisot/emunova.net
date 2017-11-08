@@ -2,7 +2,8 @@
 type: game
 title: Pac-Land
 released: 1990
-editor: 'NEC Avenue'
+editors: 
+  -'NEC Avenue'
 players: 2
 genres:
   - Plates-formes

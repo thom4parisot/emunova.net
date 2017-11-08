@@ -2,7 +2,8 @@
 type: game
 title: 'Sonic the Hedgehog Chaos'
 released: 1993
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Plates-formes

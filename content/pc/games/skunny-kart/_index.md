@@ -2,7 +2,8 @@
 type: game
 title: 'Skunny Kart'
 released: 1993
-editor: Copysoft
+editors: 
+  -Copysoft
 players: 2
 genres:
   - Course

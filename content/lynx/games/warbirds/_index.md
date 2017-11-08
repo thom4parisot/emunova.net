@@ -2,7 +2,8 @@
 type: game
 title: Warbirds
 released: 1990
-editor: Atari
+editors: 
+  -Atari
 players: 4
 genres:
   - Simulation

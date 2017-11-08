@@ -2,7 +2,8 @@
 type: game
 title: 'Card Shark'
 released: 2000
-editor: Sony
+editors: 
+  -Sony
 players: 4
 genres:
   - Inclassable

@@ -2,7 +2,8 @@
 type: game
 title: 'Splatterhouse 3'
 released: 1993
-editor: Namco
+editors: 
+  -Namco
 players: 1
 genres:
   - 'Beat them all'

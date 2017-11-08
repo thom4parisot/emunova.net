@@ -2,7 +2,8 @@
 type: game
 title: 'Jumping Flash ! 2'
 released: 1996
-editor: Sony
+editors: 
+  -Sony
 players: 1
 genres:
   - 'First Person Shooter (FPS)'

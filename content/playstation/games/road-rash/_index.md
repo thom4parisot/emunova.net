@@ -2,7 +2,8 @@
 type: game
 title: 'Road Rash'
 released: 1995
-editor: 'Electronic Arts'
+editors: 
+  -'Electronic Arts'
 players: 1
 genres:
   - Course

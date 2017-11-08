@@ -2,7 +2,8 @@
 type: game
 title: Carrier
 released: 2000
-editor: THQ
+editors: 
+  -THQ
 players: 1
 genres:
   - Action

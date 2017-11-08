@@ -2,7 +2,8 @@
 type: game
 title: Creatures
 released: 1997
-editor: 'GT Interactive'
+editors: 
+  -'GT Interactive'
 players: 1
 genres:
   - Inclassable

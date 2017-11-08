@@ -2,7 +2,8 @@
 type: game
 title: 'Dr. Slump'
 released: 1999
-editor: 'Ban Dai'
+editors: 
+  -'Ban Dai'
 players: 1
 genres:
   - Aventure

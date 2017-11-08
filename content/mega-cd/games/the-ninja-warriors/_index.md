@@ -2,7 +2,8 @@
 type: game
 title: 'The Ninja Warriors'
 released: 1992
-editor: Taito
+editors: 
+  -Taito
 players: 2
 genres:
   - Action

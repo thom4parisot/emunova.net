@@ -2,7 +2,8 @@
 type: game
 title: Pandemonium
 released: 1996
-editor: 'Crystal Dynamics'
+editors: 
+  -'Crystal Dynamics'
 players: 1
 genres:
   - Plates-formes

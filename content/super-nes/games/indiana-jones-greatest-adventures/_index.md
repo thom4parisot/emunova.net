@@ -2,7 +2,8 @@
 type: game
 title: 'Indiana Jones'' Greatest Adventures'
 released: 1994
-editor: 'Lucasfilm / LucasArts'
+editors: 
+  -'Lucasfilm / LucasArts'
 players: 1
 genres:
   - Plates-formes

@@ -2,7 +2,8 @@
 type: game
 title: Alundra
 released: 1998
-editor: Sony
+editors: 
+  -Sony
 players: 1
 genres:
   - Aventure

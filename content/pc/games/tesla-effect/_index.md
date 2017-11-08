@@ -2,7 +2,8 @@
 type: game
 title: 'Tesla Effect'
 released: 2014
-editor: Atlus
+editors: 
+  -Atlus
 players: 1
 series:
   - 'Tex Murphy'

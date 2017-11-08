@@ -2,7 +2,8 @@
 type: game
 title: 'King of the Monsters'
 released: 1991
-editor: SNK
+editors: 
+  -SNK
 players: 2
 genres:
   - Combat

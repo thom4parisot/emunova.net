@@ -2,7 +2,8 @@
 type: game
 title: 'Les Schtroumpfs'
 released: 1994
-editor: Infogrames
+editors: 
+  -Infogrames
 players: 1
 genres:
   - Plates-formes

@@ -2,7 +2,8 @@
 type: game
 title: 'Sexy Idol Mahjong (Super CD-ROM²)'
 released: 1993
-editor: Nichibutsu
+editors: 
+  -Nichibutsu
 players: 1
 genres:
   - Réflexion

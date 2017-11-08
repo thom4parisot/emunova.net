@@ -2,7 +2,8 @@
 type: game
 title: Shockman
 released: 1991
-editor: NCS
+editors: 
+  -NCS
 players: 2
 genres:
   - Action

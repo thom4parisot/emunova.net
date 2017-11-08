@@ -2,7 +2,8 @@
 type: game
 title: 'Die Hard Trilogy'
 released: 1996
-editor: 'Fox Interactive'
+editors: 
+  -'Fox Interactive'
 players: 1
 genres:
   - Action

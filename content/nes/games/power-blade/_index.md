@@ -2,7 +2,8 @@
 type: game
 title: 'Power Blade'
 released: 1991
-editor: Taito
+editors: 
+  -Taito
 players: 1
 genres:
   - Action

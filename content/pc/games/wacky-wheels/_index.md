@@ -2,7 +2,8 @@
 type: game
 title: 'Wacky Wheels'
 released: 1994
-editor: Apogee
+editors: 
+  -Apogee
 players: 2
 genres:
   - Course

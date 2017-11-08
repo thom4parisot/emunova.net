@@ -2,7 +2,8 @@
 type: game
 title: 'Dungeon Keeper'
 released: 1997
-editor: Bullfrog
+editors: 
+  -Bullfrog
 players: 1
 genres:
   - Stratégie

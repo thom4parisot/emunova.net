@@ -2,7 +2,8 @@
 type: game
 title: 'Mayhem in Monsterland'
 released: 1993
-editor: 'Apex Computer Productions'
+editors: 
+  -'Apex Computer Productions'
 players: 1
 genres:
   - Plates-formes

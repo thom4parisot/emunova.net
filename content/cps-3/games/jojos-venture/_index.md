@@ -2,7 +2,8 @@
 type: game
 title: 'Jojo''s Venture'
 released: 1998
-editor: Capcom
+editors: 
+  -Capcom
 players: 2
 genres:
   - Combat

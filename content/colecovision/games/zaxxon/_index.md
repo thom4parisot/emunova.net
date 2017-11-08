@@ -2,7 +2,8 @@
 type: game
 title: Zaxxon
 released: 1982
-editor: Sega
+editors: 
+  -Sega
 players: 2
 genres:
   - 'Shoot Them Up'

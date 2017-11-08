@@ -2,7 +2,8 @@
 type: game
 title: 'Salamander 2'
 released: 1996
-editor: Konami
+editors: 
+  -Konami
 players: 2
 genres:
   - 'Shoot Them Up'

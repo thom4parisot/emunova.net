@@ -2,7 +2,8 @@
 type: game
 title: 'Street Fighter II Turbo'
 released: 1993
-editor: Capcom
+editors: 
+  -Capcom
 players: 2
 genres:
   - Combat

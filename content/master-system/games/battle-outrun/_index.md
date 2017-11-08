@@ -2,7 +2,8 @@
 type: game
 title: 'Battle OutRun'
 released: 1989
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Course

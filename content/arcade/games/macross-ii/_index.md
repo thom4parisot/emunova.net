@@ -2,7 +2,8 @@
 type: game
 title: 'Macross II'
 released: 1993
-editor: Branpresto
+editors: 
+  -Branpresto
 players: 2
 genres:
   - 'Shoot Them Up'

@@ -2,7 +2,8 @@
 type: game
 title: 'Metal Slug Advance'
 released: 2004
-editor: SNK
+editors: 
+  -SNK
 players: 1
 genres:
   - Action

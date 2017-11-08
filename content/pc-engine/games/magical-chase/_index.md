@@ -2,7 +2,8 @@
 type: game
 title: 'Magical Chase'
 released: 1991
-editor: Palsoft
+editors: 
+  -Palsoft
 players: 1
 genres:
   - 'Shoot Them Up'

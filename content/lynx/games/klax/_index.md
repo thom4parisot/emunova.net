@@ -2,7 +2,8 @@
 type: game
 title: Klax
 released: 1990
-editor: Atari
+editors: 
+  -Atari
 players: 1
 genres:
   - Réflexion

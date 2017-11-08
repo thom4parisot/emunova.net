@@ -2,7 +2,8 @@
 type: game
 title: Starlancer
 released: 2000
-editor: Microsoft
+editors: 
+  -Microsoft
 players: 1
 genres:
   - Simulation

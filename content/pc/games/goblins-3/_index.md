@@ -2,7 +2,8 @@
 type: game
 title: 'Goblins 3'
 released: 1993
-editor: Sierra
+editors: 
+  -Sierra
 players: 1
 genres:
   - Réflexion

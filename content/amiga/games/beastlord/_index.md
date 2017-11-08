@@ -2,7 +2,8 @@
 type: game
 title: Beastlord
 released: 1993
-editor: Grandslam
+editors: 
+  -Grandslam
 players: 1
 genres:
   - Aventure

@@ -2,7 +2,8 @@
 type: game
 title: Pitfall!
 released: 1982
-editor: Activision
+editors: 
+  -Activision
 players: 1
 genres:
   - Plates-formes

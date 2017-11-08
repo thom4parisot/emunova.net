@@ -2,7 +2,8 @@
 type: game
 title: Batsugun
 released: 1996
-editor: Banpresto
+editors: 
+  -Banpresto
 players: 1
 genres:
   - 'Shoot Them Up'

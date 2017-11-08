@@ -2,7 +2,8 @@
 type: game
 title: 'Universal Soldier'
 released: 1992
-editor: Accolade
+editors: 
+  -Accolade
 players: 1
 genres:
   - Action

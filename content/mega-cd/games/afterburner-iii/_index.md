@@ -2,7 +2,8 @@
 type: game
 title: 'AfterBurner III'
 released: 1992
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - 'Shoot Them Up'

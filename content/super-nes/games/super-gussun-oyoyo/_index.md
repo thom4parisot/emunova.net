@@ -2,7 +2,8 @@
 type: game
 title: 'Super Gussun Oyoyo'
 released: 1995
-editor: Banpresto
+editors: 
+  -Banpresto
 players: 1
 genres:
   - Réflexion

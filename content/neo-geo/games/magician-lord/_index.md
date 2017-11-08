@@ -2,7 +2,8 @@
 type: game
 title: 'Magician Lord'
 released: 1990
-editor: SNK
+editors: 
+  -SNK
 players: 1
 genres:
   - Action

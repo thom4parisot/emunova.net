@@ -2,7 +2,8 @@
 type: game
 title: 'Andro Dunos'
 released: 1992
-editor: Visco
+editors: 
+  -Visco
 players: 2
 genres:
   - 'Shoot Them Up'

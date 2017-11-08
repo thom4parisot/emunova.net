@@ -2,7 +2,8 @@
 type: game
 title: Wipeout
 released: 1995
-editor: Psygnosis
+editors: 
+  -Psygnosis
 players: 1
 genres:
   - Course

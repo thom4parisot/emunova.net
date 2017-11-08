@@ -2,7 +2,8 @@
 type: game
 title: 'Valis IV'
 released: 1992
-editor: Telenet
+editors: 
+  -Telenet
 players: 1
 genres:
   - Action

@@ -2,7 +2,8 @@
 type: game
 title: 'Snow Bros'
 released: 1993
-editor: Tengen
+editors: 
+  -Tengen
 players: 2
 genres:
   - Plates-formes

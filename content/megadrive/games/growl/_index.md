@@ -2,7 +2,8 @@
 type: game
 title: Growl
 released: 1991
-editor: Taito
+editors: 
+  -Taito
 players: 2
 genres:
   - 'Beat them all'

@@ -2,7 +2,8 @@
 type: game
 title: 'Nightmare Creatures'
 released: 1998
-editor: Kalysto
+editors: 
+  -Kalysto
 players: 1
 genres:
   - Aventure

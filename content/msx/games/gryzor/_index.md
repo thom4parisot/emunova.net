@@ -2,7 +2,8 @@
 type: game
 title: Gryzor
 released: 1989
-editor: Konami
+editors: 
+  -Konami
 players: 1
 genres:
   - Action

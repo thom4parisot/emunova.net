@@ -2,7 +2,8 @@
 type: game
 title: 'Miracle Warriors - Seal of the Dark Lord'
 released: 1988
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - 'Role Playing Game (RPG)'

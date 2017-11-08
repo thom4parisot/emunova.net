@@ -2,7 +2,8 @@
 type: game
 title: Spellcaster
 released: 1989
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Action

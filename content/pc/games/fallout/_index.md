@@ -2,7 +2,8 @@
 type: game
 title: Fallout
 released: 1997
-editor: Interplay
+editors: 
+  -Interplay
 players: 1
 genres:
   - 'Role Playing Game (RPG)'

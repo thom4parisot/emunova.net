@@ -2,7 +2,8 @@
 type: game
 title: Unirally
 released: 1994
-editor: Nintendo
+editors: 
+  -Nintendo
 players: 2
 genres:
   - Course

@@ -2,7 +2,8 @@
 type: game
 title: 'Ninja Gaiden'
 released: 1992
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - 'Beat them all'

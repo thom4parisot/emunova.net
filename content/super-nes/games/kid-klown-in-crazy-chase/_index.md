@@ -2,7 +2,8 @@
 type: game
 title: 'Kid Klown in Crazy Chase'
 released: 1994
-editor: Kemco
+editors: 
+  -Kemco
 players: 1
 genres:
   - Action

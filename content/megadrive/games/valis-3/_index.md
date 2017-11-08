@@ -2,7 +2,8 @@
 type: game
 title: 'Valis 3'
 released: 1991
-editor: Telenet
+editors: 
+  -Telenet
 players: 1
 genres:
   - Plates-formes

@@ -2,7 +2,8 @@
 type: game
 title: 'Yoshi''s Cookie'
 released: 1993
-editor: 'Bullet Proof Software'
+editors: 
+  -'Bullet Proof Software'
 players: 2
 genres:
   - Réflexion

@@ -2,7 +2,8 @@
 type: game
 title: Uridium
 released: 1986
-editor: Hewson
+editors: 
+  -Hewson
 players: 2
 genres:
   - 'Shoot Them Up'

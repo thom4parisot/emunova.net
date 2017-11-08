@@ -2,7 +2,8 @@
 type: game
 title: 'My Hero'
 released: 1986
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Action

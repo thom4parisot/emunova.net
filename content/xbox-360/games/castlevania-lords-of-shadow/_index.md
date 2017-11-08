@@ -2,7 +2,8 @@
 type: game
 title: 'Castlevania : Lords of Shadow'
 released: 2010
-editor: Konami
+editors: 
+  -Konami
 players: 1
 genres:
   - Action

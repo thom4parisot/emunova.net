@@ -2,7 +2,8 @@
 type: game
 title: 'Bakumatsu Kourinden Oni'
 released: 1996
-editor: Banpresto
+editors: 
+  -Banpresto
 players: 1
 genres:
   - 'Role Playing Game (RPG)'

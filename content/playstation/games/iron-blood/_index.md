@@ -2,7 +2,8 @@
 type: game
 title: 'Iron & Blood'
 released: 1996
-editor: Acclaim
+editors: 
+  -Acclaim
 players: 2
 genres:
   - 'Beat them up'

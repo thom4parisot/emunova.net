@@ -2,7 +2,8 @@
 type: game
 title: Penumbra
 released: 2006
-editor: 'Frictional Games'
+editors: 
+  -'Frictional Games'
 players: 1
 genres:
   - Aventure

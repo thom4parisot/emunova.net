@@ -2,7 +2,8 @@
 type: game
 title: 'Air Combat'
 released: 1995
-editor: Namco
+editors: 
+  -Namco
 players: 2
 genres:
   - 'Shoot Them Up'

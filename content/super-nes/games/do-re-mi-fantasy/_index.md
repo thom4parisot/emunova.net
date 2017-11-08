@@ -2,7 +2,8 @@
 type: game
 title: 'Do-Re-Mi Fantasy'
 released: 1996
-editor: 'Hudson Soft'
+editors: 
+  -'Hudson Soft'
 players: 1
 genres:
   - Plates-formes

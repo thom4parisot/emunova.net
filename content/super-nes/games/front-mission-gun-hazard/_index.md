@@ -2,7 +2,8 @@
 type: game
 title: 'Front Mission : Gun Hazard'
 released: 1996
-editor: Square
+editors: 
+  -Square
 players: 1
 genres:
   - Action

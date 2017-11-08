@@ -2,7 +2,8 @@
 type: game
 title: 'Art Of Fighting'
 released: 1992
-editor: SNK
+editors: 
+  -SNK
 players: 2
 genres:
   - Combat

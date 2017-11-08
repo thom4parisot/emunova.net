@@ -2,7 +2,8 @@
 type: game
 title: 'Rise Of the Triad'
 released: 1994
-editor: Apogee
+editors: 
+  -Apogee
 players: 10
 genres:
   - 'First Person Shooter (FPS)'

@@ -2,7 +2,8 @@
 type: game
 title: 'Blazing Skies'
 released: 1992
-editor: Namco
+editors: 
+  -Namco
 players: 1
 genres:
   - 'Shoot Them Up'

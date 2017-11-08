@@ -2,7 +2,8 @@
 type: game
 title: Gunbird
 released: 1994
-editor: Psikyo
+editors: 
+  -Psikyo
 players: 2
 genres:
   - 'Shoot Them Up'

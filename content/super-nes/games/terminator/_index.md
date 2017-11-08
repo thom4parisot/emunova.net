@@ -2,7 +2,8 @@
 type: game
 title: Terminator
 released: 1993
-editor: Mindscape
+editors: 
+  -Mindscape
 players: 1
 genres:
   - 'Beat them all'

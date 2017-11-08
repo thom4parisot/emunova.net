@@ -2,7 +2,8 @@
 type: game
 title: 'Track & Field'
 released: 1987
-editor: Konami
+editors: 
+  -Konami
 players: 2
 genres:
   - Sport

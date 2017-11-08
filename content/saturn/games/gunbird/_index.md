@@ -2,7 +2,8 @@
 type: game
 title: Gunbird
 released: 1995
-editor: Atlus
+editors: 
+  -Atlus
 players: 2
 genres:
   - 'Shoot Them Up'

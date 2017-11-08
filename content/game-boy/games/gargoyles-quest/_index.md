@@ -2,7 +2,8 @@
 type: game
 title: 'Gargoyle''s Quest'
 released: 1990
-editor: Capcom
+editors: 
+  -Capcom
 players: 1
 genres:
   - Plates-formes

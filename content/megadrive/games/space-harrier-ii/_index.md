@@ -2,7 +2,8 @@
 type: game
 title: 'Space Harrier II'
 released: 1988
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - 'Shoot Them Up'

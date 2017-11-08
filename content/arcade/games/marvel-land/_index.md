@@ -2,7 +2,8 @@
 type: game
 title: 'Marvel Land'
 released: 1989
-editor: Namco
+editors: 
+  -Namco
 players: 1
 genres:
   - Plates-formes

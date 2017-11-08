@@ -2,7 +2,8 @@
 type: game
 title: 'Blueprint 3D'
 released: 2011
-editor: 'FDG Entertainment'
+editors: 
+  -'FDG Entertainment'
 players: 1
 genres:
   - Réflexion

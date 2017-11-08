@@ -2,7 +2,8 @@
 type: game
 title: 'Samurai Warrior : The Battles of Usagi Yojimbo'
 released: 1988
-editor: Firebird
+editors: 
+  -Firebird
 players: 1
 genres:
   - 'Beat them all'

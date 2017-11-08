@@ -2,7 +2,8 @@
 type: game
 title: 'Super James Pond'
 released: 1993
-editor: Ocean
+editors: 
+  -Ocean
 players: 1
 genres:
   - Plates-formes

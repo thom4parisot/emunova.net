@@ -2,7 +2,8 @@
 type: game
 title: 'Tech Romancer'
 released: 2000
-editor: Capcom
+editors: 
+  -Capcom
 players: 2
 genres:
   - Combat

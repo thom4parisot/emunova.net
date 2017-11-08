@@ -2,7 +2,8 @@
 type: game
 title: 'Fields Of Glory'
 released: 1993
-editor: Microprose
+editors: 
+  -Microprose
 players: 1
 genres:
   - Stratégie

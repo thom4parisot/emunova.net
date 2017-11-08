@@ -2,7 +2,8 @@
 type: game
 title: 'Bubsy II'
 released: 1994
-editor: Accolade
+editors: 
+  -Accolade
 players: 1
 genres:
   - Plates-formes

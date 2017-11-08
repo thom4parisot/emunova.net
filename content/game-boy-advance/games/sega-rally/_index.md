@@ -2,7 +2,8 @@
 type: game
 title: 'Sega Rally'
 released: 2002
-editor: Sega
+editors: 
+  -Sega
 players: 2
 genres:
   - Course

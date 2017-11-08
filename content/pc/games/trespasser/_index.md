@@ -2,7 +2,8 @@
 type: game
 title: Trespasser
 released: 1998
-editor: 'Dreamworks Interactive'
+editors: 
+  -'Dreamworks Interactive'
 players: 1
 genres:
   - Action

@@ -2,7 +2,8 @@
 type: game
 title: 'Ikari Warriors'
 released: 1987
-editor: Elite
+editors: 
+  -Elite
 players: 2
 genres:
   - Action

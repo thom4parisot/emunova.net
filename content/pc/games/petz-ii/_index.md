@@ -2,7 +2,8 @@
 type: game
 title: 'Petz II'
 released: 1996
-editor: PFMagic
+editors: 
+  -PFMagic
 players: 1
 genres:
   - Inclassable

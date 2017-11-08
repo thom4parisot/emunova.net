@@ -2,7 +2,8 @@
 type: game
 title: Amagon
 released: 1988
-editor: 'Vic Tokai'
+editors: 
+  -'Vic Tokai'
 players: 1
 genres:
   - Plates-formes

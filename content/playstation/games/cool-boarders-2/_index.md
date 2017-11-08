@@ -2,7 +2,8 @@
 type: game
 title: 'Cool Boarders 2'
 released: 1997
-editor: Sony
+editors: 
+  -Sony
 players: 2
 genres:
   - Sport

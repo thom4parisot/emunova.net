@@ -2,7 +2,8 @@
 type: game
 title: Puggsy
 released: 1993
-editor: Psygnosis
+editors: 
+  -Psygnosis
 players: 1
 genres:
   - Plates-formes

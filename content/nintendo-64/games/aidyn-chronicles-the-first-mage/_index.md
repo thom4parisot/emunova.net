@@ -2,7 +2,8 @@
 type: game
 title: 'Aidyn Chronicles : The First Mage'
 released: 2001
-editor: THQ
+editors: 
+  -THQ
 players: 1
 genres:
   - 'Role Playing Game (RPG)'

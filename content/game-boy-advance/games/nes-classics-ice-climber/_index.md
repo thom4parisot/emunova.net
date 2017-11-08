@@ -2,7 +2,8 @@
 type: game
 title: 'NES Classics - Ice Climber'
 released: 2004
-editor: Nintendo
+editors: 
+  -Nintendo
 players: 2
 genres:
   - Plates-formes

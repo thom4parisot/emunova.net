@@ -2,7 +2,8 @@
 type: game
 title: 'ABC Monday Night Football'
 released: 1993
-editor: 'Data East'
+editors: 
+  -'Data East'
 players: 2
 genres:
   - Sport

@@ -2,7 +2,8 @@
 type: game
 title: 'Contra 4'
 released: 2007
-editor: Konami
+editors: 
+  -Konami
 players: 2
 genres:
   - Action

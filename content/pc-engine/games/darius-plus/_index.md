@@ -2,7 +2,8 @@
 type: game
 title: 'Darius Plus'
 released: 1990
-editor: 'NEC Interchannel'
+editors: 
+  -'NEC Interchannel'
 players: 1
 genres:
   - 'Shoot Them Up'

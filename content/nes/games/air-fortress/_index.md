@@ -2,7 +2,8 @@
 type: game
 title: 'Air Fortress'
 released: 1987
-editor: Hal
+editors: 
+  -Hal
 players: 1
 genres:
   - 'Shoot Them Up'

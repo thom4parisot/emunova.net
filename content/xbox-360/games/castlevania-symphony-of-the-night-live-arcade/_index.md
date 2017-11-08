@@ -2,7 +2,8 @@
 type: game
 title: 'Castlevania : Symphony of the Night (Live Arcade)'
 released: 2007
-editor: Konami
+editors: 
+  -Konami
 players: 1
 genres:
   - Aventure

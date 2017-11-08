@@ -2,7 +2,8 @@
 type: game
 title: 'Adventures of Bayou Billy'
 released: 1989
-editor: Konami
+editors: 
+  -Konami
 players: 1
 genres:
   - Action

@@ -2,7 +2,8 @@
 type: game
 title: Shinobi
 released: 1988
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Plates-formes

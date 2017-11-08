@@ -2,7 +2,8 @@
 type: game
 title: Psychonauts
 released: 2006
-editor: Microsoft
+editors: 
+  -Microsoft
 players: 1
 genres:
   - Aventure

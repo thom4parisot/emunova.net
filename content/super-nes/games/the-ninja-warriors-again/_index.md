@@ -2,7 +2,8 @@
 type: game
 title: 'The Ninja Warriors Again'
 released: 1994
-editor: Taito
+editors: 
+  -Taito
 players: 2
 genres:
   - 'Beat them all'

@@ -2,7 +2,8 @@
 type: game
 title: 'Flyin'' High'
 released: 1997
-editor: 'APC & TCP'
+editors: 
+  -'APC & TCP'
 players: 4
 genres:
   - Course

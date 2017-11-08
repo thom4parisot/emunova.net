@@ -2,7 +2,8 @@
 type: game
 title: 'Metal Gear Solid Integral'
 released: 2000
-editor: Microsoft
+editors: 
+  -Microsoft
 players: 1
 genres:
   - Action

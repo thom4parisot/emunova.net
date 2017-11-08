@@ -2,7 +2,8 @@
 type: game
 title: 'Warriors : Legends of Troy'
 released: 2011
-editor: KOEI
+editors: 
+  -KOEI
 players: 1
 genres:
   - 'Beat them all'

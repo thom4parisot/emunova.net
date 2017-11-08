@@ -2,7 +2,8 @@
 type: game
 title: 'Shining Force'
 released: 1992
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - 'Role Playing Game (RPG)'

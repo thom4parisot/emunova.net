@@ -2,7 +2,8 @@
 type: game
 title: 'Megaman X6'
 released: 2001
-editor: Capcom
+editors: 
+  -Capcom
 players: 1
 genres:
   - Action

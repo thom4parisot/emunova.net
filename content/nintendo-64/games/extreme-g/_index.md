@@ -2,7 +2,8 @@
 type: game
 title: Extreme-G
 released: 1997
-editor: Acclaim
+editors: 
+  -Acclaim
 players: 4
 genres:
   - Course

@@ -2,7 +2,8 @@
 type: game
 title: 'Purble Place'
 released: 2007
-editor: Microsoft
+editors: 
+  -Microsoft
 players: 1
 genres:
   - Inclassable

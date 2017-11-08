@@ -2,7 +2,8 @@
 type: game
 title: 'Fantasy Zone Gear'
 released: 1991
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - 'Shoot Them Up'

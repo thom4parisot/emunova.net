@@ -2,7 +2,8 @@
 type: game
 title: Leatherneck
 released: 1988
-editor: MicroDeal
+editors: 
+  -MicroDeal
 players: 4
 genres:
   - Action

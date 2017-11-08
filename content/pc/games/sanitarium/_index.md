@@ -2,7 +2,8 @@
 type: game
 title: Sanitarium
 released: 1998
-editor: DreamForge
+editors: 
+  -DreamForge
 players: 1
 genres:
   - Aventure

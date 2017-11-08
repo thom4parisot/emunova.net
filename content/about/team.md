@@ -2,7 +2,8 @@
 title: Contacter la Team Emu Nova
 menu:
     main:
-      weight: 90
+      name: Équipe
+      weight: 10
 ---
 
 ## Angus

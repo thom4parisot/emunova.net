@@ -2,7 +2,8 @@
 type: game
 title: Guwange
 released: 1999
-editor: Cave
+editors: 
+  -Cave
 players: 2
 genres:
   - 'Shoot Them Up'

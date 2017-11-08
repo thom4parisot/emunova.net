@@ -2,7 +2,8 @@
 type: game
 title: 'Winter Games'
 released: 1986
-editor: Epyx
+editors: 
+  -Epyx
 players: 4
 genres:
   - Sport

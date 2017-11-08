@@ -2,7 +2,8 @@
 type: game
 title: 'Wonder Classic'
 released: 2001
-editor: Namco
+editors: 
+  -Namco
 players: 1
 genres:
   - Sport

@@ -2,7 +2,8 @@
 type: game
 title: 'Shock Troopers : 2nd Squad'
 released: 1999
-editor: SNK
+editors: 
+  -SNK
 players: 2
 genres:
   - 'Gun Shooting'

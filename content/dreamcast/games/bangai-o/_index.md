@@ -2,7 +2,8 @@
 type: game
 title: Bangai-o
 released: 1999
-editor: Treasure
+editors: 
+  -Treasure
 players: 1
 genres:
   - 'Shoot Them Up'

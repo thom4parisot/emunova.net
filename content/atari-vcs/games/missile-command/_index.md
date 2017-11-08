@@ -2,7 +2,8 @@
 type: game
 title: 'Missile Command'
 released: 1981
-editor: Atari
+editors: 
+  -Atari
 players: 1
 genres:
   - 'Shoot Them Up'

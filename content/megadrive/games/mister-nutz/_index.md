@@ -2,7 +2,8 @@
 type: game
 title: 'Mister Nutz'
 released: 1994
-editor: Ocean
+editors: 
+  -Ocean
 players: 1
 genres:
   - Plates-formes

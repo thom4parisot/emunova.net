@@ -2,7 +2,8 @@
 type: game
 title: 'Mario Bros.'
 released: 1983
-editor: Atari
+editors: 
+  -Atari
 players: 2
 genres:
   - Plates-formes

@@ -2,7 +2,8 @@
 type: game
 title: 'Android Two'
 released: 1985
-editor: 'Vortex Software'
+editors: 
+  -'Vortex Software'
 players: 1
 genres:
   - Action

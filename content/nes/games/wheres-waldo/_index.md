@@ -2,7 +2,8 @@
 type: game
 title: 'Where''s Waldo ?'
 released: 1991
-editor: THQ
+editors: 
+  -THQ
 players: 1
 genres:
   - Inclassable

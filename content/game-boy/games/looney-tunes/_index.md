@@ -2,7 +2,8 @@
 type: game
 title: 'Looney Tunes'
 released: 1992
-editor: Sunsoft
+editors: 
+  -Sunsoft
 players: 1
 genres:
   - Action

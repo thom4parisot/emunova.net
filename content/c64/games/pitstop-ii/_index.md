@@ -2,7 +2,8 @@
 type: game
 title: 'Pitstop II'
 released: 1984
-editor: Epyx
+editors: 
+  -Epyx
 players: 2
 genres:
   - Course

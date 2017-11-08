@@ -2,7 +2,8 @@
 type: game
 title: 'Bad Mojo'
 released: 1996
-editor: Acclaim
+editors: 
+  -Acclaim
 players: 1
 genres:
   - Réflexion

@@ -2,7 +2,8 @@
 type: game
 title: 'Black Tiger (Black Dragon)'
 released: 1987
-editor: Capcom
+editors: 
+  -Capcom
 players: 1
 genres:
   - Plates-formes

@@ -2,7 +2,8 @@
 type: game
 title: 'Macross Plus'
 released: 1996
-editor: Branpresto
+editors: 
+  -Branpresto
 players: 2
 genres:
   - 'Shoot Them Up'

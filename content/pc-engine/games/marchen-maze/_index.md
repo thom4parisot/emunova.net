@@ -2,7 +2,8 @@
 type: game
 title: 'Märchen Maze'
 released: 1990
-editor: Namco
+editors: 
+  -Namco
 players: 1
 genres:
   - Aventure

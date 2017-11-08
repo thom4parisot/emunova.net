@@ -2,7 +2,8 @@
 type: game
 title: Starlancer
 released: 2001
-editor: Crave
+editors: 
+  -Crave
 players: 8
 genres:
   - 'Shoot Them Up'

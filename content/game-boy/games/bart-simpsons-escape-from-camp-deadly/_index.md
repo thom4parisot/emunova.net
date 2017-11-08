@@ -2,7 +2,8 @@
 type: game
 title: 'Bart Simpson''s Escape from Camp Deadly'
 released: 1991
-editor: Acclaim
+editors: 
+  -Acclaim
 players: 1
 genres:
   - Action

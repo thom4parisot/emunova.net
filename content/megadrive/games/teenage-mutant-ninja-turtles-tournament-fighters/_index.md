@@ -2,7 +2,8 @@
 type: game
 title: 'Teenage Mutant Ninja Turtles : Tournament Fighters'
 released: 1993
-editor: Konami
+editors: 
+  -Konami
 players: 2
 genres:
   - Combat

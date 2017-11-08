@@ -2,7 +2,8 @@
 type: game
 title: G-Darius
 released: 1998
-editor: Taito
+editors: 
+  -Taito
 players: 2
 genres:
   - 'Shoot Them Up'

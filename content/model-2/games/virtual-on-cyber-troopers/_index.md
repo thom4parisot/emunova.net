@@ -2,7 +2,8 @@
 type: game
 title: 'Virtual On : Cyber Troopers'
 released: 1996
-editor: Sega
+editors: 
+  -Sega
 players: 2
 genres:
   - Combat

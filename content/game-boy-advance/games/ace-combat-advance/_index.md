@@ -2,7 +2,8 @@
 type: game
 title: 'Ace Combat Advance'
 released: 2006
-editor: Namco
+editors: 
+  -Namco
 players: 1
 genres:
   - 'Shoot Them Up'

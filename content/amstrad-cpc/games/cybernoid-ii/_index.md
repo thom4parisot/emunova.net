@@ -2,7 +2,8 @@
 type: game
 title: 'Cybernoid II'
 released: 1988
-editor: Hewson
+editors: 
+  -Hewson
 players: 1
 genres:
   - 'Shoot Them Up'

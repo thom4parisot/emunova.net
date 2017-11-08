@@ -2,7 +2,8 @@
 type: game
 title: 'League Bowling'
 released: 1990
-editor: SNK
+editors: 
+  -SNK
 players: 4
 genres:
   - Sport

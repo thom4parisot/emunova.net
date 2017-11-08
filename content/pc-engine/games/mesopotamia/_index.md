@@ -2,7 +2,8 @@
 type: game
 title: Mesopotamia
 released: 1991
-editor: Atlus
+editors: 
+  -Atlus
 players: 1
 genres:
   - Aventure

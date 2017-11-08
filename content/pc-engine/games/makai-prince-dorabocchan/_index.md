@@ -2,7 +2,8 @@
 type: game
 title: 'Makai Prince Dorabocchan'
 released: 1990
-editor: Naxat
+editors: 
+  -Naxat
 players: 1
 genres:
   - Plates-formes

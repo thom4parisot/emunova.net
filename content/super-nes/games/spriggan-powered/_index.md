@@ -2,7 +2,8 @@
 type: game
 title: 'Spriggan Powered'
 released: 1996
-editor: Naxat
+editors: 
+  -Naxat
 players: 1
 genres:
   - 'Shoot Them Up'

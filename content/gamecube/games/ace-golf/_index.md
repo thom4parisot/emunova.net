@@ -2,7 +2,8 @@
 type: game
 title: 'Ace Golf'
 released: 2002
-editor: Eidos
+editors: 
+  -Eidos
 players: 4
 genres:
   - Sport

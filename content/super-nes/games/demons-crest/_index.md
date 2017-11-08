@@ -2,7 +2,8 @@
 type: game
 title: 'Demon''s Crest'
 released: 1994
-editor: Capcom
+editors: 
+  -Capcom
 players: 1
 genres:
   - Plates-formes

@@ -2,7 +2,8 @@
 type: game
 title: 'Final Fight'
 released: 1989
-editor: Capcom
+editors: 
+  -Capcom
 players: 2
 genres:
   - 'Beat them all'

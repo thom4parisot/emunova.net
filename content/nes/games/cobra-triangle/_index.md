@@ -2,7 +2,8 @@
 type: game
 title: 'Cobra Triangle'
 released: 1988
-editor: RARE
+editors: 
+  -RARE
 players: 1
 genres:
   - Action

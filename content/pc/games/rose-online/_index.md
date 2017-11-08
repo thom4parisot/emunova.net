@@ -2,7 +2,8 @@
 type: game
 title: 'ROSE online'
 released: 2005
-editor: 'Gravity Corporation'
+editors: 
+  -'Gravity Corporation'
 players: 10
 genres:
   - Online

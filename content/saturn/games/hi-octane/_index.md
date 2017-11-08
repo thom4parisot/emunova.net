@@ -2,7 +2,8 @@
 type: game
 title: Hi-Octane
 released: 1995
-editor: Bullfrog
+editors: 
+  -Bullfrog
 players: 2
 genres:
   - Course

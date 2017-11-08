@@ -2,7 +2,8 @@
 type: game
 title: Pang
 released: 1990
-editor: Ocean
+editors: 
+  -Ocean
 players: 2
 genres:
   - Action

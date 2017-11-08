@@ -2,7 +2,8 @@
 type: game
 title: 'Tokyo Highway Challenge'
 released: 1999
-editor: Crave
+editors: 
+  -Crave
 players: 2
 genres:
   - Course

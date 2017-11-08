@@ -2,7 +2,8 @@
 type: game
 title: Cybernator
 released: 1993
-editor: Konami
+editors: 
+  -Konami
 players: 1
 genres:
   - 'Shoot Them Up'

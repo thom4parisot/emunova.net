@@ -2,7 +2,8 @@
 type: game
 title: 'Teresa : House Guest'
 released: 1993
-editor: 'Interactive Girls'
+editors: 
+  -'Interactive Girls'
 players: 1
 genres:
   - Aventure

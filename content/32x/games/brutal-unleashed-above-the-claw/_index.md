@@ -2,7 +2,8 @@
 type: game
 title: 'Brutal Unleashed : Above the Claw'
 released: 1995
-editor: Gametek
+editors: 
+  -Gametek
 players: 2
 genres:
   - Combat

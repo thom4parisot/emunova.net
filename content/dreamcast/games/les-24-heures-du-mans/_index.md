@@ -2,7 +2,8 @@
 type: game
 title: 'Les 24 Heures du Mans'
 released: 2000
-editor: Infogrames
+editors: 
+  -Infogrames
 players: 4
 genres:
   - Course

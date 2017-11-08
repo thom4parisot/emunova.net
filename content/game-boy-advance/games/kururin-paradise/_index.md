@@ -2,7 +2,8 @@
 type: game
 title: 'Kururin Paradise'
 released: 2002
-editor: Eighting
+editors: 
+  -Eighting
 players: 4
 genres:
   - Réflexion

@@ -2,7 +2,8 @@
 type: game
 title: Bomberman
 released: 1985
-editor: 'Hudson Soft'
+editors: 
+  -'Hudson Soft'
 players: 1
 genres:
   - Action

@@ -2,7 +2,8 @@
 type: game
 title: 'Donkey Kong Country'
 released: 1994
-editor: RARE
+editors: 
+  -RARE
 players: 2
 genres:
   - Plates-formes

@@ -2,7 +2,8 @@
 type: game
 title: 'Full Throttle'
 released: 1995
-editor: 'Lucasfilm / LucasArts'
+editors: 
+  -'Lucasfilm / LucasArts'
 players: 1
 genres:
   - Aventure

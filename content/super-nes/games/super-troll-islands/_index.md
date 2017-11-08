@@ -2,7 +2,8 @@
 type: game
 title: 'Super Troll Islands'
 released: 1993
-editor: 'American Softworks Corporation'
+editors: 
+  -'American Softworks Corporation'
 players: 1
 genres:
   - Plates-formes

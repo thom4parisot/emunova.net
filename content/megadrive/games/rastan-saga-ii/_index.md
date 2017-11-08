@@ -2,7 +2,8 @@
 type: game
 title: 'Rastan Saga II'
 released: 1990
-editor: Taito
+editors: 
+  -Taito
 players: 1
 genres:
   - Action

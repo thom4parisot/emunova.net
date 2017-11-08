@@ -2,7 +2,8 @@
 type: game
 title: IRL
 released: 1970
-editor: Zeus
+editors: 
+  -Zeus
 players: 10
 genres:
   - Simulation

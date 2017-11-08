@@ -2,7 +2,8 @@
 type: game
 title: 'Battle Ships'
 released: 1987
-editor: Elite
+editors: 
+  -Elite
 players: 2
 genres:
   - Simulation

@@ -2,7 +2,8 @@
 type: game
 title: 'Captain Silver'
 released: 1987
-editor: 'Data East'
+editors: 
+  -'Data East'
 players: 1
 genres:
   - Aventure

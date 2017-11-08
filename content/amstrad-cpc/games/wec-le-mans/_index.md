@@ -2,7 +2,8 @@
 type: game
 title: 'WEC Le Mans'
 released: 1988
-editor: Imagine
+editors: 
+  -Imagine
 players: 1
 genres:
   - Course

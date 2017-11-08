@@ -2,7 +2,8 @@
 type: game
 title: 'Jungle Strike'
 released: 1993
-editor: 'Electronic Arts'
+editors: 
+  -'Electronic Arts'
 players: 1
 genres:
   - Action

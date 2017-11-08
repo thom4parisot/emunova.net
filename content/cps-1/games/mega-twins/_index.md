@@ -2,7 +2,8 @@
 type: game
 title: 'Mega Twins'
 released: 1990
-editor: Capcom
+editors: 
+  -Capcom
 players: 2
 genres:
   - Plates-formes

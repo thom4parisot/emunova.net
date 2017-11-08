@@ -2,7 +2,8 @@
 type: game
 title: 'Dick Tracy'
 released: 1990
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Action

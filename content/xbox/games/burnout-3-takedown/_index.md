@@ -2,7 +2,8 @@
 type: game
 title: 'Burnout 3 : Takedown'
 released: 2004
-editor: 'Electronic Arts'
+editors: 
+  -'Electronic Arts'
 players: 4
 genres:
   - Course

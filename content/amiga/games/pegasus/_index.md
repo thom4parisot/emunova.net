@@ -2,7 +2,8 @@
 type: game
 title: Pegasus
 released: 1991
-editor: Gremlin
+editors: 
+  -Gremlin
 players: 1
 genres:
   - 'Shoot Them Up'

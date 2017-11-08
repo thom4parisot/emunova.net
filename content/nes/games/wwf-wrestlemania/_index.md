@@ -2,7 +2,8 @@
 type: game
 title: 'WWF Wrestlemania'
 released: 1988
-editor: Acclaim
+editors: 
+  -Acclaim
 players: 6
 genres:
   - Combat

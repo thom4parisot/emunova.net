@@ -2,7 +2,8 @@
 type: game
 title: 'Demolition Man'
 released: 1995
-editor: Acclaim
+editors: 
+  -Acclaim
 players: 1
 genres:
   - Action

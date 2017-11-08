@@ -2,7 +2,8 @@
 type: game
 title: 'Sword Master'
 released: 1990
-editor: Athena
+editors: 
+  -Athena
 players: 1
 genres:
   - Action

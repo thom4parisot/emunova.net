@@ -2,7 +2,8 @@
 type: game
 title: 'Spycraft : The Great Game'
 released: 1996
-editor: Activision
+editors: 
+  -Activision
 players: 1
 genres:
   - Aventure

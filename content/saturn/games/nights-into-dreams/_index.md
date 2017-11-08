@@ -2,7 +2,8 @@
 type: game
 title: 'Nights into Dreams...'
 released: 1996
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Inclassable

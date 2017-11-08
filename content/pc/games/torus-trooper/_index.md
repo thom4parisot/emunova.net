@@ -2,7 +2,8 @@
 type: game
 title: 'Torus Trooper'
 released: null
-editor: 'Domaine Public'
+editors: 
+  -'Domaine Public'
 players: 1
 genres:
   - 'Shoot Them Up'

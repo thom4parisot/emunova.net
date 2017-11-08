@@ -2,7 +2,8 @@
 type: game
 title: Elfmania
 released: 1994
-editor: Renegade
+editors: 
+  -Renegade
 players: 2
 genres:
   - Combat

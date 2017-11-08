@@ -2,7 +2,8 @@
 type: game
 title: 'Virtua Fighter'
 released: 1994
-editor: Sega
+editors: 
+  -Sega
 players: 2
 genres:
   - Combat

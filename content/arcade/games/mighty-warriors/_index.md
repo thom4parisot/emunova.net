@@ -2,7 +2,8 @@
 type: game
 title: 'Mighty Warriors'
 released: null
-editor: 'Elettronica Video-Games'
+editors: 
+  -'Elettronica Video-Games'
 players: 2
 genres:
   - Combat

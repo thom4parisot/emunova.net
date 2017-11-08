@@ -2,7 +2,8 @@
 type: game
 title: 'Megaman 64'
 released: 2001
-editor: Capcom
+editors: 
+  -Capcom
 players: 1
 genres:
   - Aventure

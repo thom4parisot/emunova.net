@@ -2,7 +2,8 @@
 type: game
 title: Aerogauge
 released: 1997
-editor: 'Ascii Entertainment'
+editors: 
+  -'Ascii Entertainment'
 players: 2
 genres:
   - Course

@@ -2,7 +2,8 @@
 type: game
 title: 'Colin McRae Rally'
 released: 1998
-editor: Codemasters
+editors: 
+  -Codemasters
 players: 2
 genres:
   - Course

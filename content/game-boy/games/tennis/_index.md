@@ -2,7 +2,8 @@
 type: game
 title: Tennis
 released: 1989
-editor: Nintendo
+editors: 
+  -Nintendo
 players: 2
 genres:
   - Sport

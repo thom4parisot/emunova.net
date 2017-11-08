@@ -2,7 +2,8 @@
 type: game
 title: Gunforce
 released: 1991
-editor: Irem
+editors: 
+  -Irem
 players: 2
 genres:
   - 'Gun Shooting'

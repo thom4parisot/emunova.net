@@ -2,7 +2,8 @@
 type: game
 title: Thundercats
 released: 1988
-editor: Elite
+editors: 
+  -Elite
 players: 1
 genres:
   - Action

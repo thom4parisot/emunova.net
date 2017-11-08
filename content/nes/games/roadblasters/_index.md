@@ -2,7 +2,8 @@
 type: game
 title: RoadBlasters
 released: 1990
-editor: Mindscape
+editors: 
+  -Mindscape
 players: 1
 genres:
   - Course

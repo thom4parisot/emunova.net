@@ -2,7 +2,8 @@
 type: game
 title: 'Arms Road Eastern Front'
 released: 2010
-editor: sazanami
+editors: 
+  -sazanami
 players: 1
 genres:
   - Action

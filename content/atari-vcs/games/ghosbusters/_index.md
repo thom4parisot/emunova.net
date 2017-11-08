@@ -2,7 +2,8 @@
 type: game
 title: Ghosbusters
 released: 1985
-editor: Activision
+editors: 
+  -Activision
 players: 1
 genres:
   - Action

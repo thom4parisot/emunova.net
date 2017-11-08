@@ -2,7 +2,8 @@
 type: game
 title: Frogger
 released: 1982
-editor: Sega
+editors: 
+  -Sega
 players: 2
 genres:
   - Action

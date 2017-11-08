@@ -2,7 +2,8 @@
 type: game
 title: 'Paperboy 64'
 released: 1999
-editor: Midway
+editors: 
+  -Midway
 players: 1
 genres:
   - Inclassable

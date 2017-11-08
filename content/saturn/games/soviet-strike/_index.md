@@ -2,7 +2,8 @@
 type: game
 title: 'Soviet Strike'
 released: 1996
-editor: 'Electronic Arts'
+editors: 
+  -'Electronic Arts'
 players: 1
 genres:
   - Action

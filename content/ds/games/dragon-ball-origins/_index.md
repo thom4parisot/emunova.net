@@ -2,7 +2,8 @@
 type: game
 title: 'Dragon Ball : Origins'
 released: 2008
-editor: Atari
+editors: 
+  -Atari
 players: 1
 genres:
   - Aventure

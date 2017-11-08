@@ -2,7 +2,8 @@
 type: game
 title: 'Strip Poker II +'
 released: 1988
-editor: Anco
+editors: 
+  -Anco
 players: 1
 genres:
   - Réflexion

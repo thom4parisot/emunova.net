@@ -2,7 +2,8 @@
 type: game
 title: Myst
 released: 1994
-editor: Sunsoft
+editors: 
+  -Sunsoft
 players: 1
 genres:
   - Aventure

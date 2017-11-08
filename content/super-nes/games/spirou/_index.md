@@ -2,7 +2,8 @@
 type: game
 title: Spirou
 released: 1995
-editor: Infogrames
+editors: 
+  -Infogrames
 players: 1
 genres:
   - Plates-formes

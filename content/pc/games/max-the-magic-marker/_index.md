@@ -2,7 +2,8 @@
 type: game
 title: 'Max & the Magic Marker'
 released: 2010
-editor: 'Press Play'
+editors: 
+  -'Press Play'
 players: 1
 genres:
   - Plates-formes

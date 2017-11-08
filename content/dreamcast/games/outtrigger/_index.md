@@ -2,7 +2,8 @@
 type: game
 title: Outtrigger
 released: 2001
-editor: Sega
+editors: 
+  -Sega
 players: 4
 genres:
   - 'First Person Shooter (FPS)'

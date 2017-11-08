@@ -2,7 +2,8 @@
 type: game
 title: Stomp
 released: 1985
-editor: 'dk''tronics'
+editors: 
+  -'dk''tronics'
 players: 1
 genres:
   - Action

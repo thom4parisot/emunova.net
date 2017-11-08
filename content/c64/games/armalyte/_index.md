@@ -2,7 +2,8 @@
 type: game
 title: Armalyte
 released: 1988
-editor: Thalamus
+editors: 
+  -Thalamus
 players: 2
 genres:
   - 'Shoot Them Up'

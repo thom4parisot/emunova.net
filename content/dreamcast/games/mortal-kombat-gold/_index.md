@@ -2,7 +2,8 @@
 type: game
 title: 'Mortal Kombat Gold'
 released: 1999
-editor: Midway
+editors: 
+  -Midway
 players: 2
 genres:
   - Combat

@@ -2,7 +2,8 @@
 type: game
 title: 'The Blob'
 released: 2006
-editor: 'Domaine Public'
+editors: 
+  -'Domaine Public'
 players: 1
 genres:
   - Inclassable

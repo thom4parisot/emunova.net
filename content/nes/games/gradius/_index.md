@@ -2,7 +2,8 @@
 type: game
 title: Gradius
 released: 1986
-editor: Konami
+editors: 
+  -Konami
 players: 2
 genres:
   - 'Shoot Them Up'

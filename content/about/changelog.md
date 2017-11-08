@@ -2,7 +2,7 @@
 title: Changelog
 menu:
   main:
-    weight: 80
+    weight: 30
 ---
 
 # Retour des actualités <small>(5 avril 2014)</small>

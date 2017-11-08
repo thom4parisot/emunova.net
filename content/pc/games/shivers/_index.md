@@ -2,7 +2,8 @@
 type: game
 title: Shivers
 released: 1995
-editor: Sierra
+editors: 
+  -Sierra
 players: 1
 genres:
   - Aventure

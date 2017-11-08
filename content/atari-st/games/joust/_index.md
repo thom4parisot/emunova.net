@@ -2,7 +2,8 @@
 type: game
 title: Joust
 released: 1986
-editor: Atari
+editors: 
+  -Atari
 players: 2
 genres:
   - Action

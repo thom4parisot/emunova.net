@@ -2,7 +2,8 @@
 type: game
 title: 'Talmit''s Adventure'
 released: 1992
-editor: Namco
+editors: 
+  -Namco
 players: 1
 genres:
   - Plates-formes

@@ -2,7 +2,8 @@
 type: game
 title: 'Operation Wolf'
 released: 1990
-editor: Taito
+editors: 
+  -Taito
 players: 1
 genres:
   - 'Gun Shooting'

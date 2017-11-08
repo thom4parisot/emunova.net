@@ -2,7 +2,8 @@
 type: game
 title: 'Icewind Dale + Heart of Winter'
 released: 2000
-editor: Interplay
+editors: 
+  -Interplay
 players: 6
 genres:
   - 'Role Playing Game (RPG)'

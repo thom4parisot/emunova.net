@@ -2,7 +2,8 @@
 type: game
 title: Vectorman
 released: 1995
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Action

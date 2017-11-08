@@ -2,7 +2,8 @@
 type: game
 title: 'Kung Fu Kid'
 released: 1987
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Action

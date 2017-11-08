@@ -2,7 +2,8 @@
 type: game
 title: 'Daytona USA 2001'
 released: 2001
-editor: Sega
+editors: 
+  -Sega
 players: 2
 genres:
   - Course

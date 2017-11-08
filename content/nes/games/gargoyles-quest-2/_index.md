@@ -2,7 +2,8 @@
 type: game
 title: 'Gargoyle''s Quest 2'
 released: 1992
-editor: Capcom
+editors: 
+  -Capcom
 players: 1
 genres:
   - Plates-formes

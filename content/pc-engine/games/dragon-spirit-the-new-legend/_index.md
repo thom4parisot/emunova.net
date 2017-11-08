@@ -2,7 +2,8 @@
 type: game
 title: 'Dragon Spirit : The New Legend'
 released: 1988
-editor: Namco
+editors: 
+  -Namco
 players: 2
 genres:
   - 'Shoot Them Up'

@@ -2,7 +2,8 @@
 type: game
 title: 'WWF Wrestlemania Challenge'
 released: 1990
-editor: LJN
+editors: 
+  -LJN
 players: 2
 genres:
   - Combat

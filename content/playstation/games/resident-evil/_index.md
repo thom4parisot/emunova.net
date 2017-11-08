@@ -2,7 +2,8 @@
 type: game
 title: 'Resident Evil'
 released: 1996
-editor: Capcom
+editors: 
+  -Capcom
 players: 1
 genres:
   - Aventure

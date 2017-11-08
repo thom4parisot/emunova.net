@@ -2,7 +2,8 @@
 type: game
 title: 'Desert Demolition starring Roadrunner & Wile E. Coyote'
 released: 1995
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Plates-formes

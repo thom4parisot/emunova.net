@@ -2,7 +2,8 @@
 type: game
 title: 'Metal Slug'
 released: 1996
-editor: Nazca
+editors: 
+  -Nazca
 players: 2
 genres:
   - Action

@@ -2,7 +2,8 @@
 type: game
 title: 'Psycho Fox'
 released: 1989
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Plates-formes

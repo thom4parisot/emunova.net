@@ -2,7 +2,8 @@
 type: game
 title: 'KC Munchkins'
 released: 1981
-editor: Philips
+editors: 
+  -Philips
 players: 1
 genres:
   - Action

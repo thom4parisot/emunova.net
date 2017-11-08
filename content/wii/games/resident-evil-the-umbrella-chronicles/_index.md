@@ -2,7 +2,8 @@
 type: game
 title: 'Resident Evil : The Umbrella Chronicles'
 released: 2007
-editor: Capcom
+editors: 
+  -Capcom
 players: 2
 genres:
   - 'Gun Shooting'

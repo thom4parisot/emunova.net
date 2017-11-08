@@ -2,7 +2,8 @@
 type: game
 title: 'P.C. Kid'
 released: 1989
-editor: 'Hudson Soft'
+editors: 
+  -'Hudson Soft'
 players: 1
 genres:
   - Plates-formes

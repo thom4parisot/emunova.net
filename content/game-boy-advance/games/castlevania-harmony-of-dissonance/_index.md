@@ -2,7 +2,8 @@
 type: game
 title: 'Castlevania : Harmony of Dissonance'
 released: 2002
-editor: Konami
+editors: 
+  -Konami
 players: 1
 genres:
   - Aventure

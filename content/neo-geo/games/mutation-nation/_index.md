@@ -2,7 +2,8 @@
 type: game
 title: 'Mutation Nation'
 released: 1992
-editor: SNK
+editors: 
+  -SNK
 players: 2
 genres:
   - 'Beat them all'

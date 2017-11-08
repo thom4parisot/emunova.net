@@ -2,7 +2,8 @@
 type: game
 title: Titan
 released: 1988
-editor: Titus
+editors: 
+  -Titus
 players: 1
 genres:
   - Stratégie

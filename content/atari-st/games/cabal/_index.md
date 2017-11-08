@@ -2,7 +2,8 @@
 type: game
 title: Cabal
 released: 1989
-editor: Ocean
+editors: 
+  -Ocean
 players: 2
 genres:
   - 'Gun Shooting'

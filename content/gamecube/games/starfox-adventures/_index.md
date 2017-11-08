@@ -2,7 +2,8 @@
 type: game
 title: 'StarFox Adventures'
 released: 2002
-editor: RARE
+editors: 
+  -RARE
 players: 1
 genres:
   - Aventure

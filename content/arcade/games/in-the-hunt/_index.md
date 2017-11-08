@@ -2,7 +2,8 @@
 type: game
 title: 'In The Hunt'
 released: 1993
-editor: Irem
+editors: 
+  -Irem
 players: 2
 genres:
   - 'Shoot Them Up'

@@ -2,7 +2,8 @@
 type: game
 title: 'Defender of the Crown'
 released: 1987
-editor: Cinemaware
+editors: 
+  -Cinemaware
 players: 1
 genres:
   - Stratégie

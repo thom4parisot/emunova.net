@@ -2,7 +2,8 @@
 type: game
 title: 'Blood Wake'
 released: 2002
-editor: Microsoft
+editors: 
+  -Microsoft
 players: 4
 genres:
   - Action

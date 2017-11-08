@@ -2,7 +2,8 @@
 type: game
 title: 'Tenchu : Stealth Assassins'
 released: 1998
-editor: Activision
+editors: 
+  -Activision
 players: 1
 genres:
   - Action

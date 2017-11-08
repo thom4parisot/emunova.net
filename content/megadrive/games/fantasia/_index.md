@@ -2,7 +2,8 @@
 type: game
 title: Fantasia
 released: 1991
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Plates-formes

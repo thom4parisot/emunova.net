@@ -2,7 +2,8 @@
 type: game
 title: 'Air Cavalry'
 released: 1995
-editor: Gametek
+editors: 
+  -Gametek
 players: 2
 genres:
   - Simulation

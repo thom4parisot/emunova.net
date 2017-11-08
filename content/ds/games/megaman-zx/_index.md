@@ -2,7 +2,8 @@
 type: game
 title: 'Megaman ZX'
 released: 2007
-editor: Capcom
+editors: 
+  -Capcom
 players: 1
 genres:
   - Action

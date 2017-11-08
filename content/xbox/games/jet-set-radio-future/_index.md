@@ -2,7 +2,8 @@
 type: game
 title: 'Jet Set Radio Future'
 released: 2002
-editor: Sega
+editors: 
+  -Sega
 players: 4
 genres:
   - Sport

@@ -2,7 +2,8 @@
 type: game
 title: Berserk
 released: 1980
-editor: Stern
+editors: 
+  -Stern
 players: 1
 genres:
   - Action

@@ -2,7 +2,8 @@
 type: game
 title: DoDonPachi
 released: 1997
-editor: Atlus
+editors: 
+  -Atlus
 players: 2
 genres:
   - 'Shoot Them Up'

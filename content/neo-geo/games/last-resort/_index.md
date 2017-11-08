@@ -2,7 +2,8 @@
 type: game
 title: 'Last Resort'
 released: 1992
-editor: SNK
+editors: 
+  -SNK
 players: 2
 genres:
   - 'Shoot Them Up'

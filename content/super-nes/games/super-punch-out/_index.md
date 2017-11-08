@@ -2,7 +2,8 @@
 type: game
 title: 'Super Punch Out'
 released: 1994
-editor: Nintendo
+editors: 
+  -Nintendo
 players: 1
 genres:
   - Sport

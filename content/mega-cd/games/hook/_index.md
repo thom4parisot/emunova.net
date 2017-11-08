@@ -2,7 +2,8 @@
 type: game
 title: Hook
 released: 1992
-editor: Sony
+editors: 
+  -Sony
 players: 1
 genres:
   - Action

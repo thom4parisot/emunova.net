@@ -2,7 +2,8 @@
 type: game
 title: 'Atari Video Cube'
 released: 1982
-editor: Atari
+editors: 
+  -Atari
 players: 1
 genres:
   - Réflexion

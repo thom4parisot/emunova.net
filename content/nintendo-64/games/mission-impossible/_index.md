@@ -2,7 +2,8 @@
 type: game
 title: 'Mission Impossible'
 released: 1998
-editor: Infogrames
+editors: 
+  -Infogrames
 players: 1
 genres:
   - Action

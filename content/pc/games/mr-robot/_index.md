@@ -2,7 +2,8 @@
 type: game
 title: 'Mr Robot'
 released: 2006
-editor: Moonpod
+editors: 
+  -Moonpod
 players: 1
 genres:
   - Inclassable

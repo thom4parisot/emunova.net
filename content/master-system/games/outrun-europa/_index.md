@@ -2,7 +2,8 @@
 type: game
 title: 'OutRun Europa'
 released: 1991
-editor: 'US Gold'
+editors: 
+  -'US Gold'
 players: 1
 genres:
   - Course

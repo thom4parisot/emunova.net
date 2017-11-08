@@ -2,7 +2,8 @@
 type: game
 title: 'Pokémon Stadium'
 released: 1999
-editor: Nintendo
+editors: 
+  -Nintendo
 players: 2
 genres:
   - Combat

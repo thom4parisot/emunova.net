@@ -2,7 +2,8 @@
 type: game
 title: 'Cool Cool Toon'
 released: 2000
-editor: SNK
+editors: 
+  -SNK
 players: 2
 genres:
   - Réflexion

@@ -2,7 +2,8 @@
 type: game
 title: 'Chakan (the Forever Man)'
 released: 1992
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Plates-formes

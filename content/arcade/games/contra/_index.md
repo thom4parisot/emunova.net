@@ -2,7 +2,8 @@
 type: game
 title: Contra
 released: 1987
-editor: Konami
+editors: 
+  -Konami
 players: 2
 genres:
   - Action

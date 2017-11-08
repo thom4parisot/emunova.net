@@ -2,7 +2,8 @@
 type: game
 title: 'Vagrant Story'
 released: 2000
-editor: Square
+editors: 
+  -Square
 players: 1
 genres:
   - Aventure

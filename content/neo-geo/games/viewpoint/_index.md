@@ -2,7 +2,8 @@
 type: game
 title: Viewpoint
 released: 1992
-editor: SNK
+editors: 
+  -SNK
 players: 1
 genres:
   - 'Shoot Them Up'

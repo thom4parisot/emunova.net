@@ -2,7 +2,8 @@
 title: Migration vers Emu Nova v3
 menu:
   main:
-    weight: 50
+    name: Migration v3
+    weight: 100
 ---
 
 Emu Nova a soufflé sa dixième bougie le 12 octobre 2013.

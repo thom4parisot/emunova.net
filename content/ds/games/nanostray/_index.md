@@ -2,7 +2,8 @@
 type: game
 title: Nanostray
 released: 2005
-editor: Majesco
+editors: 
+  -Majesco
 players: 2
 genres:
   - 'Shoot Them Up'

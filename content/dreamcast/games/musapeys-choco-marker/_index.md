@@ -2,7 +2,8 @@
 type: game
 title: 'Musapey''s Choco Marker'
 released: 2002
-editor: Ecole
+editors: 
+  -Ecole
 players: 2
 genres:
   - Réflexion

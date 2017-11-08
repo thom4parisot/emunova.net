@@ -2,7 +2,8 @@
 type: game
 title: 'Comix Zone'
 released: 1995
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - 'Beat them all'

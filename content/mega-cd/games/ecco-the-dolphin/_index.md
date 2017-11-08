@@ -2,7 +2,8 @@
 type: game
 title: 'Ecco the Dolphin'
 released: 1995
-editor: Sega
+editors: 
+  -Sega
 players: 1
 genres:
   - Aventure

@@ -2,7 +2,8 @@
 type: game
 title: 'Ninja Gaiden II : The Dark Sword of Chaos'
 released: 1990
-editor: Tecmo
+editors: 
+  -Tecmo
 players: 1
 genres:
   - Action

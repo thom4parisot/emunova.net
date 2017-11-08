@@ -2,7 +2,8 @@
 type: game
 title: 'Angry Birds'
 released: 2009
-editor: Clickgamer
+editors: 
+  -Clickgamer
 players: 1
 genres:
   - Inclassable

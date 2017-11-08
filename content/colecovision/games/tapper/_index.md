@@ -2,7 +2,8 @@
 type: game
 title: Tapper
 released: 1984
-editor: Midway
+editors: 
+  -Midway
 players: 2
 genres:
   - Action

@@ -2,7 +2,8 @@
 type: game
 title: 'Metal Gear'
 released: 1988
-editor: Konami
+editors: 
+  -Konami
 players: 1
 genres:
   - Wargame

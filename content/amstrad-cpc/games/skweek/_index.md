@@ -2,7 +2,8 @@
 type: game
 title: Skweek
 released: 1989
-editor: Loriciel
+editors: 
+  -Loriciel
 players: 2
 genres:
   - Action

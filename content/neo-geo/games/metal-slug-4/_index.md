@@ -2,7 +2,8 @@
 type: game
 title: 'Metal Slug 4'
 released: 2002
-editor: SNK
+editors: 
+  -SNK
 players: 2
 genres:
   - Action

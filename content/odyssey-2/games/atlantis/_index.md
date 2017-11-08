@@ -2,7 +2,8 @@
 type: game
 title: Atlantis
 released: 1983
-editor: Imagic
+editors: 
+  -Imagic
 players: 2
 genres:
   - 'Shoot Them Up'

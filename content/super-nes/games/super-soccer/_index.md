@@ -2,7 +2,8 @@
 type: game
 title: 'Super Soccer'
 released: 1992
-editor: Nintendo
+editors: 
+  -Nintendo
 players: 2
 genres:
   - Sport

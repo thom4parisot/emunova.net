@@ -2,7 +2,8 @@
 type: game
 title: 'Run Saber'
 released: 1993
-editor: Atlus
+editors: 
+  -Atlus
 players: 2
 genres:
   - Plates-formes
