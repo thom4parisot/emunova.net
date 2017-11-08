@@ -6,6 +6,7 @@ languageCode = "fr-FR"
 defaultContentLanguageInSubdir = false
 
 disableLiveReload = true
+preserveTaxonomyNames = true
 pluralizeListTitles = false
 noTimes = true
 ignoreFiles = [ "\\.git$", "node_modules" ]
@@ -21,12 +22,14 @@ ignoreFiles = [ "\\.git$", "node_modules" ]
 editor = "editors"
 genre = "genres"
 manufacturer = "manufacturers"
+media = "media"
+region = "regions"
 system_type = "system_types"
 
 [related]
 threshold = 80
 includeNewer = false
-toLower = true
+toLower = false
 
   [[related.indices]]
   name = "genres"

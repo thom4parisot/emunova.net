@@ -1,6 +1,7 @@
 {{ partial "header.html" . }}
 {{ $Systems := where .Site.Sections "Type" "system" }}
-{{ $Manufacturers := $Systems.GroupByParam "manufacturer" }}
+{{ $Manufacturers := .Site.Taxonomies.manufacturers.Alphabetical }}
+{{ $SystemTypes := .Site.Taxonomies.system_types.Alphabetical }}
 {{ $DefaultSections := dict "Sections" (slice) }}
 
 <main>
@@ -17,15 +18,13 @@
         <select id="support-selector">
           <option value="" selected>système de jeux vidéo</option>
           <optgroup label="Type de support">
-            <option value="type">arcade</option>
-            <option value="type">console</option>
-            <option value="type">console portable</option>
-            <option value="type">console virtuelle</option>
-            <option value="type">ordinateur</option>
+          {{ range $SystemTypes }}
+              <option value="type">{{ .Name | lower }}</option>
+          {{ end }}
           </optgroup>
           <optgroup label="Constructeur">
           {{ range $Manufacturers }}
-              <option value="manufacturer">{{ .Key }}</option>
+              <option value="manufacturer">{{ .Name }}</option>
           {{ end }}
           </optgroup>
         </select>
@@ -53,12 +52,14 @@
       {{- $i := add $index 1 -}}
       {{- $Games := (index .Sections 0 | default $DefaultSections).Sections -}}
       {{- $Pictures := .Pages -}}
-      <div class="col-sm-4 col-md-3 col-xs-6" data-year="{{ .Params.released }}" data-type="{{ .Params.system_type }}" data-manufacturer="{{ .Params.manufacturer }}">
+      {{- $Manufacturer := index .Params.manufacturers 0 -}}
+      {{- $SystemType := index .Params.system_types 0 -}}
+      <div class="col-sm-4 col-md-3 col-xs-6" data-year="{{ .Params.released }}" data-type="{{ $SystemType }}" data-manufacturer="{{ $Manufacturer }}">
         <h2><a href="{{ .URL }}" rel="bookmark">{{ .Title }}</a></h2>
 
         <div class="row">
           <div class="col-sm-6 col-xs-6 lead">
-            <span>{{ .Params.manufacturer }}</span>
+            <span>{{ $Manufacturer }}</span>
           </div>
           <div class="col-sm-3 col-md-4 col-xs-6 text-right lead">
             <strong>{{ .Params.released }}</strong>
