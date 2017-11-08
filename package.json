@@ -6,10 +6,15 @@
   "scripts": {
     "index": "node ./bin/index-content.js",
     "test": "exit 0",
+    "less": "lessc --include-path=static/less/lib:node_modules/bootstrap/less",
+    "dump": "echo $npm_package_scripts_build_css",
     "build": "npm-run-all -p 'build:*'",
-    "build:bundle": "browserify -e src/assets/js/main.js -o tmp/build/assets/v${npm_package_version}/js/core.min.js",
-    "watch": "npm-run-all -p watch:*",
-    "watch:bundle": "watchify -vd -e src/assets/js/main.js -o tmp/build/assets/v${npm_package_version}/js/core.min.js"
+    "build:js": "browserify -e static/assets/js/main.js -o static/bundle.js",
+    "build:css":
+      "$npm_package_scripts_less static/less/core.less static/bundle.css",
+    "watch": "npm-run-all -p 'watch:*'",
+    "watch:js": "watchify -vd -e static/assets/js/main.js -o static/bundle.js",
+    "watch:css": "nodemon -e less -w static/less -x 'npm run build:css'"
   },
   "repository": {
     "type": "git",
@@ -29,13 +34,14 @@
     "fast-sha256": "^1.0.0",
     "hyperquest": "^1.3.0",
     "jquery": "^2.2.3",
-    "lazyloadjs": "^3.2.2",
+    "less": "^2.7.3",
     "lodash": "^4.11.1",
     "npm-run-all": "^1.8.0",
     "sorttable": "github:oncletom/sorttable#develop",
     "uglifyify": "^3.0.1"
   },
   "devDependencies": {
+    "nodemon": "^1.12.1",
     "watchify": "^3.7.0"
   },
   "browser": {
@@ -48,9 +54,7 @@
       [
         "babelify",
         {
-          "presets": [
-            "env"
-          ]
+          "presets": ["env"]
         }
       ],
       "uglifyify"

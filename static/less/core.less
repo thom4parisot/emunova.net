@@ -1,53 +1,54 @@
 @import 'variables.less';
 
-@import "mixins.less";
+@import 'mixins.less';
 
-  // Reset
-@import "normalize.less";
-@import "print.less";
+// External fonds
+@import (inline) 'raleway.css';
 
-  // Core CSS
-@import "scaffolding.less";
-@import "type.less";
+// Reset
+@import 'normalize.less';
+@import 'print.less';
+
+// Core CSS
+@import 'scaffolding.less';
+@import 'type.less';
 //@import "code.less";
-@import "grid.less";
-@import "tables.less";
-@import "forms.less";
-@import "buttons.less";
+@import 'grid.less';
+@import 'tables.less';
+@import 'forms.less';
+@import 'buttons.less';
 
-  // Components
-@import "component-animations.less";
-//@import "glyphicons.less";
-@import (inline) "fontello-embedded.css";
-@import "dropdowns.less";
-@import "button-groups.less";
+// Components
+@import 'component-animations.less';
+@import 'dropdowns.less';
+@import 'button-groups.less';
 //@import "input-groups.less";
-@import "navs.less";
-@import "navbar.less";
-@import "breadcrumbs.less";
+@import 'navs.less';
+@import 'navbar.less';
+@import 'breadcrumbs.less';
 //@import "pagination.less";
 //@import "pager.less";
 //@import "labels.less";
 //@import "badges.less";
 //@import "jumbotron.less";
-@import "thumbnails.less";
-@import "alerts.less";
-@import "progress-bars.less";
-@import "media.less";
+@import 'thumbnails.less';
+@import 'alerts.less';
+@import 'progress-bars.less';
+@import 'media.less';
 //@import "list-group.less";
 //@import "panels.less";
-@import "wells.less";
-@import "close.less";
+@import 'wells.less';
+@import 'close.less';
 
-  // Components w/ JavaScript
+// Components w/ JavaScript
 //@import "modals.less";
 //@import "tooltip.less";
 //@import "popovers.less";
 //@import "carousel.less";
 
-  // Utility classes
-@import "utilities.less";
-@import "responsive-utilities.less";
+// Utility classes
+@import 'utilities.less';
+@import 'responsive-utilities.less';
 
 @import 'base.less';
 @import 'megamenu.less';
@@ -71,16 +72,16 @@ main {
 }
 
 .well h2:first-of-type {
-  margin-top: 1px;   /* h2[margin-top] - .well[padding-top] */
+  margin-top: 1px; /* h2[margin-top] - .well[padding-top] */
 }
 .well h3:first-of-type {
-  margin-top: 7px;   /* h2[margin-top] + (h2[font-size] - h3[font-size]) - .well[padding-top] */
+  margin-top: 7px; /* h2[margin-top] + (h2[font-size] - h3[font-size]) - .well[padding-top] */
 }
 .well-sm h2:first-of-type {
-  margin-top: 11px;   /* h2[margin-top] - .well-sm[padding-top] */
+  margin-top: 11px; /* h2[margin-top] - .well-sm[padding-top] */
 }
 .well-sm h3:first-of-type {
-  margin-top: 17px;   /* h2[margin-top] + (h2[font-size] - h3[font-size]) - .well-sm[padding-top] */
+  margin-top: 17px; /* h2[margin-top] + (h2[font-size] - h3[font-size]) - .well-sm[padding-top] */
 }
 
 .fade-out {
@@ -104,7 +105,7 @@ main {
   cursor: pointer;
 }
 
-.progress-rating{
+.progress-rating {
   display: inline-block;
   height: 10px;
   margin-bottom: 0;
@@ -114,10 +115,9 @@ main {
 }
 
 /* temporary workaround */
-.row-gallery [class*="col-sm-"] {
+.row-gallery [class*='col-sm-'] {
   padding-bottom: 15px;
 }
-
 
 .rss-content {
   dt {
@@ -128,14 +128,14 @@ main {
     margin-left: @component-offset-horizontal / 2;
   }
 
-  [data-item-limit]{
-    opacity: .35;
+  [data-item-limit] {
+    opacity: 0.35;
   }
 
   &.loaded {
-    [data-item-limit]{
+    [data-item-limit] {
       opacity: 1;
-      transition: opacity .5s ease-in;
+      transition: opacity 0.5s ease-in;
     }
 
     .progress {
