@@ -82,10 +82,9 @@
           </div>
         </div>
       </div>
-
-      {{- if eq (mod $i 4) 0 }}<div class="clearfix visible-md visible-lg"></div>{{ end -}}
-      {{- if eq (mod $i 3) 0 }}<div class="clearfix visible-sm"></div>{{ end -}}
-      {{- if eq (mod $i 2) 0 }}<div class="clearfix visible-xs"></div>{{ end -}}
+      {{ if modBool $i 4 }}<div class="clearfix visible-md visible-lg"></div>{{ end }}
+      {{ if modBool $i 3 }}<div class="clearfix visible-sm"></div>{{ end }}
+      {{ if modBool $i 2 }}<div class="clearfix visible-xs"></div>{{ end }}
     {{ end }}
   </div>
 </main>
