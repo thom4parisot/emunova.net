@@ -13,6 +13,14 @@
 
 {{ .Data }} • {{ .Sections }}
 
+{{ $related := .Site.Pages.Related . | first 5 }}
+<h3>See Also</h3>
+<ul>
+	{{ range $related }}
+	<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+	{{ end }}
+</ul>
+
 <h2>Ratings</h2>
 
 {{ $Reviews := where .Pages "Type" "in" (slice "review" "rating") }}
