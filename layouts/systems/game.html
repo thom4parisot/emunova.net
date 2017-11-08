@@ -1,15 +1,8 @@
 {{ partial "header.html" . }}
+{{ partial "breadcrumb.html" . }}
 
-<h1>Game Page</h1>
-
-
-<h1 class="single">{{ .Params.name }} ({{ .Page }})</h1>
-
-{{ .Section }} • {{ .Sections }} • {{ .Kind }} • {{ .Type }} • {{ .Dir }} • <a href="{{ .Parent.Permalink }}">{{ .Parent }}</a>
-
-<div>
-{{ .Content }}
-</div>
+<div class="container">
+{{ partial "games/megamenu.html" . }}
 
 {{ .Data }} • {{ .Sections }}
 
@@ -30,5 +23,7 @@
   <li>{{ .Section }} • {{ .Kind }} • {{ .Type }} • <a href="{{ .Permalink }}">{{ .Params.rating }}</a></li>
 {{ end }}
 </ul>
+
+</div>
 
 {{ partialCached "footer.html" . }}

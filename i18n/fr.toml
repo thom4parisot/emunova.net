@@ -5,3 +5,19 @@ other = "jeux"
 [images]
 one = "image"
 other = "images"
+
+[players]
+one = "{{.Count}} joueur"
+other = "{{.Count}} joueurs"
+
+[ratings]
+one = "note"
+other = "notes"
+
+[reviews]
+one = "test"
+other = "tests"
+
+[the_names]
+one = "le nom"
+other = "les noms"

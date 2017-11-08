@@ -1,0 +1,17 @@
+<div class="container">
+  <nav class="navbar navbar-breadcrumb navbar-static-top" id="nav">
+    <ol class="breadcrumb" itemscope itemtype="http://schema.org/Breadcrumb">
+      <li><a href="/" rel="home">{{ partial "icon.html" "home" }}</a></li>
+      {{ $Parts := split (substr .Dir 0 -1) "/" }}
+      {{ range $index, $part := $Parts }}
+        {{ $path := delimit (first ($index | add 1) $Parts) "/" }}
+        {{- $Page := $.Site.GetPage "section" (string $path) -}}
+        {{ if $Page.Title }}
+        <li>
+          <a href="{{ $Page.Permalink }}" itemprop="url"><span itemprop="title">{{ $Page.Title }}</span></a>
+        </li>
+        {{ end }}
+      {{ end }}
+    </ol>
+  </nav>
+</div>
