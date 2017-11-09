@@ -14,6 +14,7 @@ $ npm install
 ## Production
 
 ```bash
+$ npm run generate-thumbs
 $ npm run build
 ```
 

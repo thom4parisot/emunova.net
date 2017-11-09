@@ -7,3 +7,9 @@ public
 # bundling
 static/assets/js/jquery*.js
 static/bundle.*
+
+# thumbnails
+*.sq.jpg
+*.sq.png
+*.md.jpg
+*.md.png
