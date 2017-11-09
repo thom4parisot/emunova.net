@@ -2,52 +2,88 @@
 {{ partial "breadcrumb.html" . }}
 
 <div class="container">
-  <h1>Systems List</h1>
+  {{ partial "systems/megamenu.html" . }}
+  {{- $System := . -}}
+  {{- $Games := (index .Sections 0).Sections -}}
+  {{- $Pictures := .Pages -}}
 
-  <h1 class="single">{{ .Title }} ({{ .Page }})</h1>
+  <main>
+    <div class="row">
+      <div class="col-sm-6">
+        <h2><strong>Jeux vidéo</strong> {{ .Title }}</h2>
 
-  {{ .Section }} • {{ .Kind }} • {{ .Type }} • <a href="{{ .Parent.Permalink }}">{{ .Parent }}</a>
+        <p class="lead">Pas facile de savoir à quel jeu jouer.</p>
 
-  <div>
-  {{ .Content }}
-  </div>
+        <p>
+          <strong>En {{ .Params.released | default 1970 }}</strong>, on n'était pas tous nés, on ne parlait pas japonais,
+          ou on ne pouvait choisir qu'un seul jeu vidéo par année !
+        </p>
 
-  <h2>Sections</h2>
+        <p>
+          <strong>Nous sommes des joueurs passionnés</strong>.
+          Nous avons juste eu envie de partager nos avis sur nos jeux vidéos {{ .Title }}, ceux qu'on a adoré,
+          ceux qu'on a détesté ou ces pépites que l'on voudrait faire connaitre.
+        </p>
 
-  <ul>
-  {{ range .Sections }}
-    <li><a href="{{ .Permalink }}">{{ . }}</a></li>
-  {{ end }}
-  </ul>
+        <p><a class="btn btn-default" href="{{ .Permalink }}games/">Notre sélection de jeux vidéo {{ .Title }}</a></p>
+      </div>
 
-  <h2>Pages</h2>
+      <div class="col-sm-6">
+        <div class="well">
+            <h3>Top 10</h3>
 
-  <ul>
-  {{ range .Pages }}
-    <li><a href="{{ .Permalink }}">{{ . }}</a></li>
-  {{ end }}
-  </ul>
+            {{ if ($Games|len) }}
+            <ul class="list-unstyled">
+              {{ range $Games | shuffle | first 10 }}
+              <li>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </li>
+              {{ end }}
+            </ul>
+            {{ else }}
+              <li>Aucun jeu pour le moment.</li>
+            {{ end }}
+            </ul>
+        </div>
+      </div>
+    </div>
 
-  <h2>Games</h2>
+    {{ if ($Pictures|len) }}
+    <div class="row">
+      <div class="col-sm-6">
+        <h2><strong>Images</strong> {{ .Title }}</h2>
 
-  {{ $Games := (index .Sections 0).Sections}}
+        <p class="lead">Pas facile de savoir à quoi ça ressemble.</p>
 
-  <ul>
-  {{ range $Games }}
-    <li>{{ .Section }} • {{ .Kind }} • {{ .Type }} • <a href="{{ .Permalink }}">{{ . }}</a></li>
-  {{ end }}
-  </ul>
+        <p>
+          Puisque 1 image vaut plus que 1000 mots, voici (presque) 1000 images.
+          <strong>{{ $Pictures | len }}</strong> images <em>{{ .Title }}</em>
+          pour découvrir son aspect, ses boites, accessoires et éditions spéciales.
+        </p>
 
+        <p><a class="btn btn-default" href="{{ .Permalink }}images/">Notre galerie d'images {{ .Title }}</a></p>
+      </div>
 
-  <h2>Reviews</h2>
-
-  {{ $Reviews := where (where .Site.RegularPages "Section" .Section) "Type" "in" (slice "rating" "review") }}
-
-  <ul>
-  {{ range $Reviews }}
-    <li><a href="{{ .Parent.Permalink }}#ratings">{{ .Parent.Title }} • {{ .Params.Rating }}⭑</a></li>
-  {{ end }}
-  </ul>
+      <div class="col-sm-6">
+        <div class="row row-gallery lazyload">
+          {{ range first 6 $Pictures}}
+            {{- $Picture := . -}}
+            {{ range (slice ".jpg" ".png") }}
+            {{- $filename := delimit (slice $Picture.File.Dir $Picture.File.TranslationBaseName . ) "" -}}
+              {{ if (fileExists (delimit (slice "content" $filename) "/")) }}
+              <div class="col-sm-4 col-xs-6">
+                <a href="{{ $Picture.Permalink }}images/#{{ $Picture.File.TranslationBaseName }}">
+                  <img class="img-thumbnail" src="{{ $filename | relURL }}" alt="{{ $Picture.Title }}"/>
+                </a>
+              </div>
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </main>
 
 </div>
 {{ partialCached "footer.html" . }}

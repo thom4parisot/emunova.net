@@ -1,0 +1,49 @@
+{{- $Games := (index .Sections 0).Sections -}}
+{{- $Pictures := .Pages -}}
+<div id="megamenu-system" class="well megamenu">
+  <div class="lead">
+      {{ if (.Summary | len) }}
+        {{ .Summary }}
+      {{ else }}
+      <p>
+        <strong>{{ .Title }}</strong> est un système de jeux vidéo conçu par <strong itemprop="brand">{{ delimit .Params.manufacturers ", " }}</strong>.
+
+        {{ with .Params.alternate_names }}
+          Il est également connu sous {{ i18n "the_names" (.|len) }}
+          de {{ delimit . ", " " et "}}.
+        {{ end }}
+      </p>
+      {{ end }}
+
+
+    <div class="row">
+      <div class="col-sm-3 col-xs-12">
+        <ul class="list-unstyled">
+          <li><span class="year">{{ .Params.released }}</span></li>
+          <li>{{ delimit .Params.system_types ", " }}</li>
+        </ul>
+      </div>
+
+      <div class="col-sm-4 col-xs-12">
+        <ul class="list-inline">
+          <li><a href="{{ .Permalink }}games/" class="btn btn-lg btn-primary">
+            {{ $Games | len }}<br>{{ i18n "games" ($Games|len) }}
+          </a></li>
+
+          {{ if ($Pictures | len) }}<li><a href="{{ .Permalink }}images/" class="btn btn-lg btn-primary">
+            {{ $Pictures | len }}<br>{{ i18n "images" ($Pictures|len)}}
+          </a></li>
+          {{ end }}
+        </ul>
+      </div>
+
+      <div class="col-lg-4 col-sm-5 col-xs-12">
+        <ul class="list-unstyled">
+          <li><a href="{{ .Params.forums_uri }}">Forums</a>
+            <br><small>Émulation, discussion, aide</small>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
