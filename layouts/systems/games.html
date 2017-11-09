@@ -66,10 +66,11 @@
         <tbody data-sorter="games">
         {{ if ($Games|len) }}
           {{ range $Games.ByTitle }}
-            <tr data-year="{{ .Params.released }}" data-genre="{{ index .Params.genres 0 }}" data-rating="{{ .Params.rating }}" data-players="{{ .Params.players }}">
+          {{ $genres := .Params.genres | default slice }}
+            <tr data-year="{{ .Params.released }}" data-genre="{{ index $genres 0 }}" data-rating="{{ .Params.rating }}" data-players="{{ .Params.players }}">
               <!-- <td data-value="{{ .Params.rating }}">xx</td> -->
               <th><a href="{{ .Permalink }}">{{ .Title }}</a></th>
-              <td>{{ delimit .Params.genres ", " }}</td>
+              <td>{{ delimit $genres ", " }}</td>
               <td class="text-right">{{ .Params.released }}</td>
               <td class="text-right">{{ .Params.players | default "N/C" }}</td>
             </tr>
