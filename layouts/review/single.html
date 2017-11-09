@@ -31,6 +31,25 @@
         {{ partial "back-to.html" $Game }}
       </div>
 
+      {{ if ge ($Reviews|len) 2 }}
+      <div class="col-sm-4 col-sm-push-2">
+        <div class="well">
+          <h2>Autres tests</h2>
+
+          <ul class="list-unstyled">
+            {{ range $Reviews }}
+            <li>
+              <a href="{{ .Permalink }}">
+                {{ partial "games/rating-star.html" (dict "Rating" .Params.rating "Game" $Game) }}
+                {{ .Params.user }}
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+      {{ end }}
+
     </div>
   </main>
 
