@@ -1,0 +1,36 @@
+{{- $Game := .CurrentSection -}}
+{{- $Review := . -}}
+{{ partial "header.html" . }}
+{{ partial "breadcrumb.html" $Game }}
+
+<div class="container">
+  {{ partial "games/megamenu.html" $Game }}
+
+  <main itemscope itemtype="http://schema.org/Review">
+    <h1>
+      Test du jeu vidéo
+      <span itemprop="itemreviewed">{{ $Game.Title }}</span>
+    </h1>
+
+    <meta itemprop="rating" content="{{ $Review.Params.rating }}" />
+    <h2>{{ partial "games/rating.html" $Review.Params.rating }} <small itemprop="reviewer">par <strong>{{ $Review.Params.user }}</strong></small></h2>
+
+    {{ if .Title }}
+    <h3>{{ .Title }}</h3>
+    {{ end }}
+
+    <div class="row">
+      <div class="col-sm-8">
+        <article itemprop="description">
+          {{ .Content }}
+        </article>
+
+        {{ partial "back-to.html" $Game }}
+      </div>
+
+    </div>
+  </main>
+
+</div>
+
+{{ partialCached "footer.html" . }}
