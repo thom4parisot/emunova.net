@@ -105,27 +105,23 @@ class RemoteContent{
    * Requests new data from the remote source and renders the view.
    */
   update () {
-    var request = $.ajax(this.url, {
-      crossDomain: true,
-      dataType: 'xml',
-      timeout: 2*1000,
-      type: 'GET'
-    });
-
-    request.done((data) => {
-      this.setProgress(75);
-      this.render([].slice.apply(data.getElementsByTagName('item')));
-      this.setState('loaded');
-    });
-
-    request.fail(() => {
-      this.setProgress(100);
-      this.setState('error', 'Une erreur s\'est produite :-(')
-    });
-
     this.setProgress(50);
 
-    return this;
+    return fetch(this.url)
+      .then(res => res.text())
+      .then(text => new DOMParser().parseFromString(text, 'text/xml'))
+      .then((data) => {
+        console.log(data);
+        this.setProgress(75);
+        this.render([].slice.apply(data.getElementsByTagName('item')));
+        this.setState('loaded');
+      })
+      .catch(err => {
+        console.error(err.message);
+
+        this.setProgress(100);
+        this.setState('error', 'Une erreur s\'est produite :-(')
+      });
   }
 }
 
