@@ -83,6 +83,16 @@
       </div>
     </div>
     {{ end }}
+
+    {{ if .Truncated }}
+    <div class="row">
+      <div class="col-sm-8">
+        <h2><strong>L'histoire</strong> de {{ $System.Title }}</h2>
+
+        {{ .Content }}
+      </div>
+    </div>
+    {{ end }}
   </main>
 
 </div>
