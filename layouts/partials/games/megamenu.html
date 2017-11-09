@@ -12,9 +12,10 @@
             <p class="lead"><strong itemprop="name">{{ .Title }}</strong> est un jeu vidéo <a href="{{ $System.Permalink }}">{{ $System.Title }}</a>
               publié
               {{ if .Params.editors }}
-              par <strong itemprop="brand">{{ delimit .Params.editors ", " }}</strong>
-              {{ end }}
-              en {{ .Params.released }}.
+              par <strong itemprop="brand">{{ delimit .Params.editors ", " }}</strong>{{ end -}}
+              {{- if .Params.released -}}
+              en {{ .Params.released }}
+              {{ end -}}.
 
               {{ if .Params.players }}
                 Il se joue à <em>{{ i18n "players" .Params.players }}</em>.
