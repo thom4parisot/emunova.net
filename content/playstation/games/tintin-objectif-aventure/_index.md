@@ -2,7 +2,7 @@
 type: game
 title: 'Tintin Objectif Aventure'
 released: null
-editors: 
+editors:
   - Atari
 players: 1
 genres:
