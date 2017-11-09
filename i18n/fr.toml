@@ -6,6 +6,10 @@ other = "jeux"
 one = "image"
 other = "images"
 
+[_players]
+one = "joueur"
+other = "joueurs"
+
 [players]
 one = "{{.Count}} joueur"
 other = "{{.Count}} joueurs"
