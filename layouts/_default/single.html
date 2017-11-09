@@ -1,5 +1,15 @@
 {{ partial "header.html" . }}
 
-{{ .Content }}
+<div class="container">
+  <main>
+    <div class="row">
+      <div class="col-sm-8">
+        {{ .Content }}
+      </div>
+    </div>
+  </main>
+
+</div>
+
 
 {{ partialCached "footer.html" . }}
