@@ -71,7 +71,7 @@ class RemoteContent{
 
     return `<dt>${dateString}</dt>
       <dd>
-        <a href="${link}" target="_blank">${sanitizeTitle(title)}</a>
+        <a href="${link}" target="_blank" rel="noopener noreferrer">${sanitizeTitle(title)}</a>
       </dd>`;
   }
 
