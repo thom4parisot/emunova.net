@@ -10,7 +10,7 @@
   {{ $GameMeanRating := div ($.Scratch.Get "GameRating" | default 0) ($Reviews | len | default 1) }}
   <main>
     <div class="row">
-      <div class="col-sm-6" id="reviews">
+      <div class="col-sm-6" id="ratings">
         {{ range $Reviews.ByDate }}
           <article>
             <h2>Ce qu'en pense <strong>{{ .Params.user }}</strong></h2>
