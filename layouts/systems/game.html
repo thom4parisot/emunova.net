@@ -37,10 +37,6 @@
           <p class="lead">{{ partial "games/rating.html" $GameMeanRating }}</p>
 
           {{ partial "games/ratings-breakdown.html" (dict "Reviews" $Reviews "Game" $Game) }}
-
-          <a href="ratings.html" class="btn btn-primary">
-            Lire les {{ $Reviews | len }} avis
-          </a>
         </div>
       </div>
     </div>
