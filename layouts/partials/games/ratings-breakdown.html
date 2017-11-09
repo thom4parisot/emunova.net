@@ -1,0 +1,17 @@
+{{- $Reviews := index . "Reviews" -}}
+{{- $Game := index . "Game" -}}
+{{ $Game.Scratch.Set "RatingsSummary" (dict "5" 0 "4" 0 "3" 0 "2" 0 "1" 0 "0" 0) }}
+
+{{ range $Reviews }}
+  {{ $rating := lang.NumFmt 0 .Params.rating | string }}
+  {{ $newTotal := index ($Game.Scratch.Get "RatingsSummary") $rating | add 1 }}
+  {{ $Game.Scratch.SetInMap "RatingsSummary" $rating $newTotal }}
+{{ end }}
+
+<ul class="list-unstyled">
+{{ range $Rating, $Count := $Game.Scratch.Get "RatingsSummary" }}
+  <li class="{{ if eq $Count 0 }}fade-out{{ end }}">
+    {{ partial "games/rating-star.html" (dict "Rating" $Rating "Game" $Game) }} {{ i18n "players" $Count }}
+  </li>
+{{ end }}
+</ul>

@@ -2,27 +2,49 @@
 {{ partial "breadcrumb.html" . }}
 
 <div class="container">
-{{ partial "games/megamenu.html" . }}
+  {{ partial "games/megamenu.html" . }}
+  {{ $Game := . }}
+  {{ $Reviews := where .Pages "Type" "in" (slice "review" "rating") }}
+  {{ $RelatedGames := .Site.Pages.Related . | first 5 }}
+  {{ range $Reviews }}{{ $.Scratch.Add "GameRating" .Params.rating }}{{ end }}
+  {{ $GameMeanRating := div ($.Scratch.Get "GameRating" | default 0) ($Reviews | len | default 1) }}
+  <main>
+    <div class="row">
+      <div class="col-sm-6" id="reviews">
+        {{ range $Reviews.ByDate }}
+          <article>
+            <h2>Ce qu'en pense <strong>{{ .Params.user }}</strong></h2>
 
-{{ .Data }} • {{ .Sections }}
+            <p class="lead">{{ partial "games/rating.html" .Params.rating }}</p>
 
-{{ $related := .Site.Pages.Related . | first 5 }}
-<h3>See Also</h3>
-<ul>
-	{{ range $related }}
-	<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-	{{ end }}
-</ul>
+            <p>{{ .Summary }}</p>
 
-<h2>Ratings</h2>
+            {{ if eq .Type "review" }}
+            <p>
+              <a class="btn btn-default" href="{{ .Permalink }}">
+              Lire la suite du test<span class="sr-only"> de {{ $Game.Title }} par {{ .Params.user }}</span>
+              </a>
+            </p>
+            {{ end }}
+          </article>
+        {{ end }}
+      </div>
 
-{{ $Reviews := where .Pages "Type" "in" (slice "review" "rating") }}
+      <div class="col-sm-4 col-sm-push-2">
+        <div class="well">
+          <h2>Synthèse</h2>
 
-<ul>
-{{ range $Reviews }}
-  <li>{{ .Section }} • {{ .Kind }} • {{ .Type }} • <a href="{{ .Permalink }}">{{ .Params.rating }}</a></li>
-{{ end }}
-</ul>
+          <p class="lead">{{ partial "games/rating.html" $GameMeanRating }}</p>
+
+          {{ partial "games/ratings-breakdown.html" (dict "Reviews" $Reviews "Game" $Game) }}
+
+          <a href="ratings.html" class="btn btn-primary">
+            Lire les {{ $Reviews | len }} avis
+          </a>
+        </div>
+      </div>
+    </div>
+  </main>
 
 </div>
 

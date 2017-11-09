@@ -1,51 +1,53 @@
 {{ partial "header.html" . }}
+{{ partial "breadcrumb.html" . }}
 
-<h1>Systems List</h1>
+<div class="container">
+  <h1>Systems List</h1>
 
-<h1 class="single">{{ .Title }} ({{ .Page }})</h1>
+  <h1 class="single">{{ .Title }} ({{ .Page }})</h1>
 
-{{ .Section }} • {{ .Kind }} • {{ .Type }} • <a href="{{ .Parent.Permalink }}">{{ .Parent }}</a>
+  {{ .Section }} • {{ .Kind }} • {{ .Type }} • <a href="{{ .Parent.Permalink }}">{{ .Parent }}</a>
 
-<div>
-{{ .Content }}
+  <div>
+  {{ .Content }}
+  </div>
+
+  <h2>Sections</h2>
+
+  <ul>
+  {{ range .Sections }}
+    <li><a href="{{ .Permalink }}">{{ . }}</a></li>
+  {{ end }}
+  </ul>
+
+  <h2>Pages</h2>
+
+  <ul>
+  {{ range .Pages }}
+    <li><a href="{{ .Permalink }}">{{ . }}</a></li>
+  {{ end }}
+  </ul>
+
+  <h2>Games</h2>
+
+  {{ $Games := (index .Sections 0).Sections}}
+
+  <ul>
+  {{ range $Games }}
+    <li>{{ .Section }} • {{ .Kind }} • {{ .Type }} • <a href="{{ .Permalink }}">{{ . }}</a></li>
+  {{ end }}
+  </ul>
+
+
+  <h2>Reviews</h2>
+
+  {{ $Reviews := where (where .Site.RegularPages "Section" .Section) "Type" "in" (slice "rating" "review") }}
+
+  <ul>
+  {{ range $Reviews }}
+    <li><a href="{{ .Parent.Permalink }}#ratings">{{ .Parent.Title }} • {{ .Params.Rating }}⭑</a></li>
+  {{ end }}
+  </ul>
+
 </div>
-
-<h2>Sections</h2>
-
-<ul>
-{{ range .Sections }}
-  <li><a href="{{ .Permalink }}">{{ . }}</a></li>
-{{ end }}
-</ul>
-
-<h2>Pages</h2>
-
-<ul>
-{{ range .Pages }}
-  <li><a href="{{ .Permalink }}">{{ . }}</a></li>
-{{ end }}
-</ul>
-
-<h2>Games</h2>
-
-{{ $Games := (index .Sections 0).Sections}}
-
-<ul>
-{{ range $Games }}
-  <li>{{ .Section }} • {{ .Kind }} • {{ .Type }} • <a href="{{ .Permalink }}">{{ . }}</a></li>
-{{ end }}
-</ul>
-
-
-<h2>Reviews</h2>
-
-{{ $Reviews := where (where .Site.RegularPages "Section" .Section) "Type" "in" (slice "rating" "review") }}
-
-<ul>
-{{ range $Reviews }}
-  <li><a href="{{ .Parent.Permalink }}#ratings">{{ .Parent.Title }} • {{ .Params.Rating }}⭑</a></li>
-{{ end }}
-</ul>
-
-
 {{ partialCached "footer.html" . }}
