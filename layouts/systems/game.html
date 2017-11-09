@@ -4,7 +4,7 @@
 <div class="container">
   {{ partial "games/megamenu.html" . }}
   {{ $Game := . }}
-  {{ $Reviews := where .Pages "Type" "in" (slice "review" "rating") }}
+  {{ $Reviews := where $Game.Pages "Type" "in" (slice "review" "rating") }}
   {{ $RelatedGames := .Site.Pages.Related . | first 5 }}
   {{ range $Reviews }}{{ $.Scratch.Add "GameRating" .Params.rating }}{{ end }}
   {{ $GameMeanRating := div ($.Scratch.Get "GameRating" | default 0) ($Reviews | len | default 1) }}

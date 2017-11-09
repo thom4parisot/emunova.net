@@ -1,5 +1,6 @@
 {{- $Game := .CurrentSection -}}
 {{- $Review := . -}}
+{{- $Reviews := where $Game.Pages "Type" "in" (slice "review") -}}
 {{ partial "header.html" . }}
 {{ partial "breadcrumb.html" $Game }}
 
@@ -12,15 +13,17 @@
       <span itemprop="itemreviewed">{{ $Game.Title }}</span>
     </h1>
 
-    <meta itemprop="rating" content="{{ $Review.Params.rating }}" />
-    <h2>{{ partial "games/rating.html" $Review.Params.rating }} <small itemprop="reviewer">par <strong>{{ $Review.Params.user }}</strong></small></h2>
+    <h2>
+      {{ partial "games/rating.html" $Review.Params.rating }}
+      <small>par <strong itemprop="author">{{ $Review.Params.user }}</strong></small>
+    </h2>
 
     {{ if .Title }}
     <h3>{{ .Title }}</h3>
     {{ end }}
 
     <div class="row">
-      <div class="col-sm-8">
+      <div class="col-sm-6">
         <article itemprop="description">
           {{ .Content }}
         </article>

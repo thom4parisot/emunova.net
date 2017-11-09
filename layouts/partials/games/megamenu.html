@@ -5,60 +5,66 @@
 {{- $CoverPath := delimit (slice .Dir "images/main.jpg") "" -}}
 {{- $ratingValue := 3.5 -}}
 <div id="megamenu-game" class="well megamenu">
-    <div class="row" itemscope itemtype="http://schema.org/Product">
-      <div class="col-sm-8 col-xs-12">
-        <div class="row">
-          <div class="col-sm-12 col-xs-12">
-            <p class="lead"><strong itemprop="name">{{ .Title }}</strong> est un jeu vidéo <a href="{{ $System.Permalink }}">{{ $System.Title }}</a>
-              publié
-              {{ if .Params.editors }}
-              par <strong itemprop="brand">{{ delimit .Params.editors ", " }}</strong>{{ end -}}
-              {{- if .Params.released -}}
-              en {{ .Params.released }}
-              {{ end -}}.
+  <div class="row" itemscope itemtype="http://schema.org/SoftwareApplication">
+    <meta itemprop="applicationCategory" content="http://schema.org/GameApplication">
+    <meta itemprop="availableOnDevice" content="{{ $System.Title }}">
+    <div class="col-sm-8 col-xs-12">
+      <div class="row">
+        <div class="col-sm-12 col-xs-12">
+          <p class="lead"><strong itemprop="name">{{ .Title }}</strong> est un jeu vidéo <a href="{{ $System.Permalink }}" itemprop="availableOnDevice">{{ $System.Title }}</a>
+            publié
+            {{ if .Params.editors }}
+            par <strong itemprop="publisher">{{ delimit .Params.editors ", " }}</strong>{{ end -}}
+            {{- if .Params.released -}}
+            en {{ .Params.released }}
+            {{ end -}}.
 
-              {{ if .Params.players }}
-                Il se joue à <em>{{ i18n "players" .Params.players }}</em>.
-              {{ end }}
-
-              {{ if .Params.alternate_titles }}
-                Il est également connu sous {{ i18n "the_names" .Params.alternate_titles }}
-                de {{ delimit .Params.alternate_titles }}.
-              {{ end }}
-            </p>
-          </div>
-
-          <div class="col-sm-3 col-xs-12">
-            <ul class="list-unstyled">
-              <li><span class="year">{{ .Params.released }}</span></li>
-              {{ range .Params.genres }}
-                <li>{{ . }}</li>
-              {{ end }}
-            </ul>
-          </div>
-
-          <div class="col-sm-5 col-xs-12">
-            <ul class="list-inline" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
-              <li>
-                <a href="{{ .Permalink }}#ratings" class="btn btn-primary btn-lg">
-                  <span itemprop="reviewCount">{{ $Reviews | len }}</span><br>{{ i18n "reviews" ($Reviews | len) }}
-                </a>
-              </li>
-              <li>
-                <a href="{{ .Permalink }}#ratings" class="btn btn-primary btn-lg" itemprop="ratingValue" content="{{ $ratingValue }}">
-                  <span itemprop="ratingCount">{{ $ReviewsAndRatings | len }}</span><br>{{ i18n "ratings" ($ReviewsAndRatings | len) }}
-                </a>
-              </li>
-            </ul>
-          </div>
+            {{ if .Params.alternate_titles }}
+              Il est également connu sous {{ i18n "the_names" .Params.alternate_titles }}
+              de {{ delimit .Params.alternate_titles }}.
+            {{ end }}
+          </p>
         </div>
 
+        <div class="col-sm-3 col-xs-12">
+          <ul class="list-unstyled">
+            <li><span class="year">{{ .Params.released }}</span></li>
+            {{ range .Params.genres }}
+              <li itemprop="applicationSubCategory">{{ . }}</li>
+            {{ end }}
+          </ul>
+        </div>
+
+        <div class="col-sm-6 col-xs-12">
+          <ul class="list-inline" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+            <li>
+              <a href="{{ .Permalink }}#ratings" class="btn btn-primary btn-lg">
+                <span itemprop="reviewCount">{{ $Reviews | len }}</span><br>{{ i18n "reviews" ($Reviews | len) }}
+              </a>
+            </li>
+            <li>
+              <a href="{{ .Permalink }}#ratings" class="btn btn-primary btn-lg" itemprop="ratingValue" content="{{ $ratingValue }}">
+                <span itemprop="ratingCount">{{ $ReviewsAndRatings | len }}</span><br>{{ i18n "ratings" ($ReviewsAndRatings | len) }}
+              </a>
+            </li>
+            {{ if .Params.players }}
+            <li>
+              <span class="btn btn-primary btn-lg">
+                {{ .Params.players }}<br>
+                {{ i18n "_players" .Params.players }}
+              </span>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
       </div>
 
-      <div class="col-sm-4 col-xs-12">
-        {{ if (fileExists (delimit (slice "content" $CoverPath) "/")) }}
-          <img class="img-thumbnail img-elastic" src="{{ $CoverPath | relURL }}" itemprop="image" alt="">
-        {{ end }}
-      </div>
     </div>
+
+    <div class="col-sm-4 col-xs-12">
+      {{ if (fileExists (delimit (slice "content" $CoverPath) "/")) }}
+        <img class="img-thumbnail img-elastic" src="{{ $CoverPath | relURL }}" itemprop="image" alt="">
+      {{ end }}
+    </div>
+  </div>
 </div>
