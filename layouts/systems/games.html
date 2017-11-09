@@ -1,28 +1,88 @@
+{{- $System := .Parent -}}
+{{- $Games := .Sections -}}
+{{- $Reviews := where .Pages "Type" "in" (slice "rating" "review") -}}
 {{ partial "header.html" . }}
-{{ partial "breadcrumb.html" . }}
+{{ partial "breadcrumb.html" $System }}
 
 <div class="container">
-  <h1><a href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a> Games List</h1>
+  {{ partial "systems/megamenu.html" $System }}
 
-  {{ $Games := .Sections}}
+  <main>
+    <form class="form-inline text-center" role="form" data-target="games">
+      <div class="form-group form-group-unifield">
+        <div class="form-group">
+          <label class="control-label">Je cherche</label>
+        </div>
+        <div class="form-group">
+          <label class="control-label" for="rating-selector">un jeu vidéo {{ $System.Title }}</label>
+          <select name="rating" id="rating-selector">
+            <option value="" selected>un jeu vidéo {{ $System.Title }}</option>
+            <option value="4" data-operator=">">un excellent jeu vidéo {{ $System.Title }}</option>
+            <option value="2.5" data-operator=">">un bon jeu vidéo {{ $System.Title }}</option>
+            <option value="2.4" data-operator="<">un jeu vidéo {{ $System.Title }} pas terrible</option>
+            <option value="1.9" data-operator="<">un fond de tiroir sur {{ $System.Title }}</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label class="control-label" for="year-operator">sorti à tout moment</label>
+          <select name="year-operator" id="year-operator">
+            <option value="" selected>sorti à tout moment</option>
+            <option value="<">sorti avant…</option>
+            <option value="=">sorti en…</option>
+            <option value=">">sorti après…</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <input type="number" name="year" data-visible-if="year-operator" class="form-control hidden" placeholder="{{ now.Format "2006" }}" min="1970" max="{{ now.Format "2006" }}">
+        </div>
+        <div class="form-group">
+          <label class="control-label" for="players-selector">pour tout nombre de joueurs</label>
+          <select name="players" id="players-selector" class="form-control">
+            <option value="" selected>pour tout nombre de joueurs</option>
+            <option value="1">pour 1 joueur</option>
+            <option value="2">pour 2 joueurs</option>
+            <option value="2" data-operator=">">pour plus de 2 joueurs</option>
+          </select>
+        </div>
+      </div><div class="form-group btn-group">
+      <button class="btn btn-primary" type="button">Actualiser</button>
+      <button class="btn btn-default" type="reset">Recommencer</button>
+    </div>
+    </form>
 
-  <ul>
-  {{ range $Games }}
-    <li>{{ .Section }} • {{ .Kind }} • {{ .Type }} • <a href="{{ .Permalink }}">{{ . }}</a></li>
-  {{ end }}
-  </ul>
+    <h2>Jeux vidéo {{ $System.Title }}</h2>
 
-  <h2>Ratings and Reviews</h2>
+    <div class="table-responsive">
+      <table class="table table-striped table-hover table-sortable">
+        <thead>
+          <tr>
+            <!-- <th>Note</th> -->
+            <th>Titre</th>
+            <th>Genres</th>
+            <th class="text-right">Année</th>
+            <th class="text-right">Joueurs</th>
+          </tr>
+        </thead>
+        <tbody data-sorter="games">
+        {{ if ($Games|len) }}
+          {{ range $Games.ByTitle }}
+            <tr data-year="{{ .Params.released }}" data-genre="{{ index .Params.genres 0 }}" data-rating="{{ .Params.rating }}" data-players="{{ .Params.players }}">
+              <!-- <td data-value="{{ .Params.rating }}">xx</td> -->
+              <th><a href="{{ .Permalink }}">{{ .Title }}</a></th>
+              <td>{{ delimit .Params.genres ", " }}</td>
+              <td class="text-right">{{ .Params.released }}</td>
+              <td class="text-right">{{ .Params.players | default "N/C" }}</td>
+            </tr>
+          {{ end }}
+        {{ else }}
+          <tr>
+            <td colspan="3">Aucun jeu pour le moment.</td>
+          </tr>
+        {{ end }}
+        </tbody>
+      </table>
+    </div>
+  </main>
 
-  <h2>Reviews</h2>
-
-  {{ $Reviews := where .Pages "Type" "in" (slice "rating" "review") }}
-
-  <ul>
-  {{ range $Reviews }}
-    <li><a href="{{ .Parent.Permalink }}#ratings">{{ .Parent.Title }} • {{ .Params.Rating }}⭑</a></li>
-  {{ end }}
-  </ul>
-  
 </div>
 {{ partialCached "footer.html" . }}

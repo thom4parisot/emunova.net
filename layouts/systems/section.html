@@ -1,11 +1,11 @@
+{{- $System := . -}}
+{{- $Games := (index .Sections 0).Sections -}}
+{{- $Pictures := .Pages -}}
 {{ partial "header.html" . }}
 {{ partial "breadcrumb.html" . }}
 
 <div class="container">
   {{ partial "systems/megamenu.html" . }}
-  {{- $System := . -}}
-  {{- $Games := (index .Sections 0).Sections -}}
-  {{- $Pictures := .Pages -}}
 
   <main>
     <div class="row">
