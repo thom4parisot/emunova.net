@@ -39,7 +39,7 @@
           </select>
         </div>
         <div class="form-group">
-          <input type="number" name="year" data-visible-if="year-operator" class="form-control hidden" placeholder="1337" min="1970" max="2013">
+          <input type="number" name="year" data-visible-if="year-operator" class="form-control hidden" placeholder="1337" min="1970" max="{{ now.Format "2006" }}">
         </div>
       </div><div class="form-group btn-group">
       <button class="btn btn-primary" type="button">Actualiser</button>
