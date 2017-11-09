@@ -72,7 +72,7 @@
             {{- $filename := delimit (slice $Picture.File.Dir $Picture.File.TranslationBaseName ".sq" . ) "" -}}
               {{ if (fileExists (delimit (slice "content" $filename) "/")) }}
               <div class="col-sm-4 col-xs-6">
-                <a href="{{ $Picture.Permalink }}images/#{{ $Picture.File.TranslationBaseName }}">
+                <a href="{{ $System.Permalink }}images/#{{ $Picture.File.TranslationBaseName }}">
                   <img class="img-thumbnail" src="{{ $filename | relURL }}" alt="{{ $Picture.Title }}"/>
                 </a>
               </div>
