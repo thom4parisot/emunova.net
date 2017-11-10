@@ -1,3 +1,15 @@
 language: node_js
 node_js: v8
 sudo: false
+
+env:
+  - HUGO_VERSION="0.30.2"
+
+before_install:
+  - curl -sSL https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz | tar xzv --strip-components=1
+  - chmod +x hugo && mv hugo /usr/local/bin
+
+script:
+  - npm test
+  - npm run generate-thumbs
+  - npm run build
