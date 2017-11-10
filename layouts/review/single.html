@@ -1,6 +1,8 @@
 {{- $Game := .CurrentSection -}}
+{{- $System := .Site.GetPage "section" $Game.Section -}}
 {{- $Review := . -}}
 {{- $Reviews := where $Game.Pages "Type" "in" (slice "review") -}}
+{{- .Scratch.Set "Title" (printf "Test du jeu vidéo %s sur %s" $Game.Title $System.Title) -}}
 {{ partial "header.html" . }}
 {{ partial "breadcrumb.html" $Game }}
 

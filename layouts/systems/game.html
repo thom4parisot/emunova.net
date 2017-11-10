@@ -1,9 +1,12 @@
+{{- $Game := . -}}
+{{- $System := .Site.GetPage "section" .Section -}}
+{{- .Scratch.Set "Title" (printf "%s — jeu vidéo %s" $Game.Title $System.Title) -}}
 {{ partial "header.html" . }}
 {{ partial "breadcrumb.html" . }}
 
 <div class="container">
   {{ partial "games/megamenu.html" . }}
-  {{ $Game := . }}
+
   {{ $Reviews := where $Game.Pages "Type" "in" (slice "review" "rating") }}
   {{ $RelatedGames := .Site.Pages.Related . | first 5 }}
   {{ range $Reviews }}{{ $.Scratch.Add "GameRating" .Params.rating }}{{ end }}

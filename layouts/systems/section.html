@@ -1,4 +1,5 @@
 {{- $System := . -}}
+{{- .Scratch.Set "Title" (printf "%[1]s: émulation et tests de jeux vidéo %[1]s" $System.Title) -}}
 {{ $DefaultSections := dict "Sections" (slice) "Pages" (slice) }}
 {{- $Games := (.Site.GetPage "section" $System.Section "games" | default $DefaultSections).Sections -}}
 {{- $Pictures := (.Site.GetPage "section" $System.Section "images" | default $DefaultSections).Pages -}}

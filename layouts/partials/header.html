@@ -5,10 +5,17 @@
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com data:; img-src 'self' data:; frame-src https://bufferapp.com; connect-src https://app.emunova.net https://api.emunova.net https://forums.emunova.net https://emunova.net http://c5su6didx6-dsn.algolia.net https://c5su6didx6-dsn.algolia.net 'self'; script-src 'unsafe-eval' 'self'; object-src 'none'">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="initial-scale=1.0">
-  <title>{{ .Title }} • Emu Nova</title>
+  <title>{{ .Scratch.Get "Title" | default .Title }} • Emu Nova</title>
   <link href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway:300,400" rel="stylesheet">
   <link rel="stylesheet" href="/bundle.css">
   <link rel="shortcut icon" href="/favicon.ico">
+  <meta property="og:site_name" content="emunova.net">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:title" content="{{ .Scratch.Get "Title" | default .Title }}" >
+  <meta property="og:type" content="website" >
+  <meta property="og:url" content="{{ .Permalink | absURL }}" >
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ .Scratch.Get "Title" | default .Title }}">
 </head>
 <body>
 

@@ -1,4 +1,5 @@
 {{- $System := .Parent -}}
+{{- .Scratch.Set "Title" (printf "Images %s : découvrir les boites, accessoires et extensions %[1]s" $System.Title) -}}
 {{- $Pictures := .Pages -}}
 {{ partial "header.html" . }}
 {{ partial "breadcrumb.html" . }}
