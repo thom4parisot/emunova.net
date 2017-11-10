@@ -37,7 +37,8 @@ Emu Nova v3 est lancée avec les contenus suivants :
 - **tests de jeux vidéo**
 - **notes et commentaires de jeux vidéo**
 - images de jeux vidéo
-- les [forums de discussion](http://forum.emunova.net)
+- les [forums de discussion](https://forum.emunova.net)
+- le moteur de recherche
 
 Finalement est-ce qu'on a besoin de bien plus ? ;-)
 
@@ -66,7 +67,6 @@ Voici les contenus présents dans Emu Nova v2, temporairement absents dans Emu N
 - les tutoriaux
 - les FAQ
 - les dossiers
-- le moteur de recherche
 
 Leur format n'est pas encore défini.
 L'idée étant de continuer à proposer du **contenu de bout en bout**.
@@ -88,7 +88,7 @@ Les **www**. C'étaient 3 lettres de trop dans l'adresse du site.
 
 ## Comment contribuer ou modifier du contenu ?
 
-Le contenu d'Emu Nova est disponible sur [github.com/oncletom/data.emunova.net](https://github.com/oncletom/data.emunova.net).
+Le contenu d'Emu Nova est disponible sur [github.com/oncletom/emunova.net](https://github.com/oncletom/emunova.net).
 
 L'interface en ligne permet de modifier facilement les contenus. Des guides seront proposés par la suite
 afin de faciliter les manipulations sans crainte de tout casser.
@@ -106,5 +106,5 @@ Vous pouvez proposer des idées, du code et rectifier des erreurs.
 
 **La newsletter d'Emu Nova sera remise en route dans le futur**.
 
-En attendant, le plus simple est encore de se rendre sur [les forums d'Emu Nova](http://forums.emunova.net/forum/61-la-vie-du-site/)
+En attendant, le plus simple est encore de se rendre sur [les forums d'Emu Nova](https://forums.emunova.net/forum/61-la-vie-du-site/)
 et de s'abonner aux sujets qui vous paraissent liés au sujet.
