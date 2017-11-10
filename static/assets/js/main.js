@@ -7,12 +7,12 @@ require('bootstrap/dropdown');
 
 const DynamicSorter = require('./dynamic-sorter');
 const RemoteContent = require('./rss/remote-content');
-// const SortTable = require('sorttable');
+const SortTable = require('sorttable');
 const searchClient = require('algoliasearch/lite');
 const debounce = require('lodash/debounce');
 const { generateStars: stars } = require('./ratings');
 
-// $('table.table-sortable').each((i, el) => SortTable.makeSortable(el));
+$('table.table-sortable').each((i, el) => SortTable.makeSortable(el));
 $('form[data-target]').each((i, el) => {
   new DynamicSorter(el).registerEvents();
 });
