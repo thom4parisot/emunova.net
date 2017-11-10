@@ -6,10 +6,13 @@ languageCode = "fr-FR"
 defaultContentLanguageInSubdir = false
 
 disableLiveReload = true
-preserveTaxonomyNames = true
-pluralizeListTitles = false
 noTimes = true
 ignoreFiles = [ "\\.git$", "node_modules" ]
+
+preserveTaxonomyNames = true
+pluralizeListTitles = false
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
   forums = "https://forums.emunova.net"
