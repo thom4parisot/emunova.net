@@ -62,8 +62,11 @@
     </div>
 
     <div class="col-sm-4 col-xs-12">
+      {{ range $Ext := (slice ".jpg" ".png") }}
+      {{- $CoverPath := delimit (slice $Game.Dir "images/main" $Ext) "" -}}
       {{ if (fileExists (delimit (slice "content" $CoverPath) "/")) }}
         <img class="img-thumbnail img-elastic" src="{{ $CoverPath | relURL }}" itemprop="image" alt="">
+      {{ end }}
       {{ end }}
     </div>
   </div>
