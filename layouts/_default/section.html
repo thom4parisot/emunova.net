@@ -1,9 +1,11 @@
-{{- if eq .Type "system" -}}
+{{- $Type := .Type | default "" -}}
+{{- $Dir := index (split (.Dir | default "") "/") 1 | default "" -}}
+{{- if (eq $Type "system") -}}
 {{ template "systems/section.html" . }}
-{{- else if eq .Type "game" -}}
+{{- else if (eq $Type "game") -}}
 {{ template "systems/game.html" . }}
-{{- else if eq (index (split .Dir "/") 1) "games" -}}
+{{- else if (eq $Dir "games") -}}
 {{ template "systems/games.html" . }}
-{{- else if eq (index (split .Dir "/") 1) "images" -}}
+{{- else if (eq $Dir "images") -}}
 {{ template "systems/images.html" . }}
-{{ else }}section.html{{ end }}
+{{ end }}

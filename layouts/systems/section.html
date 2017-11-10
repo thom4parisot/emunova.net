@@ -4,10 +4,10 @@
 {{- $Games := (.Site.GetPage "section" $System.Section "games" | default $DefaultSections).Sections -}}
 {{- $Pictures := (.Site.GetPage "section" $System.Section "images" | default $DefaultSections).Pages -}}
 {{ partial "header.html" . }}
-{{ partial "breadcrumb.html" . }}
+{{ partialCached "breadcrumb.html" . $System.UniqueID }}
 
 <div class="container">
-  {{ partial "systems/megamenu.html" . }}
+  {{ partialCached "systems/megamenu.html" . $System.UniqueID }}
 
   <main>
     <div class="row">

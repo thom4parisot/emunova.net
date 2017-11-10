@@ -2,10 +2,10 @@
 {{- $System := .Site.GetPage "section" .Section -}}
 {{- .Scratch.Set "Title" (printf "%s — jeu vidéo %s" $Game.Title $System.Title) -}}
 {{ partial "header.html" . }}
-{{ partial "breadcrumb.html" . }}
+{{ partialCached "breadcrumb.html" . $Game.UniqueID }}
 
 <div class="container">
-  {{ partial "games/megamenu.html" . }}
+  {{ partialCached "games/megamenu.html" $Game $Game.UniqueID }}
 
   {{ $Reviews := where $Game.Pages "Type" "in" (slice "review" "rating") }}
   {{ $RelatedGames := .Site.Pages.Related . | first 5 }}

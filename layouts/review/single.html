@@ -4,10 +4,10 @@
 {{- $Reviews := where $Game.Pages "Type" "in" (slice "review") -}}
 {{- .Scratch.Set "Title" (printf "Test du jeu vidéo %s sur %s" $Game.Title $System.Title) -}}
 {{ partial "header.html" . }}
-{{ partial "breadcrumb.html" $Game }}
+{{ partialCached "breadcrumb.html" $Game $Game.UniqueID }}
 
 <div class="container">
-  {{ partial "games/megamenu.html" $Game }}
+  {{ partialCached "games/megamenu.html" $Game $Game.UniqueID }}
 
   <main itemscope itemtype="http://schema.org/Review">
     <h1>

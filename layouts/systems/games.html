@@ -3,10 +3,10 @@
 {{- $Reviews := where .Pages "Type" "in" (slice "rating" "review") -}}
 {{- .Scratch.Set "Title" (printf "Jeux vidéo %[1]s : les meilleurs et plus mauvais jeux %[1]s" $System.Title) -}}
 {{ partial "header.html" . }}
-{{ partial "breadcrumb.html" $System }}
+{{ partialCached "breadcrumb.html" $System $System.UniqueID }}
 
 <div class="container">
-  {{ partial "systems/megamenu.html" $System }}
+  {{ partialCached "systems/megamenu.html" $System $System.UniqueID }}
 
   <main>
     <form class="form-inline text-center" role="form" data-target="games">

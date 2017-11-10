@@ -2,10 +2,10 @@
 {{- .Scratch.Set "Title" (printf "Images %s : découvrir les boites, accessoires et extensions %[1]s" $System.Title) -}}
 {{- $Pictures := .Pages -}}
 {{ partial "header.html" . }}
-{{ partial "breadcrumb.html" . }}
+{{ partialCached "breadcrumb.html" . $System.UniqueID }}
 
 <div class="container">
-  {{ partial "systems/megamenu.html" $System }}
+  {{ partialCached "systems/megamenu.html" $System $System.UniqueID }}
 
   <main>
     <h1>Galerie d'images {{ $System.Title }}</h1>
