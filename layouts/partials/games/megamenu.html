@@ -1,8 +1,8 @@
+{{- $Game := . -}}
 {{- $System := .Site.GetPage "section" .Section -}}
 {{- $Reviews := where .Pages "Type" "review" -}}
 {{- $Ratings := where .Pages "Type" "rating" -}}
 {{- $ReviewsAndRatings := union $Reviews $Ratings -}}
-{{- $CoverPath := delimit (slice .Dir "images/main.jpg") "" -}}
 {{- $ratingValue := 3.5 -}}
 <div id="megamenu-game" class="well megamenu">
   <div class="row" itemscope itemtype="http://schema.org/SoftwareApplication">
