@@ -1,5 +1,6 @@
-{{- $Games := (index .Sections 0).Sections -}}
-{{- $Pictures := .Pages -}}
+{{- $DefaultSections := dict "Sections" (slice) "Pages" (slice) -}}
+{{- $Games := (.Site.GetPage "section" .Section "games" | default $DefaultSections).Sections -}}
+{{- $Pictures := (.Site.GetPage "section" .Section "images" | default $DefaultSections).Pages -}}
 <div id="megamenu-system" class="well megamenu">
   <div class="lead">
     {{ if (.Summary | len) }}

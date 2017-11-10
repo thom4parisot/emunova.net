@@ -1,6 +1,7 @@
 {{- $System := . -}}
-{{- $Games := (index .Sections 0).Sections -}}
-{{- $Pictures := .Pages -}}
+{{ $DefaultSections := dict "Sections" (slice) "Pages" (slice) }}
+{{- $Games := (.Site.GetPage "section" $System.Section "games" | default $DefaultSections).Sections -}}
+{{- $Pictures := (.Site.GetPage "section" $System.Section "images" | default $DefaultSections).Pages -}}
 {{ partial "header.html" . }}
 {{ partial "breadcrumb.html" . }}
 

@@ -1,8 +1,8 @@
 {{ partial "header.html" . }}
-{{ $Systems := where .Site.Sections "Type" "system" }}
-{{ $Manufacturers := .Site.Taxonomies.manufacturers.Alphabetical }}
-{{ $SystemTypes := .Site.Taxonomies.system_types.Alphabetical }}
-{{ $DefaultSections := dict "Sections" (slice) }}
+{{- $Systems := where .Site.Sections "Type" "system" -}}
+{{- $Manufacturers := .Site.Taxonomies.manufacturers.Alphabetical -}}
+{{- $SystemTypes := .Site.Taxonomies.system_types.Alphabetical -}}
+{{- $DefaultSections := dict "Sections" (slice) "Pages" (slice) -}}
 
 <div class="container">
   <main>
@@ -50,8 +50,8 @@
     <div class="row" data-sorter="systems">
       {{ range $index, $System := $Systems.ByTitle }}
         {{- $i := add $index 1 -}}
-        {{- $Games := (index .Sections 0 | default $DefaultSections).Sections -}}
-        {{- $Pictures := .Pages -}}
+        {{- $Games := (.Site.GetPage "section" .Section "games" | default $DefaultSections).Sections -}}
+        {{- $Pictures := (.Site.GetPage "section" .Section "images" | default $DefaultSections).Pages -}}
         {{- $Manufacturer := index .Params.manufacturers 0 -}}
         {{- $SystemType := index .Params.system_types 0 -}}
         <div class="col-sm-4 col-md-3 col-xs-6" data-year="{{ .Params.released }}" data-type="{{ $SystemType }}" data-manufacturer="{{ $Manufacturer }}">

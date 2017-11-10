@@ -1,0 +1,36 @@
+{{- $System := .Parent -}}
+{{- $Pictures := .Pages -}}
+{{ partial "header.html" . }}
+{{ partial "breadcrumb.html" . }}
+
+<div class="container">
+  {{ partial "systems/megamenu.html" $System }}
+
+  <main>
+    <h1>Galerie d'images {{ $System.Title }}</h1>
+
+    <div class="row row-gallery lazyload">
+      {{ range $index, $Picture := $Pictures }}
+      {{- $i := add $index 1 -}}
+        <div class="col-sm-4 col-md-3" id="{{ $Picture.File.TranslationBaseName }}">
+          {{ range (slice ".jpg" ".png") }}
+            {{- $filename := delimit (slice $Picture.File.Dir $Picture.File.TranslationBaseName ".sq" . ) "" -}}
+            {{ if (fileExists (delimit (slice "content" $filename) "/")) }}
+            <img class="img-thumbnail" src="{{ $filename | relURL }}" alt=""/>
+            {{ end }}
+          {{ end }}
+
+          <h2>{{ $Picture.Title }}</h2>
+
+          <p>{{ $Picture.Content }}</p>
+        </div>
+
+        {{ if modBool $i 3 }}<div class="clearfix visible-sm"></div>{{ end }}
+        {{ if modBool $i 4 }}<div class="clearfix visible-md visible-lg"></div>{{ end }}
+      {{ end }}
+    </div>
+  </main>
+
+</div>
+
+{{ partialCached "footer.html" . }}
