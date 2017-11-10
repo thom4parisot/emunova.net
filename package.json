@@ -13,8 +13,8 @@
     "build:js": "browserify -g [ uglifyify -c -m ] -o static/bundle.js static/assets/js/main.js",
     "build:css": "$npm_package_scripts_less static/less/core.less static/bundle.css",
     "generate-thumbs": "run-s 'generate-thumbs:*'",
-    "generate-thumbs:sq": "for DIR in $(ls ./content); do sharp -i $(ls content/${DIR}/images/*.jpg | grep --invert-match -E '.(sq|md).jpg') -o \"content/$DIR/images/{name}.sq{ext}\" resize 170 170; done",
-    "generate-thumbs:md": "for DIR in $(ls ./content); do sharp -i $(ls content/${DIR}/images/*.jpg | grep --invert-match -E '.(sq|md).jpg') -o \"content/$DIR/images/{name}.md{ext}\" resize 270; done",
+    "generate-thumbs:sq": "find ./content -type f \\( -name '*.jpg' -o -name '*.png' \\) \\( -not -name '*.sq.*' -not -name '*.md.*' \\) -exec sharp -i {} -o '{dir}/{name}.sq{ext}' resize 170 170 \\;",
+    "generate-thumbs:md": "find ./content -type f -name '*.jpg' -not -name '*.sq.jpg' -not -name '*.md.jpg' -exec sharp -i {} -o '{dir}/{name}.md{ext}' resize 270",
     "start": "run-p hugo:serve 'watch:*'",
     "watch:js": "watchify -vd -o static/bundle.js static/assets/js/main.js",
     "watch:css": "nodemon -e less -w static/less -x 'npm run build:css'"
@@ -45,7 +45,7 @@
     "hyperquest": "^2.1.2",
     "nodemon": "^1.12.1",
     "npm-run-all": "^4.1.2",
-    "sharp-cli": "^1.5.2",
+    "sharp-cli": "oncletom/sharp-cli#fix/9",
     "uglifyify": "^4.0.4",
     "watchify": "^3.7.0"
   },
