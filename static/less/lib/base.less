@@ -1,0 +1,62 @@
+body {
+  background-image: url('data:image/gif; base64,R0lGODlhBAAEAIAAAOXl5f/98yH5BAAAAAAALAAAAAAEAAQAAAIFhBGpmwUAOw==');
+  font-weight: 500;
+}
+
+pre {
+  color: white;
+}
+
+h1 small,
+.h1 small {
+  font-weight: 500;
+  color: lighten(@brand-primary, 10%);
+}
+
+.lead {
+  font-weight: 300;
+}
+
+.btn {
+  border-radius: 4px;
+  box-shadow: 0 1px lighten(@btn-default-color, 10%);
+  font-weight: 500;
+
+  .icon {
+    height: @font-size-base;
+    width: @font-size-base;
+  }
+}
+
+.btn-default:hover {
+  color: @gray;
+  background-color: lighten(@brand-primary, 40%);
+}
+
+svg.icon {
+  fill: currentColor;
+  height: 30px;
+  width: 30px;
+  margin-bottom: -2px;
+}
+
+.well {
+  color: white;
+
+  a.btn {
+    color: @btn-default-color;
+    text-shadow: none;
+  }
+}
+
+.img-elastic {
+  width: 100%;
+}
+
+.img-responsive {
+  width: 300px;
+}
+
+label {
+  cursor: pointer;
+}

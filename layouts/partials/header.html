@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com data:; img-src 'self' data:; frame-src https://bufferapp.com; connect-src https://app.emunova.net https://api.emunova.net https://forums.emunova.net https://emunova.net http://c5su6didx6-dsn.algolia.net https://c5su6didx6-dsn.algolia.net 'self'; script-src 'unsafe-eval' 'self'; object-src 'none'">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="initial-scale=1.0">
+  <title>{{ .Scratch.Get "Title" | default .Title }} • Emu Nova</title>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway:300,400" rel="stylesheet">
+  <link rel="stylesheet" href="/bundle.css">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <meta property="og:site_name" content="emunova.net">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:title" content="{{ .Scratch.Get "Title" | default .Title }}" >
+  <meta property="og:type" content="website" >
+  <meta property="og:url" content="{{ .Permalink | absURL }}" >
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ .Scratch.Get "Title" | default .Title }}">
+</head>
+<body>
+
+<nav class="navbar navbar-default navbar-static-top" role="navigation">
+  <div class="container">
+     <div class="navbar-header">
+       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapsable-navbar">
+         <span class="sr-only">Toggle navigation</span>
+         <span class="icon-dot-3"></span>
+       </button>
+       <a  class="navbar-brand" href="{{ "/" | relURL }}" rel="home">{{ partialCached "logo.svg" . }}</a>
+     </div>
+
+     <div class="collapse navbar-collapse" id="collapsable-navbar">
+       <ul class="nav navbar-nav navbar-right">
+         <li><a href="{{ .Site.Params.forums }}">Forums</a></li>
+         <li class="dropdown">
+           <a href="{{ .Site.Params.repo.url }}" class="dropdown-toggle" data-toggle="dropdown">Contribuer <span class="caret"></span></a>
+           <ul class="dropdown-menu" role="menu">
+             <li role="presentation"><a role="menuitem" href="{{ .Site.Params.repo.url }}/blob/{{ .Site.Params.repo.branch }}/content/{{ .File.Path }}">Modifier/corriger cette page</a></li>
+           </ul>
+         </li>
+         <li class="dropdown">
+           <a href="/about/" class="dropdown-toggle" data-toggle="dropdown">À propos <span class="caret"></span></a>
+           <ul class="dropdown-menu" role="menu">
+             {{ range .Site.Menus.main }}
+             <li role="presentation"><a role="menuitem" href="{{.URL}}">{{ .Name }}</a></li>
+             {{ end }}
+             <li class="dropdown-header" role="presentation">&copy; 2002–{{ now.Format "2006" }}, {{ .Site.Title }}</li>
+           </ul>
+         </li>
+       </ul>
+
+       <form class="navbar-form navbar-right">
+      	 <div class="form-group">
+      	   <input type="search" class="form-control" placeholder="Rechercher un jeu" autocomplete="off" id="topbar-search-input">
+      	 </div>
+       </form>
+     </div>
+  </div>
+</nav>
+
+<div class="panel-group panel-group-static-top panel-group-collapsible" id="search-results-wrapper">
+  <div class="panel panel-default">
+    <div class="panel-collapse container collapse">
+      <div class="panel-body row"></div>
+    </div>
+  </div>
+</div>

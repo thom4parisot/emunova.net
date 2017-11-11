@@ -1,0 +1,20 @@
+{{ $Rating := index . "Rating" }}
+{{ $Scratch := (index . "Game").Scratch }}
+{{ $Percentage := mul ($Rating |float) 20 }}
+{{ $Scratch.Set "Class" "" }}
+
+{{ if le $Rating 1 }}
+{{ $Scratch.Set "Class" "progress-bar-danger" }}
+{{ else if le $Rating 2 }}
+{{ $Scratch.Set "Class" "progress-bar-warning" }}
+{{ else if lt $Rating 4 }}
+{{ $Scratch.Set "Class" "progress-bar-info" }}
+{{ else if ge $Rating 4 }}
+{{ $Scratch.Set "Class" "progress-bar-success" }}
+{{ end }}
+
+<div class="progress progress-rating">
+  <div class="progress-bar {{ $Scratch.Get "Class" }}" role="progressbar" style="width: {{ $Percentage }}%" aria-valuenow="{{ $Rating }}" aria-valuemin="0" aria-valuemax="5">
+    <span class="sr-only">{{ $Rating }}</span>
+  </div>
+</div>

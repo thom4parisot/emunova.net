@@ -1,0 +1,53 @@
+baseURL = "https://emunova.net/"
+title = "Emu Nova"
+
+DefaultContentLanguage = "fr"
+languageCode = "fr-FR"
+defaultContentLanguageInSubdir = false
+
+disableLiveReload = true
+noTimes = true
+ignoreFiles = [ "\\.git$", "node_modules" ]
+
+preserveTaxonomyNames = true
+pluralizeListTitles = false
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+  forums = "https://forums.emunova.net"
+
+  [params.repo]
+  url = "https://github.com/oncletom/emunova.net"
+  branch = "feature/hugo"
+
+[taxonomies]
+editor = "editors"
+genre = "genres"
+manufacturer = "manufacturers"
+media = "media"
+region = "regions"
+system_type = "system_types"
+
+[related]
+threshold = 80
+includeNewer = false
+toLower = false
+
+  [[related.indices]]
+  name = "genres"
+  weight = 70
+
+  [[related.indices]]
+  name = "editors"
+  weight = 50
+
+  # [[related.indices]]
+  # name = "released"
+  # weight = 50
+  # pattern = "2006"
+
+[outputs]
+home = ["HTML", "RSS"]
+section = ["HTML"]
+page = ["HTML"]

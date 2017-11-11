@@ -1,0 +1,5 @@
+Sitemap: https://emunova.net/sitemap.xml
+
+User-agent: *
+Allow: /
+

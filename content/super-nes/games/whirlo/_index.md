@@ -1,0 +1,10 @@
+---
+type: game
+title: Whirlo
+released: 1992
+editors: 
+  - Namco
+players: 1
+genres:
+  - Action
+---

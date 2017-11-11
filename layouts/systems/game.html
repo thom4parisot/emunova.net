@@ -1,0 +1,49 @@
+{{- $Game := . -}}
+{{- $System := .Site.GetPage "section" .Section -}}
+{{- $DataCache := index .Site.Data.games .Section .Dir | default (dict "rating" 0) -}}
+{{- .Scratch.Set "Title" (printf "%s — jeu vidéo %s" $Game.Title $System.Title) -}}
+{{ partial "header.html" . }}
+{{ partialCached "breadcrumb.html" . $Game.UniqueID }}
+
+<div class="container">
+  {{ partialCached "games/megamenu.html" $Game $Game.UniqueID }}
+  {{ $Reviews := where $Game.Pages "Type" "in" (slice "review" "rating") }}
+  {{ $RelatedGames := .Site.Pages.Related . | first 5 }}
+  {{ $GameMeanRating := index $DataCache "rating" }}
+  <main>
+    <div class="row">
+      <div class="col-sm-6" id="ratings">
+        {{ range $Reviews.ByDate }}
+          <article>
+            <h2>Ce qu'en pense <strong>{{ .Params.user }}</strong></h2>
+
+            <p class="lead">{{ partial "games/rating.html" .Params.rating }}</p>
+
+            <p>{{ .Summary }}</p>
+
+            {{ if eq .Type "review" }}
+            <p>
+              <a class="btn btn-default" href="{{ .Permalink }}">
+              Lire la suite du test<span class="sr-only"> de {{ $Game.Title }} par {{ .Params.user }}</span>
+              </a>
+            </p>
+            {{ end }}
+          </article>
+        {{ end }}
+      </div>
+
+      <div class="col-sm-4 col-sm-push-2">
+        <div class="well">
+          <h2>Synthèse</h2>
+
+          <p class="lead">{{ partial "games/rating.html" $GameMeanRating }}</p>
+
+          {{ partial "games/ratings-breakdown.html" $Game }}
+        </div>
+      </div>
+    </div>
+  </main>
+
+</div>
+
+{{ partialCached "footer.html" . }}

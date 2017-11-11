@@ -1,0 +1,11 @@
+{{- $Game := . -}}
+{{- $DataCache := (index .Site.Data.games $Game.Section $Game.Dir) | default (dict "breakdown" dict) -}}
+<ul class="list-unstyled">
+{{ range (seq 5 -1 0) }}
+  {{- $Count := index $DataCache "breakdown" (.|string) | default 0 -}}
+  <li class="{{ if eq $Count 0 }}fade-out{{ end }}">
+    {{ partial "games/rating-star.html" (dict "Rating" . "Game" $Game) }}
+    {{ i18n "players" $Count }}
+  </li>
+{{ end }}
+</ul>

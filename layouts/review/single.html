@@ -1,0 +1,60 @@
+{{- $Game := .CurrentSection -}}
+{{- $System := .Site.GetPage "section" $Game.Section -}}
+{{- $Review := . -}}
+{{- $Reviews := where $Game.Pages "Type" "in" (slice "review") -}}
+{{- .Scratch.Set "Title" (printf "Test du jeu vidéo %s sur %s" $Game.Title $System.Title) -}}
+{{ partial "header.html" . }}
+{{ partialCached "breadcrumb.html" $Game $Game.UniqueID }}
+
+<div class="container">
+  {{ partialCached "games/megamenu.html" $Game $Game.UniqueID }}
+
+  <main itemscope itemtype="http://schema.org/Review">
+    <h1>
+      Test du jeu vidéo
+      <span itemprop="itemreviewed">{{ $Game.Title }}</span>
+    </h1>
+
+    <h2>
+      {{ partial "games/rating.html" $Review.Params.rating }}
+      <small>par <strong itemprop="author">{{ $Review.Params.user }}</strong></small>
+    </h2>
+
+    {{ if .Title }}
+    <h3>{{ .Title }}</h3>
+    {{ end }}
+
+    <div class="row">
+      <div class="col-sm-6">
+        <article itemprop="description">
+          {{ .Content }}
+        </article>
+
+        {{ partial "back-to.html" $Game }}
+      </div>
+
+      {{ if ge ($Reviews|len) 2 }}
+      <div class="col-sm-4 col-sm-push-2">
+        <div class="well">
+          <h2>Autres tests</h2>
+
+          <ul class="list-unstyled">
+            {{ range $Reviews }}
+            <li>
+              <a href="{{ .Permalink }}">
+                {{ partial "games/rating-star.html" (dict "Rating" .Params.rating "Game" $Game) }}
+                {{ .Params.user }}
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+      {{ end }}
+
+    </div>
+  </main>
+
+</div>
+
+{{ partialCached "footer.html" . }}

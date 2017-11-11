@@ -1,0 +1,10 @@
+---
+type: game
+title: 'Cérébrale Académie'
+released: 2006
+editors: 
+  - Nintendo
+players: 8
+genres:
+  - Réflexion
+---

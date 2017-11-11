@@ -1,0 +1,104 @@
+{{- $System := . -}}
+{{- .Scratch.Set "Title" (printf "%[1]s: émulation et tests de jeux vidéo %[1]s" $System.Title) -}}
+{{ $DefaultSections := dict "Sections" (slice) "Pages" (slice) }}
+{{- $Games := (.Site.GetPage "section" $System.Section "games" | default $DefaultSections).Sections -}}
+{{- $Pictures := (.Site.GetPage "section" $System.Section "images" | default $DefaultSections).Pages -}}
+{{- $DataCache := (index .Site.Data.games .Section) | default dict -}}
+{{ partial "header.html" . }}
+{{ partialCached "breadcrumb.html" . $System.UniqueID }}
+
+<div class="container">
+  {{ partialCached "systems/megamenu.html" . $System.UniqueID }}
+
+  <main>
+    <div class="row">
+      <div class="col-sm-6">
+        <h2><strong>Jeux vidéo</strong> {{ .Title }}</h2>
+
+        <p class="lead">Pas facile de savoir à quel jeu jouer.</p>
+
+        <p>
+          <strong>En {{ .Params.released | default 1970 }}</strong>, on n'était pas tous nés, on ne parlait pas japonais,
+          ou on ne pouvait choisir qu'un seul jeu vidéo par année !
+        </p>
+
+        <p>
+          <strong>Nous sommes des joueurs passionnés</strong>.
+          Nous avons juste eu envie de partager nos avis sur nos jeux vidéos {{ .Title }}, ceux qu'on a adoré,
+          ceux qu'on a détesté ou ces pépites que l'on voudrait faire connaitre.
+        </p>
+
+        <p><a class="btn btn-default" href="{{ .Permalink }}games/">Notre sélection de jeux vidéo {{ .Title }}</a></p>
+      </div>
+
+      <div class="col-sm-6">
+        <div class="well">
+            <h3>Top 10</h3>
+
+            {{ if ($Games|len) }}
+            <ul class="list-unstyled">
+              {{ range $Stats := first 10 (sort $DataCache "rating" "desc") }}
+              {{- $Game := ($.Site.GetPage "section" $System.Section "games" $Stats.id) | default dict -}}
+              <li>
+                {{ partial "games/rating-star.html" (dict "Rating" $Stats.rating "Game" $Game) }}
+                <a href="{{ $Game.Permalink }}">{{ $Game.Title }}</a>
+              </li>
+              {{ end }}
+            </ul>
+            {{ else }}
+              <li>Aucun jeu pour le moment.</li>
+            {{ end }}
+            </ul>
+        </div>
+      </div>
+    </div>
+
+    {{ if ($Pictures|len) }}
+    <div class="row">
+      <div class="col-sm-6">
+        <h2><strong>Images</strong> {{ .Title }}</h2>
+
+        <p class="lead">Pas facile de savoir à quoi ça ressemble.</p>
+
+        <p>
+          Puisque 1 image vaut plus que 1000 mots, voici (presque) 1000 images.
+          <strong>{{ $Pictures | len }}</strong> images <em>{{ .Title }}</em>
+          pour découvrir son aspect, ses boites, accessoires et éditions spéciales.
+        </p>
+
+        <p><a class="btn btn-default" href="{{ .Permalink }}images/">Notre galerie d'images {{ .Title }}</a></p>
+      </div>
+
+      <div class="col-sm-6">
+        <div class="row row-gallery lazyload">
+          {{ range first 6 $Pictures}}
+            {{- $Picture := . -}}
+            {{ range (slice ".jpg" ".png") }}
+            {{- $filename := delimit (slice $Picture.File.Dir $Picture.File.TranslationBaseName ".sq" . ) "" -}}
+              {{ if (fileExists (delimit (slice "content" $filename) "/")) }}
+              <div class="col-sm-4 col-xs-6">
+                <a href="{{ $System.Permalink }}images/#{{ $Picture.File.TranslationBaseName }}">
+                  <img class="img-thumbnail" src="{{ $filename | relURL }}" alt="{{ $Picture.Title }}"/>
+                </a>
+              </div>
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    {{ end }}
+
+    {{ if .Truncated }}
+    <div class="row">
+      <div class="col-sm-8">
+        <h2><strong>L'histoire</strong> de {{ $System.Title }}</h2>
+
+        {{ .Content }}
+      </div>
+    </div>
+    {{ end }}
+  </main>
+
+</div>
+{{ partialCached "footer.html" . }}

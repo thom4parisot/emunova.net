@@ -1,3 +1,15 @@
-src/assets/js/jquery*.js
-tmp/
+# Hugo
+public
+
+# Node
 *.log
+
+# bundling
+static/assets/js/jquery*.js
+static/bundle.*
+
+# thumbnails
+*.sq.jpg
+*.sq.png
+*.md.jpg
+*.md.png

@@ -1,0 +1,23 @@
+{{ $RatingLabel := "" }}
+{{ $Value := . |float  }}
+{{ $Labels := dict "0.0" "Nul !!" "1.0" "Bof…" "2.0" "Presque bien" "2.5" "Moyen" "3.0" "Très bien" "4.0" "Exceptionnel !" "5.0" "Parfait !" }}
+
+<span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+  {{ if ge . 5 }}
+  <span itemprop="ratingValue">{{ $Value }}</span><span class="out-of">/5</span> — {{ index $Labels "5.0" }}
+  {{ else if ge . 4 }}
+  <span itemprop="ratingValue">{{ $Value }}</span><span class="out-of">/5</span> — {{ index $Labels "4.0" }}
+  {{ else if ge . 3 }}
+  <span itemprop="ratingValue">{{ $Value }}</span><span class="out-of">/5</span> — {{ index $Labels "3.0" }}
+  {{ else if ge . 2.5 }}
+  <span itemprop="ratingValue">{{ $Value }}</span><span class="out-of">/5</span> — {{ index $Labels "2.5" }}
+  {{ else if ge . 2 }}
+  <span itemprop="ratingValue">{{ $Value }}</span><span class="out-of">/5</span> — {{ index $Labels "2.0" }}
+  {{ else if ge . 1 }}
+  <span itemprop="ratingValue">{{ $Value }}</span><span class="out-of">/5</span> — {{ index $Labels "1.0" }}
+  {{ else if ge . 0 }}
+  <span itemprop="ratingValue">{{ $Value }}</span><span class="out-of">/5</span> — {{ index $Labels "0.0" }}
+  {{ else }}
+  Pas encore noté.
+  {{ end }}
+</span>

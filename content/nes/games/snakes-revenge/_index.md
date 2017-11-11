@@ -1,0 +1,10 @@
+---
+type: game
+title: 'Snake''s Revenge'
+released: 1990
+editors: 
+  - Konami
+players: 1
+genres:
+  - Action
+---
