@@ -5,11 +5,13 @@
   "description": "",
   "scripts": {
     "index": "node ./bin/index-content.js",
+    "deploy":
+      "rsync -ahmr --delete-after --quiet --stats ./public/   oncletom@ssh-oncletom.alwaysdata.net:~/../www_emunova",
     "hugo:serve": "hugo serve",
     "hugo:build": "hugo --baseURL https://emunova.net",
     "test": "exit 0",
     "less": "lessc --include-path=static/less/lib:node_modules/bootstrap/less",
-    "build": "run-p hugo:build 'build:*'",
+    "build": "NODE_ENV=production run-p hugo:build 'build:*'",
     "build:js":
       "browserify -g [ uglifyify -c -m ] -o static/bundle.js static/assets/js/main.js",
     "build:css":
