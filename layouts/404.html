@@ -1,23 +1,28 @@
 {{ partial "header.html" . }}
 
-<p>
-  <img src="{{ "/assets/ui/404.gif" | relURL }}" alt="" class="img-thumbnail">
-</p>
+<div class="container">
+  <main>
+    <p>
+      <img src="{{ "/assets/ui/404.gif" | relURL }}" alt="" class="img-thumbnail">
+    </p>
 
-<h1>La page que vous avez demandé n'existe malheureusement pas :-(</h1>
+    <h1>La page que vous avez demandé n'existe malheureusement pas :-(</h1>
 
-<p>Il peut y avoir plusieurs raisons à ce problème :</p>
+    <p>Il peut y avoir plusieurs raisons à ce problème :</p>
 
-<ul>
-  <li>vous avez suivi un lien hypertexte erroné (ça arrive et on vous pardonne)</li>
-  <li>vous avez mal saisi l'adresse (mais on ne le répètera pas)</li>
-  <li>il s'agissait d'un lien d'une précédente version du site (et c'est pas</li> forcément voulu)
-  <li>ça vous amuse de lire ce message</li>
-</ul>
+    <ul>
+      <li>vous avez suivi un lien hypertexte erroné (ça arrive et on vous pardonne)</li>
+      <li>vous avez mal saisi l'adresse (mais on ne le répètera pas)</li>
+      <li>il s'agissait d'un lien d'une précédente version du site (et c'est pas</li> forcément voulu)
+      <li>ça vous amuse de lire ce message</li>
+    </ul>
 
-<p>Quoiqu'il en soit, notre système vous suggère de vous rendre à cette adresse : <a href="{{ "/" | absURL }}" rel="home">emunova.net</a></p>
+    <p>Quoiqu'il en soit, notre système vous suggère de vous rendre à cette adresse : <a href="{{ "/" | absURL }}" rel="home">emunova.net</a></p>
 
-<p>On espère que vous y trouverez votre bonheur :-)</p>
+    <p>On espère que vous y trouverez votre bonheur :-)</p>
 
+
+  </main>
+</div>
 
 {{ partialCached "footer.html" . }}
