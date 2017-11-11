@@ -7,7 +7,8 @@ pre {
   color: white;
 }
 
-h1 small, .h1 small {
+h1 small,
+.h1 small {
   font-weight: 500;
   color: lighten(@brand-primary, 10%);
 }
@@ -20,6 +21,11 @@ h1 small, .h1 small {
   border-radius: 4px;
   box-shadow: 0 1px lighten(@btn-default-color, 10%);
   font-weight: 500;
+
+  .icon {
+    height: @font-size-base;
+    width: @font-size-base;
+  }
 }
 
 .btn-default:hover {
@@ -31,6 +37,7 @@ svg.icon {
   fill: currentColor;
   height: 30px;
   width: 30px;
+  margin-bottom: -2px;
 }
 
 .well {
@@ -50,7 +57,6 @@ svg.icon {
   width: 300px;
 }
 
-
-label{
+label {
   cursor: pointer;
 }
