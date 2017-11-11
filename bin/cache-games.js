@@ -4,17 +4,17 @@
 
 const { promisify: pify } = require('util');
 const write = pify(require('fs').writeFile);
-const { relative, basename, resolve, join } = require('path');
+const { relative, basename, dirname, resolve, join } = require('path');
 const yaml = require('js-yaml');
 const gm = require('gray-matter');
 const glob = pify(require('glob'));
 
 const contentDir = resolve('./content');
 
-glob('content/*')
-  .then(systemsDir => systemsDir.map(d => basename(d)))
-  .then(systems =>
-    systems.map(system => {
+glob('content/*/_index.md')
+  .then(systemsDir => systemsDir.map(d => basename(dirname(d))))
+  .then(systems => {
+    return systems.map(system => {
       const MAP = {};
 
       return glob(`content/${system}/**/{ratings,reviews}/*.md`)
@@ -28,7 +28,7 @@ glob('content/*')
             system
           }))
         )
-        .then(files =>
+        .then(files => {
           files.forEach(d => {
             const entry = MAP[d.entry] || {
               rating: [],
@@ -46,8 +46,8 @@ glob('content/*')
             entry.breakdown[rating] = (entry.breakdown[rating] || 0) + 1;
 
             MAP[d.entry] = entry;
-          })
-        )
+          });
+        })
         .then(() => {
           Object.keys(MAP).forEach(key => {
             const d = MAP[key];
@@ -57,9 +57,8 @@ glob('content/*')
           });
         })
         .then(() => {
-          if (Object.keys(MAP).length) {
-            return write(`data/games/${system}.yaml`, yaml.dump(MAP));
-          }
+          console.log(`${system} OK`);
+          return write(`data/games/${system}.yaml`, yaml.dump(MAP));
         });
-    })
-  );
+    });
+  });
