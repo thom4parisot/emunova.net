@@ -1,0 +1,45 @@
+32x/games/brutal-unleashed-above-the-claw/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: brutal-unleashed-above-the-claw
+32x/games/cosmic-carnage/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: cosmic-carnage
+32x/games/doom/:
+  rating: '3.1'
+  breakdown:
+    '2': 1
+    '3': 3
+    '4': 1
+  id: doom
+32x/games/knuckles-chaotix/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '4': 7
+    '5': 1
+  id: knuckles-chaotix
+32x/games/kolibri/:
+  rating: '4.2'
+  breakdown:
+    '4': 3
+  id: kolibri
+32x/games/virtua-fighter/:
+  rating: '3.6'
+  breakdown:
+    '1': 1
+    '4': 2
+    '5': 1
+  id: virtua-fighter
+32x/games/virtua-racing-deluxe/:
+  rating: '3.5'
+  breakdown:
+    '1': 1
+    '2': 2
+    '3': 1
+    '4': 3
+    '5': 1
+  id: virtua-racing-deluxe

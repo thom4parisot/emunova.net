@@ -1,0 +1,2485 @@
+pc/games/3d-ultra-pinball-creep-night/:
+  rating: '2.5'
+  breakdown:
+    '1': 1
+    '3': 1
+  id: 3d-ultra-pinball-creep-night
+pc/games/3d-ultra-pinball-iii-the-lost-continent/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: 3d-ultra-pinball-iii-the-lost-continent
+pc/games/a-new-beginning/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: a-new-beginning
+pc/games/a7xpg/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: a7xpg
+pc/games/ace-ventura/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: ace-ventura
+pc/games/acidarena/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '5': 1
+  id: acidarena
+pc/games/afterlife/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: afterlife
+pc/games/age-of-empires-ii-the-age-of-kings/:
+  rating: '5.0'
+  breakdown:
+    '5': 6
+  id: age-of-empires-ii-the-age-of-kings
+pc/games/age-of-empires/:
+  rating: '4.2'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: age-of-empires
+pc/games/age-of-mythology/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '4': 3
+    '5': 1
+  id: age-of-mythology
+pc/games/akuji-the-demon/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: akuji-the-demon
+pc/games/albatross18/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '4': 1
+    '5': 1
+  id: albatross18
+pc/games/alien-shooter-vengeance/:
+  rating: '4.2'
+  breakdown:
+    '3': 1
+    '4': 3
+    '5': 1
+  id: alien-shooter-vengeance
+pc/games/alien-vs-predator-2/:
+  rating: '4.2'
+  breakdown:
+    '3': 1
+    '4': 4
+  id: alien-vs-predator-2
+pc/games/aliens-vs-predator/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: aliens-vs-predator
+pc/games/alley-cat/:
+  rating: '3.9'
+  breakdown:
+    '3': 3
+    '4': 3
+    '5': 1
+  id: alley-cat
+pc/games/allied-general/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: allied-general
+pc/games/alone-in-the-dark/:
+  rating: '4.3'
+  breakdown:
+    '4': 7
+  id: alone-in-the-dark
+pc/games/american-mcgees-alice/:
+  rating: '4.5'
+  breakdown:
+    '3': 1
+    '4': 2
+    '5': 3
+  id: american-mcgees-alice
+pc/games/artificial-girl-3/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: artificial-girl-3
+pc/games/asterix-et-le-defi-de-cesar/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: asterix-et-le-defi-de-cesar
+pc/games/atlantis/:
+  rating: '4.2'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: atlantis
+pc/games/atomic-bomberman/:
+  rating: '3.5'
+  breakdown:
+    '2': 1
+    '4': 2
+  id: atomic-bomberman
+pc/games/back-to-the-future-the-game-episode-i-its-about-time/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: back-to-the-future-the-game-episode-i-its-about-time
+pc/games/back-to-the-future-the-game-episode-ii-get-tannen/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: back-to-the-future-the-game-episode-ii-get-tannen
+pc/games/back-to-the-future-the-game-episode-iii-citizen-brown/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: back-to-the-future-the-game-episode-iii-citizen-brown
+pc/games/back-to-the-future-the-game-episode-iv-double-visions/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: back-to-the-future-the-game-episode-iv-double-visions
+pc/games/bad-mojo/:
+  rating: '4.7'
+  breakdown:
+    '4': 1
+    '5': 2
+  id: bad-mojo
+pc/games/baldurs-gate-ii-shadows-of-amn-throne-of-bhaal/:
+  rating: '4.9'
+  breakdown:
+    '4': 2
+    '5': 9
+  id: baldurs-gate-ii-shadows-of-amn-throne-of-bhaal
+pc/games/baldurs-gate-tales-of-the-sword-coast/:
+  rating: '4.5'
+  breakdown:
+    '4': 9
+    '5': 2
+  id: baldurs-gate-tales-of-the-sword-coast
+pc/games/battle-arena-toshinden/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: battle-arena-toshinden
+pc/games/battle-chess/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: battle-chess
+pc/games/battlefield-1942/:
+  rating: '4.4'
+  breakdown:
+    '4': 4
+  id: battlefield-1942
+pc/games/battlefield-bad-company-2/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: battlefield-bad-company-2
+pc/games/battlefield-vietnam/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: battlefield-vietnam
+pc/games/beneath-a-steel-sky/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: beneath-a-steel-sky
+pc/games/bermuda-syndrome/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: bermuda-syndrome
+pc/games/beyond-good-evil/:
+  rating: '4.4'
+  breakdown:
+    '4': 4
+    '5': 1
+  id: beyond-good-evil
+pc/games/big-red-racing/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: big-red-racing
+pc/games/bike-banditz/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: bike-banditz
+pc/games/billy-hatcher-and-the-giant-egg/:
+  rating: '3.7'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: billy-hatcher-and-the-giant-egg
+pc/games/bioshock/:
+  rating: '4.0'
+  breakdown:
+    '2': 3
+    '3': 1
+    '4': 4
+    '5': 4
+  id: bioshock
+pc/games/black-white-2/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: black-white-2
+pc/games/black-white/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+    '5': 2
+  id: black-white
+pc/games/blade-runner/:
+  rating: '4.6'
+  breakdown:
+    '4': 3
+    '5': 1
+  id: blade-runner
+pc/games/blockout/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+  id: blockout
+pc/games/blood-bowl-edition-legendaire/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: blood-bowl-edition-legendaire
+pc/games/blood-bowl/:
+  rating: '3.3'
+  breakdown:
+    '2': 1
+    '4': 1
+  id: blood-bowl
+pc/games/body-blows/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: body-blows
+pc/games/bomberman-online/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: bomberman-online
+pc/games/brave-gear/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: brave-gear
+pc/games/broken-sword-25-return-of-the-templar/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: broken-sword-25-return-of-the-templar
+pc/games/call-of-duty-ii/:
+  rating: '3.6'
+  breakdown:
+    '2': 1
+    '3': 2
+    '4': 2
+    '5': 1
+  id: call-of-duty-ii
+pc/games/call-of-juarez/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: call-of-juarez
+pc/games/captain-claw/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: captain-claw
+pc/games/carmageddon/:
+  rating: '3.9'
+  breakdown:
+    '2': 1
+    '3': 2
+    '4': 2
+    '5': 2
+  id: carmageddon
+pc/games/carom3d/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: carom3d
+pc/games/catacomb-3d/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: catacomb-3d
+pc/games/cave-story/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: cave-story
+pc/games/caverns-of-gink/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: caverns-of-gink
+pc/games/chalk/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: chalk
+pc/games/chess-titans/:
+  rating: '3.0'
+  breakdown:
+    '2': 1
+    '3': 1
+  id: chess-titans
+pc/games/cho-ren-sha-68k/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: cho-ren-sha-68k
+pc/games/chocolat-savior/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: chocolat-savior
+pc/games/civilization-ii/:
+  rating: '4.3'
+  breakdown:
+    '4': 5
+    '5': 1
+  id: civilization-ii
+pc/games/cold-fear/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: cold-fear
+pc/games/colonization/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '4': 4
+    '5': 1
+  id: colonization
+pc/games/command-conquer-generals/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+  id: command-conquer-generals
+pc/games/command-conquer-le-conflit-du-tiberium/:
+  rating: '3.8'
+  breakdown:
+    '3': 2
+    '4': 3
+  id: command-conquer-le-conflit-du-tiberium
+pc/games/command-conquer-red-alert/:
+  rating: '4.4'
+  breakdown:
+    '4': 6
+    '5': 1
+  id: command-conquer-red-alert
+pc/games/command-conquer-soleil-de-tiberium/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: command-conquer-soleil-de-tiberium
+pc/games/counter-strike-condition-zero/:
+  rating: '2.4'
+  breakdown:
+    '1': 5
+    '2': 1
+    '3': 3
+    '5': 1
+  id: counter-strike-condition-zero
+pc/games/crayon-physics-deluxe/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: crayon-physics-deluxe
+pc/games/crazy-power-disc/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: crazy-power-disc
+pc/games/creatures/:
+  rating: '3.1'
+  breakdown:
+    '3': 4
+  id: creatures
+pc/games/crime-wave/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: crime-wave
+pc/games/daggerfall/:
+  rating: '4.8'
+  breakdown:
+    '4': 2
+    '5': 6
+  id: daggerfall
+pc/games/dame-de-pique/:
+  rating: '3.4'
+  breakdown:
+    '2': 1
+    '3': 3
+    '4': 3
+  id: dame-de-pique
+pc/games/dark-ages-i-the-continents/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: dark-ages-i-the-continents
+pc/games/dark-earth/:
+  rating: '3.8'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: dark-earth
+pc/games/dark-messiah-of-might-and-magic/:
+  rating: '3.6'
+  breakdown:
+    '3': 3
+    '4': 2
+  id: dark-messiah-of-might-and-magic
+pc/games/day-of-defeat/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: day-of-defeat
+pc/games/day-of-the-tentacle/:
+  rating: '4.8'
+  breakdown:
+    '4': 6
+    '5': 15
+  id: day-of-the-tentacle
+pc/games/dead-mans-hand/:
+  rating: '2.8'
+  breakdown:
+    '2': 1
+    '3': 1
+  id: dead-mans-hand
+pc/games/death-rally/:
+  rating: '4.2'
+  breakdown:
+    '4': 8
+    '5': 1
+  id: death-rally
+pc/games/demineur/:
+  rating: '2.6'
+  breakdown:
+    '0': 3
+    '2': 3
+    '3': 9
+    '4': 1
+  id: demineur
+pc/games/descent/:
+  rating: '3.6'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 3
+  id: descent
+pc/games/dethkarz/:
+  rating: '3.5'
+  breakdown:
+    '3': 3
+  id: dethkarz
+pc/games/deus-ex-invisible-war/:
+  rating: '3.5'
+  breakdown:
+    '2': 2
+    '3': 1
+    '4': 1
+    '5': 1
+  id: deus-ex-invisible-war
+pc/games/deus-ex/:
+  rating: '4.9'
+  breakdown:
+    '4': 4
+    '5': 13
+  id: deus-ex
+pc/games/diablo-ii-lord-of-destruction/:
+  rating: '4.4'
+  breakdown:
+    '3': 1
+    '4': 2
+    '5': 1
+  id: diablo-ii-lord-of-destruction
+pc/games/diablo-ii/:
+  rating: '4.6'
+  breakdown:
+    '4': 6
+    '5': 3
+  id: diablo-ii
+pc/games/diablo/:
+  rating: '4.1'
+  breakdown:
+    '2': 1
+    '3': 4
+    '4': 10
+    '5': 2
+  id: diablo
+pc/games/discworld-2-mortellement-votre/:
+  rating: '3.5'
+  breakdown:
+    '2': 1
+    '4': 1
+  id: discworld-2-mortellement-votre
+pc/games/discworld/:
+  rating: '4.6'
+  breakdown:
+    '3': 1
+    '4': 1
+    '5': 3
+  id: discworld
+pc/games/dofus/:
+  rating: '2.6'
+  breakdown:
+    '2': 2
+    '3': 2
+  id: dofus
+pc/games/doom-ii-hell-on-earth/:
+  rating: '4.1'
+  breakdown:
+    '3': 6
+    '4': 9
+    '5': 3
+  id: doom-ii-hell-on-earth
+pc/games/doom/:
+  rating: '4.5'
+  breakdown:
+    '3': 1
+    '4': 9
+    '5': 3
+  id: doom
+pc/games/double-dragon-3-the-rosetta-stone/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: double-dragon-3-the-rosetta-stone
+pc/games/dracula-origin/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: dracula-origin
+pc/games/dracula-the-resurrection/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: dracula-the-resurrection
+pc/games/dragon-age-ii/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: dragon-age-ii
+pc/games/dragon-age-origins-awakening/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: dragon-age-origins-awakening
+pc/games/dragon-age-origins/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: dragon-age-origins
+pc/games/dstroy/:
+  rating: '4.0'
+  breakdown:
+    '2': 1
+    '4': 1
+    '5': 1
+  id: dstroy
+pc/games/duke-nukem-3d-atomic-edition/:
+  rating: '4.8'
+  breakdown:
+    '4': 7
+    '5': 18
+  id: duke-nukem-3d-atomic-edition
+pc/games/duke-nukem-ii/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+  id: duke-nukem-ii
+pc/games/dune-ii-the-battle-for-arrakis/:
+  rating: '4.1'
+  breakdown:
+    '2': 1
+    '4': 8
+  id: dune-ii-the-battle-for-arrakis
+pc/games/dune/:
+  rating: '4.5'
+  breakdown:
+    '3': 1
+    '4': 4
+    '5': 2
+  id: dune
+pc/games/dungeon-keeper-ii/:
+  rating: '4.7'
+  breakdown:
+    '4': 2
+    '5': 1
+  id: dungeon-keeper-ii
+pc/games/dungeon-keeper/:
+  rating: '4.7'
+  breakdown:
+    '4': 3
+    '5': 5
+  id: dungeon-keeper
+pc/games/eets/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: eets
+pc/games/empereur-lempire-du-milieu/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: empereur-lempire-du-milieu
+pc/games/empire-earth/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: empire-earth
+pc/games/entomorph-plague-of-the-darkfall/:
+  rating: '2.3'
+  breakdown:
+    '2': 2
+  id: entomorph-plague-of-the-darkfall
+pc/games/europa-universalis-1492-1792/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: europa-universalis-1492-1792
+pc/games/fable-the-lost-chapters/:
+  rating: '3.0'
+  breakdown:
+    '0': 1
+    '1': 1
+    '2': 1
+    '3': 1
+    '4': 4
+  id: fable-the-lost-chapters
+pc/games/fable/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: fable
+pc/games/fahrenheit/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: fahrenheit
+pc/games/fallout-2/:
+  rating: '4.9'
+  breakdown:
+    '4': 1
+    '5': 4
+  id: fallout-2
+pc/games/fallout/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: fallout
+pc/games/fantastic-adventures-of-dizzy/:
+  rating: '4.0'
+  breakdown:
+    '3': 2
+    '5': 1
+  id: fantastic-adventures-of-dizzy
+pc/games/far-cry/:
+  rating: '4.6'
+  breakdown:
+    '4': 4
+    '5': 2
+  id: far-cry
+pc/games/fear/:
+  rating: '4.0'
+  breakdown:
+    '3': 4
+    '4': 3
+    '5': 2
+  id: fear
+pc/games/fields-of-glory/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: fields-of-glory
+pc/games/fire-forget-2/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: fire-forget-2
+pc/games/fire-ice/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: fire-ice
+pc/games/flight-of-the-amazon-queen/:
+  rating: '3.8'
+  breakdown:
+    '3': 3
+    '4': 2
+  id: flight-of-the-amazon-queen
+pc/games/food-force/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: food-force
+pc/games/foreign-legion-buckets-of-blood/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: foreign-legion-buckets-of-blood
+pc/games/forgotten-realms-demon-stone/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: forgotten-realms-demon-stone
+pc/games/freecell/:
+  rating: '2.4'
+  breakdown:
+    '0': 1
+    '1': 2
+    '2': 2
+    '3': 4
+    '4': 1
+  id: freecell
+pc/games/freelancer/:
+  rating: '4.2'
+  breakdown:
+    '3': 2
+    '4': 4
+    '5': 2
+  id: freelancer
+pc/games/frets-on-fire/:
+  rating: '4.3'
+  breakdown:
+    '4': 3
+  id: frets-on-fire
+pc/games/full-metal-sister-marilu/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: full-metal-sister-marilu
+pc/games/full-throttle/:
+  rating: '4.3'
+  breakdown:
+    '3': 2
+    '4': 10
+    '5': 2
+  id: full-throttle
+pc/games/g-police/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: g-police
+pc/games/gabriel-knight-ii-the-beast-within/:
+  rating: '4.9'
+  breakdown:
+    '4': 1
+    '5': 3
+  id: gabriel-knight-ii-the-beast-within
+pc/games/gabriel-knight/:
+  rating: '4.9'
+  breakdown:
+    '4': 2
+    '5': 5
+  id: gabriel-knight
+pc/games/gal-panix/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: gal-panix
+pc/games/get-medieval/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: get-medieval
+pc/games/gobliiins/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 3
+  id: gobliiins
+pc/games/goblins-3/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: goblins-3
+pc/games/gods/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '5': 1
+  id: gods
+pc/games/gotcha/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: gotcha
+pc/games/gothic-3/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+  id: gothic-3
+pc/games/grand-theft-auto-san-andreas/:
+  rating: '4.3'
+  breakdown:
+    '3': 2
+    '4': 3
+    '5': 3
+  id: grand-theft-auto-san-andreas
+pc/games/grand-theft-auto/:
+  rating: '3.5'
+  breakdown:
+    '3': 3
+    '4': 1
+  id: grand-theft-auto
+pc/games/grim-fandango/:
+  rating: '4.6'
+  breakdown:
+    '3': 1
+    '4': 1
+    '5': 3
+  id: grim-fandango
+pc/games/ground-control-ii-operation-exodus/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: ground-control-ii-operation-exodus
+pc/games/gunbound/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+  id: gunbound
+pc/games/gunz/:
+  rating: '4.3'
+  breakdown:
+    '4': 3
+  id: gunz
+pc/games/half-life/:
+  rating: '4.3'
+  breakdown:
+    '3': 3
+    '4': 12
+    '5': 5
+  id: half-life
+pc/games/halo-combat-evolved/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: halo-combat-evolved
+pc/games/halo-zero/:
+  rating: '3.1'
+  breakdown:
+    '1': 1
+    '2': 1
+    '3': 1
+    '4': 1
+    '5': 1
+  id: halo-zero
+pc/games/harry-potter-et-lordre-du-phenix/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: harry-potter-et-lordre-du-phenix
+pc/games/hellbender/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: hellbender
+pc/games/heretic/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: heretic
+pc/games/heroes-chronicles/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: heroes-chronicles
+pc/games/heroes-of-might-and-magic-iii-armageddons-blade/:
+  rating: '4.7'
+  breakdown:
+    '4': 2
+    '5': 1
+  id: heroes-of-might-and-magic-iii-armageddons-blade
+pc/games/heroes-of-might-and-magic-iii-the-restoration-of-erathia/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 5
+  id: heroes-of-might-and-magic-iii-the-restoration-of-erathia
+pc/games/heroes-of-might-and-magic-iii-the-shadow-of-death/:
+  rating: '5.0'
+  breakdown:
+    '5': 3
+  id: heroes-of-might-and-magic-iii-the-shadow-of-death
+pc/games/homeworld-2/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: homeworld-2
+pc/games/homeworld/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: homeworld
+pc/games/hovertank-3d/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: hovertank-3d
+pc/games/hydrophobia-prophecy/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: hydrophobia-prophecy
+pc/games/ice-age-2-the-meltdown/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: ice-age-2-the-meltdown
+pc/games/icewind-dale-heart-of-winter/:
+  rating: '3.8'
+  breakdown:
+    '3': 3
+    '4': 3
+  id: icewind-dale-heart-of-winter
+pc/games/icewind-dale-ii/:
+  rating: '4.1'
+  breakdown:
+    '3': 1
+    '4': 4
+  id: icewind-dale-ii
+pc/games/ignition/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: ignition
+pc/games/in-bed-with-alison-sweet-alison-2/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: in-bed-with-alison-sweet-alison-2
+pc/games/incoming/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: incoming
+pc/games/indiana-jones-and-the-fate-of-atlantis-aventure/:
+  rating: '4.6'
+  breakdown:
+    '4': 6
+    '5': 5
+  id: indiana-jones-and-the-fate-of-atlantis-aventure
+pc/games/indiana-jones-and-the-last-crusade-aventure/:
+  rating: '3.8'
+  breakdown:
+    '3': 3
+    '4': 3
+  id: indiana-jones-and-the-last-crusade-aventure
+pc/games/inkball/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: inkball
+pc/games/invalid-tangram/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: invalid-tangram
+pc/games/irl/:
+  rating: '2.5'
+  breakdown:
+    '0': 1
+    '1': 2
+    '3': 1
+    '4': 2
+  id: irl
+pc/games/isabelle/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: isabelle
+pc/games/jack-leventreur-new-york-1901/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: jack-leventreur-new-york-1901
+pc/games/jazz-jackrabbit-2/:
+  rating: '4.5'
+  breakdown:
+    '4': 4
+  id: jazz-jackrabbit-2
+pc/games/jazz-jackrabbit/:
+  rating: '4.1'
+  breakdown:
+    '3': 1
+    '4': 3
+  id: jazz-jackrabbit
+pc/games/jets-n-guns/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: jets-n-guns
+pc/games/king-kong/:
+  rating: '3.8'
+  breakdown:
+    '3': 2
+    '4': 3
+    '5': 1
+  id: king-kong
+pc/games/kingpin-life-of-crime/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '4': 1
+    '5': 1
+  id: kingpin-life-of-crime
+pc/games/kings-quest-v-absence-makes-the-heart-go-yonder/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: kings-quest-v-absence-makes-the-heart-go-yonder
+pc/games/knytt-stories/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: knytt-stories
+pc/games/lamerzone/:
+  rating: '3.5'
+  breakdown:
+    '3': 4
+    '4': 2
+  id: lamerzone
+pc/games/lands-of-lore-the-throne-of-chaos/:
+  rating: '4.8'
+  breakdown:
+    '4': 2
+    '5': 2
+  id: lands-of-lore-the-throne-of-chaos
+pc/games/le-maillon-faible/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: le-maillon-faible
+pc/games/le-manoir-de-mortvielle/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: le-manoir-de-mortvielle
+pc/games/le-seigneur-des-anneaux-le-retour-du-roi/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: le-seigneur-des-anneaux-le-retour-du-roi
+pc/games/left-4-dead-2/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 2
+  id: left-4-dead-2
+pc/games/left-4-dead/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+  id: left-4-dead
+pc/games/legend-of-kyrandia-ii-the-hand-of-fate/:
+  rating: '4.4'
+  breakdown:
+    '4': 4
+  id: legend-of-kyrandia-ii-the-hand-of-fate
+pc/games/legend-of-kyrandia-iii-malcolms-revenge/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: legend-of-kyrandia-iii-malcolms-revenge
+pc/games/legend-of-kyrandia/:
+  rating: '3.5'
+  breakdown:
+    '2': 1
+    '4': 1
+  id: legend-of-kyrandia
+pc/games/leisure-suit-larry-5/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: leisure-suit-larry-5
+pc/games/leisure-suit-larry-6/:
+  rating: '4.6'
+  breakdown:
+    '4': 5
+    '5': 4
+  id: leisure-suit-larry-6
+pc/games/leisure-suit-larry-magna-cum-laude/:
+  rating: '1.8'
+  breakdown:
+    '1': 1
+    '2': 1
+  id: leisure-suit-larry-magna-cum-laude
+pc/games/lentraineur-saison-2001-2002/:
+  rating: '3.8'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: lentraineur-saison-2001-2002
+pc/games/les-aventures-de-moktar-la-zoubida/:
+  rating: '3.9'
+  breakdown:
+    '3': 1
+    '4': 4
+  id: les-aventures-de-moktar-la-zoubida
+pc/games/les-chevaliers-de-baphomet-les-boucliers-de-quetzalcoatl/:
+  rating: '4.0'
+  breakdown:
+    '4': 3
+  id: les-chevaliers-de-baphomet-les-boucliers-de-quetzalcoatl
+pc/games/les-chevaliers-de-baphomet/:
+  rating: '4.5'
+  breakdown:
+    '4': 3
+  id: les-chevaliers-de-baphomet
+pc/games/les-dents-de-la-mer/:
+  rating: '4.0'
+  breakdown:
+    '4': 3
+  id: les-dents-de-la-mer
+pc/games/les-guignols-de-linfo-le-jeu/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: les-guignols-de-linfo-le-jeu
+pc/games/lethal-application/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: lethal-application
+pc/games/limbo/:
+  rating: '4.2'
+  breakdown:
+    '3': 1
+    '4': 1
+    '5': 1
+  id: limbo
+pc/games/little-big-adventure-2/:
+  rating: '4.9'
+  breakdown:
+    '4': 2
+    '5': 6
+  id: little-big-adventure-2
+pc/games/little-big-adventure/:
+  rating: '4.2'
+  breakdown:
+    '3': 1
+    '4': 4
+  id: little-big-adventure
+pc/games/loom/:
+  rating: '5.0'
+  breakdown:
+    '5': 2
+  id: loom
+pc/games/lord-of-the-rings-the-fellowship-of-the-ring/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: lord-of-the-rings-the-fellowship-of-the-ring
+pc/games/lost-eden/:
+  rating: '3.5'
+  breakdown:
+    '3': 3
+  id: lost-eden
+pc/games/louvre-lultime-malediction/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: louvre-lultime-malediction
+pc/games/machinarium/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: machinarium
+pc/games/mafia-the-city-of-lost-heaven/:
+  rating: '4.6'
+  breakdown:
+    '4': 5
+    '5': 3
+  id: mafia-the-city-of-lost-heaven
+pc/games/maniac-mansion/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: maniac-mansion
+pc/games/master-of-orion-2-battle-at-antares/:
+  rating: '4.2'
+  breakdown:
+    '4': 3
+  id: master-of-orion-2-battle-at-antares
+pc/games/maupiti-island/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: maupiti-island
+pc/games/max-payne-2-the-fall-of-max-payne/:
+  rating: '4.4'
+  breakdown:
+    '3': 1
+    '4': 2
+    '5': 2
+  id: max-payne-2-the-fall-of-max-payne
+pc/games/max-payne/:
+  rating: '4.0'
+  breakdown:
+    '2': 1
+    '3': 2
+    '4': 6
+    '5': 2
+  id: max-payne
+pc/games/max-the-magic-marker/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: max-the-magic-marker
+pc/games/mdk/:
+  rating: '4.4'
+  breakdown:
+    '4': 3
+    '5': 1
+  id: mdk
+pc/games/medal-of-honor-airborne/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: medal-of-honor-airborne
+pc/games/medal-of-honor-allied-assault/:
+  rating: '4.4'
+  breakdown:
+    '4': 4
+    '5': 1
+  id: medal-of-honor-allied-assault
+pc/games/medal-of-honor-pacific-assault/:
+  rating: '2.5'
+  breakdown:
+    '2': 2
+    '3': 1
+  id: medal-of-honor-pacific-assault
+pc/games/megaman-iii/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: megaman-iii
+pc/games/megaman/:
+  rating: '0.0'
+  breakdown:
+    '0': 1
+  id: megaman
+pc/games/metal-gear-solid-integral/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: metal-gear-solid-integral
+pc/games/midtown-madness-2/:
+  rating: '3.3'
+  breakdown:
+    '3': 3
+  id: midtown-madness-2
+pc/games/mini-golf-maniacs/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: mini-golf-maniacs
+pc/games/monkey-island-2-lechuks-revenge/:
+  rating: '4.5'
+  breakdown:
+    '4': 8
+    '5': 5
+  id: monkey-island-2-lechuks-revenge
+pc/games/moto-racer-2/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: moto-racer-2
+pc/games/mountblade/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+  id: mountblade
+pc/games/mr-robot/:
+  rating: '4.3'
+  breakdown:
+    '4': 3
+  id: mr-robot
+pc/games/mu-cade/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: mu-cade
+pc/games/myst/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+  id: myst
+pc/games/myth-les-seigneurs-damnes/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: myth-les-seigneurs-damnes
+pc/games/necronomicon-laube-des-tenebres/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: necronomicon-laube-des-tenebres
+pc/games/need-for-speed-4-conduite-en-etat-de-liberte/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+    '5': 1
+  id: need-for-speed-4-conduite-en-etat-de-liberte
+pc/games/need-for-speed-underground-2/:
+  rating: '3.6'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 4
+  id: need-for-speed-underground-2
+pc/games/neverball/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: neverball
+pc/games/neverwinter-nights/:
+  rating: '3.9'
+  breakdown:
+    '3': 2
+    '4': 2
+  id: neverwinter-nights
+pc/games/new-york-race/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: new-york-race
+pc/games/nihilist/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: nihilist
+pc/games/ningyou-tsukai-2/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: ningyou-tsukai-2
+pc/games/no-one-lives-forever/:
+  rating: '4.4'
+  breakdown:
+    '4': 3
+    '5': 1
+  id: no-one-lives-forever
+pc/games/nocturnal-illusion/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: nocturnal-illusion
+pc/games/o2jam/:
+  rating: '4.2'
+  breakdown:
+    '4': 3
+  id: o2jam
+pc/games/obscure/:
+  rating: '4.1'
+  breakdown:
+    '3': 1
+    '4': 5
+  id: obscure
+pc/games/oddworld-lodyssee-dabe/:
+  rating: '4.5'
+  breakdown:
+    '3': 1
+    '4': 6
+    '5': 3
+  id: oddworld-lodyssee-dabe
+pc/games/off-road-arena/:
+  rating: '1.5'
+  breakdown:
+    '0': 1
+    '2': 1
+  id: off-road-arena
+pc/games/off/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: 'off'
+pc/games/omikron-the-nomad-soul/:
+  rating: '4.2'
+  breakdown:
+    '4': 5
+  id: omikron-the-nomad-soul
+pc/games/onescapee/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: onescapee
+pc/games/operation-body-count/:
+  rating: '0.5'
+  breakdown:
+    '0': 1
+  id: operation-body-count
+pc/games/original-war/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: original-war
+pc/games/outlaws/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '4': 4
+    '5': 1
+  id: outlaws
+pc/games/outrun-2006-coast-2-coast/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: outrun-2006-coast-2-coast
+pc/games/painkiller/:
+  rating: '3.6'
+  breakdown:
+    '2': 2
+    '3': 1
+    '4': 3
+    '5': 1
+  id: painkiller
+pc/games/panzer-dragoon/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: panzer-dragoon
+pc/games/panzer-general/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+    '5': 1
+  id: panzer-general
+pc/games/penumbra/:
+  rating: '4.5'
+  breakdown:
+    '4': 4
+  id: penumbra
+pc/games/petz-ii/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: petz-ii
+pc/games/phantasmagoria-ii-a-puzzle-of-flesh/:
+  rating: '3.8'
+  breakdown:
+    '3': 2
+    '5': 1
+  id: phantasmagoria-ii-a-puzzle-of-flesh
+pc/games/phantasmagoria/:
+  rating: '3.3'
+  breakdown:
+    '3': 3
+  id: phantasmagoria
+pc/games/pinball-fantasies/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+  id: pinball-fantasies
+pc/games/pirates-des-caraibes-jusquau-bout-du-monde/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: pirates-des-caraibes-jusquau-bout-du-monde
+pc/games/planescape-torment/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 3
+  id: planescape-torment
+pc/games/plants-vs-zombies/:
+  rating: '3.5'
+  breakdown:
+    '2': 2
+    '4': 3
+  id: plants-vs-zombies
+pc/games/pod/:
+  rating: '4.6'
+  breakdown:
+    '4': 9
+    '5': 3
+  id: pod
+pc/games/portal/:
+  rating: '4.9'
+  breakdown:
+    '4': 1
+    '5': 3
+  id: portal
+pc/games/postal-2-share-the-pain/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: postal-2-share-the-pain
+pc/games/powerslide/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: powerslide
+pc/games/prehistorik-ii/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: prehistorik-ii
+pc/games/prehistorik/:
+  rating: '2.8'
+  breakdown:
+    '1': 1
+    '4': 1
+  id: prehistorik
+pc/games/prey/:
+  rating: '3.8'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 3
+  id: prey
+pc/games/prince-of-persia-2-the-shadow-and-the-flame/:
+  rating: '3.9'
+  breakdown:
+    '3': 2
+    '4': 3
+  id: prince-of-persia-2-the-shadow-and-the-flame
+pc/games/prince-of-persia-3d/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: prince-of-persia-3d
+pc/games/prince-of-persia-the-sands-of-time/:
+  rating: '4.1'
+  breakdown:
+    '1': 1
+    '4': 2
+    '5': 2
+  id: prince-of-persia-the-sands-of-time
+pc/games/prince-of-persia-the-two-thrones/:
+  rating: '4.7'
+  breakdown:
+    '4': 2
+    '5': 1
+  id: prince-of-persia-the-two-thrones
+pc/games/prince-of-persia-warrior-within/:
+  rating: '4.1'
+  breakdown:
+    '3': 1
+    '4': 2
+    '5': 1
+  id: prince-of-persia-warrior-within
+pc/games/prince-of-persia/:
+  rating: '4.6'
+  breakdown:
+    '4': 4
+    '5': 1
+  id: prince-of-persia
+pc/games/prisoner-of-ice/:
+  rating: '4.0'
+  breakdown:
+    '4': 3
+  id: prisoner-of-ice
+pc/games/psychonauts/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 2
+  id: psychonauts
+pc/games/purble-place/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: purble-place
+pc/games/pyst/:
+  rating: '0.5'
+  breakdown:
+    '0': 1
+  id: pyst
+pc/games/quake-ii/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '4': 1
+    '5': 1
+  id: quake-ii
+pc/games/quake-iii-arena/:
+  rating: '4.6'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 2
+    '5': 8
+  id: quake-iii-arena
+pc/games/quake-iv/:
+  rating: '3.2'
+  breakdown:
+    '2': 2
+    '3': 4
+    '4': 1
+  id: quake-iv
+pc/games/quake-live/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: quake-live
+pc/games/quake/:
+  rating: '4.2'
+  breakdown:
+    '3': 3
+    '4': 4
+    '5': 1
+  id: quake
+pc/games/ragnarok-battle-offline/:
+  rating: '4.2'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: ragnarok-battle-offline
+pc/games/raptor-call-of-the-shadows/:
+  rating: '2.8'
+  breakdown:
+    '2': 1
+    '3': 2
+  id: raptor-call-of-the-shadows
+pc/games/re-volt/:
+  rating: '4.4'
+  breakdown:
+    '4': 5
+  id: re-volt
+pc/games/return-to-castle-wolfenstein/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '4': 6
+  id: return-to-castle-wolfenstein
+pc/games/ring-ii-le-crepuscule-des-dieux/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: ring-ii-le-crepuscule-des-dieux
+pc/games/ring-lanneau-des-nibelungen/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: ring-lanneau-des-nibelungen
+pc/games/rise-of-nations/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: rise-of-nations
+pc/games/rise-of-the-triad/:
+  rating: '3.5'
+  breakdown:
+    '2': 1
+    '3': 2
+    '4': 2
+  id: rise-of-the-triad
+pc/games/rockford/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: rockford
+pc/games/rogue/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+  id: rogue
+pc/games/rollcage/:
+  rating: '4.4'
+  breakdown:
+    '4': 5
+  id: rollcage
+pc/games/rollercoaster-tycoon-3/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: rollercoaster-tycoon-3
+pc/games/rollercoaster-tycoon/:
+  rating: '4.3'
+  breakdown:
+    '4': 6
+  id: rollercoaster-tycoon
+pc/games/rose-online/:
+  rating: '4.5'
+  breakdown:
+    '4': 3
+    '5': 1
+  id: rose-online
+pc/games/royal-edoma-engine/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: royal-edoma-engine
+pc/games/runaway-a-road-adventure/:
+  rating: '3.9'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 4
+  id: runaway-a-road-adventure
+pc/games/sacrifice/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: sacrifice
+pc/games/sam-and-max-hit-the-road/:
+  rating: '4.5'
+  breakdown:
+    '3': 2
+    '4': 4
+    '5': 4
+  id: sam-and-max-hit-the-road
+pc/games/sanitarium/:
+  rating: '4.7'
+  breakdown:
+    '4': 5
+    '5': 4
+  id: sanitarium
+pc/games/santaman-and-his-iced-muffins/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: santaman-and-his-iced-muffins
+pc/games/santaman-got-the-blues/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: santaman-got-the-blues
+pc/games/scp-087-b/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: scp-087-b
+pc/games/scp-containment-breach/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: scp-containment-breach
+pc/games/secret-fantasy-dreams-2/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: secret-fantasy-dreams-2
+pc/games/sega-rally-championship/:
+  rating: '2.2'
+  breakdown:
+    '1': 1
+    '2': 6
+    '3': 1
+  id: sega-rally-championship
+pc/games/sensual-experiment/:
+  rating: '3.0'
+  breakdown:
+    '2': 1
+    '3': 1
+  id: sensual-experiment
+pc/games/sentimental-shooting/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: sentimental-shooting
+pc/games/serious-sam-the-first-encounter/:
+  rating: '3.7'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: serious-sam-the-first-encounter
+pc/games/serious-sam-the-second-encounter/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 4
+  id: serious-sam-the-second-encounter
+pc/games/sexy-droid/:
+  rating: '2.5'
+  breakdown:
+    '1': 1
+    '4': 1
+  id: sexy-droid
+pc/games/shadow-warrior/:
+  rating: '3.7'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: shadow-warrior
+pc/games/shivers/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: shivers
+pc/games/sid-meiers-civilization/:
+  rating: '4.8'
+  breakdown:
+    '4': 2
+    '5': 3
+  id: sid-meiers-civilization
+pc/games/silent-hill-4/:
+  rating: '3.9'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 1
+    '5': 2
+  id: silent-hill-4
+pc/games/sim-city-4/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 2
+  id: sim-city-4
+pc/games/sim-city-classic/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: sim-city-classic
+pc/games/sim-tower/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: sim-tower
+pc/games/simcity-2000/:
+  rating: '4.5'
+  breakdown:
+    '4': 3
+  id: simcity-2000
+pc/games/skunny-kart/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: skunny-kart
+pc/games/slam-tilt/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: slam-tilt
+pc/games/slender/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: slender
+pc/games/slipstream-5000/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: slipstream-5000
+pc/games/sniper-elite/:
+  rating: '3.0'
+  breakdown:
+    '2': 1
+    '3': 1
+  id: sniper-elite
+pc/games/soldier-of-fortune/:
+  rating: '4.0'
+  breakdown:
+    '4': 6
+  id: soldier-of-fortune
+pc/games/solitaire/:
+  rating: '2.0'
+  breakdown:
+    '0': 1
+    '1': 2
+    '2': 1
+    '3': 3
+  id: solitaire
+pc/games/sonic-heroes/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+  id: sonic-heroes
+pc/games/sonic-robo-blast-2/:
+  rating: '4.7'
+  breakdown:
+    '4': 2
+    '5': 1
+  id: sonic-robo-blast-2
+pc/games/space-crusade-the-voyage-beyond/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: space-crusade-the-voyage-beyond
+pc/games/spycraft-the-great-game/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: spycraft-the-great-game
+pc/games/star-wars-dark-forces/:
+  rating: '4.6'
+  breakdown:
+    '4': 5
+    '5': 2
+  id: star-wars-dark-forces
+pc/games/star-wars-galactic-battlegrounds/:
+  rating: '3.3'
+  breakdown:
+    '1': 1
+    '5': 1
+  id: star-wars-galactic-battlegrounds
+pc/games/star-wars-jedi-knight-dark-forces-ii/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+  id: star-wars-jedi-knight-dark-forces-ii
+pc/games/star-wars-jedi-knight-ii-jedi-outcast/:
+  rating: '3.9'
+  breakdown:
+    '3': 1
+    '4': 3
+  id: star-wars-jedi-knight-ii-jedi-outcast
+pc/games/star-wars-jedi-knight-jedi-academy/:
+  rating: '4.1'
+  breakdown:
+    '3': 1
+    '4': 4
+  id: star-wars-jedi-knight-jedi-academy
+pc/games/star-wars-rebel-assault-ii-the-hidden-empire/:
+  rating: '4.0'
+  breakdown:
+    '4': 3
+  id: star-wars-rebel-assault-ii-the-hidden-empire
+pc/games/star-wars-republic-commando/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: star-wars-republic-commando
+pc/games/star-wars-x-wing/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+  id: star-wars-x-wing
+pc/games/star-wolves-corsaires-de-lespace/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: star-wolves-corsaires-de-lespace
+pc/games/starcraft-brood-war/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: starcraft-brood-war
+pc/games/starcraft/:
+  rating: '4.8'
+  breakdown:
+    '4': 4
+    '5': 10
+  id: starcraft
+pc/games/starlancer/:
+  rating: '4.2'
+  breakdown:
+    '4': 3
+  id: starlancer
+pc/games/starship-troopers/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: starship-troopers
+pc/games/steel-saviour/:
+  rating: '4.6'
+  breakdown:
+    '4': 3
+    '5': 1
+  id: steel-saviour
+pc/games/stepmania/:
+  rating: '4.8'
+  breakdown:
+    '4': 3
+    '5': 3
+  id: stepmania
+pc/games/stupid-invaders/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: stupid-invaders
+pc/games/super-cosplay-war-ultra/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: super-cosplay-war-ultra
+pc/games/super-stardust-96/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: super-stardust-96
+pc/games/superfrog/:
+  rating: '2.0'
+  breakdown:
+    '0': 1
+    '3': 1
+  id: superfrog
+pc/games/swat-4-the-stetchkov-syndicate/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: swat-4-the-stetchkov-syndicate
+pc/games/swat-4/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: swat-4
+pc/games/swiv-3d/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: swiv-3d
+pc/games/system-shock-2/:
+  rating: '4.8'
+  breakdown:
+    '4': 2
+    '5': 6
+  id: system-shock-2
+pc/games/system-shock/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: system-shock
+pc/games/taito-legends-2/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: taito-legends-2
+pc/games/teresa-house-guest/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: teresa-house-guest
+pc/games/terminal-velocity/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: terminal-velocity
+pc/games/tesla-effect/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: tesla-effect
+pc/games/the-7th-guest/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: the-7th-guest
+pc/games/the-blob/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: the-blob
+pc/games/The-Cat-Lady/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: The-Cat-Lady
+pc/games/the-curse-of-monkey-island/:
+  rating: '4.7'
+  breakdown:
+    '4': 3
+    '5': 5
+  id: the-curse-of-monkey-island
+pc/games/the-dark-eye/:
+  rating: '4.1'
+  breakdown:
+    '3': 1
+    '4': 3
+  id: the-dark-eye
+pc/games/the-dig/:
+  rating: '4.1'
+  breakdown:
+    '3': 1
+    '4': 6
+  id: the-dig
+pc/games/the-elder-scrolls-iii-morrowind/:
+  rating: '4.5'
+  breakdown:
+    '3': 1
+    '4': 4
+    '5': 5
+  id: the-elder-scrolls-iii-morrowind
+pc/games/the-elder-scrolls-iv-oblivion/:
+  rating: '3.6'
+  breakdown:
+    '1': 1
+    '2': 1
+    '3': 2
+    '4': 2
+    '5': 2
+  id: the-elder-scrolls-iv-oblivion
+pc/games/the-gladiators/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: the-gladiators
+pc/games/the-last-express/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: the-last-express
+pc/games/the-pandora-directive/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: the-pandora-directive
+pc/games/the-reap/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: the-reap
+pc/games/the-secret-of-monkey-island/:
+  rating: '4.8'
+  breakdown:
+    '4': 5
+    '5': 5
+  id: the-secret-of-monkey-island
+pc/games/the-thing/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: the-thing
+pc/games/the-typing-of-the-dead/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: the-typing-of-the-dead
+pc/games/the-ultimate-doom/:
+  rating: '3.9'
+  breakdown:
+    '3': 5
+    '4': 5
+  id: the-ultimate-doom
+pc/games/the-witcher/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+  id: the-witcher
+pc/games/theme-hospital/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '4': 5
+  id: theme-hospital
+pc/games/theme-park/:
+  rating: '4.4'
+  breakdown:
+    '4': 4
+  id: theme-park
+pc/games/thief-the-dark-project/:
+  rating: '4.5'
+  breakdown:
+    '4': 8
+    '5': 3
+  id: thief-the-dark-project
+pc/games/time-commando/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: time-commando
+pc/games/tomb-raider-anniversary/:
+  rating: '4.3'
+  breakdown:
+    '4': 4
+  id: tomb-raider-anniversary
+pc/games/tomb-raider-chronicles-sur-les-traces-de-lara-croft/:
+  rating: '3.2'
+  breakdown:
+    '3': 3
+  id: tomb-raider-chronicles-sur-les-traces-de-lara-croft
+pc/games/tomb-raider-ii/:
+  rating: '4.3'
+  breakdown:
+    '4': 3
+  id: tomb-raider-ii
+pc/games/toonstruck/:
+  rating: '4.4'
+  breakdown:
+    '4': 3
+    '5': 1
+  id: toonstruck
+pc/games/torchlight/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: torchlight
+pc/games/torus-trooper/:
+  rating: '4.6'
+  breakdown:
+    '4': 3
+    '5': 2
+  id: torus-trooper
+pc/games/total-annihilation/:
+  rating: '4.3'
+  breakdown:
+    '3': 3
+    '4': 4
+    '5': 5
+  id: total-annihilation
+pc/games/trackmania-nations/:
+  rating: '4.7'
+  breakdown:
+    '4': 3
+    '5': 2
+  id: trackmania-nations
+pc/games/trackmania-sunrise-extreme/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: trackmania-sunrise-extreme
+pc/games/trackmania-sunrise/:
+  rating: '4.5'
+  breakdown:
+    '3': 1
+    '5': 2
+  id: trackmania-sunrise
+pc/games/trespasser/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: trespasser
+pc/games/ufo-enemy-unknown/:
+  rating: '4.8'
+  breakdown:
+    '4': 2
+    '5': 3
+  id: ufo-enemy-unknown
+pc/games/ultima-vii-part-2-the-serpent-isle/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+  id: ultima-vii-part-2-the-serpent-isle
+pc/games/ultima-vii-the-black-gate/:
+  rating: '4.8'
+  breakdown:
+    '4': 2
+    '5': 2
+  id: ultima-vii-the-black-gate
+pc/games/un-week-end-tranquille-a-capri/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: un-week-end-tranquille-a-capri
+pc/games/under-a-killing-moon/:
+  rating: '5.0'
+  breakdown:
+    '5': 1
+  id: under-a-killing-moon
+pc/games/unreal-tournament-2003/:
+  rating: '4.3'
+  breakdown:
+    '4': 3
+  id: unreal-tournament-2003
+pc/games/unreal-tournament-2004/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: unreal-tournament-2004
+pc/games/unreal-tournament/:
+  rating: '4.4'
+  breakdown:
+    '3': 1
+    '4': 2
+    '5': 3
+  id: unreal-tournament
+pc/games/unreal/:
+  rating: '4.4'
+  breakdown:
+    '4': 3
+    '5': 1
+  id: unreal
+pc/games/vampire-the-masquerade-bloodlines/:
+  rating: '3.8'
+  breakdown:
+    '1': 1
+    '3': 1
+    '4': 6
+  id: vampire-the-masquerade-bloodlines
+pc/games/versailles-complot-a-la-cour-du-roi-soleil/:
+  rating: '4.0'
+  breakdown:
+    '4': 3
+  id: versailles-complot-a-la-cour-du-roi-soleil
+pc/games/vette/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: vette
+pc/games/virtuoso/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: virtuoso
+pc/games/wacky-wheels/:
+  rating: '3.6'
+  breakdown:
+    '3': 2
+    '4': 3
+  id: wacky-wheels
+pc/games/warcraft-iii-reign-of-chaos/:
+  rating: '4.7'
+  breakdown:
+    '3': 1
+    '4': 4
+    '5': 8
+  id: warcraft-iii-reign-of-chaos
+pc/games/warcraft-iii-the-frozen-throne/:
+  rating: '4.6'
+  breakdown:
+    '4': 3
+    '5': 2
+  id: warcraft-iii-the-frozen-throne
+pc/games/warhammer-40000-dawn-of-war-dark-crusade/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: warhammer-40000-dawn-of-war-dark-crusade
+pc/games/warhammer-40000-dawn-of-war-ii/:
+  rating: '5.0'
+  breakdown:
+    '5': 1
+  id: warhammer-40000-dawn-of-war-ii
+pc/games/warhammer-40000-dawn-of-war-soulstorm/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+  id: warhammer-40000-dawn-of-war-soulstorm
+pc/games/warhammer-40000-dawn-of-war-winter-assault/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: warhammer-40000-dawn-of-war-winter-assault
+pc/games/warhammer-40000-dawn-of-war/:
+  rating: '4.3'
+  breakdown:
+    '4': 4
+  id: warhammer-40000-dawn-of-war
+pc/games/warhammer-40000-fire-warrior/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: warhammer-40000-fire-warrior
+pc/games/wild-earth/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: wild-earth
+pc/games/wing-commander-ii-special-operations-1/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: wing-commander-ii-special-operations-1
+pc/games/wing-commander-ii-special-operations-2/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: wing-commander-ii-special-operations-2
+pc/games/wing-commander-ii-vengeance-of-the-kilrathi/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: wing-commander-ii-vengeance-of-the-kilrathi
+pc/games/wing-commander-iii-heart-of-the-tiger/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: wing-commander-iii-heart-of-the-tiger
+pc/games/wing-commander-prophecy/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: wing-commander-prophecy
+pc/games/wing-commander/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: wing-commander
+pc/games/wolfenstein-3-d/:
+  rating: '4.1'
+  breakdown:
+    '3': 2
+    '4': 5
+    '5': 1
+  id: wolfenstein-3-d
+pc/games/woodruff-and-the-schnibble-of-azimuth/:
+  rating: '4.7'
+  breakdown:
+    '4': 2
+    '5': 1
+  id: woodruff-and-the-schnibble-of-azimuth
+pc/games/world-of-goo/:
+  rating: '4.5'
+  breakdown:
+    '4': 4
+  id: world-of-goo
+pc/games/worms-3d/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: worms-3d
+pc/games/xiii/:
+  rating: '4.0'
+  breakdown:
+    '3': 2
+    '4': 7
+  id: xiii
+pc/games/zak-mckraken-and-the-alien-mindbinders/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: zak-mckraken-and-the-alien-mindbinders
+pc/games/zombie-hooker-nightmare/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: zombie-hooker-nightmare

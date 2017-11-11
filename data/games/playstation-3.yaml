@@ -1,0 +1,72 @@
+playstation-3/games/playstation-3/3d-dot-game-heroes/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: 3d-dot-game-heroes
+playstation-3/games/playstation-3/demons-souls/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: demons-souls
+playstation-3/games/playstation-3/duke-nukem-forever/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+  id: duke-nukem-forever
+playstation-3/games/playstation-3/dynasty-warriors-gundam-2/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: dynasty-warriors-gundam-2
+playstation-3/games/playstation-3/dynasty-warriors-gundam-3/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: dynasty-warriors-gundam-3
+playstation-3/games/playstation-3/dynasty-warriors-gundam/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: dynasty-warriors-gundam
+playstation-3/games/playstation-3/god-of-war-iii/:
+  rating: '3.6'
+  breakdown:
+    '3': 4
+    '4': 2
+  id: god-of-war-iii
+playstation-3/games/playstation-3/gran-turismo-5/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: gran-turismo-5
+playstation-3/games/playstation-3/gti-club-rally-cote-dazur-playstation-network/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: gti-club-rally-cote-dazur-playstation-network
+playstation-3/games/playstation-3/littlebigplanet/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: littlebigplanet
+playstation-3/games/playstation-3/metal-gear-solid-4-guns-of-the-patriots/:
+  rating: '3.0'
+  breakdown:
+    '2': 3
+    '3': 1
+    '5': 1
+  id: metal-gear-solid-4-guns-of-the-patriots
+playstation-3/games/playstation-3/resident-evil-5/:
+  rating: '2.6'
+  breakdown:
+    '1': 1
+    '2': 4
+    '3': 3
+    '4': 1
+  id: resident-evil-5
+playstation-3/games/playstation-3/super-rub-a-dub-playstation-network/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: super-rub-a-dub-playstation-network

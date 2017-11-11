@@ -1,0 +1,540 @@
+neo-geo/games/3-count-bout/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: 3-count-bout
+neo-geo/games/aero-fighters-2/:
+  rating: '2.9'
+  breakdown:
+    '2': 2
+    '3': 2
+  id: aero-fighters-2
+neo-geo/games/aero-fighters-3/:
+  rating: '2.0'
+  breakdown:
+    '1': 1
+    '3': 1
+  id: aero-fighters-3
+neo-geo/games/andro-dunos/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: andro-dunos
+neo-geo/games/art-of-fighting-2/:
+  rating: '3.5'
+  breakdown:
+    '3': 3
+    '4': 2
+  id: art-of-fighting-2
+neo-geo/games/art-of-fighting/:
+  rating: '3.4'
+  breakdown:
+    '2': 2
+    '3': 6
+    '4': 4
+  id: art-of-fighting
+neo-geo/games/baseball-stars-2/:
+  rating: '4.3'
+  breakdown:
+    '4': 7
+    '5': 1
+  id: baseball-stars-2
+neo-geo/games/blazing-star/:
+  rating: '4.4'
+  breakdown:
+    '3': 2
+    '4': 7
+    '5': 3
+  id: blazing-star
+neo-geo/games/blues-journey/:
+  rating: '3.8'
+  breakdown:
+    '3': 2
+    '4': 2
+  id: blues-journey
+neo-geo/games/breakers/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: breakers
+neo-geo/games/burning-fight/:
+  rating: '3.3'
+  breakdown:
+    '3': 3
+    '4': 1
+  id: burning-fight
+neo-geo/games/captain-tomaday/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: captain-tomaday
+neo-geo/games/cyber-lip/:
+  rating: '3.0'
+  breakdown:
+    '2': 1
+    '3': 1
+  id: cyber-lip
+neo-geo/games/double-dragon/:
+  rating: '2.6'
+  breakdown:
+    '0': 1
+    '1': 1
+    '2': 1
+    '3': 2
+    '4': 2
+  id: double-dragon
+neo-geo/games/eight-man/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: eight-man
+neo-geo/games/fatal-fury-3/:
+  rating: '3.9'
+  breakdown:
+    '3': 2
+    '4': 3
+  id: fatal-fury-3
+neo-geo/games/fatal-fury-ii/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: fatal-fury-ii
+neo-geo/games/fatal-fury-special/:
+  rating: '4.5'
+  breakdown:
+    '4': 3
+  id: fatal-fury-special
+neo-geo/games/fatal-fury/:
+  rating: '3.3'
+  breakdown:
+    '3': 7
+  id: fatal-fury
+neo-geo/games/fight-fever/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: fight-fever
+neo-geo/games/ganryu/:
+  rating: '3.0'
+  breakdown:
+    '3': 2
+  id: ganryu
+neo-geo/games/garou-mark-of-the-wolves/:
+  rating: '4.7'
+  breakdown:
+    '3': 1
+    '4': 13
+    '5': 16
+  id: garou-mark-of-the-wolves
+neo-geo/games/karnovs-revenge/:
+  rating: '3.1'
+  breakdown:
+    '1': 1
+    '2': 1
+    '3': 1
+    '5': 1
+  id: karnovs-revenge
+neo-geo/games/king-of-the-monsters-ii-the-next-thing/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: king-of-the-monsters-ii-the-next-thing
+neo-geo/games/king-of-the-monsters/:
+  rating: '1.7'
+  breakdown:
+    '1': 2
+    '2': 1
+  id: king-of-the-monsters
+neo-geo/games/kizuna-encounter/:
+  rating: '4.5'
+  breakdown:
+    '4': 4
+  id: kizuna-encounter
+neo-geo/games/last-resort/:
+  rating: '4.6'
+  breakdown:
+    '4': 7
+    '5': 1
+  id: last-resort
+neo-geo/games/league-bowling/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '4': 3
+    '5': 1
+  id: league-bowling
+neo-geo/games/magical-drop-2/:
+  rating: '4.0'
+  breakdown:
+    '3': 3
+    '4': 1
+    '5': 1
+  id: magical-drop-2
+neo-geo/games/magical-drop-3/:
+  rating: '4.5'
+  breakdown:
+    '3': 1
+    '4': 3
+    '5': 2
+  id: magical-drop-3
+neo-geo/games/magician-lord/:
+  rating: '2.2'
+  breakdown:
+    '1': 1
+    '2': 4
+  id: magician-lord
+neo-geo/games/metal-slug-2/:
+  rating: '4.5'
+  breakdown:
+    '4': 12
+    '5': 3
+  id: metal-slug-2
+neo-geo/games/metal-slug-3/:
+  rating: '4.8'
+  breakdown:
+    '4': 8
+    '5': 17
+  id: metal-slug-3
+neo-geo/games/metal-slug-4/:
+  rating: '3.7'
+  breakdown:
+    '2': 1
+    '3': 9
+    '4': 9
+  id: metal-slug-4
+neo-geo/games/metal-slug-5/:
+  rating: '4.2'
+  breakdown:
+    '2': 1
+    '3': 2
+    '4': 12
+    '5': 4
+  id: metal-slug-5
+neo-geo/games/metal-slug-x/:
+  rating: '4.5'
+  breakdown:
+    '4': 12
+    '5': 4
+  id: metal-slug-x
+neo-geo/games/metal-slug/:
+  rating: '4.5'
+  breakdown:
+    '3': 1
+    '4': 20
+    '5': 8
+  id: metal-slug
+neo-geo/games/money-idol-exchanger/:
+  rating: '3.6'
+  breakdown:
+    '0': 1
+    '3': 2
+    '4': 5
+  id: money-idol-exchanger
+neo-geo/games/mutation-nation/:
+  rating: '2.9'
+  breakdown:
+    '2': 1
+    '3': 3
+  id: mutation-nation
+neo-geo/games/neo-bomberman/:
+  rating: '3.2'
+  breakdown:
+    '2': 2
+    '4': 1
+  id: neo-bomberman
+neo-geo/games/neo-drift-out/:
+  rating: '3.9'
+  breakdown:
+    '3': 1
+    '4': 5
+  id: neo-drift-out
+neo-geo/games/neo-turf-masters/:
+  rating: '4.5'
+  breakdown:
+    '3': 1
+    '4': 7
+    '5': 4
+  id: neo-turf-masters
+neo-geo/games/nightmare-in-the-dark/:
+  rating: '3.4'
+  breakdown:
+    '0': 1
+    '3': 3
+    '4': 3
+    '5': 1
+  id: nightmare-in-the-dark
+neo-geo/games/ninja-combat/:
+  rating: '2.8'
+  breakdown:
+    '2': 1
+    '3': 1
+  id: ninja-combat
+neo-geo/games/ninja-commando/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: ninja-commando
+neo-geo/games/ninja-masters-haoh-ninpo-cho/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: ninja-masters-haoh-ninpo-cho
+neo-geo/games/power-instinct-matrimelee/:
+  rating: '3.2'
+  breakdown:
+    '1': 1
+    '2': 8
+    '3': 1
+    '4': 6
+    '5': 1
+  id: power-instinct-matrimelee
+neo-geo/games/prehistoric-isle-2/:
+  rating: '4.0'
+  breakdown:
+    '2': 1
+    '4': 6
+  id: prehistoric-isle-2
+neo-geo/games/puzzle-bobble-2-bust-a-move-again/:
+  rating: '4.5'
+  breakdown:
+    '4': 4
+    '5': 1
+  id: puzzle-bobble-2-bust-a-move-again
+neo-geo/games/puzzle-bobble/:
+  rating: '4.3'
+  breakdown:
+    '3': 2
+    '4': 15
+    '5': 2
+  id: puzzle-bobble
+neo-geo/games/puzzle-de-pon/:
+  rating: '3.8'
+  breakdown:
+    '3': 2
+    '5': 1
+  id: puzzle-de-pon
+neo-geo/games/rage-of-the-dragons/:
+  rating: '3.6'
+  breakdown:
+    '2': 3
+    '3': 2
+    '4': 6
+  id: rage-of-the-dragons
+neo-geo/games/real-bout-fatal-fury-special/:
+  rating: '4.6'
+  breakdown:
+    '4': 4
+    '5': 2
+  id: real-bout-fatal-fury-special
+neo-geo/games/real-bout-fatal-fury/:
+  rating: '4.3'
+  breakdown:
+    '4': 3
+  id: real-bout-fatal-fury
+neo-geo/games/robo-army/:
+  rating: '2.7'
+  breakdown:
+    '2': 2
+    '3': 1
+  id: robo-army
+neo-geo/games/samurai-shodown-ii/:
+  rating: '4.9'
+  breakdown:
+    '4': 2
+    '5': 9
+  id: samurai-shodown-ii
+neo-geo/games/samurai-shodown-iii/:
+  rating: '3.9'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 5
+    '5': 1
+  id: samurai-shodown-iii
+neo-geo/games/samurai-shodown/:
+  rating: '4.3'
+  breakdown:
+    '4': 3
+  id: samurai-shodown
+neo-geo/games/savage-reign/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+  id: savage-reign
+neo-geo/games/sengoku-ii/:
+  rating: '3.5'
+  breakdown:
+    '3': 3
+  id: sengoku-ii
+neo-geo/games/shock-troopers-2nd-squad/:
+  rating: '2.9'
+  breakdown:
+    '1': 1
+    '3': 3
+  id: shock-troopers-2nd-squad
+neo-geo/games/shock-troopers/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+    '5': 1
+  id: shock-troopers
+neo-geo/games/snk-vs-capcom-svc-chaos/:
+  rating: '3.3'
+  breakdown:
+    '1': 1
+    '2': 1
+    '3': 12
+    '4': 4
+  id: snk-vs-capcom-svc-chaos
+neo-geo/games/spin-master/:
+  rating: '3.4'
+  breakdown:
+    '2': 2
+    '3': 2
+    '4': 2
+  id: spin-master
+neo-geo/games/the-king-of-fighters-2000/:
+  rating: '4.5'
+  breakdown:
+    '4': 11
+    '5': 4
+  id: the-king-of-fighters-2000
+neo-geo/games/the-king-of-fighters-2001/:
+  rating: '3.3'
+  breakdown:
+    '2': 4
+    '3': 3
+    '4': 4
+  id: the-king-of-fighters-2001
+neo-geo/games/the-king-of-fighters-2002-challenge-to-battle/:
+  rating: '4.2'
+  breakdown:
+    '1': 1
+    '2': 1
+    '3': 1
+    '4': 19
+    '5': 3
+  id: the-king-of-fighters-2002-challenge-to-battle
+neo-geo/games/the-king-of-fighters-2003/:
+  rating: '3.8'
+  breakdown:
+    '2': 3
+    '3': 2
+    '4': 10
+    '5': 1
+  id: the-king-of-fighters-2003
+neo-geo/games/the-king-of-fighters-94/:
+  rating: '3.8'
+  breakdown:
+    '3': 3
+    '4': 2
+    '5': 1
+  id: the-king-of-fighters-94
+neo-geo/games/the-king-of-fighters-95/:
+  rating: '4.0'
+  breakdown:
+    '3': 2
+    '5': 1
+  id: the-king-of-fighters-95
+neo-geo/games/the-king-of-fighters-96/:
+  rating: '4.3'
+  breakdown:
+    '4': 4
+    '5': 2
+  id: the-king-of-fighters-96
+neo-geo/games/the-king-of-fighters-97/:
+  rating: '4.5'
+  breakdown:
+    '4': 4
+  id: the-king-of-fighters-97
+neo-geo/games/the-king-of-fighters-98-the-slugfest/:
+  rating: '4.8'
+  breakdown:
+    '3': 1
+    '4': 5
+    '5': 14
+  id: the-king-of-fighters-98-the-slugfest
+neo-geo/games/the-king-of-fighters-99-millennium-battle/:
+  rating: '4.0'
+  breakdown:
+    '2': 2
+    '3': 1
+    '4': 8
+    '5': 2
+  id: the-king-of-fighters-99-millennium-battle
+neo-geo/games/the-last-blade-2/:
+  rating: '4.7'
+  breakdown:
+    '3': 1
+    '4': 13
+    '5': 16
+  id: the-last-blade-2
+neo-geo/games/the-last-blade/:
+  rating: '4.5'
+  breakdown:
+    '4': 6
+    '5': 1
+  id: the-last-blade
+neo-geo/games/thrash-rally/:
+  rating: '2.8'
+  breakdown:
+    '2': 1
+    '3': 1
+  id: thrash-rally
+neo-geo/games/top-hunter-roddy-cathy/:
+  rating: '4.0'
+  breakdown:
+    '4': 4
+  id: top-hunter-roddy-cathy
+neo-geo/games/twinkle-star-sprites/:
+  rating: '4.4'
+  breakdown:
+    '4': 8
+    '5': 2
+  id: twinkle-star-sprites
+neo-geo/games/viewpoint/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '4': 9
+    '5': 1
+  id: viewpoint
+neo-geo/games/wind-jammers/:
+  rating: '4.1'
+  breakdown:
+    '3': 7
+    '4': 18
+    '5': 2
+  id: wind-jammers
+neo-geo/games/world-heroes-ii/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: world-heroes-ii
+neo-geo/games/world-heroes-perfect/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: world-heroes-perfect
+neo-geo/games/world-heroes/:
+  rating: '2.8'
+  breakdown:
+    '2': 5
+    '3': 2
+    '4': 1
+  id: world-heroes
+neo-geo/games/zed-blade/:
+  rating: '3.7'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: zed-blade
+neo-geo/games/zupapa/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '4': 3
+  id: zupapa

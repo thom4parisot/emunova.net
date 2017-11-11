@@ -1,0 +1,96 @@
+game-and-watch/games/balloon-fight-new-wide-screen/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: balloon-fight-new-wide-screen
+game-and-watch/games/donkey-kong-2-multi-screen/:
+  rating: '4.2'
+  breakdown:
+    '3': 1
+    '4': 3
+    '5': 1
+  id: donkey-kong-2-multi-screen
+game-and-watch/games/donkey-kong-jr-table-top/:
+  rating: '4.4'
+  breakdown:
+    '4': 3
+    '5': 1
+  id: donkey-kong-jr-table-top
+game-and-watch/games/donkey-kong-multi-screen/:
+  rating: '4.3'
+  breakdown:
+    '4': 5
+    '5': 1
+  id: donkey-kong-multi-screen
+game-and-watch/games/fire-attack-wide-screen/:
+  rating: '3.6'
+  breakdown:
+    '3': 3
+    '4': 1
+  id: fire-attack-wide-screen
+game-and-watch/games/fire-wide-screen/:
+  rating: '3.9'
+  breakdown:
+    '3': 1
+    '4': 3
+  id: fire-wide-screen
+game-and-watch/games/lifeboat-multi-screen/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: lifeboat-multi-screen
+game-and-watch/games/manhole-gold/:
+  rating: '3.0'
+  breakdown:
+    '1': 1
+    '3': 2
+    '4': 1
+  id: manhole-gold
+game-and-watch/games/mario-bros-multi-screen/:
+  rating: '4.2'
+  breakdown:
+    '3': 2
+    '4': 2
+    '5': 2
+  id: mario-bros-multi-screen
+game-and-watch/games/octopus-wide-screen/:
+  rating: '4.0'
+  breakdown:
+    '4': 3
+  id: octopus-wide-screen
+game-and-watch/games/oil-panic-multi-screen/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: oil-panic-multi-screen
+game-and-watch/games/popeye-wide-screen/:
+  rating: '3.5'
+  breakdown:
+    '3': 4
+  id: popeye-wide-screen
+game-and-watch/games/snoopy-panorama-screen/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '5': 1
+  id: snoopy-panorama-screen
+game-and-watch/games/snoopy-tennis-wide-screen/:
+  rating: '2.6'
+  breakdown:
+    '0': 1
+    '3': 3
+  id: snoopy-tennis-wide-screen
+game-and-watch/games/squish-multi-screen/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: squish-multi-screen
+game-and-watch/games/zelda-multi-screen/:
+  rating: '3.9'
+  breakdown:
+    '1': 1
+    '4': 3
+    '5': 1
+  id: zelda-multi-screen

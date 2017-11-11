@@ -1,0 +1,1246 @@
+nes/games/1943-the-battle-of-midway/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: 1943-the-battle-of-midway
+nes/games/8-eyes/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: 8-eyes
+nes/games/a-boy-and-his-blob-trouble-on-blobolonia/:
+  rating: '3.3'
+  breakdown:
+    '2': 2
+    '4': 2
+  id: a-boy-and-his-blob-trouble-on-blobolonia
+nes/games/abadox/:
+  rating: '2.0'
+  breakdown:
+    '0': 1
+    '2': 1
+    '3': 1
+  id: abadox
+nes/games/adventures-in-the-magic-kingdom/:
+  rating: '1.3'
+  breakdown:
+    '0': 1
+    '2': 1
+  id: adventures-in-the-magic-kingdom
+nes/games/adventures-of-bayou-billy/:
+  rating: '3.0'
+  breakdown:
+    '1': 1
+    '2': 5
+    '3': 2
+    '4': 3
+  id: adventures-of-bayou-billy
+nes/games/adventures-of-lolo/:
+  rating: '4.2'
+  breakdown:
+    '4': 7
+  id: adventures-of-lolo
+nes/games/air-fortress/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: air-fortress
+nes/games/al-unser-jrs-turbo-racing/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: al-unser-jrs-turbo-racing
+nes/games/aladdin/:
+  rating: '1.0'
+  breakdown:
+    '0': 1
+    '2': 1
+  id: aladdin
+nes/games/amagon/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: amagon
+nes/games/arkanoid/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: arkanoid
+nes/games/bad-dudes/:
+  rating: '1.6'
+  breakdown:
+    '0': 1
+    '1': 1
+    '2': 2
+  id: bad-dudes
+nes/games/batman/:
+  rating: '4.5'
+  breakdown:
+    '3': 1
+    '4': 5
+    '5': 4
+  id: batman
+nes/games/battletoads-double-dragon-the-ultimate-team/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: battletoads-double-dragon-the-ultimate-team
+nes/games/battletoads/:
+  rating: '3.9'
+  breakdown:
+    '3': 2
+    '4': 2
+  id: battletoads
+nes/games/bionic-commando/:
+  rating: '3.8'
+  breakdown:
+    '1': 1
+    '4': 3
+  id: bionic-commando
+nes/games/blaster-master/:
+  rating: '3.5'
+  breakdown:
+    '2': 1
+    '4': 2
+  id: blaster-master
+nes/games/blue-shadow/:
+  rating: '4.0'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 8
+  id: blue-shadow
+nes/games/bomberman-ii/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: bomberman-ii
+nes/games/bomberman/:
+  rating: '2.4'
+  breakdown:
+    '0': 1
+    '2': 3
+    '3': 2
+  id: bomberman
+nes/games/bram-stokers-dracula/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: bram-stokers-dracula
+nes/games/breakthru/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: breakthru
+nes/games/bugs-bunny-birthday-blowout/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: bugs-bunny-birthday-blowout
+nes/games/burai-fighter/:
+  rating: '4.2'
+  breakdown:
+    '3': 1
+    '4': 3
+    '5': 1
+  id: burai-fighter
+nes/games/captain-skyhawk/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: captain-skyhawk
+nes/games/castle-of-dragon/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: castle-of-dragon
+nes/games/castlevania-ii-simons-quest/:
+  rating: '4.4'
+  breakdown:
+    '3': 1
+    '4': 12
+    '5': 4
+  id: castlevania-ii-simons-quest
+nes/games/castlevania-iii-draculas-curse/:
+  rating: '3.7'
+  breakdown:
+    '0': 1
+    '4': 3
+    '5': 1
+  id: castlevania-iii-draculas-curse
+nes/games/castlevania/:
+  rating: '4.1'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 13
+    '5': 2
+  id: castlevania
+nes/games/chip-n-dale-rescue-rangers-2/:
+  rating: '3.7'
+  breakdown:
+    '2': 1
+    '3': 1
+    '5': 1
+  id: chip-n-dale-rescue-rangers-2
+nes/games/chip-n-dale-rescue-rangers/:
+  rating: '4.0'
+  breakdown:
+    '3': 2
+    '4': 9
+  id: chip-n-dale-rescue-rangers
+nes/games/cobra-triangle/:
+  rating: '2.5'
+  breakdown:
+    '0': 1
+    '3': 2
+  id: cobra-triangle
+nes/games/conquest-of-the-crystal-palace/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: conquest-of-the-crystal-palace
+nes/games/contra-force/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: contra-force
+nes/games/crisis-force/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: crisis-force
+nes/games/crossfire/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: crossfire
+nes/games/darkwing-duck/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+    '5': 1
+  id: darkwing-duck
+nes/games/day-dreamin-davey/:
+  rating: '0.5'
+  breakdown:
+    '0': 1
+  id: day-dreamin-davey
+nes/games/days-of-thunder/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: days-of-thunder
+nes/games/defender-of-the-crown/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: defender-of-the-crown
+nes/games/deja-vu-a-nightmare-comes-true/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+  id: deja-vu-a-nightmare-comes-true
+nes/games/demon-sword/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: demon-sword
+nes/games/dig-dug-2/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: dig-dug-2
+nes/games/dizzy-the-adventurer/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: dizzy-the-adventurer
+nes/games/donkey-kong-classics/:
+  rating: '4.0'
+  breakdown:
+    '3': 2
+    '5': 1
+  id: donkey-kong-classics
+nes/games/donkey-kong/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+    '4': 2
+  id: donkey-kong
+nes/games/double-dragon-ii-the-revenge/:
+  rating: '4.2'
+  breakdown:
+    '2': 1
+    '3': 2
+    '4': 7
+    '5': 3
+  id: double-dragon-ii-the-revenge
+nes/games/double-dragon-iii-the-rosetta-stone/:
+  rating: '3.3'
+  breakdown:
+    '2': 1
+    '3': 3
+    '4': 2
+  id: double-dragon-iii-the-rosetta-stone
+nes/games/double-dragon/:
+  rating: '3.8'
+  breakdown:
+    '3': 3
+    '5': 1
+  id: double-dragon
+nes/games/dragon-ball/:
+  rating: '1.8'
+  breakdown:
+    '1': 4
+    '2': 1
+    '3': 1
+  id: dragon-ball
+nes/games/dragon-fighter/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: dragon-fighter
+nes/games/dragon-quest-iii-dragon-warrior-iii/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: dragon-quest-iii-dragon-warrior-iii
+nes/games/dragons-lair/:
+  rating: '1.3'
+  breakdown:
+    '1': 2
+  id: dragons-lair
+nes/games/duck-hunt/:
+  rating: '3.3'
+  breakdown:
+    '0': 1
+    '2': 6
+    '3': 5
+    '4': 6
+    '5': 1
+  id: duck-hunt
+nes/games/duck-tales-2/:
+  rating: '5.0'
+  breakdown:
+    '5': 1
+  id: duck-tales-2
+nes/games/duck-tales/:
+  rating: '4.1'
+  breakdown:
+    '3': 2
+    '4': 11
+  id: duck-tales
+nes/games/excitebike/:
+  rating: '3.7'
+  breakdown:
+    '3': 4
+    '4': 1
+  id: excitebike
+nes/games/faxanadu/:
+  rating: '4.1'
+  breakdown:
+    '2': 1
+    '4': 4
+    '5': 2
+  id: faxanadu
+nes/games/felix-the-cat/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: felix-the-cat
+nes/games/ferrari-grand-prix-challenge/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: ferrari-grand-prix-challenge
+nes/games/final-fantasy-ii/:
+  rating: '3.0'
+  breakdown:
+    '1': 1
+    '3': 1
+    '4': 1
+  id: final-fantasy-ii
+nes/games/final-fantasy-iii/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: final-fantasy-iii
+nes/games/final-fantasy/:
+  rating: '3.5'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 2
+  id: final-fantasy
+nes/games/fist-of-the-north-star/:
+  rating: '0.0'
+  breakdown:
+    '0': 2
+  id: fist-of-the-north-star
+nes/games/formula-one-built-to-win/:
+  rating: '5.0'
+  breakdown:
+    '5': 1
+  id: formula-one-built-to-win
+nes/games/frankenstein-the-monster-returns/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: frankenstein-the-monster-returns
+nes/games/gargoyles-quest-2/:
+  rating: '3.9'
+  breakdown:
+    '3': 2
+    '4': 3
+    '5': 1
+  id: gargoyles-quest-2
+nes/games/gauntlet-ii/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: gauntlet-ii
+nes/games/gi-joe-a-real-american-hero/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: gi-joe-a-real-american-hero
+nes/games/gradius-2/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: gradius-2
+nes/games/gradius/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: gradius
+nes/games/gremlins-2-the-new-batch/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: gremlins-2-the-new-batch
+nes/games/gunsmoke/:
+  rating: '4.2'
+  breakdown:
+    '4': 3
+  id: gunsmoke
+nes/games/hector-87/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: hector-87
+nes/games/high-speed/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+    '3': 1
+  id: high-speed
+nes/games/hollywood-squares/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: hollywood-squares
+nes/games/hook/:
+  rating: '2.8'
+  breakdown:
+    '1': 1
+    '4': 1
+  id: hook
+nes/games/hudsons-adventure-island-ii/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: hudsons-adventure-island-ii
+nes/games/hudsons-adventure-island-iii/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: hudsons-adventure-island-iii
+nes/games/ice-climber/:
+  rating: '2.0'
+  breakdown:
+    '0': 2
+    '1': 1
+    '2': 2
+    '3': 2
+  id: ice-climber
+nes/games/ice-hockey/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: ice-hockey
+nes/games/ikari-warriors/:
+  rating: '2.3'
+  breakdown:
+    '1': 1
+    '2': 1
+    '3': 1
+  id: ikari-warriors
+nes/games/isolated-warrior/:
+  rating: '3.9'
+  breakdown:
+    '3': 2
+    '4': 2
+  id: isolated-warrior
+nes/games/jackie-chans-action-kung-fu/:
+  rating: '4.1'
+  breakdown:
+    '4': 6
+  id: jackie-chans-action-kung-fu
+nes/games/journey-to-silius/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: journey-to-silius
+nes/games/kabuki-quantum-fighter/:
+  rating: '4.3'
+  breakdown:
+    '4': 3
+    '5': 1
+  id: kabuki-quantum-fighter
+nes/games/karnov/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: karnov
+nes/games/kickle-cubicle/:
+  rating: '3.6'
+  breakdown:
+    '2': 1
+    '4': 3
+  id: kickle-cubicle
+nes/games/kickmaster/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: kickmaster
+nes/games/kid-icarus/:
+  rating: '3.9'
+  breakdown:
+    '3': 5
+    '4': 4
+    '5': 1
+  id: kid-icarus
+nes/games/king-neptunes-adventure/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: king-neptunes-adventure
+nes/games/kings-knight/:
+  rating: '0.5'
+  breakdown:
+    '0': 1
+  id: kings-knight
+nes/games/kirbys-adventure/:
+  rating: '4.4'
+  breakdown:
+    '4': 9
+    '5': 3
+  id: kirbys-adventure
+nes/games/knight-rider/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: knight-rider
+nes/games/konami-hyper-soccer/:
+  rating: '3.0'
+  breakdown:
+    '2': 1
+    '3': 1
+  id: konami-hyper-soccer
+nes/games/kung-fu/:
+  rating: '3.4'
+  breakdown:
+    '2': 1
+    '3': 7
+    '4': 1
+  id: kung-fu
+nes/games/legacy-of-the-wizard/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: legacy-of-the-wizard
+nes/games/les-chevaliers-du-zodiaque-la-legende-dor/:
+  rating: '1.2'
+  breakdown:
+    '0': 3
+    '1': 2
+    '2': 2
+  id: les-chevaliers-du-zodiaque-la-legende-dor
+nes/games/life-force/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 2
+  id: life-force
+nes/games/little-nemo-the-dream-master/:
+  rating: '3.8'
+  breakdown:
+    '3': 2
+    '4': 1
+    '5': 1
+  id: little-nemo-the-dream-master
+nes/games/little-samson/:
+  rating: '4.6'
+  breakdown:
+    '4': 2
+    '5': 2
+  id: little-samson
+nes/games/low-g-man-the-low-gravity-man/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+  id: low-g-man-the-low-gravity-man
+nes/games/mach-rider/:
+  rating: '1.7'
+  breakdown:
+    '1': 1
+    '2': 2
+  id: mach-rider
+nes/games/maniac-mansion/:
+  rating: '3.8'
+  breakdown:
+    '3': 2
+    '4': 2
+  id: maniac-mansion
+nes/games/mcdonald-land/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: mcdonald-land
+nes/games/megaman-2/:
+  rating: '4.6'
+  breakdown:
+    '3': 1
+    '4': 5
+    '5': 6
+  id: megaman-2
+nes/games/megaman-3/:
+  rating: '4.1'
+  breakdown:
+    '3': 1
+    '4': 3
+  id: megaman-3
+nes/games/megaman-4/:
+  rating: '4.2'
+  breakdown:
+    '3': 1
+    '4': 4
+  id: megaman-4
+nes/games/megaman-5/:
+  rating: '4.4'
+  breakdown:
+    '4': 4
+  id: megaman-5
+nes/games/megaman-6/:
+  rating: '3.7'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: megaman-6
+nes/games/megaman/:
+  rating: '4.0'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 17
+    '5': 1
+  id: megaman
+nes/games/metal-fighter/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: metal-fighter
+nes/games/metal-gear/:
+  rating: '4.1'
+  breakdown:
+    '3': 1
+    '4': 3
+  id: metal-gear
+nes/games/metroid/:
+  rating: '4.5'
+  breakdown:
+    '4': 10
+    '5': 4
+  id: metroid
+nes/games/mighty-final-fight/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: mighty-final-fight
+nes/games/mike-tysons-punch-out/:
+  rating: '4.2'
+  breakdown:
+    '3': 2
+    '4': 9
+    '5': 2
+  id: mike-tysons-punch-out
+nes/games/mission-impossible/:
+  rating: '3.7'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: mission-impossible
+nes/games/monster-in-my-pocket/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: monster-in-my-pocket
+nes/games/monster-party/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: monster-party
+nes/games/moon-crystal/:
+  rating: '2.8'
+  breakdown:
+    '1': 1
+    '4': 1
+  id: moon-crystal
+nes/games/muscle/:
+  rating: '0.5'
+  breakdown:
+    '0': 1
+  id: muscle
+nes/games/new-ghostbusters-2/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: new-ghostbusters-2
+nes/games/nigel-mansells-world-championship/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: nigel-mansells-world-championship
+nes/games/ninja-gaiden-ii-the-dark-sword-of-chaos/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: ninja-gaiden-ii-the-dark-sword-of-chaos
+nes/games/ninja-gaiden-iii-the-ancient-ship-of-doom/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: ninja-gaiden-iii-the-ancient-ship-of-doom
+nes/games/ninja-gaiden-shadow-warriors/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: ninja-gaiden-shadow-warriors
+nes/games/nintendo-world-cup/:
+  rating: '4.3'
+  breakdown:
+    '4': 9
+    '5': 1
+  id: nintendo-world-cup
+nes/games/pac-man/:
+  rating: '3.9'
+  breakdown:
+    '3': 3
+    '4': 2
+    '5': 1
+  id: pac-man
+nes/games/paperboy/:
+  rating: '2.4'
+  breakdown:
+    '0': 2
+    '3': 1
+    '4': 2
+  id: paperboy
+nes/games/popeye/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: popeye
+nes/games/pow-prisoners-of-war/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: pow-prisoners-of-war
+nes/games/power-blade/:
+  rating: '3.5'
+  breakdown:
+    '2': 1
+    '4': 2
+  id: power-blade
+nes/games/pro-wrestling/:
+  rating: '3.7'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: pro-wrestling
+nes/games/probotector/:
+  rating: '4.2'
+  breakdown:
+    '3': 1
+    '4': 1
+    '5': 1
+  id: probotector
+nes/games/rad-racer-ii/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: rad-racer-ii
+nes/games/rad-racer/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 4
+  id: rad-racer
+nes/games/rc-pro-am-ii/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: rc-pro-am-ii
+nes/games/rc-pro-am/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: rc-pro-am
+nes/games/river-city-ransom-street-gangs/:
+  rating: '5.0'
+  breakdown:
+    '5': 1
+  id: river-city-ransom-street-gangs
+nes/games/roadblasters/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: roadblasters
+nes/games/robocop-2/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: robocop-2
+nes/games/rollergames/:
+  rating: '3.5'
+  breakdown:
+    '3': 3
+    '4': 1
+  id: rollergames
+nes/games/rushn-attack/:
+  rating: '2.5'
+  breakdown:
+    '1': 1
+    '2': 2
+    '3': 1
+    '4': 1
+  id: rushn-attack
+nes/games/rygar/:
+  rating: '3.5'
+  breakdown:
+    '3': 4
+    '4': 1
+  id: rygar
+nes/games/shadowgate/:
+  rating: '3.1'
+  breakdown:
+    '1': 1
+    '2': 1
+    '3': 3
+    '4': 2
+  id: shadowgate
+nes/games/shatterhand/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: shatterhand
+nes/games/skate-or-die/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: skate-or-die
+nes/games/snake-rattle-n-roll/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: snake-rattle-n-roll
+nes/games/snakes-revenge/:
+  rating: '2.7'
+  breakdown:
+    '1': 1
+    '3': 2
+  id: snakes-revenge
+nes/games/solar-jetman-hunt-for-the-golden-warship/:
+  rating: '2.0'
+  breakdown:
+    '1': 1
+    '3': 1
+  id: solar-jetman-hunt-for-the-golden-warship
+nes/games/solstice/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: solstice
+nes/games/splatterhouse-wanpaku-graffiti/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: splatterhouse-wanpaku-graffiti
+nes/games/spy-vs-spy/:
+  rating: '3.8'
+  breakdown:
+    '2': 1
+    '4': 4
+  id: spy-vs-spy
+nes/games/star-force/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: star-force
+nes/games/star-soldier/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+    '2': 1
+  id: star-soldier
+nes/games/star-wars/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: star-wars
+nes/games/street-fighter-2010/:
+  rating: '1.8'
+  breakdown:
+    '0': 1
+    '3': 1
+  id: street-fighter-2010
+nes/games/street-fighter-iv/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: street-fighter-iv
+nes/games/summer-carnival-92-recca/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: summer-carnival-92-recca
+nes/games/super-mario-bros-2/:
+  rating: '4.1'
+  breakdown:
+    '0': 1
+    '2': 1
+    '3': 3
+    '4': 18
+    '5': 7
+  id: super-mario-bros-2
+nes/games/super-mario-bros-3/:
+  rating: '4.7'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 12
+    '5': 19
+  id: super-mario-bros-3
+nes/games/super-mario-bros-the-lost-level-fds/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 3
+  id: super-mario-bros-the-lost-level-fds
+nes/games/super-mario-bros/:
+  rating: '4.6'
+  breakdown:
+    '3': 3
+    '4': 15
+    '5': 18
+  id: super-mario-bros
+nes/games/super-off-road/:
+  rating: '3.4'
+  breakdown:
+    '3': 8
+  id: super-off-road
+nes/games/super-spike-volley-ball/:
+  rating: '4.0'
+  breakdown:
+    '3': 3
+    '4': 5
+  id: super-spike-volley-ball
+nes/games/super-star-pro-wrestling/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: super-star-pro-wrestling
+nes/games/sword-master/:
+  rating: '0.5'
+  breakdown:
+    '0': 1
+  id: sword-master
+nes/games/swords-and-serpents/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+  id: swords-and-serpents
+nes/games/tag-team-wrestling/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: tag-team-wrestling
+nes/games/takahashi-meijin-no-bouken-shima-iv/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: takahashi-meijin-no-bouken-shima-iv
+nes/games/talespin/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: talespin
+nes/games/tecmo-world-wrestling/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: tecmo-world-wrestling
+nes/games/teenage-mutant-hero-turtles-ii-the-arcade-game/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+    '5': 1
+  id: teenage-mutant-hero-turtles-ii-the-arcade-game
+nes/games/teenage-mutant-hero-turtles/:
+  rating: '3.8'
+  breakdown:
+    '1': 1
+    '2': 1
+    '3': 6
+    '4': 18
+  id: teenage-mutant-hero-turtles
+nes/games/teenage-mutant-ninja-turtles-iii-the-manhattan-project/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: teenage-mutant-ninja-turtles-iii-the-manhattan-project
+nes/games/tennis/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: tennis
+nes/games/tetris/:
+  rating: '4.2'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 5
+    '5': 2
+  id: tetris
+nes/games/the-adventures-of-captain-comic/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: the-adventures-of-captain-comic
+nes/games/the-adventures-of-rad-gravity/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: the-adventures-of-rad-gravity
+nes/games/the-battle-of-olympus/:
+  rating: '3.9'
+  breakdown:
+    '1': 1
+    '3': 1
+    '4': 5
+  id: the-battle-of-olympus
+nes/games/the-goonies-ii/:
+  rating: '3.9'
+  breakdown:
+    '3': 2
+    '4': 2
+  id: the-goonies-ii
+nes/games/the-hunt-for-red-october/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: the-hunt-for-red-october
+nes/games/the-krion-conquest/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: the-krion-conquest
+nes/games/the-legend-of-kage/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: the-legend-of-kage
+nes/games/the-legend-of-zelda/:
+  rating: '4.5'
+  breakdown:
+    '2': 2
+    '4': 13
+    '5': 12
+  id: the-legend-of-zelda
+nes/games/the-magic-of-scheherazade/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: the-magic-of-scheherazade
+nes/games/the-new-zealand-story/:
+  rating: '3.3'
+  breakdown:
+    '2': 1
+    '4': 1
+  id: the-new-zealand-story
+nes/games/top-gun-the-second-mission/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: top-gun-the-second-mission
+nes/games/totally-rad/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: totally-rad
+nes/games/toukon-club/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: toukon-club
+nes/games/track-field-ii/:
+  rating: '4.1'
+  breakdown:
+    '4': 4
+  id: track-field-ii
+nes/games/track-field/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: track-field
+nes/games/tsuppari-oozumou-tecmo-sumo-wrestling/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: tsuppari-oozumou-tecmo-sumo-wrestling
+nes/games/uninvited/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: uninvited
+nes/games/wcw-world-championship-wrestling/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: wcw-world-championship-wrestling
+nes/games/werewolf-the-last-warrior/:
+  rating: '2.3'
+  breakdown:
+    '1': 1
+    '3': 1
+  id: werewolf-the-last-warrior
+nes/games/wheres-waldo/:
+  rating: '1.0'
+  breakdown:
+    '0': 1
+    '2': 1
+  id: wheres-waldo
+nes/games/whomp-em/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: whomp-em
+nes/games/wizards-warriors-ii-ironsword/:
+  rating: '1.8'
+  breakdown:
+    '1': 1
+    '2': 1
+  id: wizards-warriors-ii-ironsword
+nes/games/wizards-warriors-iii-kuros-visions-of-power/:
+  rating: '2.3'
+  breakdown:
+    '0': 1
+    '4': 1
+  id: wizards-warriors-iii-kuros-visions-of-power
+nes/games/wizards-warriors/:
+  rating: '3.5'
+  breakdown:
+    '2': 1
+    '4': 2
+  id: wizards-warriors
+nes/games/wrath-of-the-black-manta/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: wrath-of-the-black-manta
+nes/games/wwf-king-of-the-ring/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: wwf-king-of-the-ring
+nes/games/wwf-wrestlemania-challenge/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: wwf-wrestlemania-challenge
+nes/games/wwf-wrestlemania-steel-cage-challenge/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: wwf-wrestlemania-steel-cage-challenge
+nes/games/wwf-wrestlemania/:
+  rating: '2.5'
+  breakdown:
+    '2': 2
+  id: wwf-wrestlemania
+nes/games/xevious/:
+  rating: '3.0'
+  breakdown:
+    '0': 1
+    '4': 2
+  id: xevious
+nes/games/xexyz/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: xexyz
+nes/games/ys-ii-ancient-ys-vanished-the-final-chapter/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: ys-ii-ancient-ys-vanished-the-final-chapter
+nes/games/ys-iii-wanderers-from-ys/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: ys-iii-wanderers-from-ys
+nes/games/ys-the-vanished-omens/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: ys-the-vanished-omens
+nes/games/yume-koujou-doki-doki-panic-fds/:
+  rating: '3.7'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: yume-koujou-doki-doki-panic-fds
+nes/games/zanac/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: zanac
+nes/games/zelda-ii-part-2-hack/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: zelda-ii-part-2-hack
+nes/games/zelda-ii-the-adventure-of-link/:
+  rating: '3.5'
+  breakdown:
+    '1': 3
+    '2': 2
+    '3': 4
+    '4': 9
+    '5': 3
+  id: zelda-ii-the-adventure-of-link

@@ -1,0 +1,216 @@
+game-gear/games/aerial-assault/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: aerial-assault
+game-gear/games/alien-3/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: alien-3
+game-gear/games/ariel-the-little-mermaid/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: ariel-the-little-mermaid
+game-gear/games/ax-battler-a-legend-of-golden-axe/:
+  rating: '3.2'
+  breakdown:
+    '3': 3
+  id: ax-battler-a-legend-of-golden-axe
+game-gear/games/baku-baku-animal/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: baku-baku-animal
+game-gear/games/bram-stokers-dracula/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: bram-stokers-dracula
+game-gear/games/castle-of-illusion-starring-mickey-mouse/:
+  rating: '3.8'
+  breakdown:
+    '3': 2
+    '4': 2
+  id: castle-of-illusion-starring-mickey-mouse
+game-gear/games/chakan-the-forever-man/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: chakan-the-forever-man
+game-gear/games/cliffhanger/:
+  rating: '0.5'
+  breakdown:
+    '0': 1
+  id: cliffhanger
+game-gear/games/columns/:
+  rating: '4.2'
+  breakdown:
+    '3': 1
+    '4': 3
+    '5': 1
+  id: columns
+game-gear/games/cool-spot/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: cool-spot
+game-gear/games/crystal-warriors/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: crystal-warriors
+game-gear/games/defender-of-oasis/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: defender-of-oasis
+game-gear/games/devilish/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: devilish
+game-gear/games/fantasy-zone-gear/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: fantasy-zone-gear
+game-gear/games/gg-shinobi-2/:
+  rating: '3.9'
+  breakdown:
+    '3': 1
+    '4': 3
+  id: gg-shinobi-2
+game-gear/games/gg-shinobi/:
+  rating: '3.8'
+  breakdown:
+    '3': 3
+    '4': 4
+  id: gg-shinobi
+game-gear/games/halley-wars/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: halley-wars
+game-gear/games/indiana-jones-and-the-last-crusade-the-action-game/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: indiana-jones-and-the-last-crusade-the-action-game
+game-gear/games/joe-montanas-college-football/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: joe-montanas-college-football
+game-gear/games/les-schtroumpfs/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: les-schtroumpfs
+game-gear/games/megaman/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: megaman
+game-gear/games/nhl-hockey/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: nhl-hockey
+game-gear/games/ninja-gaiden/:
+  rating: '3.3'
+  breakdown:
+    '3': 3
+  id: ninja-gaiden
+game-gear/games/prince-of-persia/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: prince-of-persia
+game-gear/games/putt-putter/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: putt-putter
+game-gear/games/sega-game-pack-4in1/:
+  rating: '2.6'
+  breakdown:
+    '2': 3
+    '3': 1
+  id: sega-game-pack-4in1
+game-gear/games/slider/:
+  rating: '2.0'
+  breakdown:
+    '1': 1
+    '2': 1
+  id: slider
+game-gear/games/smash-tv/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: smash-tv
+game-gear/games/sonic-drift-racing/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: sonic-drift-racing
+game-gear/games/sonic-the-hedgehog-2/:
+  rating: '4.7'
+  breakdown:
+    '4': 2
+    '5': 1
+  id: sonic-the-hedgehog-2
+game-gear/games/sonic-the-hedgehog-triple-trouble/:
+  rating: '3.7'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: sonic-the-hedgehog-triple-trouble
+game-gear/games/sonic-the-hedgehog/:
+  rating: '4.6'
+  breakdown:
+    '4': 8
+    '5': 1
+  id: sonic-the-hedgehog
+game-gear/games/space-harrier/:
+  rating: '2.3'
+  breakdown:
+    '2': 2
+  id: space-harrier
+game-gear/games/spider-man-return-of-the-sinister-six/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: spider-man-return-of-the-sinister-six
+game-gear/games/tails-adventures/:
+  rating: '4.5'
+  breakdown:
+    '4': 3
+  id: tails-adventures
+game-gear/games/tempo-jr/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: tempo-jr
+game-gear/games/the-addams-family/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: the-addams-family
+game-gear/games/the-berenstain-bears-camping-adventure/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: the-berenstain-bears-camping-adventure
+game-gear/games/the-lion-king/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: the-lion-king
+game-gear/games/wonderboy-iii-the-dragons-trap/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+    '5': 1
+  id: wonderboy-iii-the-dragons-trap

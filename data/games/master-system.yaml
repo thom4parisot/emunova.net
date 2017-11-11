@@ -1,0 +1,655 @@
+master-system/games/action-fighter/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: action-fighter
+master-system/games/aerial-assault/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: aerial-assault
+master-system/games/air-rescue/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: air-rescue
+master-system/games/aladdin/:
+  rating: '3.5'
+  breakdown:
+    '2': 1
+    '3': 2
+    '4': 1
+    '5': 1
+  id: aladdin
+master-system/games/alex-kidd-in-high-tech-world/:
+  rating: '2.3'
+  breakdown:
+    '1': 1
+    '2': 1
+    '3': 1
+  id: alex-kidd-in-high-tech-world
+master-system/games/alex-kidd-in-miracle-world/:
+  rating: '4.3'
+  breakdown:
+    '3': 2
+    '4': 14
+    '5': 3
+  id: alex-kidd-in-miracle-world
+master-system/games/alex-kidd-in-shinobi-world/:
+  rating: '4.0'
+  breakdown:
+    '4': 4
+  id: alex-kidd-in-shinobi-world
+master-system/games/alex-kidd-the-lost-stars/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: alex-kidd-the-lost-stars
+master-system/games/alien-storm/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: alien-storm
+master-system/games/altered-beast/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: altered-beast
+master-system/games/arcade-smash-hits/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: arcade-smash-hits
+master-system/games/asterix-and-the-great-rescue/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: asterix-and-the-great-rescue
+master-system/games/asterix-the-secret-mission/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: asterix-the-secret-mission
+master-system/games/asterix/:
+  rating: '4.1'
+  breakdown:
+    '3': 1
+    '4': 4
+  id: asterix
+master-system/games/aztec-adventure-the-golden-road-to-paradise/:
+  rating: '3.7'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: aztec-adventure-the-golden-road-to-paradise
+master-system/games/back-to-the-future-ii/:
+  rating: '1.2'
+  breakdown:
+    '0': 1
+    '1': 1
+    '2': 1
+  id: back-to-the-future-ii
+master-system/games/baku-baku-animal/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: baku-baku-animal
+master-system/games/bank-panic/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: bank-panic
+master-system/games/bart-vs-the-space-mutants/:
+  rating: '3.0'
+  breakdown:
+    '3': 2
+  id: bart-vs-the-space-mutants
+master-system/games/basketball-nightmare/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: basketball-nightmare
+master-system/games/battle-outrun/:
+  rating: '1.8'
+  breakdown:
+    '1': 1
+    '2': 1
+  id: battle-outrun
+master-system/games/black-belt/:
+  rating: '3.3'
+  breakdown:
+    '3': 3
+    '4': 1
+  id: black-belt
+master-system/games/bomber-raid/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: bomber-raid
+master-system/games/bram-stokers-dracula/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: bram-stokers-dracula
+master-system/games/bubble-bobble/:
+  rating: '4.1'
+  breakdown:
+    '4': 4
+  id: bubble-bobble
+master-system/games/captain-silver/:
+  rating: '3.7'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: captain-silver
+master-system/games/casino-games/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: casino-games
+master-system/games/castle-of-illusion-starring-mickey-mouse/:
+  rating: '3.9'
+  breakdown:
+    '3': 4
+    '4': 8
+  id: castle-of-illusion-starring-mickey-mouse
+master-system/games/chase-hq-taito-chase-hq/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+  id: chase-hq-taito-chase-hq
+master-system/games/cloud-master/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: cloud-master
+master-system/games/columns/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: columns
+master-system/games/cyber-shinobi/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: cyber-shinobi
+master-system/games/cyborg-hunter/:
+  rating: '2.8'
+  breakdown:
+    '1': 1
+    '3': 2
+  id: cyborg-hunter
+master-system/games/danan-the-jungle-fighter/:
+  rating: '3.2'
+  breakdown:
+    '2': 1
+    '3': 2
+  id: danan-the-jungle-fighter
+master-system/games/dead-angle/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: dead-angle
+master-system/games/deep-duck-trouble-starring-donald-duck/:
+  rating: '4.3'
+  breakdown:
+    '4': 3
+  id: deep-duck-trouble-starring-donald-duck
+master-system/games/dragon-crystal/:
+  rating: '2.2'
+  breakdown:
+    '1': 1
+    '2': 1
+    '3': 1
+  id: dragon-crystal
+master-system/games/dynamite-dux/:
+  rating: '2.7'
+  breakdown:
+    '2': 2
+    '3': 1
+  id: dynamite-dux
+master-system/games/enduro-racer/:
+  rating: '4.0'
+  breakdown:
+    '4': 3
+  id: enduro-racer
+master-system/games/fantasy-zone-ii-the-tears-of-opa-opa/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: fantasy-zone-ii-the-tears-of-opa-opa
+master-system/games/fantasy-zone-the-maze/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: fantasy-zone-the-maze
+master-system/games/gain-ground/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: gain-ground
+master-system/games/galaxy-force/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: galaxy-force
+master-system/games/ghost-house/:
+  rating: '2.8'
+  breakdown:
+    '1': 1
+    '3': 1
+    '4': 1
+  id: ghost-house
+master-system/games/golden-axe-warrior/:
+  rating: '4.3'
+  breakdown:
+    '4': 4
+  id: golden-axe-warrior
+master-system/games/golden-axe/:
+  rating: '4.0'
+  breakdown:
+    '3': 2
+    '4': 3
+    '5': 1
+  id: golden-axe
+master-system/games/golvellius-valley-of-doom/:
+  rating: '3.4'
+  breakdown:
+    '2': 2
+    '4': 3
+  id: golvellius-valley-of-doom
+master-system/games/hang-on/:
+  rating: '2.5'
+  breakdown:
+    '2': 2
+  id: hang-on
+master-system/games/hero/:
+  rating: '2.5'
+  breakdown:
+    '2': 2
+  id: hero
+master-system/games/hook/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: hook
+master-system/games/impossible-mission/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: impossible-mission
+master-system/games/indiana-jones-the-last-crusade/:
+  rating: '1.3'
+  breakdown:
+    '1': 2
+  id: indiana-jones-the-last-crusade
+master-system/games/jurassic-park/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: jurassic-park
+master-system/games/kenseiden/:
+  rating: '3.3'
+  breakdown:
+    '0': 1
+    '4': 3
+  id: kenseiden
+master-system/games/kung-fu-kid/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: kung-fu-kid
+master-system/games/land-of-illusion-starring-mickey-mouse/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: land-of-illusion-starring-mickey-mouse
+master-system/games/laser-ghost/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: laser-ghost
+master-system/games/legend-of-illusion-starring-mickey-mouse/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: legend-of-illusion-starring-mickey-mouse
+master-system/games/line-of-fire/:
+  rating: '0.5'
+  breakdown:
+    '0': 1
+  id: line-of-fire
+master-system/games/lord-of-the-sword/:
+  rating: '2.0'
+  breakdown:
+    '1': 1
+    '2': 1
+  id: lord-of-the-sword
+master-system/games/master-of-darkness/:
+  rating: '3.5'
+  breakdown:
+    '2': 1
+    '4': 2
+  id: master-of-darkness
+master-system/games/masters-of-combat/:
+  rating: '2.3'
+  breakdown:
+    '1': 1
+    '3': 1
+  id: masters-of-combat
+master-system/games/mercs/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: mercs
+master-system/games/michael-jacksons-moonwalker/:
+  rating: '2.8'
+  breakdown:
+    '2': 1
+    '3': 2
+  id: michael-jacksons-moonwalker
+master-system/games/miracle-warriors-seal-of-the-dark-lord/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: miracle-warriors-seal-of-the-dark-lord
+master-system/games/my-hero/:
+  rating: '0.8'
+  breakdown:
+    '0': 1
+    '1': 2
+  id: my-hero
+master-system/games/ninja-gaiden/:
+  rating: '4.0'
+  breakdown:
+    '2': 1
+    '4': 1
+    '5': 1
+  id: ninja-gaiden
+master-system/games/operation-wolf/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: operation-wolf
+master-system/games/outrun-europa/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: outrun-europa
+master-system/games/outrun/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: outrun
+master-system/games/pacmania/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: pacmania
+master-system/games/parlour-games/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: parlour-games
+master-system/games/penguin-land/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: penguin-land
+master-system/games/phantasy-star/:
+  rating: '4.5'
+  breakdown:
+    '4': 3
+  id: phantasy-star
+master-system/games/power-strike-ii/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: power-strike-ii
+master-system/games/power-strike/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: power-strike
+master-system/games/prince-of-persia/:
+  rating: '3.3'
+  breakdown:
+    '2': 1
+    '4': 1
+  id: prince-of-persia
+master-system/games/pro-wrestling/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: pro-wrestling
+master-system/games/psychic-world/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: psychic-world
+master-system/games/psycho-fox/:
+  rating: '4.6'
+  breakdown:
+    '3': 1
+    '4': 5
+    '5': 6
+  id: psycho-fox
+master-system/games/r-type/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: r-type
+master-system/games/rampage/:
+  rating: '2.2'
+  breakdown:
+    '2': 3
+  id: rampage
+master-system/games/rastan-saga/:
+  rating: '4.2'
+  breakdown:
+    '4': 5
+    '5': 1
+  id: rastan-saga
+master-system/games/rc-grand-prix/:
+  rating: '2.8'
+  breakdown:
+    '2': 1
+    '3': 2
+  id: rc-grand-prix
+master-system/games/ren-stimpy-show-quest-for-shaven-yak/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: ren-stimpy-show-quest-for-shaven-yak
+master-system/games/renegade/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: renegade
+master-system/games/rocky/:
+  rating: '2.5'
+  breakdown:
+    '1': 1
+    '3': 1
+  id: rocky
+master-system/games/running-battle/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: running-battle
+master-system/games/sagaia/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+    '5': 1
+  id: sagaia
+master-system/games/shadow-dancer/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: shadow-dancer
+master-system/games/shinobi/:
+  rating: '4.5'
+  breakdown:
+    '4': 7
+    '5': 3
+  id: shinobi
+master-system/games/sonic-the-hedgehog-2/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+  id: sonic-the-hedgehog-2
+master-system/games/sonic-the-hedgehog-chaos/:
+  rating: '3.3'
+  breakdown:
+    '2': 1
+    '3': 2
+    '4': 1
+  id: sonic-the-hedgehog-chaos
+master-system/games/sonic-the-hedgehog/:
+  rating: '4.8'
+  breakdown:
+    '4': 3
+    '5': 5
+  id: sonic-the-hedgehog
+master-system/games/spellcaster/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: spellcaster
+master-system/games/star-wars/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: star-wars
+master-system/games/streets-of-rage-ii/:
+  rating: '1.2'
+  breakdown:
+    '0': 1
+    '1': 1
+    '2': 1
+  id: streets-of-rage-ii
+master-system/games/streets-of-rage/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: streets-of-rage
+master-system/games/submarine-attack/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: submarine-attack
+master-system/games/tazmania/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: tazmania
+master-system/games/teddy-boy/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: teddy-boy
+master-system/games/tennis-ace/:
+  rating: '2.3'
+  breakdown:
+    '0': 1
+    '3': 2
+  id: tennis-ace
+master-system/games/the-amazing-spider-man-vs-the-kingpin/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: the-amazing-spider-man-vs-the-kingpin
+master-system/games/the-lucky-dime-caper-starring-donald-duck/:
+  rating: '3.9'
+  breakdown:
+    '3': 2
+    '4': 3
+  id: the-lucky-dime-caper-starring-donald-duck
+master-system/games/the-new-zealand-story/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: the-new-zealand-story
+master-system/games/the-ninja/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: the-ninja
+master-system/games/thunder-blade/:
+  rating: '2.8'
+  breakdown:
+    '1': 1
+    '3': 1
+    '4': 1
+  id: thunder-blade
+master-system/games/tom-and-jerry/:
+  rating: '2.5'
+  breakdown:
+    '1': 1
+    '2': 1
+    '3': 1
+  id: tom-and-jerry
+master-system/games/ultima-iv-the-quest-of-the-avatar/:
+  rating: '4.1'
+  breakdown:
+    '4': 4
+  id: ultima-iv-the-quest-of-the-avatar
+master-system/games/vigilante/:
+  rating: '2.7'
+  breakdown:
+    '2': 2
+    '3': 1
+  id: vigilante
+master-system/games/wolfchild/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: wolfchild
+master-system/games/wonder-boy-iii-the-dragons-trap/:
+  rating: '4.8'
+  breakdown:
+    '4': 4
+    '5': 8
+  id: wonder-boy-iii-the-dragons-trap
+master-system/games/wonder-boy-in-monster-land/:
+  rating: '4.0'
+  breakdown:
+    '4': 3
+  id: wonder-boy-in-monster-land
+master-system/games/wonder-boy/:
+  rating: '3.7'
+  breakdown:
+    '1': 1
+    '4': 7
+  id: wonder-boy
+master-system/games/xenon-2-megablast/:
+  rating: '0.5'
+  breakdown:
+    '0': 1
+    '1': 1
+  id: xenon-2-megablast
+master-system/games/zillion-ii-tri-formation/:
+  rating: '3.0'
+  breakdown:
+    '2': 1
+    '3': 1
+  id: zillion-ii-tri-formation
+master-system/games/zillion/:
+  rating: '3.0'
+  breakdown:
+    '1': 1
+    '2': 1
+    '3': 3
+    '4': 1
+  id: zillion

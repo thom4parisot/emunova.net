@@ -1,0 +1,544 @@
+amstrad-cpc/games/20-000-lieues-sous-les-mers/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: 20-000-lieues-sous-les-mers
+amstrad-cpc/games/720/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: '720'
+amstrad-cpc/games/android-two/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: android-two
+amstrad-cpc/games/archon/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: archon
+amstrad-cpc/games/arkanoid-revenge-of-doh/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '4': 2
+    '5': 1
+  id: arkanoid-revenge-of-doh
+amstrad-cpc/games/arkanoid/:
+  rating: '4.2'
+  breakdown:
+    '3': 1
+    '4': 11
+    '5': 1
+  id: arkanoid
+amstrad-cpc/games/asphalt/:
+  rating: '3.6'
+  breakdown:
+    '3': 4
+    '4': 4
+  id: asphalt
+amstrad-cpc/games/ball-breaker-ii/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: ball-breaker-ii
+amstrad-cpc/games/ball-breaker/:
+  rating: '3.0'
+  breakdown:
+    '3': 2
+  id: ball-breaker
+amstrad-cpc/games/barbarian-palace/:
+  rating: '4.1'
+  breakdown:
+    '3': 3
+    '4': 11
+    '5': 1
+  id: barbarian-palace
+amstrad-cpc/games/battle-ships/:
+  rating: '3.8'
+  breakdown:
+    '3': 2
+    '4': 2
+  id: battle-ships
+amstrad-cpc/games/batty/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: batty
+amstrad-cpc/games/beach-head/:
+  rating: '3.7'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: beach-head
+amstrad-cpc/games/belote/:
+  rating: '1.0'
+  breakdown:
+    '1': 2
+  id: belote
+amstrad-cpc/games/billy-la-banlieue-2/:
+  rating: '3.5'
+  breakdown:
+    '2': 1
+    '3': 3
+    '4': 2
+    '5': 1
+  id: billy-la-banlieue-2
+amstrad-cpc/games/bloodwych/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+  id: bloodwych
+amstrad-cpc/games/bomb-jack/:
+  rating: '4.1'
+  breakdown:
+    '3': 3
+    '4': 5
+    '5': 1
+  id: bomb-jack
+amstrad-cpc/games/boulder-dash/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '4': 7
+    '5': 1
+  id: boulder-dash
+amstrad-cpc/games/bruce-lee/:
+  rating: '4.1'
+  breakdown:
+    '3': 1
+    '4': 6
+  id: bruce-lee
+amstrad-cpc/games/bubble-bobble/:
+  rating: '3.9'
+  breakdown:
+    '3': 3
+    '4': 3
+  id: bubble-bobble
+amstrad-cpc/games/cap-sur-dakar/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: cap-sur-dakar
+amstrad-cpc/games/cauldron-ii/:
+  rating: '4.6'
+  breakdown:
+    '4': 3
+    '5': 2
+  id: cauldron-ii
+amstrad-cpc/games/chuckie-egg/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: chuckie-egg
+amstrad-cpc/games/cobra/:
+  rating: '1.5'
+  breakdown:
+    '1': 3
+  id: cobra
+amstrad-cpc/games/cybernoid-ii/:
+  rating: '4.6'
+  breakdown:
+    '4': 5
+    '5': 2
+  id: cybernoid-ii
+amstrad-cpc/games/double-dragon-ii-the-revenge/:
+  rating: '2.5'
+  breakdown:
+    '0': 1
+    '3': 1
+    '4': 1
+  id: double-dragon-ii-the-revenge
+amstrad-cpc/games/double-dragon/:
+  rating: '3.8'
+  breakdown:
+    '1': 1
+    '3': 2
+    '4': 1
+    '5': 2
+  id: double-dragon
+amstrad-cpc/games/fireland/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: fireland
+amstrad-cpc/games/flying-shark/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: flying-shark
+amstrad-cpc/games/frankie-goes-to-hollywood/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: frankie-goes-to-hollywood
+amstrad-cpc/games/fruity-frank/:
+  rating: '4.4'
+  breakdown:
+    '4': 7
+  id: fruity-frank
+amstrad-cpc/games/gauntlet/:
+  rating: '3.8'
+  breakdown:
+    '3': 4
+    '4': 2
+  id: gauntlet
+amstrad-cpc/games/ghostbusters/:
+  rating: '2.0'
+  breakdown:
+    '1': 1
+    '2': 2
+  id: ghostbusters
+amstrad-cpc/games/ghosts-n-goblins/:
+  rating: '2.3'
+  breakdown:
+    '1': 1
+    '3': 1
+  id: ghosts-n-goblins
+amstrad-cpc/games/green-beret/:
+  rating: '2.8'
+  breakdown:
+    '2': 1
+    '3': 1
+  id: green-beret
+amstrad-cpc/games/gryzor/:
+  rating: '4.6'
+  breakdown:
+    '4': 10
+    '5': 5
+  id: gryzor
+amstrad-cpc/games/gunfright/:
+  rating: '3.6'
+  breakdown:
+    '3': 3
+    '4': 1
+  id: gunfright
+amstrad-cpc/games/head-over-heels/:
+  rating: '3.8'
+  breakdown:
+    '2': 1
+    '4': 5
+  id: head-over-heels
+amstrad-cpc/games/highway-encounter/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+  id: highway-encounter
+amstrad-cpc/games/hold-up/:
+  rating: '3.4'
+  breakdown:
+    '2': 1
+    '3': 4
+    '4': 2
+  id: hold-up
+amstrad-cpc/games/ikari-warriors/:
+  rating: '4.6'
+  breakdown:
+    '4': 6
+    '5': 2
+  id: ikari-warriors
+amstrad-cpc/games/impact/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: impact
+amstrad-cpc/games/imperialis/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: imperialis
+amstrad-cpc/games/kick-off/:
+  rating: '2.5'
+  breakdown:
+    '1': 3
+    '2': 1
+    '3': 1
+    '4': 2
+  id: kick-off
+amstrad-cpc/games/kong-strikes-back/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: kong-strikes-back
+amstrad-cpc/games/krakout/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: krakout
+amstrad-cpc/games/laigle-dor/:
+  rating: '3.8'
+  breakdown:
+    '3': 2
+    '4': 3
+  id: laigle-dor
+amstrad-cpc/games/le-cinquieme-axe/:
+  rating: '3.5'
+  breakdown:
+    '1': 1
+    '4': 3
+  id: le-cinquieme-axe
+amstrad-cpc/games/les-griffes-de-la-nuit/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: les-griffes-de-la-nuit
+amstrad-cpc/games/lode-runner/:
+  rating: '4.2'
+  breakdown:
+    '4': 3
+  id: lode-runner
+amstrad-cpc/games/michael-jacksons-moonwalker-computer-game/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: michael-jacksons-moonwalker-computer-game
+amstrad-cpc/games/narc/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: narc
+amstrad-cpc/games/nemesis-the-warlock/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: nemesis-the-warlock
+amstrad-cpc/games/night-hunter/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '5': 1
+  id: night-hunter
+amstrad-cpc/games/pacific/:
+  rating: '3.6'
+  breakdown:
+    '3': 4
+    '4': 1
+  id: pacific
+amstrad-cpc/games/prince-of-persia/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+  id: prince-of-persia
+amstrad-cpc/games/punchy/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: punchy
+amstrad-cpc/games/rainbow-islands/:
+  rating: '3.9'
+  breakdown:
+    '3': 2
+    '4': 3
+  id: rainbow-islands
+amstrad-cpc/games/renegade/:
+  rating: '4.1'
+  breakdown:
+    '4': 7
+  id: renegade
+amstrad-cpc/games/rick-dangerous-2/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '4': 6
+    '5': 1
+  id: rick-dangerous-2
+amstrad-cpc/games/rick-dangerous/:
+  rating: '4.3'
+  breakdown:
+    '4': 8
+    '5': 2
+  id: rick-dangerous
+amstrad-cpc/games/roland-on-the-ropes/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: roland-on-the-ropes
+amstrad-cpc/games/saboteur/:
+  rating: '2.7'
+  breakdown:
+    '2': 5
+    '3': 3
+  id: saboteur
+amstrad-cpc/games/samantha-fox-strip-poker/:
+  rating: '1.3'
+  breakdown:
+    '0': 1
+    '2': 1
+  id: samantha-fox-strip-poker
+amstrad-cpc/games/sapiens/:
+  rating: '3.9'
+  breakdown:
+    '3': 5
+    '4': 3
+    '5': 1
+  id: sapiens
+amstrad-cpc/games/short-circuit/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: short-circuit
+amstrad-cpc/games/shufflepuck-cafe/:
+  rating: '3.3'
+  breakdown:
+    '3': 3
+  id: shufflepuck-cafe
+amstrad-cpc/games/silkworm/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: silkworm
+amstrad-cpc/games/skweek/:
+  rating: '4.3'
+  breakdown:
+    '4': 5
+    '5': 1
+  id: skweek
+amstrad-cpc/games/slapfight/:
+  rating: '4.0'
+  breakdown:
+    '4': 3
+  id: slapfight
+amstrad-cpc/games/sorcery/:
+  rating: '4.4'
+  breakdown:
+    '4': 8
+  id: sorcery
+amstrad-cpc/games/space-crusade/:
+  rating: '3.5'
+  breakdown:
+    '2': 1
+    '4': 1
+  id: space-crusade
+amstrad-cpc/games/space-hawks/:
+  rating: '2.8'
+  breakdown:
+    '2': 3
+    '3': 1
+  id: space-hawks
+amstrad-cpc/games/spannerman/:
+  rating: '2.8'
+  breakdown:
+    '2': 1
+    '3': 1
+  id: spannerman
+amstrad-cpc/games/spindizzy/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: spindizzy
+amstrad-cpc/games/sram-2/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: sram-2
+amstrad-cpc/games/stairway-to-hell/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: stairway-to-hell
+amstrad-cpc/games/star-raiders-ii/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: star-raiders-ii
+amstrad-cpc/games/stomp/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: stomp
+amstrad-cpc/games/strip-poker-anime-par-sylvia/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+  id: strip-poker-anime-par-sylvia
+amstrad-cpc/games/strip-poker-core/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: strip-poker-core
+amstrad-cpc/games/strip-poker-ii/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: strip-poker-ii
+amstrad-cpc/games/strip-poker-logipresse/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: strip-poker-logipresse
+amstrad-cpc/games/switchblade-cpcgx-4000/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: switchblade-cpcgx-4000
+amstrad-cpc/games/target-renegade/:
+  rating: '4.5'
+  breakdown:
+    '3': 1
+    '4': 8
+    '5': 4
+  id: target-renegade
+amstrad-cpc/games/teenage-queen/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: teenage-queen
+amstrad-cpc/games/the-way-of-the-exploding-fist/:
+  rating: '3.9'
+  breakdown:
+    '3': 2
+    '4': 2
+  id: the-way-of-the-exploding-fist
+amstrad-cpc/games/thundercats/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: thundercats
+amstrad-cpc/games/titan/:
+  rating: '3.0'
+  breakdown:
+    '2': 2
+    '4': 1
+  id: titan
+amstrad-cpc/games/trailblazer/:
+  rating: '4.2'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: trailblazer
+amstrad-cpc/games/wec-le-mans/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: wec-le-mans
+amstrad-cpc/games/winter-games/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: winter-games
+amstrad-cpc/games/wwf-wrestlemania/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: wwf-wrestlemania
+amstrad-cpc/games/yie-ar-kung-fu/:
+  rating: '3.6'
+  breakdown:
+    '2': 1
+    '3': 6
+    '4': 6
+    '5': 1
+  id: yie-ar-kung-fu
+amstrad-cpc/games/zaxx/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: zaxx

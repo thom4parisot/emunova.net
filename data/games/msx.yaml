@@ -1,0 +1,33 @@
+msx/games/gryzor/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: gryzor
+msx/games/metal-gear-2-solid-snake/:
+  rating: '5.0'
+  breakdown:
+    '5': 5
+  id: metal-gear-2-solid-snake
+msx/games/metal-gear/:
+  rating: '3.4'
+  breakdown:
+    '0': 1
+    '4': 2
+    '5': 1
+  id: metal-gear
+msx/games/nemesis-3-the-eve-of-destruction/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: nemesis-3-the-eve-of-destruction
+msx/games/space-manbow/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: space-manbow
+msx/games/vampire-killer/:
+  rating: '3.0'
+  breakdown:
+    '2': 1
+    '4': 1
+  id: vampire-killer

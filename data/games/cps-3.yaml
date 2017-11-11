@@ -1,0 +1,22 @@
+cps-3/games/jojos-bizarre-adventure-heritage-for-the-future/:
+  rating: '4.0'
+  breakdown:
+    '4': 3
+  id: jojos-bizarre-adventure-heritage-for-the-future
+cps-3/games/jojos-venture/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+  id: jojos-venture
+cps-3/games/red-earth/:
+  rating: '3.7'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: red-earth
+cps-3/games/street-fighter-iii-3rd-strike-fight-for-the-future/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 4
+  id: street-fighter-iii-3rd-strike-fight-for-the-future

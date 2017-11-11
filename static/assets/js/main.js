@@ -9,7 +9,7 @@ const DynamicSorter = require('./dynamic-sorter');
 const RemoteContent = require('./rss/remote-content');
 const SortTable = require('sorttable');
 const searchClient = require('algoliasearch/lite');
-const debounce = require('lodash/debounce');
+const debounce = require('lodash.debounce');
 const { generateStars: stars } = require('./ratings');
 
 $('table.table-sortable').each((i, el) => SortTable.makeSortable(el));

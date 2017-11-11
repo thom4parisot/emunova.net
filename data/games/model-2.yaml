@@ -1,0 +1,45 @@
+model-2/games/daytona-usa/:
+  rating: '4.8'
+  breakdown:
+    '4': 4
+    '5': 7
+  id: daytona-usa
+model-2/games/indianapolis-500/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: indianapolis-500
+model-2/games/pilot-kids/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: pilot-kids
+model-2/games/sega-rally-championship/:
+  rating: '4.5'
+  breakdown:
+    '4': 5
+  id: sega-rally-championship
+model-2/games/sonic-the-fighters/:
+  rating: '3.7'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: sonic-the-fighters
+model-2/games/the-house-of-the-dead/:
+  rating: '4.0'
+  breakdown:
+    '3': 3
+    '4': 7
+    '5': 1
+  id: the-house-of-the-dead
+model-2/games/virtual-on-cyber-troopers/:
+  rating: '4.5'
+  breakdown:
+    '4': 3
+  id: virtual-on-cyber-troopers
+model-2/games/zero-gunner/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+  id: zero-gunner

@@ -1,0 +1,128 @@
+atari-st/games/20-000-lieues-sous-les-mers/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: 20-000-lieues-sous-les-mers
+atari-st/games/battle-chess/:
+  rating: '3.7'
+  breakdown:
+    '3': 3
+    '4': 2
+  id: battle-chess
+atari-st/games/buggy-boy/:
+  rating: '4.3'
+  breakdown:
+    '4': 6
+    '5': 1
+  id: buggy-boy
+atari-st/games/cabal/:
+  rating: '3.9'
+  breakdown:
+    '3': 2
+    '4': 2
+  id: cabal
+atari-st/games/captain-blood/:
+  rating: '4.2'
+  breakdown:
+    '2': 1
+    '4': 5
+  id: captain-blood
+atari-st/games/chambers-of-shaolin/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+    '5': 1
+  id: chambers-of-shaolin
+atari-st/games/deja-vu-ii-lost-in-las-vegas/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: deja-vu-ii-lost-in-las-vegas
+atari-st/games/flood/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: flood
+atari-st/games/ik/:
+  rating: '3.9'
+  breakdown:
+    '3': 2
+    '4': 6
+  id: ik
+atari-st/games/joust/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: joust
+atari-st/games/leatherneck/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: leatherneck
+atari-st/games/les-voyageurs-du-temps-la-menace/:
+  rating: '3.6'
+  breakdown:
+    '3': 5
+    '4': 4
+  id: les-voyageurs-du-temps-la-menace
+atari-st/games/metal-mutant/:
+  rating: '3.5'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 1
+  id: metal-mutant
+atari-st/games/metrocross/:
+  rating: '4.1'
+  breakdown:
+    '3': 1
+    '4': 6
+  id: metrocross
+atari-st/games/pang/:
+  rating: '3.9'
+  breakdown:
+    '3': 4
+    '4': 5
+  id: pang
+atari-st/games/panza-kick-boxing/:
+  rating: '3.4'
+  breakdown:
+    '2': 3
+    '3': 2
+    '4': 2
+    '5': 1
+  id: panza-kick-boxing
+atari-st/games/prince-of-persia/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: prince-of-persia
+atari-st/games/push-over/:
+  rating: '4.5'
+  breakdown:
+    '4': 3
+    '5': 1
+  id: push-over
+atari-st/games/rick-dangerous-2/:
+  rating: '3.9'
+  breakdown:
+    '3': 1
+    '4': 3
+  id: rick-dangerous-2
+atari-st/games/space-crusade/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: space-crusade
+atari-st/games/stunt-car-racer/:
+  rating: '4.4'
+  breakdown:
+    '4': 7
+    '5': 1
+  id: stunt-car-racer
+atari-st/games/wings-of-death/:
+  rating: '4.6'
+  breakdown:
+    '4': 4
+    '5': 1
+  id: wings-of-death

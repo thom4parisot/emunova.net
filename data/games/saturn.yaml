@@ -1,0 +1,579 @@
+saturn/games/akumajo-dracula-x-gekka-no-yasoukyoku/:
+  rating: '4.5'
+  breakdown:
+    '4': 3
+  id: akumajo-dracula-x-gekka-no-yasoukyoku
+saturn/games/astal/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: astal
+saturn/games/athlete-king/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '4': 1
+    '5': 1
+  id: athlete-king
+saturn/games/baku-baku/:
+  rating: '4.3'
+  breakdown:
+    '4': 3
+  id: baku-baku
+saturn/games/bakuretsu-hunter-r/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: bakuretsu-hunter-r
+saturn/games/batsugun/:
+  rating: '4.3'
+  breakdown:
+    '4': 3
+  id: batsugun
+saturn/games/bug/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: bug
+saturn/games/burning-rangers/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: burning-rangers
+saturn/games/capcom-generation-1-wings-of-destiny/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: capcom-generation-1-wings-of-destiny
+saturn/games/capcom-generation-2-chronicle-of-arthur/:
+  rating: '4.7'
+  breakdown:
+    '4': 1
+    '5': 2
+  id: capcom-generation-2-chronicle-of-arthur
+saturn/games/capcom-generation-3-the-first-generation/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: capcom-generation-3-the-first-generation
+saturn/games/capcom-generation-4-blazing-guns/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: capcom-generation-4-blazing-guns
+saturn/games/capcom-generation-5/:
+  rating: '3.4'
+  breakdown:
+    '2': 2
+    '3': 2
+    '4': 1
+    '5': 1
+  id: capcom-generation-5
+saturn/games/chaos-control/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: chaos-control
+saturn/games/command-conquer/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: command-conquer
+saturn/games/croc/:
+  rating: '3.0'
+  breakdown:
+    '2': 2
+    '3': 1
+    '4': 1
+  id: croc
+saturn/games/cyber-speedway/:
+  rating: '2.8'
+  breakdown:
+    '2': 1
+    '3': 1
+  id: cyber-speedway
+saturn/games/cyberbots-fullmetal-madness/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: cyberbots-fullmetal-madness
+saturn/games/daytona-usa-circuit-edition/:
+  rating: '3.5'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 1
+  id: daytona-usa-circuit-edition
+saturn/games/daytona-usa/:
+  rating: '3.5'
+  breakdown:
+    '2': 2
+    '3': 4
+    '4': 6
+  id: daytona-usa
+saturn/games/deep-fear/:
+  rating: '4.6'
+  breakdown:
+    '4': 2
+    '5': 2
+  id: deep-fear
+saturn/games/defcon-5/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: defcon-5
+saturn/games/detana-twinbee-yahho-deluxe-pack/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: detana-twinbee-yahho-deluxe-pack
+saturn/games/die-hard-arcade/:
+  rating: '4.7'
+  breakdown:
+    '4': 2
+    '5': 1
+  id: die-hard-arcade
+saturn/games/dodonpachi/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+    '5': 1
+  id: dodonpachi
+saturn/games/dragon-ball-z-la-legende/:
+  rating: '3.6'
+  breakdown:
+    '2': 1
+    '3': 3
+    '4': 1
+    '5': 1
+  id: dragon-ball-z-la-legende
+saturn/games/dragon-ball-z-shin-butouden/:
+  rating: '4.3'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 1
+    '5': 3
+  id: dragon-ball-z-shin-butouden
+saturn/games/earthworm-jim-2/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '4': 2
+    '5': 1
+  id: earthworm-jim-2
+saturn/games/fifa-96/:
+  rating: '2.3'
+  breakdown:
+    '1': 1
+    '3': 1
+  id: fifa-96
+saturn/games/fifa-97/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: fifa-97
+saturn/games/fighters-megamix/:
+  rating: '4.5'
+  breakdown:
+    '4': 4
+    '5': 1
+  id: fighters-megamix
+saturn/games/formula-karts-special-edition/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: formula-karts-special-edition
+saturn/games/galactic-attack/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 4
+  id: galactic-attack
+saturn/games/galaxy-fight-universal-warriors/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: galaxy-fight-universal-warriors
+saturn/games/garou-densetsu-3-road-to-the-final-victory/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: garou-densetsu-3-road-to-the-final-victory
+saturn/games/gekirindan/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: gekirindan
+saturn/games/gex/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: gex
+saturn/games/grandia/:
+  rating: '4.8'
+  breakdown:
+    '4': 2
+    '5': 2
+  id: grandia
+saturn/games/gt-24/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: gt-24
+saturn/games/guardian-heroes/:
+  rating: '4.2'
+  breakdown:
+    '3': 2
+    '4': 4
+    '5': 2
+  id: guardian-heroes
+saturn/games/gun-frontier/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: gun-frontier
+saturn/games/gunbird/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: gunbird
+saturn/games/hexen/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: hexen
+saturn/games/hi-octane/:
+  rating: '1.8'
+  breakdown:
+    '1': 1
+    '2': 2
+  id: hi-octane
+saturn/games/konami-antiques-msx-collection-ultra-pack/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: konami-antiques-msx-collection-ultra-pack
+saturn/games/macross-do-you-remember-love/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: macross-do-you-remember-love
+saturn/games/magic-knight-rayearth/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+  id: magic-knight-rayearth
+saturn/games/marvel-super-heroes-vs-street-fighter/:
+  rating: '4.4'
+  breakdown:
+    '3': 1
+    '4': 1
+    '5': 2
+  id: marvel-super-heroes-vs-street-fighter
+saturn/games/mass-destruction/:
+  rating: '2.3'
+  breakdown:
+    '2': 2
+    '3': 1
+  id: mass-destruction
+saturn/games/myst/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: myst
+saturn/games/nba-jam-extreme/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: nba-jam-extreme
+saturn/games/nba-live-97/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: nba-live-97
+saturn/games/nights-into-dreams/:
+  rating: '3.8'
+  breakdown:
+    '0': 1
+    '4': 8
+  id: nights-into-dreams
+saturn/games/pandemonium/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: pandemonium
+saturn/games/panzer-dragoon-saga/:
+  rating: '4.8'
+  breakdown:
+    '4': 4
+    '5': 7
+  id: panzer-dragoon-saga
+saturn/games/panzer-dragoon-zwei/:
+  rating: '4.8'
+  breakdown:
+    '4': 2
+    '5': 6
+  id: panzer-dragoon-zwei
+saturn/games/panzer-dragoon/:
+  rating: '4.6'
+  breakdown:
+    '4': 3
+    '5': 3
+  id: panzer-dragoon
+saturn/games/pga-tour-97/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: pga-tour-97
+saturn/games/power-instinct-3-groove-on-fight/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: power-instinct-3-groove-on-fight
+saturn/games/radiant-silvergun/:
+  rating: '4.9'
+  breakdown:
+    '4': 2
+    '5': 10
+  id: radiant-silvergun
+saturn/games/rayman/:
+  rating: '4.8'
+  breakdown:
+    '4': 2
+    '5': 2
+  id: rayman
+saturn/games/real-bout-garou-densetsu-special/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: real-bout-garou-densetsu-special
+saturn/games/resident-evil/:
+  rating: '4.5'
+  breakdown:
+    '3': 1
+    '4': 4
+    '5': 3
+  id: resident-evil
+saturn/games/samurai-spirits-iv-amakusa-kourin/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: samurai-spirits-iv-amakusa-kourin
+saturn/games/saturn-bomberman/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: saturn-bomberman
+saturn/games/sega-rally/:
+  rating: '4.7'
+  breakdown:
+    '4': 9
+    '5': 7
+  id: sega-rally
+saturn/games/sega-touring-car-championship/:
+  rating: '2.9'
+  breakdown:
+    '1': 1
+    '2': 1
+    '3': 2
+    '4': 1
+  id: sega-touring-car-championship
+saturn/games/segata-sanshiro-shinkenyugi/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: segata-sanshiro-shinkenyugi
+saturn/games/sengoku-blade/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: sengoku-blade
+saturn/games/sentimental-graffiti/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: sentimental-graffiti
+saturn/games/shining-force-iii-scenario-1-god-warrior-of-the-kingdom/:
+  rating: '5.0'
+  breakdown:
+    '5': 1
+  id: shining-force-iii-scenario-1-god-warrior-of-the-kingdom
+saturn/games/sonic-r/:
+  rating: '3.3'
+  breakdown:
+    '1': 1
+    '2': 1
+    '3': 5
+    '4': 4
+  id: sonic-r
+saturn/games/soviet-strike/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: soviet-strike
+saturn/games/space-hulk-vengeance-of-the-blood-angels/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: space-hulk-vengeance-of-the-blood-angels
+saturn/games/story-of-thor-2/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: story-of-thor-2
+saturn/games/street-fighter-alpha-2/:
+  rating: '2.8'
+  breakdown:
+    '1': 1
+    '4': 1
+  id: street-fighter-alpha-2
+saturn/games/street-fighter-alpha-warriors-dream/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: street-fighter-alpha-warriors-dream
+saturn/games/street-fighter-the-movie/:
+  rating: '1.3'
+  breakdown:
+    '0': 3
+    '1': 3
+    '3': 2
+  id: street-fighter-the-movie
+saturn/games/street-fighter-zero-3/:
+  rating: '4.3'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 3
+    '5': 4
+  id: street-fighter-zero-3
+saturn/games/street-racer/:
+  rating: '4.8'
+  breakdown:
+    '4': 2
+    '5': 2
+  id: street-racer
+saturn/games/tempest-2000/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: tempest-2000
+saturn/games/tenchi-wo-kurau-2-warriors-of-fate/:
+  rating: '5.0'
+  breakdown:
+    '5': 1
+  id: tenchi-wo-kurau-2-warriors-of-fate
+saturn/games/terra-diver/:
+  rating: '4.3'
+  breakdown:
+    '4': 3
+  id: terra-diver
+saturn/games/the-horde/:
+  rating: '3.8'
+  breakdown:
+    '3': 3
+    '4': 1
+  id: the-horde
+saturn/games/the-king-of-fighters-95/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 4
+  id: the-king-of-fighters-95
+saturn/games/the-king-of-fighters-96/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: the-king-of-fighters-96
+saturn/games/the-king-of-fighters-97/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: the-king-of-fighters-97
+saturn/games/the-need-for-speed/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: the-need-for-speed
+saturn/games/thunder-force-v/:
+  rating: '3.8'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: thunder-force-v
+saturn/games/trash-it/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: trash-it
+saturn/games/twinkle-star-sprites/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: twinkle-star-sprites
+saturn/games/virtua-cop-2/:
+  rating: '4.4'
+  breakdown:
+    '4': 4
+  id: virtua-cop-2
+saturn/games/virtua-cop/:
+  rating: '3.4'
+  breakdown:
+    '2': 1
+    '3': 2
+    '4': 1
+  id: virtua-cop
+saturn/games/virtua-fighter-2/:
+  rating: '4.7'
+  breakdown:
+    '4': 3
+    '5': 2
+  id: virtua-fighter-2
+saturn/games/virtua-fighter-remix/:
+  rating: '3.7'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: virtua-fighter-remix
+saturn/games/virtua-fighter/:
+  rating: '4.0'
+  breakdown:
+    '2': 1
+    '4': 5
+  id: virtua-fighter
+saturn/games/virtual-on-cyber-troopers/:
+  rating: '4.6'
+  breakdown:
+    '4': 2
+    '5': 2
+  id: virtual-on-cyber-troopers
+saturn/games/waku-waku-7/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: waku-waku-7
+saturn/games/wipeout-2097/:
+  rating: '4.7'
+  breakdown:
+    '4': 1
+    '5': 2
+  id: wipeout-2097
+saturn/games/wipeout/:
+  rating: '4.5'
+  breakdown:
+    '3': 1
+    '5': 2
+  id: wipeout
+saturn/games/x-men-vs-street-fighter/:
+  rating: '4.1'
+  breakdown:
+    '3': 1
+    '4': 4
+  id: x-men-vs-street-fighter

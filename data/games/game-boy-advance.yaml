@@ -1,0 +1,706 @@
+game-boy-advance/games/ace-combat-advance/:
+  rating: '0.5'
+  breakdown:
+    '0': 2
+  id: ace-combat-advance
+game-boy-advance/games/advance-guardian-heroes/:
+  rating: '2.8'
+  breakdown:
+    '1': 1
+    '3': 1
+    '4': 1
+  id: advance-guardian-heroes
+game-boy-advance/games/advance-wars-2/:
+  rating: '4.7'
+  breakdown:
+    '4': 6
+    '5': 5
+  id: advance-wars-2
+game-boy-advance/games/advance-wars/:
+  rating: '4.5'
+  breakdown:
+    '2': 1
+    '4': 12
+    '5': 7
+  id: advance-wars
+game-boy-advance/games/aladdin/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: aladdin
+game-boy-advance/games/baldurs-gate-dark-alliance/:
+  rating: '3.3'
+  breakdown:
+    '2': 2
+    '4': 2
+  id: baldurs-gate-dark-alliance
+game-boy-advance/games/batman-vengeance/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: batman-vengeance
+game-boy-advance/games/bomberman-tournament/:
+  rating: '4.2'
+  breakdown:
+    '3': 1
+    '4': 1
+    '5': 1
+  id: bomberman-tournament
+game-boy-advance/games/breath-of-fire/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: breath-of-fire
+game-boy-advance/games/broken-sword-the-shadow-of-the-templar/:
+  rating: '3.6'
+  breakdown:
+    '1': 1
+    '4': 3
+  id: broken-sword-the-shadow-of-the-templar
+game-boy-advance/games/castlevania-aria-of-sorrow/:
+  rating: '4.0'
+  breakdown:
+    '0': 3
+    '4': 16
+    '5': 4
+  id: castlevania-aria-of-sorrow
+game-boy-advance/games/castlevania-circle-of-the-moon/:
+  rating: '4.0'
+  breakdown:
+    '3': 5
+    '4': 10
+    '5': 1
+  id: castlevania-circle-of-the-moon
+game-boy-advance/games/castlevania-harmony-of-dissonance/:
+  rating: '4.0'
+  breakdown:
+    '2': 1
+    '3': 4
+    '4': 3
+    '5': 3
+  id: castlevania-harmony-of-dissonance
+game-boy-advance/games/contra-advance/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: contra-advance
+game-boy-advance/games/crash-bandicoot-2-n-tranced/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+  id: crash-bandicoot-2-n-tranced
+game-boy-advance/games/crash-bandicoot-xs/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: crash-bandicoot-xs
+game-boy-advance/games/disneys-magical-quest-2-starring-mickey-minnie/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: disneys-magical-quest-2-starring-mickey-minnie
+game-boy-advance/games/disneys-magical-quest-3-starring-mickey-donald/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: disneys-magical-quest-3-starring-mickey-donald
+game-boy-advance/games/disneys-magical-quest-starring-mickey-minnie/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: disneys-magical-quest-starring-mickey-minnie
+game-boy-advance/games/donald-duck-advance/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: donald-duck-advance
+game-boy-advance/games/doom/:
+  rating: '3.1'
+  breakdown:
+    '2': 3
+    '3': 3
+    '4': 3
+  id: doom
+game-boy-advance/games/double-dragon-advance/:
+  rating: '3.7'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: double-dragon-advance
+game-boy-advance/games/dragon-ball-advance-adventure/:
+  rating: '3.9'
+  breakdown:
+    '3': 3
+    '4': 5
+  id: dragon-ball-advance-adventure
+game-boy-advance/games/dragon-ball-z-the-legacy-of-goku-ii/:
+  rating: '3.8'
+  breakdown:
+    '2': 1
+    '3': 2
+    '4': 6
+  id: dragon-ball-z-the-legacy-of-goku-ii
+game-boy-advance/games/dragon-ball-z-the-legacy-of-goku/:
+  rating: '2.3'
+  breakdown:
+    '1': 1
+    '2': 1
+    '3': 1
+  id: dragon-ball-z-the-legacy-of-goku
+game-boy-advance/games/dragon-quest-monsters-caravan-heart/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: dragon-quest-monsters-caravan-heart
+game-boy-advance/games/duke-nukem-advance/:
+  rating: '2.0'
+  breakdown:
+    '0': 1
+    '2': 1
+    '3': 1
+  id: duke-nukem-advance
+game-boy-advance/games/dungeons-dragons-eye-of-the-beholder/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: dungeons-dragons-eye-of-the-beholder
+game-boy-advance/games/earthworm-jim-2/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: earthworm-jim-2
+game-boy-advance/games/ecks-vs-sever-ii-ballistic/:
+  rating: '3.8'
+  breakdown:
+    '2': 1
+    '4': 2
+  id: ecks-vs-sever-ii-ballistic
+game-boy-advance/games/f-zero-maximum-velocity/:
+  rating: '3.8'
+  breakdown:
+    '2': 1
+    '3': 4
+    '4': 4
+  id: f-zero-maximum-velocity
+game-boy-advance/games/final-fantasy-i-ii-dawn-of-souls/:
+  rating: '3.9'
+  breakdown:
+    '3': 2
+    '4': 3
+  id: final-fantasy-i-ii-dawn-of-souls
+game-boy-advance/games/final-fantasy-iv-advance/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: final-fantasy-iv-advance
+game-boy-advance/games/final-fantasy-tactics-advance/:
+  rating: '3.8'
+  breakdown:
+    '1': 1
+    '3': 5
+    '4': 12
+    '5': 1
+  id: final-fantasy-tactics-advance
+game-boy-advance/games/final-fantasy-v-advance/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+  id: final-fantasy-v-advance
+game-boy-advance/games/final-fantasy-vi-advance/:
+  rating: '4.9'
+  breakdown:
+    '4': 1
+    '5': 3
+  id: final-fantasy-vi-advance
+game-boy-advance/games/fire-emblem-the-sacred-stones/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: fire-emblem-the-sacred-stones
+game-boy-advance/games/fire-emblem/:
+  rating: '4.5'
+  breakdown:
+    '1': 1
+    '4': 4
+    '5': 6
+  id: fire-emblem
+game-boy-advance/games/game-and-watch-gallery-advance/:
+  rating: '3.0'
+  breakdown:
+    '1': 1
+    '3': 3
+    '4': 1
+  id: game-and-watch-gallery-advance
+game-boy-advance/games/genso-suikoden-card-stories/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: genso-suikoden-card-stories
+game-boy-advance/games/golden-sun-2-lage-perdu/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 3
+  id: golden-sun-2-lage-perdu
+game-boy-advance/games/golden-sun/:
+  rating: '4.5'
+  breakdown:
+    '2': 2
+    '3': 1
+    '4': 4
+    '5': 14
+  id: golden-sun
+game-boy-advance/games/gradius-advance/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: gradius-advance
+game-boy-advance/games/grand-theft-auto-advance/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: grand-theft-auto-advance
+game-boy-advance/games/harry-potter-a-lecole-des-sorciers/:
+  rating: '2.6'
+  breakdown:
+    '0': 1
+    '1': 1
+    '2': 1
+    '4': 1
+    '5': 1
+  id: harry-potter-a-lecole-des-sorciers
+game-boy-advance/games/harry-potter-et-la-chambre-des-secrets/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: harry-potter-et-la-chambre-des-secrets
+game-boy-advance/games/harry-potter-et-le-prisonnier-dazkaban/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: harry-potter-et-le-prisonnier-dazkaban
+game-boy-advance/games/iridion-3d/:
+  rating: '1.8'
+  breakdown:
+    '1': 1
+    '2': 1
+  id: iridion-3d
+game-boy-advance/games/iridion-ii/:
+  rating: '3.3'
+  breakdown:
+    '2': 2
+    '3': 1
+    '4': 2
+  id: iridion-ii
+game-boy-advance/games/kingdom-hearts-chain-of-memories/:
+  rating: '2.8'
+  breakdown:
+    '2': 1
+    '3': 1
+  id: kingdom-hearts-chain-of-memories
+game-boy-advance/games/kirby-and-the-amazing-mirror/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: kirby-and-the-amazing-mirror
+game-boy-advance/games/kirby-nightmare-in-dreamland/:
+  rating: '3.3'
+  breakdown:
+    '2': 1
+    '4': 1
+  id: kirby-nightmare-in-dreamland
+game-boy-advance/games/kurukuru-kururin/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '4': 11
+    '5': 1
+  id: kurukuru-kururin
+game-boy-advance/games/kururin-paradise/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: kururin-paradise
+game-boy-advance/games/lady-sia/:
+  rating: '3.3'
+  breakdown:
+    '3': 3
+  id: lady-sia
+game-boy-advance/games/le-roi-lion/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: le-roi-lion
+game-boy-advance/games/les-indestructibles/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: les-indestructibles
+game-boy-advance/games/les-sims-permis-de-sortir/:
+  rating: '3.3'
+  breakdown:
+    '2': 1
+    '3': 2
+    '4': 1
+  id: les-sims-permis-de-sortir
+game-boy-advance/games/mario-kart-super-circuit/:
+  rating: '4.9'
+  breakdown:
+    '4': 1
+    '5': 3
+  id: mario-kart-super-circuit
+game-boy-advance/games/mario-luigi-superstar-saga/:
+  rating: '4.5'
+  breakdown:
+    '4': 8
+    '5': 1
+  id: mario-luigi-superstar-saga
+game-boy-advance/games/mario-vs-donkey-kong/:
+  rating: '4.4'
+  breakdown:
+    '4': 4
+  id: mario-vs-donkey-kong
+game-boy-advance/games/masters-of-the-universe-he-man-power-of-grayskull/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: masters-of-the-universe-he-man-power-of-grayskull
+game-boy-advance/games/megaman-bass-rockman-forte/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: megaman-bass-rockman-forte
+game-boy-advance/games/megaman-network-battle-exe/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: megaman-network-battle-exe
+game-boy-advance/games/megaman-zero-2/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: megaman-zero-2
+game-boy-advance/games/megaman-zero-3/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: megaman-zero-3
+game-boy-advance/games/megaman-zero-4/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: megaman-zero-4
+game-boy-advance/games/megaman-zero/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: megaman-zero
+game-boy-advance/games/metal-slug-advance/:
+  rating: '3.5'
+  breakdown:
+    '1': 1
+    '3': 4
+    '4': 3
+  id: metal-slug-advance
+game-boy-advance/games/metroid-fusion/:
+  rating: '4.1'
+  breakdown:
+    '3': 4
+    '4': 8
+    '5': 2
+  id: metroid-fusion
+game-boy-advance/games/metroid-zero-mission/:
+  rating: '4.1'
+  breakdown:
+    '4': 9
+  id: metroid-zero-mission
+game-boy-advance/games/nes-classics-bomberman/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: nes-classics-bomberman
+game-boy-advance/games/nes-classics-donkey-kong/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: nes-classics-donkey-kong
+game-boy-advance/games/nes-classics-excite-bike/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: nes-classics-excite-bike
+game-boy-advance/games/nes-classics-ice-climber/:
+  rating: '2.5'
+  breakdown:
+    '1': 1
+    '3': 1
+  id: nes-classics-ice-climber
+game-boy-advance/games/nes-classics-pac-man/:
+  rating: '0.5'
+  breakdown:
+    '0': 1
+  id: nes-classics-pac-man
+game-boy-advance/games/nes-classics-star-soldier/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: nes-classics-star-soldier
+game-boy-advance/games/nes-classics-super-mario-bros/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: nes-classics-super-mario-bros
+game-boy-advance/games/nes-classics-the-legend-of-zelda/:
+  rating: '4.3'
+  breakdown:
+    '4': 6
+  id: nes-classics-the-legend-of-zelda
+game-boy-advance/games/nes-classics-xevious/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: nes-classics-xevious
+game-boy-advance/games/phantasy-star-collection/:
+  rating: '3.0'
+  breakdown:
+    '1': 1
+    '4': 1
+  id: phantasy-star-collection
+game-boy-advance/games/pokemon-rubis-et-saphir/:
+  rating: '3.9'
+  breakdown:
+    '2': 1
+    '3': 4
+    '4': 4
+    '5': 1
+  id: pokemon-rubis-et-saphir
+game-boy-advance/games/puyo-pop-fever/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: puyo-pop-fever
+game-boy-advance/games/rayman-advance/:
+  rating: '4.4'
+  breakdown:
+    '4': 3
+    '5': 1
+  id: rayman-advance
+game-boy-advance/games/rayman-contre-les-lapins-cretins/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: rayman-contre-les-lapins-cretins
+game-boy-advance/games/rock-n-roll-racing/:
+  rating: '3.3'
+  breakdown:
+    '2': 1
+    '4': 1
+  id: rock-n-roll-racing
+game-boy-advance/games/sega-rally/:
+  rating: '2.5'
+  breakdown:
+    '0': 1
+    '4': 1
+  id: sega-rally
+game-boy-advance/games/shaman-king-cho-senji-ryakketsu-3/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: shaman-king-cho-senji-ryakketsu-3
+game-boy-advance/games/shining-force-resurrection-of-the-dark-dragon/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: shining-force-resurrection-of-the-dark-dragon
+game-boy-advance/games/slime-morimori-dragon-quest-shougeki-no-shippo-dan/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: slime-morimori-dragon-quest-shougeki-no-shippo-dan
+game-boy-advance/games/sonic-advance-2/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: sonic-advance-2
+game-boy-advance/games/sonic-advance-3/:
+  rating: '3.3'
+  breakdown:
+    '1': 1
+    '3': 2
+    '4': 1
+  id: sonic-advance-3
+game-boy-advance/games/sonic-advance/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: sonic-advance
+game-boy-advance/games/sonic-battle/:
+  rating: '4.7'
+  breakdown:
+    '4': 1
+    '5': 2
+  id: sonic-battle
+game-boy-advance/games/space-invaders/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: space-invaders
+game-boy-advance/games/strike-force-hydra/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: strike-force-hydra
+game-boy-advance/games/stuntman/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: stuntman
+game-boy-advance/games/super-dodge-ball-advance/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: super-dodge-ball-advance
+game-boy-advance/games/super-ghouls-n-ghosts/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: super-ghouls-n-ghosts
+game-boy-advance/games/super-mario-advance-2/:
+  rating: '4.3'
+  breakdown:
+    '3': 2
+    '5': 3
+  id: super-mario-advance-2
+game-boy-advance/games/super-street-fighter-ii-turbo-revival/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: super-street-fighter-ii-turbo-revival
+game-boy-advance/games/sword-of-mana/:
+  rating: '3.6'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 2
+  id: sword-of-mana
+game-boy-advance/games/tactics-ogre-the-knight-of-lodis/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: tactics-ogre-the-knight-of-lodis
+game-boy-advance/games/tales-of-phantasia/:
+  rating: '3.7'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: tales-of-phantasia
+game-boy-advance/games/teenage-mutant-ninja-turtles-double-pack/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: teenage-mutant-ninja-turtles-double-pack
+game-boy-advance/games/the-hobbit/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: the-hobbit
+game-boy-advance/games/the-legend-of-zelda-a-link-to-the-past/:
+  rating: '4.4'
+  breakdown:
+    '2': 2
+    '4': 3
+    '5': 7
+  id: the-legend-of-zelda-a-link-to-the-past
+game-boy-advance/games/the-legend-of-zelda-the-minish-cap/:
+  rating: '4.1'
+  breakdown:
+    '3': 6
+    '4': 14
+    '5': 2
+  id: the-legend-of-zelda-the-minish-cap
+game-boy-advance/games/the-lost-vikings/:
+  rating: '3.9'
+  breakdown:
+    '3': 3
+    '4': 4
+  id: the-lost-vikings
+game-boy-advance/games/tiny-toons-adventure-busters-bad-dream/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: tiny-toons-adventure-busters-bad-dream
+game-boy-advance/games/tmnt/:
+  rating: '3.8'
+  breakdown:
+    '2': 1
+    '5': 1
+  id: tmnt
+game-boy-advance/games/turok-evolution/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: turok-evolution
+game-boy-advance/games/wario-ware-inc/:
+  rating: '3.6'
+  breakdown:
+    '2': 1
+    '3': 6
+    '4': 6
+  id: wario-ware-inc
+game-boy-advance/games/warioland-4/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '4': 1
+    '5': 1
+  id: warioland-4
+game-boy-advance/games/wing-commander-prophecy/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: wing-commander-prophecy
+game-boy-advance/games/x-men-2-la-revanche-de-wolverine/:
+  rating: '1.8'
+  breakdown:
+    '1': 1
+    '2': 1
+  id: x-men-2-la-revanche-de-wolverine
+game-boy-advance/games/xxx/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: xxx
+game-boy-advance/games/yoshis-island-super-mario-advance-3/:
+  rating: '4.9'
+  breakdown:
+    '4': 1
+    '5': 8
+  id: yoshis-island-super-mario-advance-3
+game-boy-advance/games/yu-gi-oh-the-sacred-cards/:
+  rating: '3.5'
+  breakdown:
+    '2': 1
+    '4': 1
+  id: yu-gi-oh-the-sacred-cards
+game-boy-advance/games/yu-gi-oh-worldwide-edition/:
+  rating: '4.2'
+  breakdown:
+    '3': 2
+    '4': 5
+    '5': 1
+  id: yu-gi-oh-worldwide-edition
+game-boy-advance/games/yu-yu-hakusho-tournament-tactics/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: yu-yu-hakusho-tournament-tactics

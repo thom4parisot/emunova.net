@@ -1,0 +1,620 @@
+pc-engine/games/aero-blasters/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: aero-blasters
+pc-engine/games/air-zonk/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: air-zonk
+pc-engine/games/akumajo-dracula-x-chi-no-rondo-super-cd-rom/:
+  rating: '4.4'
+  breakdown:
+    '0': 1
+    '4': 6
+    '5': 7
+  id: akumajo-dracula-x-chi-no-rondo-super-cd-rom
+pc-engine/games/alien-crush/:
+  rating: '1.3'
+  breakdown:
+    '0': 1
+    '1': 2
+    '2': 1
+  id: alien-crush
+pc-engine/games/art-of-fighting-super-cd-rom/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+  id: art-of-fighting-super-cd-rom
+pc-engine/games/asuka-120-maxima-burning-fest-super-cd-rom/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: asuka-120-maxima-burning-fest-super-cd-rom
+pc-engine/games/av-poker-world-gambler/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: av-poker-world-gambler
+pc-engine/games/av-tanjou-super-cd-rom/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: av-tanjou-super-cd-rom
+pc-engine/games/beball/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: beball
+pc-engine/games/bikkuriman-world/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: bikkuriman-world
+pc-engine/games/bishoujo-jyanshi-idol-pai-super-cd-rom/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: bishoujo-jyanshi-idol-pai-super-cd-rom
+pc-engine/games/bodyconquest-ii/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: bodyconquest-ii
+pc-engine/games/bomberman-93/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: bomberman-93
+pc-engine/games/bomberman-94/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: bomberman-94
+pc-engine/games/bravoman/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: bravoman
+pc-engine/games/cd-bishoujo-panchinko-4-sisters-super-cd-rom/:
+  rating: '0.5'
+  breakdown:
+    '0': 1
+  id: cd-bishoujo-panchinko-4-sisters-super-cd-rom
+pc-engine/games/cd-hanafuda-bishoujo-fan-club-super-cd-rom/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: cd-hanafuda-bishoujo-fan-club-super-cd-rom
+pc-engine/games/cd-pachi-slot-bishoujo-gambler-super-cd-rom/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: cd-pachi-slot-bishoujo-gambler-super-cd-rom
+pc-engine/games/cho-aniki/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: cho-aniki
+pc-engine/games/coryoon/:
+  rating: '3.7'
+  breakdown:
+    '1': 1
+    '4': 5
+  id: coryoon
+pc-engine/games/cotton-fantastic-night-dreams-super-cd-rom/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: cotton-fantastic-night-dreams-super-cd-rom
+pc-engine/games/crazy-hospital-fushigi-no-kuni-no-tenshi-super-cd-rom/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: crazy-hospital-fushigi-no-kuni-no-tenshi-super-cd-rom
+pc-engine/games/cross-wiber-cyber-combat-police/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: cross-wiber-cyber-combat-police
+pc-engine/games/cyber-core/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: cyber-core
+pc-engine/games/darius-alpha/:
+  rating: '2.3'
+  breakdown:
+    '1': 1
+    '3': 1
+  id: darius-alpha
+pc-engine/games/darius-plus/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: darius-plus
+pc-engine/games/dead-moon/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+  id: dead-moon
+pc-engine/games/detana-twinbee/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: detana-twinbee
+pc-engine/games/devils-crush/:
+  rating: '4.4'
+  breakdown:
+    '4': 4
+    '5': 1
+  id: devils-crush
+pc-engine/games/doraemon-nobita-no-dorabian-nights/:
+  rating: '2.8'
+  breakdown:
+    '2': 1
+    '3': 1
+  id: doraemon-nobita-no-dorabian-nights
+pc-engine/games/dragon-saber/:
+  rating: '3.7'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: dragon-saber
+pc-engine/games/dragon-spirit-the-new-legend/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: dragon-spirit-the-new-legend
+pc-engine/games/dragons-curse/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: dragons-curse
+pc-engine/games/f1-circus-91/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: f1-circus-91
+pc-engine/games/faussete-amour-super-cd-rom/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: faussete-amour-super-cd-rom
+pc-engine/games/final-match-tennis/:
+  rating: '4.5'
+  breakdown:
+    '3': 1
+    '4': 5
+    '5': 5
+  id: final-match-tennis
+pc-engine/games/final-soldier/:
+  rating: '3.9'
+  breakdown:
+    '2': 1
+    '4': 4
+    '5': 1
+  id: final-soldier
+pc-engine/games/fray-in-magical-adventure-super-cd-rom/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: fray-in-magical-adventure-super-cd-rom
+pc-engine/games/fushigi-no-yume-no-alice/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: fushigi-no-yume-no-alice
+pc-engine/games/garou-densetsu-2-super-cd-rom/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: garou-densetsu-2-super-cd-rom
+pc-engine/games/gate-of-thunder-super-cd-rom/:
+  rating: '4.9'
+  breakdown:
+    '4': 2
+    '5': 5
+  id: gate-of-thunder-super-cd-rom
+pc-engine/games/genji-tsuushin-agedama/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: genji-tsuushin-agedama
+pc-engine/games/gokuraku-chuka-taisen/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: gokuraku-chuka-taisen
+pc-engine/games/golden-axe/:
+  rating: '1.3'
+  breakdown:
+    '0': 2
+    '1': 2
+    '2': 2
+  id: golden-axe
+pc-engine/games/gradius-2-gopher-no-yabou-super-cd-rom/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: gradius-2-gopher-no-yabou-super-cd-rom
+pc-engine/games/gunhed/:
+  rating: '4.0'
+  breakdown:
+    '3': 2
+    '4': 4
+  id: gunhed
+pc-engine/games/hana-ta-ka-daka/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: hana-ta-ka-daka
+pc-engine/games/hi-leg-fantasy-super-cd-rom/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: hi-leg-fantasy-super-cd-rom
+pc-engine/games/idol-hanafuda-fan-club/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: idol-hanafuda-fan-club
+pc-engine/games/j-thunder-super-cd-rom/:
+  rating: '0.0'
+  breakdown:
+    '0': 1
+  id: j-thunder-super-cd-rom
+pc-engine/games/jj-jeff/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: jj-jeff
+pc-engine/games/kaisou-chojin-schbibin-man/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: kaisou-chojin-schbibin-man
+pc-engine/games/kaze-kiri-ninja-action-super-cd-rom/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: kaze-kiri-ninja-action-super-cd-rom
+pc-engine/games/keith-courage-in-alpha-zones/:
+  rating: '0.8'
+  breakdown:
+    '0': 1
+    '1': 1
+  id: keith-courage-in-alpha-zones
+pc-engine/games/kyuukyoku-mahjong-2-super-idol-graphic/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: kyuukyoku-mahjong-2-super-idol-graphic
+pc-engine/games/kyuukyoku-mahjong-idol-graphic/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: kyuukyoku-mahjong-idol-graphic
+pc-engine/games/legend-of-hero-tonma/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: legend-of-hero-tonma
+pc-engine/games/liquid-kids/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: liquid-kids
+pc-engine/games/lords-of-thunder-super-cd-rom/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: lords-of-thunder-super-cd-rom
+pc-engine/games/magical-chase/:
+  rating: '4.7'
+  breakdown:
+    '4': 1
+    '5': 2
+  id: magical-chase
+pc-engine/games/mahjong-gakuen-touma-soushirou-toujou-mild/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: mahjong-gakuen-touma-soushirou-toujou-mild
+pc-engine/games/makai-prince-dorabocchan/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: makai-prince-dorabocchan
+pc-engine/games/marchen-maze/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: marchen-maze
+pc-engine/games/martial-champion-super-cd-rom/:
+  rating: '0.5'
+  breakdown:
+    '0': 1
+  id: martial-champion-super-cd-rom
+pc-engine/games/mesopotamia/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: mesopotamia
+pc-engine/games/might-magic-3-isles-of-terra-super-cd-rom/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: might-magic-3-isles-of-terra-super-cd-rom
+pc-engine/games/momotarou-katsugeki/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: momotarou-katsugeki
+pc-engine/games/neutopia-ii/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: neutopia-ii
+pc-engine/games/neutopia/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: neutopia
+pc-engine/games/new-adventure-island/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: new-adventure-island
+pc-engine/games/nhk-okaasan-to-issho-niko-niko-pun/:
+  rating: '0.0'
+  breakdown:
+    '0': 1
+  id: nhk-okaasan-to-issho-niko-niko-pun
+pc-engine/games/ninja-gaiden/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: ninja-gaiden
+pc-engine/games/ninja-spirit/:
+  rating: '4.5'
+  breakdown:
+    '4': 3
+  id: ninja-spirit
+pc-engine/games/ordyne/:
+  rating: '2.3'
+  breakdown:
+    '2': 2
+  id: ordyne
+pc-engine/games/override/:
+  rating: '3.3'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 1
+  id: override
+pc-engine/games/pac-land/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: pac-land
+pc-engine/games/parodius/:
+  rating: '5.0'
+  breakdown:
+    '5': 2
+  id: parodius
+pc-engine/games/pc-kid-ii/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: pc-kid-ii
+pc-engine/games/pc-kid-iii/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: pc-kid-iii
+pc-engine/games/pc-kid/:
+  rating: '4.2'
+  breakdown:
+    '4': 3
+  id: pc-kid
+pc-engine/games/pc-pachi-slot-idol-gambler/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: pc-pachi-slot-idol-gambler
+pc-engine/games/psychosis/:
+  rating: '0.5'
+  breakdown:
+    '0': 1
+  id: psychosis
+pc-engine/games/quiz-toukou-shashin/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: quiz-toukou-shashin
+pc-engine/games/r-type-complete-cd-super-cd-rom/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 5
+  id: r-type-complete-cd-super-cd-rom
+pc-engine/games/r-type/:
+  rating: '4.5'
+  breakdown:
+    '4': 2
+  id: r-type
+pc-engine/games/rabio-lepus-special/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: rabio-lepus-special
+pc-engine/games/raiden/:
+  rating: '3.9'
+  breakdown:
+    '3': 1
+    '4': 3
+  id: raiden
+pc-engine/games/riot-zone-super-cd-rom/:
+  rating: '3.3'
+  breakdown:
+    '2': 1
+    '4': 1
+  id: riot-zone-super-cd-rom
+pc-engine/games/salamander/:
+  rating: '3.5'
+  breakdown:
+    '3': 2
+  id: salamander
+pc-engine/games/samurai-ghost/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: samurai-ghost
+pc-engine/games/seirei-senshi-spriggan-super-cd-rom/:
+  rating: '5.0'
+  breakdown:
+    '5': 2
+  id: seirei-senshi-spriggan-super-cd-rom
+pc-engine/games/sexy-idol-mahjong-fashion-monogatari-super-cd-rom/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: sexy-idol-mahjong-fashion-monogatari-super-cd-rom
+pc-engine/games/sexy-idol-mahjong-super-cd-rom/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: sexy-idol-mahjong-super-cd-rom
+pc-engine/games/sexy-idol-mahjong-yakyuken-no-uta-super-cd-rom/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: sexy-idol-mahjong-yakyuken-no-uta-super-cd-rom
+pc-engine/games/shiawase-usagi-ii-torawase-usagi-sailor-z-super-cd-rom/:
+  rating: '0.0'
+  breakdown:
+    '0': 1
+  id: shiawase-usagi-ii-torawase-usagi-sailor-z-super-cd-rom
+pc-engine/games/shiawase-usagi-super-cd-rom/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: shiawase-usagi-super-cd-rom
+pc-engine/games/shinsetsu-shiawase-usagi-f-super-cd-rom/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: shinsetsu-shiawase-usagi-f-super-cd-rom
+pc-engine/games/shinsetsu-shiawase-usagi-ii-super-cd-rom/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: shinsetsu-shiawase-usagi-ii-super-cd-rom
+pc-engine/games/shockman/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: shockman
+pc-engine/games/sinistron/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: sinistron
+pc-engine/games/soldier-blade/:
+  rating: '4.5'
+  breakdown:
+    '4': 3
+    '5': 1
+  id: soldier-blade
+pc-engine/games/son-son-ii/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: son-son-ii
+pc-engine/games/splatterhouse/:
+  rating: '3.0'
+  breakdown:
+    '2': 2
+    '3': 4
+  id: splatterhouse
+pc-engine/games/steam-hearts-super-cd-rom/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: steam-hearts-super-cd-rom
+pc-engine/games/strip-fighter-ii/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: strip-fighter-ii
+pc-engine/games/super-air-zonk-rockabilly-paradise-super-cd-rom/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: super-air-zonk-rockabilly-paradise-super-cd-rom
+pc-engine/games/super-star-soldier/:
+  rating: '4.5'
+  breakdown:
+    '3': 1
+    '4': 7
+    '5': 2
+  id: super-star-soldier
+pc-engine/games/the-dynastic-hero-super-cd-rom/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: the-dynastic-hero-super-cd-rom
+pc-engine/games/the-legendary-axe-ii/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: the-legendary-axe-ii
+pc-engine/games/the-legendary-axe/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: the-legendary-axe
+pc-engine/games/tiger-road/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: tiger-road
+pc-engine/games/toilet-kids/:
+  rating: '2.6'
+  breakdown:
+    '1': 3
+    '2': 2
+    '3': 1
+    '4': 1
+    '5': 1
+  id: toilet-kids
+pc-engine/games/valkyrie-no-densetsu/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: valkyrie-no-densetsu
+pc-engine/games/veigues-tactical-gladiator/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: veigues-tactical-gladiator
+pc-engine/games/vigilante/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: vigilante
+pc-engine/games/zipang/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: zipang

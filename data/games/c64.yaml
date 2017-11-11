@@ -1,0 +1,106 @@
+c64/games/antiriad/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: antiriad
+c64/games/arkanoid/:
+  rating: '3.5'
+  breakdown:
+    '2': 1
+    '4': 1
+  id: arkanoid
+c64/games/armalyte/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: armalyte
+c64/games/boulder-dash/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: boulder-dash
+c64/games/delta/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: delta
+c64/games/fire-king/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: fire-king
+c64/games/io/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: io
+c64/games/mayhem-in-monsterland/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: mayhem-in-monsterland
+c64/games/mega-starforce-remix/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: mega-starforce-remix
+c64/games/mega-starforce-return-to-the-great-star/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: mega-starforce-return-to-the-great-star
+c64/games/pitstop-ii/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: pitstop-ii
+c64/games/project-firestart/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: project-firestart
+c64/games/samurai-warrior-the-battles-of-usagi-yojimbo/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: samurai-warrior-the-battles-of-usagi-yojimbo
+c64/games/starforce/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: starforce
+c64/games/terrys-big-adventure/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: terrys-big-adventure
+c64/games/the-last-ninja-ii/:
+  rating: '5.0'
+  breakdown:
+    '5': 1
+  id: the-last-ninja-ii
+c64/games/the-last-ninja-iii/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: the-last-ninja-iii
+c64/games/the-last-ninja/:
+  rating: '5.0'
+  breakdown:
+    '5': 1
+  id: the-last-ninja
+c64/games/turrican-ii-the-final-fight/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: turrican-ii-the-final-fight
+c64/games/uridium/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: uridium
+c64/games/weird-dreams/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: weird-dreams

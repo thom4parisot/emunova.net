@@ -1,0 +1,53 @@
+gp32/games/ah-catsmanga-daioh/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: ah-catsmanga-daioh
+gp32/games/gianas-return/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: gianas-return
+gp32/games/gloop-deluxe/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: gloop-deluxe
+gp32/games/into-the-space/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: into-the-space
+gp32/games/kamikaze/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: kamikaze
+gp32/games/lk-shoot/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: lk-shoot
+gp32/games/rick-dangerous/:
+  rating: '4.5'
+  breakdown:
+    '4': 6
+    '5': 3
+  id: rick-dangerous
+gp32/games/squad-14/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: squad-14
+gp32/games/vexed/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: vexed
+gp32/games/ye-fly-the-chopper/:
+  rating: '3.0'
+  breakdown:
+    '2': 1
+    '4': 1
+  id: ye-fly-the-chopper

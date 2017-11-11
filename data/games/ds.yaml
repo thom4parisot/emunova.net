@@ -1,0 +1,803 @@
+ds/games/ace-attorney-investigations-miles-edgeworth/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: ace-attorney-investigations-miles-edgeworth
+ds/games/advance-wars-dark-conflict/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: advance-wars-dark-conflict
+ds/games/another-code-two-memories/:
+  rating: '3.3'
+  breakdown:
+    '2': 1
+    '3': 3
+    '4': 1
+  id: another-code-two-memories
+ds/games/apollo-justice-ace-attorney/:
+  rating: '4.3'
+  breakdown:
+    '4': 4
+  id: apollo-justice-ace-attorney
+ds/games/arcomage/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: arcomage
+ds/games/astro-boy-the-video-game/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: astro-boy-the-video-game
+ds/games/atelier-annie-alchemists-of-sera-island/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: atelier-annie-alchemists-of-sera-island
+ds/games/bangai-o-spirits/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: bangai-o-spirits
+ds/games/barnyard-blast-swine-of-the-night/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: barnyard-blast-swine-of-the-night
+ds/games/bionicle-heroes/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: bionicle-heroes
+ds/games/black-sigil-blade-of-the-exiled/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: black-sigil-blade-of-the-exiled
+ds/games/bleach-dark-souls/:
+  rating: '3.8'
+  breakdown:
+    '2': 1
+    '4': 2
+  id: bleach-dark-souls
+ds/games/bomberman/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: bomberman
+ds/games/brothers-in-arms/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: brothers-in-arms
+ds/games/castlevania-dawn-of-sorrow/:
+  rating: '3.9'
+  breakdown:
+    '1': 1
+    '3': 1
+    '4': 6
+    '5': 1
+  id: castlevania-dawn-of-sorrow
+ds/games/castlevania-order-of-ecclesia/:
+  rating: '3.9'
+  breakdown:
+    '3': 3
+    '4': 2
+  id: castlevania-order-of-ecclesia
+ds/games/castlevania-portrait-of-ruin/:
+  rating: '2.3'
+  breakdown:
+    '0': 3
+    '1': 2
+    '2': 2
+    '3': 2
+    '4': 3
+  id: castlevania-portrait-of-ruin
+ds/games/cerebrale-academie/:
+  rating: '3.2'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 1
+  id: cerebrale-academie
+ds/games/children-of-mana/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: children-of-mana
+ds/games/chrono-trigger/:
+  rating: '4.5'
+  breakdown:
+    '4': 3
+    '5': 1
+  id: chrono-trigger
+ds/games/chronos-twin/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: chronos-twin
+ds/games/claymore-gingan-no-majo/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: claymore-gingan-no-majo
+ds/games/commando-steel-disaster/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: commando-steel-disaster
+ds/games/contra-4/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: contra-4
+ds/games/core/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: core
+ds/games/daigasso-band-brothers/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: daigasso-band-brothers
+ds/games/dead-n-furious/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: dead-n-furious
+ds/games/dementium-ii/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: dementium-ii
+ds/games/dementium-the-ward/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 3
+  id: dementium-the-ward
+ds/games/dessine-ton-aventure-drawn-to-life-the-next-chapter/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: dessine-ton-aventure-drawn-to-life-the-next-chapter
+ds/games/disney-princesse-les-joyaux-magiques/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: disney-princesse-les-joyaux-magiques
+ds/games/doctor-who-evacuation-earth/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: doctor-who-evacuation-earth
+ds/games/dragon-ball-origins/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: dragon-ball-origins
+ds/games/dragon-quest-heroes-rocket-slime/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: dragon-quest-heroes-rocket-slime
+ds/games/dragon-quest-iv/:
+  rating: '4.3'
+  breakdown:
+    '4': 4
+  id: dragon-quest-iv
+ds/games/dragon-quest-ix-les-sentinelles-du-firmament/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: dragon-quest-ix-les-sentinelles-du-firmament
+ds/games/dragon-quest-monsters-joker-2/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: dragon-quest-monsters-joker-2
+ds/games/dragon-quest-monsters-joker/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: dragon-quest-monsters-joker
+ds/games/dragon-quest-v/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: dragon-quest-v
+ds/games/drawn-to-life/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: drawn-to-life
+ds/games/ferrari-challenge-trofeo-pirelli/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: ferrari-challenge-trofeo-pirelli
+ds/games/final-fantasy-crystal-chronicles-echoes-of-time/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: final-fantasy-crystal-chronicles-echoes-of-time
+ds/games/final-fantasy-fables-chocobo-tales/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: final-fantasy-fables-chocobo-tales
+ds/games/final-fantasy-iii/:
+  rating: '3.9'
+  breakdown:
+    '3': 1
+    '4': 4
+  id: final-fantasy-iii
+ds/games/final-fantasy-tactics-a2-grimoire-of-the-rift/:
+  rating: '2.3'
+  breakdown:
+    '0': 1
+    '2': 1
+    '3': 2
+  id: final-fantasy-tactics-a2-grimoire-of-the-rift
+ds/games/final-fantasy-the-4-heroes-of-light/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: final-fantasy-the-4-heroes-of-light
+ds/games/final-fantasy-xii-revenant-wings/:
+  rating: '2.3'
+  breakdown:
+    '2': 2
+  id: final-fantasy-xii-revenant-wings
+ds/games/fire-emblem-shadow-dragon/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: fire-emblem-shadow-dragon
+ds/games/giana-sisters-ds/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: giana-sisters-ds
+ds/games/glory-of-heracles/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: glory-of-heracles
+ds/games/golden-sun-obscure-aurore/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: golden-sun-obscure-aurore
+ds/games/goldeneye-au-service-du-mal/:
+  rating: '2.8'
+  breakdown:
+    '2': 1
+    '3': 1
+  id: goldeneye-au-service-du-mal
+ds/games/grand-theft-auto-chinatown-wars/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: grand-theft-auto-chinatown-wars
+ds/games/guilty-gear-dual-strikers/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: guilty-gear-dual-strikers
+ds/games/guitar-hero-on-tour/:
+  rating: '3.0'
+  breakdown:
+    '2': 1
+    '3': 1
+  id: guitar-hero-on-tour
+ds/games/henry-hatsworth-lincroyable-expedition/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: henry-hatsworth-lincroyable-expedition
+ds/games/heracles-battle-with-the-gods/:
+  rating: '0.0'
+  breakdown:
+    '0': 1
+  id: heracles-battle-with-the-gods
+ds/games/hokuto-no-ken-hokuto-shinken-denshousha-no-michi/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: hokuto-no-ken-hokuto-shinken-denshousha-no-michi
+ds/games/hotel-dusk-room-215/:
+  rating: '3.3'
+  breakdown:
+    '3': 3
+  id: hotel-dusk-room-215
+ds/games/hugo-magic-in-the-troll-woods/:
+  rating: '0.5'
+  breakdown:
+    '0': 1
+  id: hugo-magic-in-the-troll-woods
+ds/games/inazuma-eleven/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: inazuma-eleven
+ds/games/izuna-the-legend-of-the-ninja/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: izuna-the-legend-of-the-ninja
+ds/games/jewel-quest-expeditions/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: jewel-quest-expeditions
+ds/games/kingdom-hearts-3582-days/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: kingdom-hearts-3582-days
+ds/games/kirby-le-pinceau-du-pouvoir/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: kirby-le-pinceau-du-pouvoir
+ds/games/kirby-mass-attack/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: kirby-mass-attack
+ds/games/kirby-mouse-attack/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: kirby-mouse-attack
+ds/games/last-king-of-africa/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: last-king-of-africa
+ds/games/lego-harry-potter-years-1-4/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: lego-harry-potter-years-1-4
+ds/games/little-red-riding-hoods-zombie-bbq/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: little-red-riding-hoods-zombie-bbq
+ds/games/lostmagic/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: lostmagic
+ds/games/luminous-arc/:
+  rating: '3.7'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: luminous-arc
+ds/games/lunar-knights/:
+  rating: '3.0'
+  breakdown:
+    '2': 1
+    '4': 1
+  id: lunar-knights
+ds/games/magical-starsign/:
+  rating: '3.0'
+  breakdown:
+    '2': 1
+    '3': 2
+  id: magical-starsign
+ds/games/mario-basket-3-on-3/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: mario-basket-3-on-3
+ds/games/mario-kart-ds/:
+  rating: '4.4'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 9
+    '5': 5
+  id: mario-kart-ds
+ds/games/mario-luigi-les-freres-du-temps/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: mario-luigi-les-freres-du-temps
+ds/games/mario-luigi-voyage-au-centre-de-bowser/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: mario-luigi-voyage-au-centre-de-bowser
+ds/games/megaman-zx-advent/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: megaman-zx-advent
+ds/games/megaman-zx/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: megaman-zx
+ds/games/metal-slug-7/:
+  rating: '1.7'
+  breakdown:
+    '1': 3
+    '2': 1
+    '3': 1
+  id: metal-slug-7
+ds/games/meteos/:
+  rating: '4.5'
+  breakdown:
+    '4': 4
+    '5': 2
+  id: meteos
+ds/games/metroid-prime-hunter/:
+  rating: '3.3'
+  breakdown:
+    '1': 1
+    '2': 1
+    '3': 2
+    '4': 1
+    '5': 1
+  id: metroid-prime-hunter
+ds/games/moon/:
+  rating: '3.5'
+  breakdown:
+    '2': 1
+    '4': 1
+  id: moon
+ds/games/moto-racer-ds/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: moto-racer-ds
+ds/games/mystery-case-files-millionheir/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: mystery-case-files-millionheir
+ds/games/nanostray-2/:
+  rating: '5.0'
+  breakdown:
+    '5': 1
+  id: nanostray-2
+ds/games/nanostray/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: nanostray
+ds/games/new-super-mario-bros/:
+  rating: '3.7'
+  breakdown:
+    '2': 3
+    '3': 2
+    '4': 8
+  id: new-super-mario-bros
+ds/games/orcs-elves/:
+  rating: '2.3'
+  breakdown:
+    '1': 1
+    '3': 1
+  id: orcs-elves
+ds/games/osu-tatakae-ouendan/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: osu-tatakae-ouendan
+ds/games/pac-pix/:
+  rating: '4.0'
+  breakdown:
+    '4': 3
+  id: pac-pix
+ds/games/paint-by-ds-classic-masterpieces/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: paint-by-ds-classic-masterpieces
+ds/games/paint-by-ds-military-vehicles/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: paint-by-ds-military-vehicles
+ds/games/paint-by-ds/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: paint-by-ds
+ds/games/phoenix-wright-ace-attorney-justice-for-all/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: phoenix-wright-ace-attorney-justice-for-all
+ds/games/phoenix-wright-ace-attorney-trials-and-tribulations/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: phoenix-wright-ace-attorney-trials-and-tribulations
+ds/games/phoenix-wright-ace-attorney/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '4': 9
+    '5': 1
+  id: phoenix-wright-ace-attorney
+ds/games/picross-3d/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: picross-3d
+ds/games/picross-ds/:
+  rating: '4.5'
+  breakdown:
+    '3': 1
+    '5': 2
+  id: picross-ds
+ds/games/point-blank-ds/:
+  rating: '2.6'
+  breakdown:
+    '2': 4
+    '4': 1
+  id: point-blank-ds
+ds/games/pokemon-version-blanche/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: pokemon-version-blanche
+ds/games/pokemon-version-diamant/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: pokemon-version-diamant
+ds/games/pokemon-version-perle/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: pokemon-version-perle
+ds/games/pokemon-version-platine/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: pokemon-version-platine
+ds/games/polarium/:
+  rating: '3.4'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 3
+  id: polarium
+ds/games/prince-of-persia-the-fallen-king/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: prince-of-persia-the-fallen-king
+ds/games/professeur-layton-et-letrange-village/:
+  rating: '3.7'
+  breakdown:
+    '1': 1
+    '4': 4
+  id: professeur-layton-et-letrange-village
+ds/games/professor-layton-et-lappel-du-spectre/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: professor-layton-et-lappel-du-spectre
+ds/games/prog-dentrainement-cerebral-du-dr-kawashima/:
+  rating: '3.9'
+  breakdown:
+    '3': 2
+    '4': 2
+  id: prog-dentrainement-cerebral-du-dr-kawashima
+ds/games/puzzle-quest-challenge-of-the-warlords/:
+  rating: '3.3'
+  breakdown:
+    '1': 1
+    '4': 2
+  id: puzzle-quest-challenge-of-the-warlords
+ds/games/rhapsody-a-musical-adventure/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: rhapsody-a-musical-adventure
+ds/games/runaway-the-dream-of-the-turtle/:
+  rating: '2.5'
+  breakdown:
+    '0': 1
+    '3': 1
+    '4': 1
+  id: runaway-the-dream-of-the-turtle
+ds/games/secret-files-2-puritas-cordis/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: secret-files-2-puritas-cordis
+ds/games/secret-files-tunguska/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: secret-files-tunguska
+ds/games/sonic-chronicles-la-confrerie-des-tenebres/:
+  rating: '2.0'
+  breakdown:
+    '2': 3
+  id: sonic-chronicles-la-confrerie-des-tenebres
+ds/games/sonic-rush/:
+  rating: '2.9'
+  breakdown:
+    '0': 1
+    '2': 1
+    '3': 1
+    '4': 2
+  id: sonic-rush
+ds/games/space-invaders-extreme/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: space-invaders-extreme
+ds/games/speed-racer/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: speed-racer
+ds/games/star-fox-command/:
+  rating: '3.3'
+  breakdown:
+    '3': 2
+    '4': 1
+  id: star-fox-command
+ds/games/star-wars-lethal-alliance/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: star-wars-lethal-alliance
+ds/games/suikoden-tierkreis/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: suikoden-tierkreis
+ds/games/super-mario-64-ds/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 2
+  id: super-mario-64-ds
+ds/games/super-princess-peach/:
+  rating: '3.0'
+  breakdown:
+    '2': 2
+    '4': 1
+  id: super-princess-peach
+ds/games/tales-of-hearts/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: tales-of-hearts
+ds/games/tales-of-innocence/:
+  rating: '2.3'
+  breakdown:
+    '1': 1
+    '3': 1
+  id: tales-of-innocence
+ds/games/teenage-mutant-ninja-turtles-3-mutant-nightmare/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: teenage-mutant-ninja-turtles-3-mutant-nightmare
+ds/games/teenage-mutant-ninja-turtles-arcade-attack/:
+  rating: '1.0'
+  breakdown:
+    '1': 1
+  id: teenage-mutant-ninja-turtles-arcade-attack
+ds/games/tetris-ds/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 2
+  id: tetris-ds
+ds/games/the-legend-of-kage-2/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: the-legend-of-kage-2
+ds/games/the-legend-of-zelda-phantom-hourglass/:
+  rating: '3.5'
+  breakdown:
+    '1': 2
+    '2': 1
+    '3': 4
+    '4': 2
+    '5': 3
+  id: the-legend-of-zelda-phantom-hourglass
+ds/games/the-legend-of-zelda-spirit-tracks/:
+  rating: '3.7'
+  breakdown:
+    '2': 2
+    '4': 4
+  id: the-legend-of-zelda-spirit-tracks
+ds/games/the-legendary-starfy/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: the-legendary-starfy
+ds/games/the-world-ends-with-you/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: the-world-ends-with-you
+ds/games/thor-dieu-du-tonnerre/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: thor-dieu-du-tonnerre
+ds/games/tomb-raider-legend/:
+  rating: '2.2'
+  breakdown:
+    '0': 1
+    '2': 1
+    '3': 1
+  id: tomb-raider-legend
+ds/games/trauma-center-under-the-knife/:
+  rating: '3.8'
+  breakdown:
+    '0': 1
+    '2': 1
+    '4': 5
+    '5': 2
+  id: trauma-center-under-the-knife
+ds/games/valkyrie-profile-covenant-of-the-plume/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: valkyrie-profile-covenant-of-the-plume
+ds/games/vic-le-viking/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: vic-le-viking
+ds/games/warhammer-40000-squad-command/:
+  rating: '2.5'
+  breakdown:
+    '2': 1
+  id: warhammer-40000-squad-command
+ds/games/worms-open-warfare/:
+  rating: '1.5'
+  breakdown:
+    '0': 1
+    '1': 1
+    '2': 2
+  id: worms-open-warfare
+ds/games/yoshi-touch-go/:
+  rating: '2.5'
+  breakdown:
+    '1': 1
+    '2': 3
+    '3': 1
+    '4': 1
+  id: yoshi-touch-go
+ds/games/yu-gi-oh-nightmare-troubadour/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: yu-gi-oh-nightmare-troubadour
+ds/games/zoo-keeper/:
+  rating: '4.1'
+  breakdown:
+    '3': 2
+    '4': 4
+  id: zoo-keeper

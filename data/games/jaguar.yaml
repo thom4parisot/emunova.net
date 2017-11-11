@@ -1,0 +1,44 @@
+jaguar/games/alien-vs-predator/:
+  rating: '4.3'
+  breakdown:
+    '4': 3
+  id: alien-vs-predator
+jaguar/games/atari-karts/:
+  rating: '3.0'
+  breakdown:
+    '3': 1
+  id: atari-karts
+jaguar/games/checkered-flag/:
+  rating: '1.0'
+  breakdown:
+    '1': 2
+  id: checkered-flag
+jaguar/games/raiden/:
+  rating: '3.3'
+  breakdown:
+    '3': 3
+  id: raiden
+jaguar/games/rayman/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 2
+  id: rayman
+jaguar/games/tempest-2000/:
+  rating: '3.8'
+  breakdown:
+    '2': 1
+    '5': 1
+  id: tempest-2000
+jaguar/games/theme-park/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: theme-park
+jaguar/games/wolfenstein-3d/:
+  rating: '3.0'
+  breakdown:
+    '2': 1
+    '3': 1
+  id: wolfenstein-3d

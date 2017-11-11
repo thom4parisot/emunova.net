@@ -1,0 +1,10 @@
+windows-phone/games/angry-birds-star-wars/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: angry-birds-star-wars
+windows-phone/games/skulls-of-the-shogun/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: skulls-of-the-shogun

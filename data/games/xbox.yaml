@@ -1,0 +1,240 @@
+xbox/games/amped-2/:
+  rating: '4.3'
+  breakdown:
+    '4': 2
+  id: amped-2
+xbox/games/black/:
+  rating: '2.0'
+  breakdown:
+    '2': 1
+  id: black
+xbox/games/blood-wake/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: blood-wake
+xbox/games/buffy-contre-les-vampires/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: buffy-contre-les-vampires
+xbox/games/burnout-3-takedown/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '5': 1
+  id: burnout-3-takedown
+xbox/games/conker-live-reloaded/:
+  rating: '5.0'
+  breakdown:
+    '5': 2
+  id: conker-live-reloaded
+xbox/games/dark-project-deadly-shadows/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: dark-project-deadly-shadows
+xbox/games/dead-or-alive-xtreme-beach-volleyball/:
+  rating: '3.5'
+  breakdown:
+    '2': 3
+    '3': 2
+    '4': 4
+    '5': 1
+  id: dead-or-alive-xtreme-beach-volleyball
+xbox/games/fahrenheit/:
+  rating: '2.1'
+  breakdown:
+    '1': 4
+    '2': 1
+    '3': 3
+  id: fahrenheit
+xbox/games/forza-motorsport/:
+  rating: '4.5'
+  breakdown:
+    '4': 4
+    '5': 4
+  id: forza-motorsport
+xbox/games/guilty-gear-x2/:
+  rating: '4.3'
+  breakdown:
+    '3': 1
+    '5': 1
+  id: guilty-gear-x2
+xbox/games/halo-2/:
+  rating: '4.2'
+  breakdown:
+    '3': 3
+    '4': 3
+    '5': 2
+  id: halo-2
+xbox/games/halo-combat-evolved/:
+  rating: '3.8'
+  breakdown:
+    '0': 1
+    '1': 1
+    '2': 1
+    '3': 1
+    '4': 5
+    '5': 4
+  id: halo-combat-evolved
+xbox/games/hulk-ultimate-destruction/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: hulk-ultimate-destruction
+xbox/games/jade-empire/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: jade-empire
+xbox/games/jet-set-radio-future/:
+  rating: '5.0'
+  breakdown:
+    '5': 2
+  id: jet-set-radio-future
+xbox/games/ninja-gaiden/:
+  rating: '4.5'
+  breakdown:
+    '2': 1
+    '4': 3
+    '5': 5
+  id: ninja-gaiden
+xbox/games/obscure/:
+  rating: '4.0'
+  breakdown:
+    '4': 2
+  id: obscure
+xbox/games/otogi-myth-of-demons/:
+  rating: '4.4'
+  breakdown:
+    '3': 1
+    '4': 1
+    '5': 2
+  id: otogi-myth-of-demons
+xbox/games/outrun-2/:
+  rating: '4.2'
+  breakdown:
+    '3': 1
+    '4': 4
+  id: outrun-2
+xbox/games/panzer-dragoon-orta/:
+  rating: '4.6'
+  breakdown:
+    '4': 7
+    '5': 1
+  id: panzer-dragoon-orta
+xbox/games/phantom-dust/:
+  rating: '4.5'
+  breakdown:
+    '4': 1
+  id: phantom-dust
+xbox/games/project-gotham-racing-2/:
+  rating: '4.6'
+  breakdown:
+    '4': 4
+    '5': 1
+  id: project-gotham-racing-2
+xbox/games/project-gotham-racing/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: project-gotham-racing
+xbox/games/sega-gt-2002/:
+  rating: '2.8'
+  breakdown:
+    '2': 2
+    '3': 4
+  id: sega-gt-2002
+xbox/games/serious-sam/:
+  rating: '4.0'
+  breakdown:
+    '3': 1
+    '4': 1
+  id: serious-sam
+xbox/games/soulcalibur-2/:
+  rating: '4.4'
+  breakdown:
+    '2': 2
+    '3': 1
+    '4': 2
+    '5': 9
+  id: soulcalibur-2
+xbox/games/spider-man-2-the-game/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: spider-man-2-the-game
+xbox/games/spikeout-battle-street/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: spikeout-battle-street
+xbox/games/splinter-cell-chaos-theory/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: splinter-cell-chaos-theory
+xbox/games/splinter-cell/:
+  rating: '4.1'
+  breakdown:
+    '1': 1
+    '4': 11
+    '5': 1
+  id: splinter-cell
+xbox/games/star-wars-knights-of-the-old-republic/:
+  rating: '4.6'
+  breakdown:
+    '4': 4
+    '5': 1
+  id: star-wars-knights-of-the-old-republic
+xbox/games/star-wars-kotor-ii-the-sith-lords/:
+  rating: '3.1'
+  breakdown:
+    '0': 1
+    '3': 4
+    '5': 1
+  id: star-wars-kotor-ii-the-sith-lords
+xbox/games/steel-battalion/:
+  rating: '5.0'
+  breakdown:
+    '5': 3
+  id: steel-battalion
+xbox/games/sudeki/:
+  rating: '4.0'
+  breakdown:
+    '4': 1
+  id: sudeki
+xbox/games/the-chronicles-of-riddick-escape-from-butcher-bay/:
+  rating: '4.5'
+  breakdown:
+    '4': 3
+    '5': 1
+  id: the-chronicles-of-riddick-escape-from-butcher-bay
+xbox/games/the-warriors/:
+  rating: '3.8'
+  breakdown:
+    '3': 1
+    '4': 2
+  id: the-warriors
+xbox/games/top-spin/:
+  rating: '4.1'
+  breakdown:
+    '3': 1
+    '4': 5
+    '5': 1
+  id: top-spin
+xbox/games/true-crime-streets-of-la/:
+  rating: '2.8'
+  breakdown:
+    '2': 1
+    '3': 1
+  id: true-crime-streets-of-la
+xbox/games/urban-chaos-violence-urbaine/:
+  rating: '3.5'
+  breakdown:
+    '3': 1
+  id: urban-chaos-violence-urbaine

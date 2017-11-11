@@ -1,0 +1,29 @@
+supergrafx/games/1941-counter-attack/:
+  rating: '3.3'
+  breakdown:
+    '2': 1
+    '3': 1
+    '4': 1
+  id: 1941-counter-attack
+supergrafx/games/aldynes/:
+  rating: '4.8'
+  breakdown:
+    '4': 1
+    '5': 1
+  id: aldynes
+supergrafx/games/battle-ace/:
+  rating: '2.3'
+  breakdown:
+    '2': 2
+  id: battle-ace
+supergrafx/games/ghouls-n-ghosts/:
+  rating: '4.6'
+  breakdown:
+    '4': 3
+    '5': 1
+  id: ghouls-n-ghosts
+supergrafx/games/madouou-granzort/:
+  rating: '1.5'
+  breakdown:
+    '1': 1
+  id: madouou-granzort
