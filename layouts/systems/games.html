@@ -57,7 +57,7 @@
       <table class="table table-striped table-hover table-sortable">
         <thead>
           <tr>
-            <!-- <th>Note</th> -->
+            <th>Note</th>
             <th>Titre</th>
             <th>Genres</th>
             <th class="text-right">Année</th>
@@ -67,14 +67,16 @@
         <tbody data-sorter="games">
         {{ if ($Games|len) }}
           {{ range $Games.ByTitle }}
-          {{ $genres := .Params.genres | default slice }}
-            <tr data-year="{{ .Params.released }}" data-genre="{{ index $genres 0 }}" data-rating="{{ .Params.rating }}" data-players="{{ .Params.players }}">
-              <!-- <td data-value="{{ .Params.rating }}">xx</td> -->
-              <th><a href="{{ .Permalink }}">{{ .Title }}</a></th>
-              <td>{{ delimit $genres ", " }}</td>
-              <td class="text-right">{{ .Params.released }}</td>
-              <td class="text-right">{{ .Params.players | default "N/C" }}</td>
-            </tr>
+          {{- $genres := .Params.genres | default slice -}}
+          {{- $DataCache := index .Site.Data.games .Section .Dir | default (dict "rating" 0) -}}
+          {{- $rating := index $DataCache "rating" -}}
+          <tr data-year="{{ .Params.released }}" data-genre="{{ index $genres 0 }}" data-rating="{{ .Params.rating }}" data-players="{{ .Params.players }}">
+            <td data-value="{{ $rating }}">{{ partial "games/rating-star.html" (dict "Rating" $rating "Game" .) }}</td>
+            <th><a href="{{ .Permalink }}">{{ .Title }}</a></th>
+            <td>{{ delimit $genres ", " }}</td>
+            <td class="text-right">{{ .Params.released }}</td>
+            <td class="text-right">{{ .Params.players | default "N/C" }}</td>
+          </tr>
           {{ end }}
         {{ else }}
           <tr>

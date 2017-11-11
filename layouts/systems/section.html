@@ -3,6 +3,7 @@
 {{ $DefaultSections := dict "Sections" (slice) "Pages" (slice) }}
 {{- $Games := (.Site.GetPage "section" $System.Section "games" | default $DefaultSections).Sections -}}
 {{- $Pictures := (.Site.GetPage "section" $System.Section "images" | default $DefaultSections).Pages -}}
+{{- $DataCache := (index .Site.Data.games .Section) | default dict -}}
 {{ partial "header.html" . }}
 {{ partialCached "breadcrumb.html" . $System.UniqueID }}
 
@@ -36,9 +37,11 @@
 
             {{ if ($Games|len) }}
             <ul class="list-unstyled">
-              {{ range $Games | shuffle | first 10 }}
+              {{ range $Stats := first 10 (sort $DataCache "rating" "desc") }}
+              {{- $Game := $.Site.GetPage "section" $System.Section "games" $Stats.id -}}
               <li>
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                {{ partial "games/rating-star.html" (dict "Rating" $Stats.rating "Game" $Game) }}
+                <a href="{{ $Game.Permalink }}">{{ $Game.Title }}</a>
               </li>
               {{ end }}
             </ul>

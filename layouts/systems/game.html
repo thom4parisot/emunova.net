@@ -1,16 +1,15 @@
 {{- $Game := . -}}
 {{- $System := .Site.GetPage "section" .Section -}}
+{{- $DataCache := index .Site.Data.games .Section .Dir | default (dict "rating" 0) -}}
 {{- .Scratch.Set "Title" (printf "%s — jeu vidéo %s" $Game.Title $System.Title) -}}
 {{ partial "header.html" . }}
 {{ partialCached "breadcrumb.html" . $Game.UniqueID }}
 
 <div class="container">
   {{ partialCached "games/megamenu.html" $Game $Game.UniqueID }}
-
   {{ $Reviews := where $Game.Pages "Type" "in" (slice "review" "rating") }}
   {{ $RelatedGames := .Site.Pages.Related . | first 5 }}
-  {{ range $Reviews }}{{ $.Scratch.Add "GameRating" .Params.rating }}{{ end }}
-  {{ $GameMeanRating := div ($.Scratch.Get "GameRating" | default 0) ($Reviews | len | default 1) }}
+  {{ $GameMeanRating := index $DataCache "rating" }}
   <main>
     <div class="row">
       <div class="col-sm-6" id="ratings">
@@ -39,7 +38,7 @@
 
           <p class="lead">{{ partial "games/rating.html" $GameMeanRating }}</p>
 
-          {{ partial "games/ratings-breakdown.html" (dict "Reviews" $Reviews "Game" $Game) }}
+          {{ partial "games/ratings-breakdown.html" $Game }}
         </div>
       </div>
     </div>
