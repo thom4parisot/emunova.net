@@ -38,7 +38,7 @@
             {{ if ($Games|len) }}
             <ul class="list-unstyled">
               {{ range $Stats := first 10 (sort $DataCache "rating" "desc") }}
-              {{- $Game := $.Site.GetPage "section" $System.Section "games" $Stats.id -}}
+              {{- $Game := ($.Site.GetPage "section" $System.Section "games" $Stats.id) | default dict -}}
               <li>
                 {{ partial "games/rating-star.html" (dict "Rating" $Stats.rating "Game" $Game) }}
                 <a href="{{ $Game.Permalink }}">{{ $Game.Title }}</a>
