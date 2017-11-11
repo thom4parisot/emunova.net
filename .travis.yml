@@ -12,6 +12,6 @@ before_install:
 
 script:
   - npm test
-  - npm run generate-stats
+  - npm run generate-cache
   - npm run generate-thumbs
   - npm run build

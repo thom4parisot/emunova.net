@@ -14,7 +14,7 @@
       "browserify -g [ uglifyify -c -m ] -o static/bundle.js static/assets/js/main.js",
     "build:css":
       "$npm_package_scripts_less static/less/core.less static/bundle.css",
-    "generate-stats": "./bin/cache-games.js",
+    "generate-cache": "./bin/cache-games.js",
     "generate-thumbs": "run-s 'generate-thumbs:*'",
     "generate-thumbs:sq":
       "find ./content -type f \\( -name '*.jpg' -o -name '*.png' \\) \\( -not -name '*.sq.*' -not -name '*.md.*' \\) -exec sharp -i {} -o '{dir}/{name}.sq{ext}' resize 170 170 \\;",
