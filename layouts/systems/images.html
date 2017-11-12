@@ -15,7 +15,7 @@
       {{- $i := add $index 1 -}}
         <div class="col-sm-4 col-md-3" id="{{ $Picture.File.TranslationBaseName }}">
           {{ range (slice ".jpg" ".png") }}
-            {{- $filename := delimit (slice $Picture.File.Dir $Picture.File.TranslationBaseName ".sq" . ) "" -}}
+            {{- $filename := delimit (slice $Picture.File.Dir $Picture.File.TranslationBaseName ".md" . ) "" -}}
             {{ if (fileExists (delimit (slice "content" $filename) "/")) }}
             <img class="img-thumbnail" src="{{ $filename | relURL }}" alt=""/>
             {{ end }}
