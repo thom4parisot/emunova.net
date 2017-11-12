@@ -20,16 +20,6 @@ $('.rss-content').each((i, el) => {
   RemoteContent.create(el.getAttribute('data-source'), el);
 });
 
-const $menus = $('#megamenu-system, #megamenu-game');
-
-$menus.on('show.bs.collapse', () => {
-  const $others = $menus.not(this);
-
-  $others.collapse('hide').each((i, el) => {
-    $(`#nav [href="#${el.getAttribute('id')}"]`).addClass('collapsed');
-  });
-});
-
 const index = searchClient('C5SU6DIDX6', 'f2a531624b466c569e171f233c98ea3d', {
   protocol: 'https:'
 }).initIndex('prod_games');
@@ -81,19 +71,3 @@ function handleSearch(query) {
       }
     });
 }
-
-//
-// search.addWidget(
-//   instantsearch.widgets.hits({
-//     container: '#search-results-wrapper .panel-body',
-//     hitsPerPage: 12,
-//     templates: {
-//       empty: 'Aucun résultat trouvé :-(',
-//       item: (item) => ,
-//     },
-//     cssClasses: {
-//       root: ['row'],
-//       item: ['col-lg-4', 'col-sm-6']
-//     }
-//   })
-// );

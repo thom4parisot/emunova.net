@@ -2,18 +2,20 @@
 
 const $ = require('jquery');
 
-function sanitizeTitle(title){
-  return String(title).trim().replace(/^\[.+\] ?/, '');
-};
+function sanitizeTitle(title) {
+  return String(title)
+    .trim()
+    .replace(/^\[.+\] ?/, '');
+}
 
-class RemoteContent{
-  constructor (url, container) {
+class RemoteContent {
+  constructor(url, container) {
     this.url = url;
     this.container = container;
     this.state = 'loading';
   }
 
-  static create (url, container) {
+  static create(url, container) {
     return new RemoteContent(url, container).update();
   }
 
@@ -22,15 +24,21 @@ class RemoteContent{
    *
    * @param {Array.<Object>} data
    */
-  render (data) {
+  render(data) {
     let offset = 0;
 
-    $(this.container).find('[data-item-limit]').each((i, receiverElement) => {
-      const limit = parseInt(receiverElement.getAttribute('data-item-limit'), 10) || 5;
+    $(this.container)
+      .find('[data-item-limit]')
+      .each((i, receiverElement) => {
+        const limit =
+          parseInt(receiverElement.getAttribute('data-item-limit'), 10) || 5;
 
-      this.renderReceiver(receiverElement, data.slice(offset, offset+limit));
-      offset += limit;
-    });
+        this.renderReceiver(
+          receiverElement,
+          data.slice(offset, offset + limit)
+        );
+        offset += limit;
+      });
   }
 
   /**
@@ -39,7 +47,7 @@ class RemoteContent{
    * @param {HTMLElement} el
    * @param {Array.<Object>} data
    */
-  renderReceiver (el, data) {
+  renderReceiver(el, data) {
     const html = data.map(this.renderItem).join('');
 
     $(el).html(html);
@@ -51,23 +59,21 @@ class RemoteContent{
    * @param {HTMLElement} item
    * @param {Object} itemData
    */
-  renderItem (itemElement) {
+  renderItem(itemElement) {
     const $item = $(itemElement);
     const title = $item.find('title').text();
     const link = $item.find('link').text();
     const date = new Date($item.find('pubDate').text());
     let dateString = '';
 
-    if ('toLocaleDateString' in date){
+    if ('toLocaleDateString' in date) {
       dateString = date.toLocaleDateString('fr', {
         month: 'short',
         day: 'numeric'
       });
+    } else {
+      dateString = date.getUTCDate() + '/' + (date.getUTCMonth() + 1);
     }
-    else {
-      dateString = (date.getUTCDate()) + '/' + (date.getUTCMonth() + 1);
-    }
-
 
     return `<dt>${dateString}</dt>
       <dd>
@@ -80,38 +86,37 @@ class RemoteContent{
    *
    * @param {Number} percentage
    */
-  setProgress (percentage) {
+  setProgress(percentage) {
     this.getProgressBarElement().css('width', parseInt(percentage, 10) + '%');
   }
 
-  setState (state, message) {
+  setState(state, message) {
     $(this.container)
       .removeClass(this.state)
-      .addClass(state)
+      .addClass(state);
 
     this.getProgressBarElement()
       .removeClass(`progress-bar-${this.state}`)
-      .addClass('progress-bar-'+state)
+      .addClass('progress-bar-' + state)
       .text(message)
       .parent()
-        .removeClass('active');
+      .removeClass('active');
 
     this.state = state;
   }
-  getProgressBarElement () {
+  getProgressBarElement() {
     return $(this.container).find('[role="progressbar"]');
   }
   /**
    * Requests new data from the remote source and renders the view.
    */
-  update () {
+  update() {
     this.setProgress(50);
 
     return fetch(this.url)
       .then(res => res.text())
       .then(text => new DOMParser().parseFromString(text, 'text/xml'))
-      .then((data) => {
-        console.log(data);
+      .then(data => {
         this.setProgress(75);
         this.render([].slice.apply(data.getElementsByTagName('item')));
         this.setState('loaded');
@@ -120,7 +125,7 @@ class RemoteContent{
         console.error(err.message);
 
         this.setProgress(100);
-        this.setState('error', 'Une erreur s\'est produite :-(')
+        this.setState('error', "Une erreur s'est produite :-(");
       });
   }
 }

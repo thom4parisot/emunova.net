@@ -16,10 +16,10 @@
   <meta property="og:url" content="{{ .Permalink | absURL }}" >
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{{ .Scratch.Get "Title" | default .Title }}">
-  {{- if .RSSLink -}}
+  {{- if .RSSLink }}
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
   <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">
-  {{- end -}}
+  {{- end }}
   <link rel="license" href="http://creativecommons.org/licenses/by/4.0/">
 </head>
 <body>
