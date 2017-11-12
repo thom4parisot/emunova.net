@@ -1,5 +1,6 @@
 baseURL = "https://emunova.net/"
 title = "Emu Nova"
+copyright = "Licence Creative Commons Attribution 4.0 International"
 
 DefaultContentLanguage = "fr"
 languageCode = "fr-FR"
@@ -12,7 +13,11 @@ ignoreFiles = [ "\\.git$", "node_modules" ]
 preserveTaxonomyNames = true
 pluralizeListTitles = false
 
+rssLimit = 20
 disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[author]
+    name = "Emu Nova, et les personnes y contribuant"
 
 [params]
   forums = "https://forums.emunova.net"
