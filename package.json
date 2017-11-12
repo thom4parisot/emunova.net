@@ -1,27 +1,22 @@
 {
   "name": "emunova.net",
   "private": true,
-  "version": "3.2.0",
+  "version": "3.3.0",
   "description": "",
   "scripts": {
     "index": "node ./bin/index-content.js",
-    "deploy":
-      "rsync -ahmr --delete-after --stats ./public/   oncletom@ssh-oncletom.alwaysdata.net:~/../www_emunova",
+    "deploy": "rsync -ahmr --delete-after --stats ./public/   oncletom@ssh-oncletom.alwaysdata.net:~/../www_emunova",
     "hugo:serve": "hugo serve",
     "hugo:build": "hugo --baseURL https://emunova.net",
     "test": "exit 0",
     "less": "lessc --include-path=static/less/lib:node_modules/bootstrap/less",
     "build": "NODE_ENV=production run-s 'build:*' hugo:build",
-    "build:js":
-      "browserify -g [ uglifyify -c -m ] -o static/bundle.js static/assets/js/main.js",
-    "build:css":
-      "$npm_package_scripts_less static/less/core.less static/bundle.css",
+    "build:js": "browserify -g [ uglifyify -c -m ] -o static/bundle.js static/assets/js/main.js",
+    "build:css": "$npm_package_scripts_less static/less/core.less static/bundle.css",
     "generate-cache": "./bin/cache-games.js",
     "generate-thumbs": "run-s 'generate-thumbs:*'",
-    "generate-thumbs:sq":
-      "find ./content -type f \\( -name '*.jpg' -o -name '*.png' \\) \\( -not -name '*.sq.*' -not -name '*.md.*' -not -path '*/games/*' \\) -exec sharp -i {} -o '{dir}/{name}.sq{ext}' resize 170 170 \\;",
-    "generate-thumbs:md":
-      "find ./content -type f \\( -name '*.jpg' -o -name '*.png' \\)  \\( -not -name '*.sq.*' -not -name '*.md.*' -not -path '*/games/*' \\) -exec sharp -i {} -o '{dir}/{name}.md{ext}' resize 270 \\;",
+    "generate-thumbs:sq": "find ./content -type f \\( -name '*.jpg' -o -name '*.png' \\) \\( -not -name '*.sq.*' -not -name '*.md.*' -not -path '*/games/*' \\) -exec sharp -i {} -o '{dir}/{name}.sq{ext}' resize 170 170 \\;",
+    "generate-thumbs:md": "find ./content -type f \\( -name '*.jpg' -o -name '*.png' \\)  \\( -not -name '*.sq.*' -not -name '*.md.*' -not -path '*/games/*' \\) -exec sharp -i {} -o '{dir}/{name}.md{ext}' resize 270 \\;",
     "start": "run-p hugo:serve 'watch:*'",
     "watch:js": "watchify -vd -o static/bundle.js static/assets/js/main.js",
     "watch:css": "nodemon -e less -w static/less -x 'npm run build:css'"
@@ -71,7 +66,9 @@
       [
         "babelify",
         {
-          "presets": ["env"]
+          "presets": [
+            "env"
+          ]
         }
       ]
     ]
