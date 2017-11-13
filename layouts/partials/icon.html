@@ -1,3 +1,5 @@
-<svg class="icon" aria-hidden="true">
-  <use xlink:href="/assets/icons.svg#{{.}}"></use>
+{{- $icon := index . "id" | default . -}}
+{{- $size := index . "size" | default "" -}}
+<svg class="icon{{ if $size }} icon--{{ $size }}{{ end }}" aria-hidden="true">
+  <use xlink:href="/assets/icons.svg#{{$icon}}"></use>
 </svg>

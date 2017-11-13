@@ -5,7 +5,7 @@
       itemtype="http://schema.org/ListItem">
         <a itemscope itemtype="http://schema.org/Thing"
        itemprop="item" href="/" rel="home">
-         {{ partial "icon.html" "home" }}
+         {{ partial "icon.html" (dict "id" "home") }}
          </a>
       </li>
       {{ $Parts := split (substr .Dir 0 -1) "/" }}

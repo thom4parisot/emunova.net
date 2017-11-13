@@ -29,7 +29,7 @@
      <div class="navbar-header">
        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapsable-navbar">
          <span class="sr-only">Toggle navigation</span>
-         <span class="icon-dot-3"></span>
+         {{ partial "icon.html" (dict "id" "three-dots" "size" "small") }}
        </button>
        <a  class="navbar-brand" href="{{ "/" | relURL }}" rel="home">{{ partialCached "logo.svg" . }}</a>
      </div>
