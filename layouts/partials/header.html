@@ -20,7 +20,6 @@
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
   <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">
   {{- end }}
-  <link rel="license" href="http://creativecommons.org/licenses/by/4.0/">
 </head>
 <body>
 
@@ -49,7 +48,13 @@
              {{ range .Site.Menus.main }}
              <li role="presentation"><a role="menuitem" href="{{.URL}}">{{ .Name }}</a></li>
              {{ end }}
-             <li class="dropdown-header" role="presentation">&copy; 2002–{{ now.Format "2006" }}, {{ .Site.Title }}</li>
+             <li class="dropdown-header">Légal &amp; <abbr title="compagnie">cie</abbr></li>
+             <li role="presentation">
+               <a href="http://creativecommons.org/licenses/by/4.0/" rel="license" role="menuitem">
+                 {{ partial "icon.html" (dict "id" "creative-commons" "size" "small") }}
+
+                 Contenu sous licence <em>Creative Commons</em></a>
+             </li>
            </ul>
          </li>
        </ul>
