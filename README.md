@@ -26,4 +26,24 @@ Files will be available in the `./public` folder.
 $ npm start
 ```
 
+# Migrating content
+
+## Setup database connection
+
+A valid connection to a dump of Emu Nova v2 database is required.
+
+```bash
+export MYSQL_CONNECTION='mysql://<user>:<password>@host/db'
+```
+
+## Run the migration script
+
+```bash
+$ node ./bin/migrate <content-type>
+```
+
+| Type | Command |
+| --- | --- |
+| `lexicon`   | `node ./bin/migrate lexicon`  |
+
 Website will be available at [localhost:1313](http://localhost:1313/).
