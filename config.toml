@@ -47,10 +47,9 @@ toLower = false
   name = "editors"
   weight = 50
 
-  # [[related.indices]]
-  # name = "released"
-  # weight = 50
-  # pattern = "2006"
+  [[related.indices]]
+  name = "systems"
+  weight = 100
 
 [outputs]
 home = ["HTML", "RSS"]

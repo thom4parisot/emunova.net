@@ -45,5 +45,6 @@ $ node ./bin/migrate <content-type>
 | Type | Command |
 | --- | --- |
 | `lexicon`   | `node ./bin/migrate lexicon`  |
+| `guides`   | `node ./bin/migrate guides`  |
 
 Website will be available at [localhost:1313](http://localhost:1313/).
