@@ -53,6 +53,7 @@
     "js-yaml": "^3.10.0",
     "knex": "^0.14.0",
     "lodash.kebabcase": "^4.1.1",
+    "mkdirp": "^0.5.1",
     "mysql2": "^1.5.0",
     "node-europa": "^4.0.0",
     "nodemon": "^1.12.1",
