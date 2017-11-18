@@ -5,7 +5,7 @@ type: review
 published: 2004-01-22T23:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/412.htm
 ---
-Après le carton plein de Sonic, Sega se devait de sortir une suite à la hauteur. Ce fut véritablement le cas même si certains ont pu dire à lépoque que les 2 volets sont beaucoup trop proches lun de lautre.   
+Après le carton plein de Sonic, Sega se devait de sortir une suite à la hauteur. Ce fut véritablement le cas même si certains ont pu dire à l'époque que les 2 volets sont beaucoup trop proches l'un de l'autre.   
 
   
 
@@ -33,7 +33,7 @@ Les bonus stages désormais en 3D sont quand à eux plus qu'impressionnant pour 
 
   
 
-Lautre innovation du jeu est sans doute lapparition du mode 2 joueurs. En effet durant son aventure, Sonic sera désormais accompagné par Tails, un renard à 2 queues quil utilise comme une hélice.   
+L'autre innovation du jeu est sans doute l'apparition du mode 2 joueurs. En effet durant son aventure, Sonic sera désormais accompagné par Tails, un renard à 2 queues qu'il utilise comme une hélice.   
 
   
 
@@ -45,7 +45,7 @@ Durant le jeu normal, Tails suit automatiquement Sonic (ou du moins essaie de le
 
   
 
-Un mode versus est également prévu. Dans ce mode lécran est divisé en 2 parties, ce qui permet aux 2 joueurs de saffronter à la course dans 4 zones du jeu.   
+Un mode versus est également prévu. Dans ce mode l'écran est divisé en 2 parties, ce qui permet aux 2 joueurs de s'affronter à la course dans 4 zones du jeu.   
 
   
 
@@ -53,7 +53,7 @@ Un mode versus est également prévu. Dans ce mode lécran est divisé en 2 pa
 
   
 
-Si ce système représente un vrai exploit pour la Megadrive, le résultat est plutôt moyen. La technique utilisée (la console affiche a chaque image seulement une moitié de limage puis la seconde partie a limage suivante) donne un effet de scintillement fort désagréable, et les ralentissement sont légion (vu que limage est ralentie à 25fps ce nest pas étonnant).   
+Si ce système représente un vrai exploit pour la Megadrive, le résultat est plutôt moyen. La technique utilisée (la console affiche a chaque image seulement une moitié de l'image puis la seconde partie a l'image suivante) donne un effet de scintillement fort désagréable, et les ralentissement sont légion (vu que l'image est ralentie à 25fps ce nest pas étonnant).   
 
   
 
@@ -73,7 +73,7 @@ Si ce système représente un vrai exploit pour la Megadrive, le résultat est p
 
   
 
-Et il faut bien reconnaître quil est grisant de parcourir à toute allure les immenses zones du jeu, chacune ayant son thème comme le premier volet nous y a habitué. Surtout qu'elles sont superbement réalisées et bourrées déléments interactifs. Certaines comme Casino Night nont dailleurs eu de cesse dêtre réadaptés dans les jeux qui ont suivi.  
+Et il faut bien reconnaître qu'il est grisant de parcourir à toute allure les immenses zones du jeu, chacune ayant son thème comme le premier volet nous y a habitué. Surtout qu'elles sont superbement réalisées et bourrées d'éléments interactifs. Certaines comme Casino Night n'ont d'ailleurs eu de cesse d'être réadaptés dans les jeux qui ont suivi.  
 
   
 
@@ -85,7 +85,7 @@ Et il faut bien reconnaître quil est grisant de parcourir à toute allure les
 
   
 
-Les musiques sont également améliorées, mais toujours dans le même esprit. Par contre on peut remarquer que les effets sonores sont restés les mêmes depuis le premier volet jusquaux derniers volets sur GBA.   
+Les musiques sont également améliorées, mais toujours dans le même esprit. Par contre on peut remarquer que les effets sonores sont restés les mêmes depuis le premier volet jusqu'aux derniers volets sur GBA.   
 
   
 
@@ -109,4 +109,4 @@ Ce second volet est bien plus long et plus difficile que le premier. Sans jamais
 
   
 
-Si Sonic premier du nom a tout lancé, cest véritablement Sonic 2 qui cest imposé comme la référence de la saga. Toujours copié mais jamais égalé. Encore un autre jeu que tout fan de Sega se doit de posséder.
+Si Sonic premier du nom a tout lancé, c'est véritablement Sonic 2 qui c'est imposé comme la référence de la saga. Toujours copié mais jamais égalé. Encore un autre jeu que tout fan de Sega se doit de posséder.

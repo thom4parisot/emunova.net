@@ -5,7 +5,7 @@ type: review
 published: 2004-02-11T23:00:00.000Z
 legacy_url: http://www.emunova.net/veda/test/442.htm
 ---
-Enfin ! Lédition 2003 est arrivée dans notre contrée ! Et cest avec un plaisir non dissimulé que je vais vous faire le test de Kof 2003\. Je ne lai pas testé sur bonne darcade mais sur une version de MAME « spéciale ».   
+Enfin ! L'édition 2003 est arrivée dans notre contrée ! Et c'est avec un plaisir non dissimulé que je vais vous faire le test de Kof 2003\. Je ne l'ai pas testé sur bonne d'arcade mais sur une version de MAME « spéciale ».   
 
   
 
@@ -23,7 +23,7 @@ Ce King of fighters étant le dernier sur le hardware Neo-Geo je vais faire un p
 
   
 
-2003... lannée du renouveau pour SNK/Playmore, car cet opus est sans nul doute l'un des meilleur. Passée lintro qui présente les teams et les nouveaux personnages on se retrouve devant un menu sobre mais avec tous ce quil faut. Lors de la sélection du joueur vous aurez sans doute du mal à retrouvez vos marques sur cette mosaïque, mais bon, on sy habitue rapidement. La nouvelle équipe nous vient de Chine et se compose de Ash Crimson, Shen Woo et Duo-Lon. Ash vit en Chine mais a été élevé en France (pauvres de nous). Physiquement parlant, Ash est un androgyne (cest un mec) habillé comme Elvis Presley. Son style de combat ressemble un peu à celui de "Guile", ses attaques nécessitant un temps de charge pour la majorité dentre elles. Il réclamera beaucoup de timing. Personnellement je ne le trouve pas très efficace... trop lent.   
+2003... l'année du renouveau pour SNK/Playmore, car cet opus est sans nul doute l'un des meilleur. Passée l'intro qui présente les teams et les nouveaux personnages on se retrouve devant un menu sobre mais avec tous ce qu'il faut. Lors de la sélection du joueur vous aurez sans doute du mal à retrouvez vos marques sur cette mosaïque, mais bon, on s'y habitue rapidement. La nouvelle équipe nous vient de Chine et se compose de Ash Crimson, Shen Woo et Duo-Lon. Ash vit en Chine mais a été élevé en France (pauvres de nous). Physiquement parlant, Ash est un androgyne (c'est un mec) habillé comme Elvis Presley. Son style de combat ressemble un peu à celui de "Guile", ses attaques nécessitant un temps de charge pour la majorité d'entre elles. Il réclamera beaucoup de timing. Personnellement je ne le trouve pas très efficace... trop lent.   
 
 Shen Woo (Qui signifie littéralement "Dieu du Combat" en chinois) est un "puncheur" : il possède le même style de combat que Yashiro; les super cancel sont très faciles à réaliser avec lui. Efficace dans les coins il ne bénéficie par contre que d'une variété de coups limitée. Enfin, Duo-Lon, basé sur la rapidité et l'esquive vous rappellera ce bon vieux Lin.   
 

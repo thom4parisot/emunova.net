@@ -71,7 +71,7 @@ _**And the Final ?**_
 
   
 
-**\> Originalité :** L'originalité n'est donc pas spécialement au rendez-vous, on a l'impression d'être dans un Streets of Rage en largement moins bon... Disney ce nest pas plus fort que toi...   
+**\> Originalité :** L'originalité n'est donc pas spécialement au rendez-vous, on a l'impression d'être dans un Streets of Rage en largement moins bon... Disney ce n'est pas plus fort que toi...   
 
   
 

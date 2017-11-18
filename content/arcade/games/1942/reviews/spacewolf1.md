@@ -11,7 +11,7 @@ Conçut en 1984, 1942 est le premier d'une longue série de shoot'em up comptant
 
 **Techniquement obsolète**  
 
-Le jeu date de 1984... et cela se voit !!! En effet, les graphismes ont vieilli (décors simplistes, ennemis peu variés et peu détaillés), ajoutez à cela une bande son "dépoque" et vous aurez un véritable épouvantail !!! La maniabilité est également typique de l'époque avec un masque de collision important (votre appareil entier tout simplement): le moindre projectile vous sera fatal, on est loin de DoDon Pachi et consort... remarquez, on a beaucoup moins de projectile aussi !!!  
+Le jeu date de 1984... et cela se voit !!! En effet, les graphismes ont vieilli (décors simplistes, ennemis peu variés et peu détaillés), ajoutez à cela une bande son "d'époque" et vous aurez un véritable épouvantail !!! La maniabilité est également typique de l'époque avec un masque de collision important (votre appareil entier tout simplement): le moindre projectile vous sera fatal, on est loin de DoDon Pachi et consort... remarquez, on a beaucoup moins de projectile aussi !!!  
 
   
 
@@ -23,7 +23,7 @@ Malgré une grande faiblesse technique (normal vu l'âge du jeu), 1942 dispose d
 
 **Un véritable challenge**  
 
-Et oui, 1942 offre un véritable challenge parce qu'il est difficile !!! On tombe vite sous l'emprise du jeu dans l'espoir d'aller le plus loin possible (à moins que l'on abandonne vite fait, c'est selon). 1942 comporte 32 niveaux, même sils sont plutôt courts, la difficulté étant au rendez-vous, 1942 est un véritable un challenge pour tous les as du paddle.  
+Et oui, 1942 offre un véritable challenge parce qu'il est difficile !!! On tombe vite sous l'emprise du jeu dans l'espoir d'aller le plus loin possible (à moins que l'on abandonne vite fait, c'est selon). 1942 comporte 32 niveaux, même s'ils sont plutôt courts, la difficulté étant au rendez-vous, 1942 est un véritable un challenge pour tous les as du paddle.  
 
 Cependant, seul les fans de la série apprécieront ce premier volet à sa juste valeur, les autres se pencheront plutôt pour une de ses suites.  
 

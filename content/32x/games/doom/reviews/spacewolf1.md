@@ -55,7 +55,7 @@ Les musiques et bruitages sont légèrement inférieurs à l'original.
 
 **Durée de vie**  
 
-Seulement 2 mondes sur 3, pas de multijoueur et une sélection des niveaux disponible dentrée, tout ce qu'il faut pour raccourcir la durée de vie.  
+Seulement 2 mondes sur 3, pas de multijoueur et une sélection des niveaux disponible d'entrée, tout ce qu'il faut pour raccourcir la durée de vie.  
 
   
 

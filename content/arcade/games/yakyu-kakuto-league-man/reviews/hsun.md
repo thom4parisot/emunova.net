@@ -13,7 +13,7 @@ Voici **Yakyû Kakutô League-Man**, un jeu de baston à la sauce arcade, c'est-
 
   
 
-**Yakyû Kakutô League-Man** est un jeu darcade qui néchappe pas à la règle de « lhistoire la plus simple possible ». Nous sommes dans un monde étrange, où il ne semble pas y avoir dhumains, seulement des robots « baseballers », des balles et des battes de baseball vivantes et qui ne semblent pas aimer les robots susnommés (cest compréhensible à force de se faire taper dessus toute la journée). Bref, dans ce monde existe une équipe de 4 « Ninjas baseballers » qui se sont fait voler tout leur équipement de sport en or !! Pour les récupérer, ils vont avoir affaire à plein de méchants plus loufoques les uns des autres (comme je lai dit, des battes, des balles, des avions qui marchent, des tours Eiffel en jupesetc).  
+**Yakyû Kakutô League-Man** est un jeu d'arcade qui n'échappe pas à la règle de « l'histoire la plus simple possible ». Nous sommes dans un monde étrange, où il ne semble pas y avoir d'humains, seulement des robots « baseballers », des balles et des battes de baseball vivantes et qui ne semblent pas aimer les robots susnommés (c'est compréhensible à force de se faire taper dessus toute la journée). Bref, dans ce monde existe une équipe de 4 « Ninjas baseballers » qui se sont fait voler tout leur équipement de sport en or !! Pour les récupérer, ils vont avoir affaire à plein de méchants plus loufoques les uns des autres (comme je l'ai dit, des battes, des balles, des avions qui marchent, des tours Eiffel en jupesetc).  
 
   
 
@@ -21,7 +21,7 @@ Voici **Yakyû Kakutô League-Man**, un jeu de baston à la sauce arcade, c'est-
 
   
 
-Même si cest des robots que lon doit manier, noubliez pas que ce sont des robots Ninjas !! donc la maniabilité est très bien pensée, cest aussi facile que pour un **Final Fight** et avec même beaucoup plus de coups possibles, qui senchaînent en combo au fur et à mesure de son acharnement sur le pad !!   
+Même si c'est des robots que l'on doit manier, n'oubliez pas que ce sont des robots Ninjas !! donc la maniabilité est très bien pensée, c'est aussi facile que pour un **Final Fight** et avec même beaucoup plus de coups possibles, qui s'enchaînent en combo au fur et à mesure de son acharnement sur le pad !!   
 
   
 
@@ -29,9 +29,9 @@ Même si cest des robots que lon doit manier, noubliez pas que ce sont des
 
   
 
-Léquipe comporte 4 robots ninjas, tous différents physiquement et dans style de combat.  
+L'équipe comporte 4 robots ninjas, tous différents physiquement et dans style de combat.  
 
-Vous pouvez choisir entre le « rapide », « lintelligent », « le long » et le « bourrin », cest un régal de jouer avec chacun dentre eux.  
+Vous pouvez choisir entre le « rapide », « l'intelligent », « le long » et le « bourrin », c'est un régal de jouer avec chacun d'entre eux.  
 
   
 
@@ -59,10 +59,10 @@ Enfin, le « Bourrin », le gros de la bande, il possède une énorme batte avec
 
 Les graphismes sont comme le jeu dans son intégralité spéciaux !  
 
-Ici cest où on aime où pas, et cest très dur de les présenter dans ce test, tout ce que je peut dire cest que cela fait très cartoon. Mais ils restent dans l'ensemble de bonne qualité et certains aspects simplistes sont là pour renforcer laspect rigolade du jeu.  
+Ici c'est où on aime où pas, et c'est très dur de les présenter dans ce test, tout ce que je peut dire c'est que cela fait très cartoon. Mais ils restent dans l'ensemble de bonne qualité et certains aspects simplistes sont là pour renforcer l'aspect rigolade du jeu.  
 
   
 
-Donc voilà un jeu que jai eu lagréable surprise de trouver dans ma collection Mame et qui mérite dêtre joué sur Kaillera où avec des potes, cest la détente assurée !  
+Donc voilà un jeu que j'ai eu l'agréable surprise de trouver dans ma collection Mame et qui mérite d'être joué sur Kaillera où avec des potes, c'est la détente assurée !  
 
 Pour info, la rom n'existe qu'en version japonaise. La version world du jeu se nomme **"Ninja base-ball BatMan"**.

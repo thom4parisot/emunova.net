@@ -17,7 +17,7 @@ Les adversaires, pas vraiment plus nombreux que dans Doom, sont de traditionnell
 
   
 
-Outre le mode solo, Heretic pouvait se jouer à deux par modem où jusquà quatre joueurs en réseau dans un mode collaboratif ou en deathmatch sanglant.   
+Outre le mode solo, Heretic pouvait se jouer à deux par modem où jusqu'à quatre joueurs en réseau dans un mode collaboratif ou en deathmatch sanglant.   
 
   
 
