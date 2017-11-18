@@ -47,5 +47,6 @@ $ node ./bin/migrate <content-type>
 | `lexicon`   | `node ./bin/migrate lexicon`  |
 | `guides`   | `node ./bin/migrate guides`  |
 | `emulators`   | `node ./bin/migrate emulators`  |
+| `tutorials`   | `node ./bin/migrate tutorials`  |
 
 Website will be available at [localhost:1313](http://localhost:1313/).
