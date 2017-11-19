@@ -26,6 +26,8 @@ Files will be available in the `./public` folder.
 $ npm start
 ```
 
+Website will be available at [localhost:1313](http://localhost:1313/).
+
 # Migrating content
 
 ## Setup database connection
@@ -41,12 +43,3 @@ export MYSQL_CONNECTION='mysql://<user>:<password>@host/db'
 ```bash
 $ node ./bin/migrate <content-type>
 ```
-
-| Type | Command |
-| --- | --- |
-| `lexicon`   | `node ./bin/migrate lexicon`  |
-| `guides`   | `node ./bin/migrate guides`  |
-| `emulators`   | `node ./bin/migrate emulators`  |
-| `tutorials`   | `node ./bin/migrate tutorials`  |
-
-Website will be available at [localhost:1313](http://localhost:1313/).
