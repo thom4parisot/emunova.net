@@ -22,7 +22,7 @@ fois repoussée, reprise par mes soins suite à la défection
 de **Darkfaltz** et marquée par diverses difficultés
 techniques. Mais il est enfin là...
 
-La [première partie]({URL}/dossiers/castlevania1.htm) avait pour objet les différents
+La [première partie](/guides/castlevania1/) avait pour objet les différents
 épisodes sur machines 8 bits et 16 bits. Cette partie en est naturellement
 la suite, s'attachant à examiner les versions sur les machines plus récentes
 : Playstation, Saturn, Nintendo 64 et Gameboy Advance. Sont également

@@ -64,6 +64,6 @@ ce fut le cas pour moi en tout cas et ces découvertes ont généralement
 un petit article sur le personnage historique qui inspira le plus la création
 de Dracula, à savoir **Vlad "Tepes"** de Vallachie.
 
-La [seconde partie]({URL}/dossiers/castlevania2.htm) traitera des séquelles (ou suites) sur les machines plus récentes.
+La [seconde partie](/guides/castlevania2/) traitera des séquelles (ou suites) sur les machines plus récentes.
 
 Sur ce, bonne lecture! :)

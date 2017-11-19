@@ -40,7 +40,7 @@ Mana (lors du survol de la planète) et de nombreux autres jeux.
 Processeur implémenté directement dans les cartouches
 pour plus de puissance. Elle amenait la console à une puissance d'un peu plus de 10MHz.
 Le premier jeu à en bénéficier fut StarWing, en véritable 3D. Pour l'époque, cela relevait de la prouesse technique et en laissait plus d'un rêveur.
-* [émulation Super NES]({URL}/emulation/snes.htm),[émulateurs Super NES]({URL}/emulation/emulateurs/snes.htm) et [fiche technique Super NES]({URL}/emulation/fiche/snes.htm)
+* [émulation Super NES](/snes/),[émulateurs Super NES](/snes/#emulateurs) et [fiche technique Super NES](/snes/)
 
 # Accessoires
 

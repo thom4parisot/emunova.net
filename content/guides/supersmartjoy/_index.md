@@ -11,7 +11,7 @@ Le Super SmartJoy est un adaptateur pour manettes Super NES à brancher sur le p
 <!--more-->
 ## Adaptateurs SmartJoy (r)
 
-[![Lik-Sang]({IMG}/ressources/partenaires/lik-sang-logo.gif)](http://www.lik-sang.com/?lsaid=211592)
+[![Lik-Sang](/ressources/partenaires/lik-sang-logo.gif)](http://www.lik-sang.com/?lsaid=211592)
 
 Le premier adaptateur **SmartJoy** a vu le jour en 1999\. Unique en son genre, il s'agissait là d'un adaptateur destiné à brancher des manettes _PlayStation Dual Shock_ sur un port USB d'un PC. Où comment recycler sa manette que l'on prend correctement en main sans en acheter une nouvelle. Depuis cette date, la famille des **SmartJoy** n'a cessé d'évoluer, surtout depuis la reprise du projet par la société sud-coréenne [Lik-Sang](http://www.lik-sang.com/?lsaid=211592) en 2002\. Outre les adaptateurs à destination des PC et Mac, il en existe désormais qui se branche sur consoles comme par exemple, l'adaptateur _Playstation Dual Shock_ pour _Super NES_.
 

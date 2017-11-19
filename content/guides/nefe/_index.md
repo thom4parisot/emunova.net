@@ -14,7 +14,7 @@ Trouver des roms décryptées devient de plus en plus difficile. Heureusement qu
 NeFe est l'acronyme pour Neo Encrypter Front End. Pour être
 plus parlant, c'est un petit logiciel qui permet relativement simplement de
 décrypter ou de crypter vos roms NeoGeo et disponible ici-même,
-sur [Emu Nova]({URL}/emulation/utilitaires/neogeo.htm)
+sur [Emu Nova](/neogeo/)
 (je vous laisse chercher dans la page des utilitaires). Pourquoi un déryptage?
 Parce que depuis 1999, les jeux NeoGeo sont pourvus d'un système de cryptage
 pour empêcher leur piratage. Je profite au passage de ce tutorial pour
