@@ -9,12 +9,28 @@ pre {
 
 h1 small,
 .h1 small {
-  font-weight: 500;
+  font-weight: 400;
   color: lighten(@brand-primary, 10%);
 }
 
 .lead {
   font-weight: 300;
+}
+
+.group-heading {
+  color: @brand-primary;
+  display: flex;
+
+  &::first-letter {
+    font-weight: 400;
+  }
+
+  &:after {
+    content: "";
+    border-bottom: 1px solid @brand-primary;
+    flex: 1;
+    margin: .5em 0 .5em (@grid-gutter-width/2);
+  }
 }
 
 .btn {
