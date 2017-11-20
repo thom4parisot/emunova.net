@@ -1,5 +1,5 @@
 ---
-title: homebrew
+title: Homebrew
 type: definition
 abbr: null
 group:

@@ -1,5 +1,5 @@
 ---
-title: bit
+title: Bit
 type: definition
 abbr: null
 group:

@@ -1,8 +1,8 @@
 ---
-title: gold
+title: Gold
 type: definition
 abbr: null
 group:
   - gold
 ---
-Un jeu est dit gold quand il part à la duplication, dernière étape avant son expédition aux magasins.
+Un jeu est dit _gold_ quand il part à la duplication, dernière étape avant son expédition aux magasins.

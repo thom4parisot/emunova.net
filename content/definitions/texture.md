@@ -1,5 +1,5 @@
 ---
-title: texture
+title: Texture
 type: definition
 abbr: null
 group:

@@ -1,5 +1,5 @@
 ---
-title: mecha
+title: Mecha
 type: definition
 abbr: null
 group:

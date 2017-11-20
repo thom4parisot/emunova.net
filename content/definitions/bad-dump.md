@@ -1,5 +1,5 @@
 ---
-title: bad dump
+title: Bad dump
 type: definition
 abbr: null
 group:

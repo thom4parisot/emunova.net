@@ -1,5 +1,5 @@
 ---
-title: freeware
+title: Freeware
 type: definition
 abbr: null
 group:

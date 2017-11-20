@@ -1,5 +1,5 @@
 ---
-title: bootleg
+title: Bootleg
 type: definition
 abbr: null
 group:

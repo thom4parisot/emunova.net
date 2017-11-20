@@ -1,5 +1,5 @@
 ---
-title: respawn
+title: Respawn
 type: definition
 abbr: null
 group:

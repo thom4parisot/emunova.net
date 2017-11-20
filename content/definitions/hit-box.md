@@ -4,5 +4,5 @@ type: definition
 abbr: null
 group:
   - hitbox
+sameAs: "Masque de collision"
 ---
-Même définition que masque de collision

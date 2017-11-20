@@ -4,5 +4,5 @@ type: definition
 abbr: null
 group:
   - cellshading
+sameAs: Cell Shading
 ---
-Même définition que pour le Cell Shading.

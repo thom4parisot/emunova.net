@@ -1,5 +1,5 @@
 ---
-title: byte
+title: Byte
 type: definition
 abbr: null
 group:

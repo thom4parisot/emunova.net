@@ -1,5 +1,5 @@
 ---
-title: émulation
+title: Emulation
 type: definition
 abbr: null
 group:

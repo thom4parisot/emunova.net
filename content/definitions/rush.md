@@ -1,5 +1,5 @@
 ---
-title: rush
+title: Rush
 type: definition
 abbr: null
 group:

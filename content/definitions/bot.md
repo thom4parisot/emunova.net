@@ -1,5 +1,5 @@
 ---
-title: bot
+title: Bot
 type: definition
 abbr: null
 group:

@@ -1,5 +1,5 @@
 ---
-title: microprocesseur
+title: Microprocesseur
 type: definition
 abbr: null
 group:

@@ -4,5 +4,5 @@ type: definition
 abbr: null
 group:
   - svideo
+sameAs: S-Vidéo
 ---
-Même définition que Svidéo

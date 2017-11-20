@@ -1,5 +1,5 @@
 ---
-title: sample
+title: Sample
 type: definition
 abbr: null
 group:

@@ -1,5 +1,5 @@
 ---
-title: puzzle game
+title: Puzzle Game
 type: definition
 abbr: null
 group:

@@ -1,5 +1,5 @@
 ---
-title: interpolation
+title: Interpolation
 type: definition
 abbr: null
 group:

@@ -1,5 +1,5 @@
 ---
-title: patch
+title: Patch
 type: definition
 abbr: null
 group:

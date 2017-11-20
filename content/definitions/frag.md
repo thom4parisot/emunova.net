@@ -1,5 +1,5 @@
 ---
-title: frag
+title: Frag
 type: definition
 abbr: null
 group:

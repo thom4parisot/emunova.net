@@ -1,5 +1,5 @@
 ---
-title: shareware
+title: Shareware
 type: definition
 abbr: null
 group:

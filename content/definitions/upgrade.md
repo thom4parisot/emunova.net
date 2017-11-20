@@ -1,5 +1,5 @@
 ---
-title: upgrade
+title: Upgrade
 type: definition
 abbr: null
 group:

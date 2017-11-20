@@ -1,5 +1,5 @@
 ---
-title: disclaimer
+title: Disclaimer
 type: definition
 abbr: null
 group:

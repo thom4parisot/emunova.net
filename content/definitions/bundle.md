@@ -1,5 +1,5 @@
 ---
-title: bundle
+title: Bundle
 type: definition
 abbr: null
 group:

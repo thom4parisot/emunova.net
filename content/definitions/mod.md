@@ -1,5 +1,5 @@
 ---
-title: mod
+title: Mod
 type: definition
 abbr: null
 group:

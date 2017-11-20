@@ -1,5 +1,5 @@
 ---
-title: deathmatch
+title: Deathmatch
 type: definition
 abbr: null
 group:

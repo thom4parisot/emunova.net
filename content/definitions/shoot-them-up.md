@@ -1,7 +1,7 @@
 ---
-title: shoot them up
+title: Shoot them up
 type: definition
-abbr: ''
+abbr: null
 group:
   - shmup
 ---

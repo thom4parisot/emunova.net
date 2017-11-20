@@ -1,5 +1,5 @@
 ---
-title: clipping
+title: Clipping
 type: definition
 abbr: null
 group:

@@ -1,5 +1,5 @@
 ---
-title: strafe
+title: Strafe
 type: definition
 abbr: null
 group:

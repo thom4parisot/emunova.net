@@ -1,8 +1,9 @@
 ---
-title: floppy
+title: Floppy
 type: definition
 abbr: null
 group:
   - floppy
+sameAs: "Disquette"
 ---
-Même définition que disquette. _Floppy Drive_ fait référence au lecteur de disquettes.
+_Floppy Drive_ fait référence au lecteur de disquettes.

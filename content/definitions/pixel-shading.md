@@ -1,5 +1,5 @@
 ---
-title: pixel shading
+title: Pixel shading
 type: definition
 abbr: null
 group:

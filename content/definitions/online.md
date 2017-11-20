@@ -1,5 +1,5 @@
 ---
-title: online
+title: Online
 type: definition
 abbr: null
 group:

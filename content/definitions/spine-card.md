@@ -1,5 +1,5 @@
 ---
-title: spine card
+title: Spine Card
 type: definition
 abbr: null
 group:

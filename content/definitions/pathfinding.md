@@ -1,5 +1,5 @@
 ---
-title: pathfinding
+title: Pathfinding
 type: definition
 abbr: null
 group:

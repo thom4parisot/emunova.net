@@ -1,5 +1,5 @@
 ---
-title: map
+title: Map
 type: definition
 abbr: null
 group:

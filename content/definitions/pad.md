@@ -1,8 +1,8 @@
 ---
-title: pad
+title: Pad
 type: definition
 abbr: null
 group:
   - joypad
+sameAs: Joypad
 ---
-Même définition que joypad.

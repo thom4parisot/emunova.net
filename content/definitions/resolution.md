@@ -1,5 +1,5 @@
 ---
-title: résolution
+title: Résolution
 type: definition
 abbr: null
 group:

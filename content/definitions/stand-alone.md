@@ -1,5 +1,5 @@
 ---
-title: stand-alone
+title: Stand-alone
 type: definition
 abbr: null
 group:

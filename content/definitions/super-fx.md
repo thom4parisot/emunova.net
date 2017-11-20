@@ -1,5 +1,5 @@
 ---
-title: superFX
+title: SuperFX
 type: definition
 abbr: null
 group:

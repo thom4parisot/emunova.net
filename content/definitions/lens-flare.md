@@ -1,5 +1,5 @@
 ---
-title: lens flare
+title: Lens flare
 type: definition
 abbr: null
 group:

@@ -1,5 +1,5 @@
 ---
-title: combo
+title: Combo
 type: definition
 abbr: null
 group:

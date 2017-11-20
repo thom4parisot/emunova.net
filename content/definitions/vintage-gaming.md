@@ -1,5 +1,5 @@
 ---
-title: vintage gaming
+title: Vintage Gaming
 type: definition
 abbr: null
 group:

@@ -1,5 +1,5 @@
 ---
-title: frame
+title: Frame
 type: definition
 abbr: null
 group:

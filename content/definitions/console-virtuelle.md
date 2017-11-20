@@ -1,5 +1,5 @@
 ---
-title: Console Virtuelle
+title: Console virtuelle
 type: definition
 abbr: null
 group:

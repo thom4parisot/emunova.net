@@ -1,5 +1,5 @@
 ---
-title: vertex shading
+title: Vertex Shading
 type: definition
 abbr: null
 group:

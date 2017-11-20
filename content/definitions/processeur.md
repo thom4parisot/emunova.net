@@ -1,5 +1,5 @@
 ---
-title: processeur
+title: Processeur
 type: definition
 abbr: null
 group:

@@ -1,7 +1,7 @@
 ---
-title: scanline
+title: Scanline
 type: definition
-abbr: ''
+abbr: null
 group:
   - scanline
 ---

@@ -1,5 +1,5 @@
 ---
-title: marquee
+title: Marquee
 type: definition
 abbr: null
 group:

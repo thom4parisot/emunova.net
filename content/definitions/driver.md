@@ -1,5 +1,5 @@
 ---
-title: driver
+title: Driver
 type: definition
 abbr: null
 group:

@@ -1,5 +1,5 @@
 ---
-title: composite
+title: Composite
 type: definition
 abbr: null
 group:

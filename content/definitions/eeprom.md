@@ -1,5 +1,5 @@
 ---
-title: eeprom
+title: Eeprom
 type: definition
 abbr: Electrically Erasable Programmable ROM
 group:

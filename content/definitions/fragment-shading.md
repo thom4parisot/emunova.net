@@ -1,8 +1,8 @@
 ---
-title: fragment shading
+title: Fragment shading
 type: definition
 abbr: null
 group:
   - fragmentshading
+sameAs: "Pixel shading"
 ---
-Même définition que pixel shading

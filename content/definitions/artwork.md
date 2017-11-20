@@ -1,5 +1,5 @@
 ---
-title: artwork
+title: Artwork
 type: definition
 abbr: null
 group:

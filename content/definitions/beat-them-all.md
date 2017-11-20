@@ -1,5 +1,5 @@
 ---
-title: beat them all
+title: Beat them all
 type: definition
 abbr: null
 group:

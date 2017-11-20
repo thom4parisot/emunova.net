@@ -1,5 +1,5 @@
 ---
-title: capture the flag
+title: Capture the flag
 type: definition
 abbr: null
 group:

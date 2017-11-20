@@ -1,5 +1,5 @@
 ---
-title: software
+title: Software
 type: definition
 abbr: null
 group:

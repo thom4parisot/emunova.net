@@ -1,5 +1,5 @@
 ---
-title: octet
+title: Octet
 type: definition
 abbr: null
 group:

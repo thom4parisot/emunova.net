@@ -1,5 +1,5 @@
 ---
-title: beta
+title: Beta
 type: definition
 abbr: null
 group:

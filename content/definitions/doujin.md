@@ -1,5 +1,5 @@
 ---
-title: doujin
+title: Doujin
 type: definition
 abbr: null
 group:

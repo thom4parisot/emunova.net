@@ -1,5 +1,5 @@
 ---
-title: pixel
+title: Pixel
 type: definition
 abbr: null
 group:

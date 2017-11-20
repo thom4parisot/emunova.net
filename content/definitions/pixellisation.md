@@ -1,5 +1,5 @@
 ---
-title: pixellisation
+title: Pixellisation
 type: definition
 abbr: null
 group:

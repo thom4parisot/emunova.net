@@ -1,8 +1,8 @@
 ---
-title: level
+title: Level
 type: definition
 abbr: null
 group:
   - niveau
+sameAs: Niveau
 ---
-Même définition que niveau.

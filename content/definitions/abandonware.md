@@ -1,5 +1,5 @@
 ---
-title: abandonware
+title: Abandonware
 type: definition
 abbr: null
 group:

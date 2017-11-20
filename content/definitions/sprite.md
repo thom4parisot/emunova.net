@@ -1,7 +1,7 @@
 ---
-title: sprite
+title: Sprite
 type: definition
-abbr: ''
+abbr: null
 group:
   - sprite
 ---

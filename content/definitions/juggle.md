@@ -1,5 +1,5 @@
 ---
-title: juggle
+title: Juggle
 type: definition
 abbr: null
 group:

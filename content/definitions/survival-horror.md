@@ -1,7 +1,7 @@
 ---
-title: survival horror
+title: Survival Horror
 type: definition
-abbr: ''
+abbr: null
 group:
   - survivalhorror
 ---

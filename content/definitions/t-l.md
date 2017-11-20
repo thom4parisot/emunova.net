@@ -4,5 +4,5 @@ type: definition
 abbr: Transform And Lightning
 group:
   - vertexshading
+sameAs: Vertex Shading
 ---
-Même définition que Vertex Shading.

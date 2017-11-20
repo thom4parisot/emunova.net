@@ -1,8 +1,8 @@
 ---
-title: pilote
+title: Pilote
 type: definition
 abbr: null
 group:
   - driver
+sameAs: Driver
 ---
-Même définition que pour driver.

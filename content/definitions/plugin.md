@@ -1,5 +1,5 @@
 ---
-title: plugin
+title: Plugin
 type: definition
 abbr: null
 group:

@@ -1,5 +1,5 @@
 ---
-title: joypad
+title: Joypad
 type: definition
 abbr: null
 group:

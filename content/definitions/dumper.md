@@ -1,5 +1,5 @@
 ---
-title: dumper
+title: Dumper
 type: definition
 abbr: null
 group:

@@ -1,5 +1,5 @@
 ---
-title: cross over
+title: Cross over
 type: definition
 abbr: null
 group:

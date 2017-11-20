@@ -1,0 +1,57 @@
+{{ partial "header.html" . }}
+{{ partialCached "breadcrumb.html" . .UniqueID }}
+{{- $Scratch := .Scratch -}}
+{{- $Scratch.Set "letters" slice -}}
+{{- $Scratch.Set "nav" slice -}}
+
+<div class="container">
+  <main>
+    <div class="lead">{{ .Content }}</div>
+
+    <div class="row">
+      {{- range .Pages.ByTitle -}}
+      {{- $Scratch.Add "nav" (substr (.Title | upper) 0 1) -}}
+      {{- end -}}
+      <div class="col-xs-12">
+        <nav aria-label="page navigation">
+          <ul class="pagination">
+            {{ range $Scratch.Get "nav" | uniq }}
+            <li><a href="#group-{{ . | lower }}">{{ . }}</a></li>
+            {{ end }}
+          </ul>
+        </nav>
+      </div>
+    </div>
+
+    <div class="row">
+    {{ range .Pages.ByTitle }}
+    {{- $firstLetter := substr .Title 0 1 -}}
+    {{ if not (in ($Scratch.Get "letters") $firstLetter) }}
+      <div class="col-xs-12">
+        <h1 class="group-heading" id="group-{{ $firstLetter | lower }}">{{ $firstLetter }}</h1>
+      </div>
+      {{- $Scratch.Add "letters" $firstLetter -}}
+    {{ end }}
+    <div class="col-sm-6">
+      <article>
+        <h2 id="{{ .Title | urlize }}">
+          {{ .Title }}
+
+          {{- with .Params.abbr -}}
+            &nbsp;<small>({{ . }})</small>
+          {{- end -}}
+        </h2>
+
+        {{- with .Params.sameAs -}}
+        <p>Même définition que <a href="#{{ . | urlize }}">{{ . }}</a>.</p>
+        {{- end -}}
+
+        {{ .Content }}
+      </article>
+    </div>
+    {{ end }}
+    </div>
+  </main>
+</div>
+
+{{ partialCached "footer.html" . }}

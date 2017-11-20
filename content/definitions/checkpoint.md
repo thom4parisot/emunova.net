@@ -1,5 +1,5 @@
 ---
-title: checkpoint
+title: Checkpoint
 type: definition
 abbr: null
 group:

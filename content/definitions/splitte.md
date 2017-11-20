@@ -1,5 +1,5 @@
 ---
-title: splitté
+title: Splitté
 type: definition
 abbr: null
 group:

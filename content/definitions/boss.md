@@ -1,5 +1,5 @@
 ---
-title: boss
+title: Boss
 type: definition
 abbr: null
 group:

@@ -1,5 +1,5 @@
 ---
-title: gameplay
+title: Gameplay
 type: definition
 abbr: null
 group:

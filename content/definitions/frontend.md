@@ -1,5 +1,5 @@
 ---
-title: frontend
+title: Frontend
 type: definition
 abbr: null
 group:

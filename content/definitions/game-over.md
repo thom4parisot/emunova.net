@@ -1,5 +1,5 @@
 ---
-title: game over
+title: Game over
 type: definition
 abbr: null
 group:

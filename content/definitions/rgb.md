@@ -4,5 +4,5 @@ type: definition
 abbr: null
 group:
   - rvb
+sameAs: RVB
 ---
-Même définition que RVB

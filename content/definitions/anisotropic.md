@@ -1,5 +1,5 @@
 ---
-title: anisotropic
+title: Anisotropic
 type: definition
 abbr: null
 group:

@@ -1,5 +1,5 @@
 ---
-title: flyer
+title: Flyer
 type: definition
 abbr: null
 group:

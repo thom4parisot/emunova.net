@@ -1,5 +1,5 @@
 ---
-title: update
+title: Update
 type: definition
 abbr: null
 group:

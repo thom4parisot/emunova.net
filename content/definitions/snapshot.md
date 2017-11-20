@@ -1,5 +1,5 @@
 ---
-title: snapshot
+title: Snapshot
 type: definition
 abbr: null
 group:

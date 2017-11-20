@@ -1,5 +1,5 @@
 ---
-title: antialiasing
+title: Antialiasing
 type: definition
 abbr: null
 group:

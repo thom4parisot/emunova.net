@@ -1,5 +1,5 @@
 ---
-title: aliasing
+title: Aliasing
 type: definition
 abbr: null
 group:

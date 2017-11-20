@@ -1,5 +1,5 @@
 ---
-title: plate-formes
+title: Plate-formes
 type: definition
 abbr: null
 group:

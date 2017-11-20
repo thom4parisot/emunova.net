@@ -1,7 +1,7 @@
 ---
-title: wargame
+title: Wargame
 type: definition
-abbr: ''
+abbr: null
 group:
   - wargame
 ---

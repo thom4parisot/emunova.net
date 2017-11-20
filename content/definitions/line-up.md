@@ -1,5 +1,5 @@
 ---
-title: line-up
+title: Line-up
 type: definition
 abbr: null
 group:

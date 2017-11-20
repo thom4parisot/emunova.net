@@ -1,5 +1,5 @@
 ---
-title: disquette
+title: Disquette
 type: definition
 abbr: null
 group:

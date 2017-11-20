@@ -1,7 +1,7 @@
 ---
 title: MIPS
 type: definition
-abbr: 'Million d&#039;Intruction Par Seconde'
+abbr: 'Million d''Intruction Par Seconde'
 group:
   - mips
 ---

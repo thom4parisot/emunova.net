@@ -1,5 +1,5 @@
 ---
-title: ram
+title: RAM
 type: definition
 abbr: Random Access Memory
 group:

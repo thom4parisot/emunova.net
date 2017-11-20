@@ -1,5 +1,5 @@
 ---
-title: power-up
+title: Power-up
 type: definition
 abbr: null
 group:

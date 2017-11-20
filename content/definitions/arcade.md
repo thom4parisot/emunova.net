@@ -1,5 +1,5 @@
 ---
-title: arcade
+title: Arcade
 type: definition
 abbr: null
 group:

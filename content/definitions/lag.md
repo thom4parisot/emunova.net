@@ -1,5 +1,5 @@
 ---
-title: lag
+title: Lag
 type: definition
 abbr: null
 group:

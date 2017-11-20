@@ -1,5 +1,5 @@
 ---
-title: open source
+title: Open Source
 type: definition
 abbr: null
 group:

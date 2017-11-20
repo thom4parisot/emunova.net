@@ -1,5 +1,5 @@
 ---
-title: bug
+title: Bug
 type: definition
 abbr: null
 group:

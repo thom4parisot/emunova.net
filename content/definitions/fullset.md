@@ -1,5 +1,5 @@
 ---
-title: fullset
+title: Fullset
 type: definition
 abbr: null
 group:

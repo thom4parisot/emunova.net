@@ -4,5 +4,5 @@ type: definition
 abbr: null
 group:
   - fogofwar
+sameAs: "Fog of War"
 ---
-Même définition que Fog of war

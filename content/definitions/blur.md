@@ -1,5 +1,5 @@
 ---
-title: blur
+title: Blur
 type: definition
 abbr: null
 group:

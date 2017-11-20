@@ -1,5 +1,5 @@
 ---
-title: ping
+title: Ping
 type: definition
 abbr: null
 group:

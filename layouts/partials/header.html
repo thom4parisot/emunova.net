@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com data:; img-src 'self' data:; frame-src https://bufferapp.com; connect-src https://app.emunova.net https://api.emunova.net https://forums.emunova.net https://emunova.net http://c5su6didx6-dsn.algolia.net https://c5su6didx6-dsn.algolia.net 'self'; script-src 'unsafe-eval' 'self'; object-src 'none'">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="initial-scale=1.0">
-  <title>{{ .Scratch.Get "Title" | default .Title }} • Emu Nova</title>
+  <title>{{ .Scratch.Get "Title" | default .Params.title_seo | default .Title }} • Emu Nova</title>
   <link href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway:300,400" rel="stylesheet">
   <link rel="stylesheet" href="/bundle.css">
   <link rel="shortcut icon" href="/favicon.ico">
@@ -35,6 +35,7 @@
 
      <div class="collapse navbar-collapse" id="collapsable-navbar">
        <ul class="nav navbar-nav navbar-right">
+         <li><a href="/definitions/">Lexique</a></li>
          <li><a href="{{ .Site.Params.forums }}">Forums</a></li>
          <li class="dropdown">
            <a href="{{ .Site.Params.repo.url }}" class="dropdown-toggle" data-toggle="dropdown">Contribuer <span class="caret"></span></a>

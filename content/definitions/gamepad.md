@@ -1,8 +1,8 @@
 ---
-title: gamepad
+title: Gamepad
 type: definition
 abbr: null
 group:
   - joypad
+sameAs: Joypad
 ---
-Même définition que joypad.

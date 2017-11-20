@@ -1,5 +1,5 @@
 ---
-title: screenshot
+title: Screenshot
 type: definition
 abbr: null
 group:

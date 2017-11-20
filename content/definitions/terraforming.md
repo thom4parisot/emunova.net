@@ -1,5 +1,5 @@
 ---
-title: terraforming
+title: Terraforming
 type: definition
 abbr: null
 group:

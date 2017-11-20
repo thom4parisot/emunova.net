@@ -1,5 +1,5 @@
 ---
-title: émulateur
+title: Emulateur
 type: definition
 abbr: null
 group:

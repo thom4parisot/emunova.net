@@ -1,8 +1,8 @@
 ---
-title: ppp
+title: PPP
 type: definition
 abbr: Point Par Pouce
 group:
   - dpi
+sameAs: DPI
 ---
-Même définition que dpi.

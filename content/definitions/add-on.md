@@ -1,5 +1,5 @@
 ---
-title: add-on
+title: Add-on
 type: definition
 abbr: null
 group:

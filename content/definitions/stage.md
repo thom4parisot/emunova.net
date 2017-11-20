@@ -1,5 +1,5 @@
 ---
-title: stage
+title: Stage
 type: definition
 abbr: null
 group:

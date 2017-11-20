@@ -1,5 +1,5 @@
 ---
-title: parallaxe
+title: Parallaxe
 type: definition
 abbr: null
 group:

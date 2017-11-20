@@ -1,5 +1,5 @@
 ---
-title: firmware
+title: Firmware
 type: definition
 abbr: null
 group:

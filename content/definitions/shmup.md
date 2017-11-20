@@ -1,5 +1,5 @@
 ---
-title: shmup
+title: Shmup
 type: definition
 abbr: null
 group:

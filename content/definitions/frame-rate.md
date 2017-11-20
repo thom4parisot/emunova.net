@@ -1,5 +1,5 @@
 ---
-title: frame rate
+title: Frame rate
 type: definition
 abbr: null
 group:

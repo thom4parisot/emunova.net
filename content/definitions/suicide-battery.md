@@ -1,5 +1,5 @@
 ---
-title: suicide battery
+title: Suicide Battery
 type: definition
 abbr: null
 group:

@@ -1,5 +1,5 @@
 ---
-title: bump mapping
+title: Bump mapping
 type: definition
 abbr: null
 group:

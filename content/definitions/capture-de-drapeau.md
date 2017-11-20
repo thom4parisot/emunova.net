@@ -1,8 +1,8 @@
 ---
-title: capture de drapeau
+title: Capture de drapeau
 type: definition
 abbr: null
 group:
   - ctf
+sameAs: "Capture the Flag"
 ---
-Même définition que capture the flag
