@@ -1,9 +1,9 @@
 ---
 title: Contacter la Team Emu Nova
 menu:
-    main:
-      name: Équipe
-      weight: 10
+  about:
+    name: Équipe
+    weight: 10
 ---
 
 ## Angus

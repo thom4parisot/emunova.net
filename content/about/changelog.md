@@ -1,7 +1,7 @@
 ---
 title: Changelog
 menu:
-  main:
+  about:
     weight: 30
 ---
 

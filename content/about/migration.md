@@ -1,7 +1,7 @@
 ---
 title: Migration vers Emu Nova v3
 menu:
-  main:
+  about:
     name: Migration v3
     weight: 100
 ---

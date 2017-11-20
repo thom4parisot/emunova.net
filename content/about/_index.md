@@ -1,7 +1,7 @@
 ---
 title: À propos d'Emu Nova
 menu:
-  main:
+  about:
     name:  À propos
     weight: 1
 ---
