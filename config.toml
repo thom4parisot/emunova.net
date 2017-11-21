@@ -16,6 +16,15 @@ pluralizeListTitles = false
 rssLimit = 20
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
+# Markdown
+[blackfriday]
+  taskLists = false
+  smartypantsQuotesNBSP = true
+  angledQuotes = true
+  fractions = false
+  hrefTargetBlank = true
+  extensions = ["tables", "autolink", "strikethrough", "spaceHeaders", "hardLineBreak", "footnotes", "headerIds", "autoHeaderIds", "definitionLists", "joinLines"]
+
 [author]
     name = "Emu Nova, et les personnes y contribuant"
 
