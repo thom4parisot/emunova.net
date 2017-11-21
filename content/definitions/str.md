@@ -1,7 +1,7 @@
 ---
 title: STR
 type: definition
-abbr: Stat&eacute;gie en Temps R&eacute;el
+abbr: Statégie en Temps Réel
 group:
   - rts
 sameAs: RTS

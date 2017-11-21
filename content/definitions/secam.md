@@ -1,7 +1,7 @@
 ---
 title: SECAM
 type: definition
-abbr: S&eacute;quentile Couleur &agrave; M&eacute;moire
+abbr: Séquentile Couleur À Mémoire
 group:
   - secam
 ---
