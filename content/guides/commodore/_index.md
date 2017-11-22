@@ -4,12 +4,14 @@ type: guide
 user: Sigfrodi
 systems:
   - Amiga
-  - Commodore 64
+  - C64
 date: '2004-05-04T08:57:40.000Z'
 lastmod: '2006-12-15T00:12:04.000Z'
 ---
 10 ans après la chute de Commodore, Emu Nova vous fait redécouvrir l'histoire d'un géant qui marqua le paysage de l'informatique avec des machines restées légendaires : PET, Vic20, C64, Amiga...
+
 <!--more-->
+
 ![Commodore](/guides/commodore/c64pin.jpg)
 
 C'est le 29 Avril 1994 que tombe le dernier communiqué de presse de Commodore :

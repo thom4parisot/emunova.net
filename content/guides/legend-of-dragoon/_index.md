@@ -8,7 +8,9 @@ date: '2004-06-17T07:52:43.000Z'
 lastmod: '2004-06-30T06:44:05.000Z'
 ---
 Développé par Sony, Legend of Dragoon est le RPG concurrent par excellence de Final Fantasy et ça se voit : beaucoup de ressemblances entre ces 2 séries.
+
 <!--more-->
+
 ![Legent of Dragoon](/guides/legendofdragoon/Legend%20Of%20Dragoon.jpg)
 
 Legend of Dragoon... Le fameux Legend of Dragoon... Créé

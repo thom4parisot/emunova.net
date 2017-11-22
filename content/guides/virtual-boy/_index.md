@@ -8,7 +8,9 @@ date: '2004-07-26T20:58:41.000Z'
 lastmod: '2005-07-21T10:15:29.000Z'
 ---
 1995, Nintendo lance une console de jeu à mi-chemin entre la console de salon et le casque de réalité virtuelle. Levons le flou sur ce qui fut un échec alors que derrière se cachait des innovations de jeu jamais égalées depuis.
+
 <!--more-->
+
 ![Virtual Boy Logo](/guides/virtualboy/virtual-boy-logo.gif)
 
 **21 juillet 2005**, c'est l'été et tout le monde parle de la prochaine génération de consoles de salon. Les noms _Xbox360_, _Playstation 3_ et _Revolution_ pendent aux lèvres. Pendant qu'on joue à la fraichement sortie _Nintendo DS_, on commence également à pressentir la sortie de la _PSP_, première console portable de Sony.

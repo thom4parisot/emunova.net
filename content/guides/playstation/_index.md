@@ -3,14 +3,16 @@ title: La PlayStation
 type: guide
 user: Spacewolf1
 systems:
-  - CD-I
+  - CD-i
   - PlayStation
   - Super NES
 date: '2007-12-31T23:00:00.000Z'
 lastmod: '2008-01-02T18:40:23.000Z'
 ---
 La PlayStation qui a bouleversé le monde du jeu vidéo, tant sur le fond que sur la forme. Revivez son épopée au travers de son historique, de ses jeux et de sa longue liste d'accessoires.
+
 <!--more-->
+
 # La surprise d'une génération
 
 La PlayStation ... affreux démon pour certains, console mythique pour d'autres voire même console de "faux joueurs" pour les plus extrémistes des anti-Sony. Mais une chose est sure avec la PlayStation : elle a littéralement écrasé la concurrence alors qu'aucun spécialiste des jeux vidéo n'aurait parié sur Sony face à Sega et Nintendo.

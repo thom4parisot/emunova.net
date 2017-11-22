@@ -10,7 +10,9 @@ date: '2004-06-17T10:08:53.000Z'
 lastmod: '2004-07-07T12:54:41.000Z'
 ---
 Avant d'être un fabricant de console, Sega c'est un fabricant d'arcade. Grâce à ses Model 1, 2 et 3, il va rapidement s'imposer comme un maître dans le domaine de la 3D. Revivez l'aventure des Model qui aura vu naître des titres mythiques et inoubliables dont l'un des (le ???) plus gros succès arcade de tous les temps : Daytona USA.
+
 <!--more-->
+
 # Révolution du jeu: la 3D polygonale
 
 Bien que connue de tous les industriels depuis longtemps, la technologie de la 3D polygonale a mis du temps avant d'arriver

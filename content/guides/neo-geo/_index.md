@@ -13,7 +13,9 @@ De sa naissance à sa fin, en passant par ses nombreuses années de gloire, vene
 découvrir le parcours unique de la Neo-Geo, une console hors-normes. Découvrez
 également les différents supports et accessoires, les meilleurs jeux, bref tout
 pour se (re-)plonger dans l'univers de SNK !
+
 <!--more-->
+
 La Neogeo : ces seuls mots suffisent à mettre en émoi une communauté gigantesque de
 fans...Sans compter les gens qui ne savent pas que la borne d'arcade du quartier recelait en son sein
 cette merveilleuse machine. Les qualificatifs manquent pour décrire cette console, tant elle fut innovante,

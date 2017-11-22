@@ -12,7 +12,9 @@ date: '2004-06-28T11:04:29.000Z'
 lastmod: '2008-02-10T17:41:12.000Z'
 ---
 On va faire un résumé de chez résumé. Dans la première partie du dossier, on a vu l'ascension de Nintendo jusqu'à son apogée dans les années 80. Qui dit apogée, dit indubitablement descente. Et voilà, c'est deuxième partie, nous contera la prise de pouvoir du géant Sony et la survivance de Nintendo. Chose vite dite car le compère Mario n'est pas du tout en situation financière difficile. Oh, que non!
+
 <!--more-->
+
 Dans la première partie du dossier, nous avons vu la genèse de l'une des plus vieilles, peut-être la plus ancienne société éditrice de jeux vidéo. Elle n'a pourtant pas inventé le jeu vidéo, ni le concept de console mais a créé celui de « jouer où vous voulez » avec les Game & Watch. Elle a également initié de nouveaux genres tels que le jeu de Plates-Formes grâce à Donkey Kong et a relancé l'industrie vidéo-ludique en perdition dans les années 80\. Nous nous sommes quittés au moment où Nintendo était au mieux de sa forme. Avec la Nes et la toute nouvelle Gameboy, il dominait incontestablement le monde en raflant plus de 90% des parts de marché. Cette position faisait forcément des envieux dont Sega, le seul vrai challenger qui grappille petit à petit des parts de gâteau. La Megadrive beaucoup plus puissante que la Nes gagne de plus en plus d'adeptes mais Nintendo prépare sa contre-attaque.
 
 ![La différence](/guides/nintendo-part2/0_a_nintendo_difference.PNG)

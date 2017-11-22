@@ -8,7 +8,9 @@ date: '2004-06-17T07:50:05.000Z'
 lastmod: '2004-06-30T06:38:10.000Z'
 ---
 Après Goldeneye, le studio Rare récidive dans le genre et nous propose une aventure exclusive sur Nintendo 64 avec l'agent Joanna Dark.
+
 <!--more-->
+
 ![Perfect Dark](/guides/perfectdark/Perfect Dark.jpg)
 
 # Introduction

@@ -8,7 +8,9 @@ date: '2004-06-17T09:21:40.000Z'
 lastmod: '2005-09-01T12:21:56.000Z'
 ---
 La dernière console de Sega restera gravée longtemps dans les mémoires ! La console qui propose le jeu online de série n'aura pourtant pas su convaincre suffisament de monde malgré son catalogue de jeux impressionnant. Pour la première fois, une console qui offrait le meilleur rapport qualité / prix est un échec.
+
 <!--more-->
+
 ## Quitte ou double
 
 Sega a d'abord été aimée, puis détestée avant d'être humiliée. Aimée car la Master System, la Megadrive puis la Game Gear firent les beaux jours de tous les joueurs. Détestée à cause de son entêtement à sortir des extensions (Mega-CD puis 32X) qui sont trop rapidement laissées à l'abandon. Humiliée par le magistral échec de la Saturn devant la première console d'une nouvelle venue dans le monde des jeux vidéos : la Playstation de Sony.

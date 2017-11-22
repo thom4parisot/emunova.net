@@ -7,7 +7,9 @@ date: '2004-06-17T09:09:51.000Z'
 lastmod: '2004-07-06T09:51:58.000Z'
 ---
 Un guide explicatif qui, une fois lu et appliqué, vous permettra de télécharger dans une des plus grandes cavernes d'Ali Baba d'Internet : les newsgroups. Profitez-en : c'est gratuit !
+
 <!--more-->
+
 # Les newsgroups
 
 Les **newsgroups** font un peu partie de la face cachée d'Internet. Quoique relativement peu connus de la plupart des utilisateurs,

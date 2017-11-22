@@ -8,7 +8,9 @@ date: '2006-06-25T09:53:31.000Z'
 lastmod: '2006-07-21T05:57:38.000Z'
 ---
 Le Super SmartJoy est un adaptateur pour manettes Super NES à brancher sur le port USB de votre PC / Mac. Pour l'occasion, nous testerons également une manette non-officielle aux couleurs de la Super Famicom.
+
 <!--more-->
+
 ## Adaptateurs SmartJoy (r)
 
 [![Lik-Sang](/ressources/partenaires/lik-sang-logo.gif)](http://www.lik-sang.com/?lsaid=211592)

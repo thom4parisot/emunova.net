@@ -4,13 +4,15 @@ type: guide
 user: Mafio
 systems:
   - Game Gear
-  - Mega Drive
+  - Megadrive
   - Master System
 date: '2004-06-17T07:39:38.000Z'
 lastmod: '2004-10-28T10:43:04.000Z'
 ---
 Plus que de simples beat them all, les Streets of Rage ont bouleversé le genre malgré quelques adaptations méconnues. Découvrez cette série ainsi que son univers musical et son expérience face à la censure.
+
 <!--more-->
+
 # Dossier Bare Knuckle
 ![](/guides/streetsofrage/intro.jpg)
 

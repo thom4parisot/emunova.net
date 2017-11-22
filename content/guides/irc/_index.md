@@ -7,7 +7,9 @@ date: '2004-06-17T09:18:59.000Z'
 lastmod: '2004-06-30T06:48:28.000Z'
 ---
 Autre monde à part, le réseau de dialogue IRC permet, en plus de papoter à vos copains, de télécharger de nombreuses choses et surtout, de quoi gaver vos émulateurs. Et pour accéder à cette vaste réserve de jeux (plus importante que les sites Web), une lecture de ce dossier guidera votre lanterne.
+
 <!--more-->
+
 # IRC pour Internet Relay Chat
 
 Initialement créé pour le dialogue en direct, cet énorme réseau mondial s'est vu ajouter différentes fonctionnalités dans un esprit de nouveauté.

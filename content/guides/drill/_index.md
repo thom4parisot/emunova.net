@@ -8,7 +8,9 @@ date: '2005-09-27T11:12:39.000Z'
 lastmod: '2005-09-29T11:29:09.000Z'
 ---
 Drill est un shoot them up sur DreamCast réalisé par un groupe d'amateurs français issu de l'excellent site Shmup.com. Ce dossier retrace l'évolution du projet ainsi qu'une interview de leurs créateurs.
+
 <!--more-->
+
 ![Drill : Logo du jeu](/guides/drill/drill.jpg)
 
 **Drill**. Si ce mot ou nom ne vous dit trop rien, ce n'est pas si anormal que ça. En revanche, si ça évoque pour vous autre chose que des pastilles rouges pour la gorge, c'est que vous en savez un minimum sur ce _shoot them up_ sur **DreamCast**. C'est d'ailleurs là la seule ressemblance entre les deux : les pastilles.

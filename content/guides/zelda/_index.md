@@ -3,7 +3,7 @@ title: Zelda
 type: guide
 user: Lyghur
 systems:
-  - CD-I
+  - CD-i
   - GameCube
   - Game Boy
   - Game Boy Advance
@@ -15,7 +15,9 @@ date: '2004-05-04T12:34:38.000Z'
 lastmod: '2004-06-30T06:32:53.000Z'
 ---
 Zelda, qui ne connait pas ? Mais pensez-vous connaitre tous les épisodes ? Redécouvrez la saga mythique au travers de tous ses supports : NES, Super NES, Game Boy / Color, CD-i, Game Boy Advance, Game Cube et Nintendo 64.
+
 <!--more-->
+
 ![Dossier Zelda](/guides/zelda/Titre.jpg)
 
 Ce mois-ci, Emu Nova consacre son dossier à **Zelda**,

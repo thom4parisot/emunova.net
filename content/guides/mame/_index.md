@@ -3,13 +3,15 @@ title: Compiler MAME
 type: guide
 user: Julio
 systems:
-  - MAME
+  - Arcade
   - Neo-Geo
 date: '2004-05-04T12:19:17.000Z'
 lastmod: '2004-07-15T11:43:23.000Z'
 ---
 Apprenez à personnaliser MAME et à créer VOTRE build ! Vous découvrirez tout d'abord ce que signifie le mot "compiler", et puis vous passerez aux travaux pratiques en comilant directement les sources ! Enfin, vous verrez quelques idées d'ordre général sur la structure de MAME et de ses drivers, structure quasi-identique pour l'émulation des systèmes de 1980 à nos jours.
+
 <!--more-->
+
 Sujet souvent abordé, mais peu souvent détaillé, la compilation de MAME fait couler beaucoup d'encre et mérite que l'on s'y attarde.Tout au long
 de ce dossier, je vais vous expliquer comment créer votre build de MAME. J'insiste bien sur le fait que ceci est à la portée de n'importe qui,
 aucune connaissance préalable n'est requise. Mais tout d'abord, je vais commencer par vous présenter cet émulateur arcade qu'est MAME, et

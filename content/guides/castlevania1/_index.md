@@ -4,10 +4,10 @@ type: guide
 user: Sigfrodi
 systems:
   - Amiga
-  - Commodore 64
+  - C64
   - Game Boy
-  - MAME
-  - Mega Drive
+  - Arcade
+  - Megadrive
   - NES
   - PC Engine
   - Super NES
@@ -16,7 +16,9 @@ date: '2004-06-17T09:36:38.000Z'
 lastmod: '2006-08-24T07:23:26.000Z'
 ---
 Première partie du dossier consacré à la série gothique la plus connue du jeu vidéo. au menu, tous les épisodes sur machines 8 bits et 16 bits.
+
 <!--more-->
+
 Bien peu de séries de jeux de plates-formes ont autant
 marqué les esprits que **Castlevania**. De l'ancêtre
 **Vampire Killer** sur **MSX** au futur épisode

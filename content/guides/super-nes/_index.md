@@ -8,7 +8,9 @@ date: '2004-06-17T07:47:41.000Z'
 lastmod: '2004-06-30T06:34:09.000Z'
 ---
 Tout ce qu'il faut savoir sur la reine des consoles 16 bits, les accessoires et extensions dont elle a bénéficié mais également les meilleurs jeux auxquels jouer.
+
 <!--more-->
+
 # Contexte et histoire de la console
 
 La SNES débarque dans un marché avec peu de concurrence en 1990

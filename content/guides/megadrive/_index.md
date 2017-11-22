@@ -5,12 +5,14 @@ user: Yoyo
 systems:
   - 32x
   - Mega CD
-  - Mega Drive
+  - Megadrive
 date: '2004-06-17T10:13:57.000Z'
 lastmod: '2004-07-13T20:07:28.000Z'
 ---
 La Megadrive fut sans aucun doute le plus grand succès de Sega. Découvrez dans ce dossier l'histoire de cette formidable machine, ses meilleurs jeux et les nombreuses variantes de la console.
+
 <!--more-->
+
 Ah la Megadrive, que de bons souvenirs. C'était le bon vieux temps des consoles 16 bits, une époque
 où le monde des jeux vidéo ne ressemblait guerre à celui que nous connaissons aujourd'hui. En ces
 tempss reculés, les grands rois du monde vidéoludique s'appelaient Sega et Nintendo. Ces deux rois se détestaient plus que tout

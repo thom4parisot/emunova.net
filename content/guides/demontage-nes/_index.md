@@ -8,7 +8,9 @@ date: '2009-02-01T18:25:22.000Z'
 lastmod: '2009-11-22T14:38:20.000Z'
 ---
 Chocobo propose un guide afin de démonter, remonter, dézoner console NES.
+
 <!--more-->
+
 # Pourquoi démonter ou dézoner une console NES :
 
 Une console NES peut avoir après quelques années des problèmes pour lancer des jeux. Rassurez-vous, il n'y a pas besoin d'acheter une nouvelle console, un petit nettoyage est très souvent suffisant. De plus, on vous propose pour les plus aguerries d'entre vous une solution pour dézoner votre console.

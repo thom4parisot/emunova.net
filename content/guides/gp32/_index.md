@@ -8,7 +8,9 @@ date: '2004-06-17T08:56:07.000Z'
 lastmod: '2005-06-27T08:16:57.000Z'
 ---
 Peu connue du grand public, la GP32 est pourtant une portable 32 bits concurrente à la Game Boy Advance. Lisez ce dossier pour en savoir sur celle qui malgré son originalité et ses capacités, n'a jamais réussi à percer.
+
 <!--more-->
+
 # La société
 
 GamePark ([http://www.gamepark.co.kr](http://www.gamepark.co.kr))

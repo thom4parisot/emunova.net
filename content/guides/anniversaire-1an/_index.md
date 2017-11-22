@@ -7,7 +7,9 @@ date: '2004-06-17T09:42:57.000Z'
 lastmod: '2004-10-09T15:02:03.000Z'
 ---
 Le 13 octobre 2002 était officiellement lancé un nouveau site d'émulation : Emu Nova. Pour cette occasion, l'équipe se tire un autoportrait de l'année passée : joies, déboires et espoirs futurs d'un site qui veut toujours vous en apporter plus.
+
 <!--more-->
+
 Ce dossier un peu hors norme est là pour mettre en valeur une durée
 : 1 an. En effet, l'aventure du site Emu Nova commença simplement et
 sans prétention un certain 12 octobre 2002 au soir, officiellement le 13\.

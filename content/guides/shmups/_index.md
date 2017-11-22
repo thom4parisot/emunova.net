@@ -4,20 +4,22 @@ type: guide
 user: Lyghur
 systems:
   - CPS-2
-  - MAME
+  - Arcade
   - Neo-Geo
   - Super NES
 date: '2004-06-17T09:26:36.000Z'
 lastmod: '2008-02-15T17:06:22.000Z'
 ---
 Une petite sélection des 3 meilleurs shoot them up (shmup), tous supports confondus : R-Type, Starfox et Twinkle Star Sprites.
+
 <!--more-->
+
 # Dossier Shoot-Them-Up
 
-![Space Invaders](/guides/topshmup/space_invaders_01.png)
+![Space Invaders](/guides/shmups/space_invaders_01.png)
 **Space Invaders**
 
-![](/guides/topshmup/galaga.gif)
+![](/guides/shmups/galaga.gif)
 **Galaga**
 
 ---
@@ -59,10 +61,10 @@ sont donc :
 
 Bonne lecture !
 
-![](/guides/topshmup/galaxian.gif)
+![](/guides/shmups/galaxian.gif)
 **Galaxian**
 
-![](/guides/topshmup/defender.gif)
+![](/guides/shmups/defender.gif)
 **Defender**
 
 ---

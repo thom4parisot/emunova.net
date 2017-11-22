@@ -8,7 +8,9 @@ date: '2005-06-26T10:20:00.000Z'
 lastmod: '2006-03-14T22:43:46.000Z'
 ---
 Steel Battalion... que l'on aime ou pas, ce jeu de Capcom ne laisse personne indifférent. Doté d'une manette exclusive monstrueuse made in Sammy, Steel Battalion s'avère à des annèes lumières de la politique commercial de Capcom notamment à cause de son prix plutôt élevé.
+
 <!--more-->
+
 2003 aura vu Capcom surprendre toute la comunauté vidéo-ludique. L'expert de la rentabilité maximale avec des séries comme Street Fighter, Resident Evil et consorts nous a en effet sorti un jeu à l'opposé de cette politique... Imaginez donc un jeu, disponible avec sa **manette exclusive** compatible avec lui seul, jeu sortant sur la **dernière console du top des ventes** au Japon le tout pour un prix de **18.000 Yens** (environ 130 euros).
 
 Echec économique volontaire pour une réussite artistique incontestable. Capcom nous montre tout son savoir faire avec son Steel Battalion. Et n'hésitera pas à sortir son jeu aux Etats Unis ainsi qu'en Europe (où sa sortie sera retardée à cause de précommandes trop nombreuses) pour la (modique) somme de 199 euros.

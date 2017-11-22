@@ -6,13 +6,15 @@ systems:
   - 32x
   - CPS-2
   - Game Boy
-  - Mega Drive
+  - Megadrive
   - NES
 date: '2004-06-17T07:51:39.000Z'
 lastmod: '2007-06-20T18:31:15.000Z'
 ---
 Un costume bleu, une tête de mort, un homme assoiffé de vengeance. En un mot, en une homme il est le Punisher. Adapté d'un comics américain, maintenant porté au cinéma, découvrez les jeux de celui qui est prêt à tout pour calmer sa colère.
+
 <!--more-->
+
 ![The Punisher](/guides/punisher/punisher.gif)
 
 Le Punisher est plus qu'un simple jeu.

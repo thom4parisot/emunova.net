@@ -10,7 +10,9 @@ date: '2004-06-17T09:47:40.000Z'
 lastmod: '2004-06-30T06:54:36.000Z'
 ---
 La meilleure simulation de Formule 1 sur Super Nintendo expliquée épisode par épisode, avec ses plus, ses moins et surtout pourquoi elle est aussi riche et complète.
+
 <!--more-->
+
 # Dossier F1 pole position
 ![](/guides/f1poleposition/senna.jpg)
 

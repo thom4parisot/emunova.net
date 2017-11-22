@@ -10,7 +10,9 @@ Vous avez fraîchement découvert le monde de l'émulation, mais vous en avez as
 de jouer au clavier ? Ce dossier est là pour vous guider à travers la jungle des
 sticks et manettes disponibles sur le marché, afin de choisir la manette qui VOUS
 ressemble, et qui sera adaptée à VOTRE style de jeu !
+
 <!--more-->
+
 Grâce aux différents émulateurs qui ont été développés, il est aujourd'hui possible de jouer à pratiquement n'importe quelle console
 ou n'importe quel ordinateur qui a été conçu par le passé. Ah ! Qu'il est bon de pouvoir enfin rejouer à ce bon vieux Mario
 Bros auquel on jouait quand on était petit (il n'y a pas si longtemps, enfin bref...). Retrouver ces graphismes, la musiques,

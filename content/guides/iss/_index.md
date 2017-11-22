@@ -12,7 +12,9 @@ date: '2004-06-17T08:43:54.000Z'
 lastmod: '2004-06-30T06:45:23.000Z'
 ---
 Une success-story qui commence sur Super Nintendo et que tout amateur de jeux de football connait également sur Playstation et Playstation 2. Mais qu'en est-il du parcours et de l'évolution de la série ? La réponse en texte et en images dans ce dossier.
+
 <!--more-->
+
 # Dossier International Superstar Soccer
 ![iss](/guides/iss/isslogo.jpg)
 

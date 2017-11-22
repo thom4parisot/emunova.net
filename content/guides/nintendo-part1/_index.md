@@ -4,13 +4,15 @@ type: guide
 user: Kékidi
 systems:
   - Game Boy
-  - MAME
+  - Arcade
   - NES
 date: '2004-06-17T10:18:05.000Z'
 lastmod: '2008-02-09T12:11:05.000Z'
 ---
 Ah! Nintendo, un grand nom dans l'univers du jeu vidéo. Certains l'adulent, d'autres l'ignorent et quelques uns ne l'apprécient guère! Mais voilà, sans cette société, les jeux vidéos n'auraient peut-être pas l'engouement qu'on leur connaît. Cette première partie vous conte comment Nintendo, une petite fabrique japonaise, a réussi à être gravir les échelons et devenir ainsi le leader incontesté du marché des consoles dans les années 80.
+
 <!--more-->
+
 Au cur du Japon, à Kyoto se trouve le siège de l'une des plus vieilles, peut-être même la plus ancienne, des sociétés éditrices de
 jeux vidéos et fabriquantes de consoles, il s'agit de la grande Nintendo. L'histoire de cette entreprise ne débute pas avec la diffusion
 des Game & Watch ni avec l'avènement de l'électronique. Elle commence bien avant, avant votre naissance, avant même la naissance du siècle

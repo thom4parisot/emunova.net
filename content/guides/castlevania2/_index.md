@@ -12,7 +12,9 @@ date: '2004-06-17T10:00:33.000Z'
 lastmod: '2006-08-24T07:25:45.000Z'
 ---
 La seconde partie du dossier sur la légendaire série des Castlevania. Retrouvez le combat de la dynastie des Belmont sur les supports 32 bits et ultérieurs!
+
 <!--more-->
+
 # Castlevania - Partie 2
 ![Caslevania](/guides/castlevania2/angel.jpg)
 

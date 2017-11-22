@@ -11,7 +11,9 @@ date: '2004-06-21T07:54:47.000Z'
 lastmod: '2004-06-30T06:40:52.000Z'
 ---
 Après son succès en arcade, Donkey Kong redevient à nouveau le héros de son propre jeu ... que dis-je, de SES propres jeux car c'est une saga entière qui lui est dédiée sur Super Nintendo, Game Boy et Nintendo 64.
+
 <!--more-->
+
 # Dossier Donkey Kong Country
 
 A la base l'idée est simple pour RareWare : créer un jeu de plate-forme

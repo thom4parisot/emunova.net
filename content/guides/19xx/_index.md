@@ -6,13 +6,15 @@ systems:
   - CPS-1
   - CPS-2
   - Game Boy
-  - MAME
-  - Mega Drive
+  - Arcade
+  - Megadrive
 date: '2004-06-17T09:53:05.000Z'
 lastmod: '2005-12-29T13:51:05.000Z'
 ---
 Capcom ce n'est pas que de la baston ou du Resident Evil. Capcom c'est aussi du shoot'em up. Découvrez la série des 19xx commençait en 1984 et dont le dernier opus date de 2000.
+
 <!--more-->
+
 Pour le grand public, Capcom c'est des jeux de combat (Street Fighter, Capcom VS SNK, Vampire ...) ainsi que quelques autres grandes
 séries (Devil May Cry, Megaman, Resident Evil ...). Mais Capcom c'est également des shoot'em up et pas n'importe lesquels !
 

@@ -6,9 +6,9 @@ systems:
   - 32x
   - Nintendo DS
   - GameCube
-  - Game & Watch
+  - Game and Watch
   - Mega CD
-  - Mega Drive
+  - Megadrive
   - Nintendo 64
   - NES
   - PlayStation 2
@@ -17,7 +17,9 @@ date: '2006-08-16T06:07:21.000Z'
 lastmod: '2006-09-02T02:12:37.000Z'
 ---
 Kotomi est un expert dans les modifications de consoles : couleur, aspect, dézonnage et autres joyeusetés font partie de son quotidien. Interview d'une personne passionnée de jeux vidéo et amateur de NES Zelda, Kirby etc.
+
 <!--more-->
+
 **Kotomi** n'est pas une console, un émulateur ou un quelconque jeu permettant de sauver
 la veuve et l'orphelin à coup de tartine de pain magiques. **Kotomi** est
 un être _normal_, comme vous et moi mais dont le gros passe-temps
