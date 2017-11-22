@@ -1,0 +1,10 @@
+<footer class="footer">
+  Par {{ .Params.user }}
+  {{ with .Params.systems }}
+  <ul class="list-inline">
+    {{- range . -}}
+    <li><a href="{{ . | urlize | relURL }}" rel="tag">{{ . }}</a></li>
+    {{- end -}}
+  </ul>
+  {{ end }}
+</footer>

@@ -1,0 +1,23 @@
+{{- $Guide := . -}}
+{{ partial "header.html" . }}
+{{ partialCached "breadcrumb.html" . $Guide.UniqueID }}
+
+<div class="container">
+  <main data-content-id="{{ .UniqueID }}">
+    <article class="row">
+      <div class="col-xs-12">
+        <h1>{{ .Title }}</h1>
+      </div>
+
+      <div class="col-xs-9">{{ .Content }}</div>
+
+      <div class="col-xs-12">
+        {{ partialCached "guides/footer.html" $Guide $Guide.UniqueID }}
+      </div>
+    </article>
+
+    {{ partialCached "guides/navigation.html" $Guide $Guide.UniqueID }}
+  </main>
+</div>
+
+{{ partialCached "footer.html" . }}

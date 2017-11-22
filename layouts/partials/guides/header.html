@@ -1,0 +1,25 @@
+<div class="row">
+  <div class="col-xs-12">
+    <h1>{{ .Title }}</h1>
+  </div>
+  <div class="col-xs-8">{{ .Summary }}</div>
+
+  <div class="col-xs-4">
+    <div class="dropdown">
+      <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+        Sommaire
+        <span class="caret"></span>
+      </button>
+      <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+        {{ range .Paginator.Pages }}
+        <li data-content-id="{{ .UniqueID }}">
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ partialCached "guides/footer.html" . .UniqueID }}
+  </div>
+</div>
+
+<hr>

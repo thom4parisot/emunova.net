@@ -8,6 +8,10 @@
 {{ template "systems/games.html" . }}
 {{- else if (eq $Dir "images") -}}
 {{ template "systems/images.html" . }}
+{{- else if (eq .Dir "guides/") -}}
+{{ template "guides/section.html" . }}
+{{- else if (eq .Section "guides") -}}
+{{ template "guides/guide.html" . }}
 {{- else if (eq .Dir "definitions/") -}}
 {{ template "definitions/section.html" . }}
 {{- else -}}

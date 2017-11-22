@@ -1,0 +1,15 @@
+<nav>
+  <ul class="pager">
+    <li data-content-id="{{ .UniqueID }}">
+      <a href="{{ .Permalink }}">
+        {{ partial "icon.html" (dict "id" "home" "size" "small") }}
+        Sommaire
+      </a>
+    </li>
+    {{ range .Paginator.Pages }}
+    <li data-content-id="{{ .UniqueID }}">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+  </ul>
+</nav>

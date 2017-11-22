@@ -1,0 +1,27 @@
+{{ partial "header.html" . }}
+{{ partialCached "breadcrumb.html" . .UniqueID }}
+
+<div class="container">
+  <main>
+    <div class="lead">{{ .Content }}</div>
+
+    <div class="row">
+    {{ range $index, $Section := .Sections.ByTitle }}
+    {{- $i := add $index 1 -}}
+      <article class="col-sm-6">
+        <h2>
+          <a href="{{ .Permalink }}" rel="permalink">{{ .Title }}</a>
+        </h2>
+
+        {{ .Summary }}
+
+        {{ partialCached "guides/footer.html" . .UniqueID }}
+      </article>
+
+      {{ if modBool $i 2 }}<div class="clearfix hidden-xs"></div>{{ end }}
+    {{ end }}
+    </div>
+  </main>
+</div>
+
+{{ partialCached "footer.html" . }}

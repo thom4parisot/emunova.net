@@ -70,6 +70,14 @@ svg.icon {
   }
 }
 
+.toc {
+  .well;
+
+  &:empty {
+    display: none;
+  }
+}
+
 .img-elastic {
   width: 100%;
 }
@@ -80,4 +88,20 @@ svg.icon {
 
 label {
   cursor: pointer;
+}
+
+.footer {
+  color: @gray;
+  font-size: @font-size-small;
+
+
+
+  .list-inline {
+    display: inline;
+    padding-left: @padding-small-horizontal / 2;
+
+    &::before {
+      content: "•";
+    }
+  }
 }
