@@ -1,11 +1,11 @@
 ---
 type: system
-title: CD-I
+title: CD-i
 forums_uri: 'http://forums.emunova.net/forum/12-emulation-jeux-video-abandonware/'
-system_types: 
+system_types:
   - Console
 released: 1988
-manufacturers: 
+manufacturers:
   - Philips
 bits: 16
 cpu: 'Motorola 68340'
