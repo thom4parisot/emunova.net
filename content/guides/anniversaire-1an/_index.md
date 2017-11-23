@@ -16,30 +16,31 @@ sans prétention un certain 12 octobre 2002 au soir, officiellement le 13\.
 
 Et au lieu de parler du but premier du site, à savoir les jeux vidéo, ce dossier fera un tour d'horizon de l'équipe actuelle du site, ceux qui animent (en partie) et font vivre le site. Comme chacun d'entre eux ne sont pas forcément en première page du site, on les connaît peu voire pas du tout. Autour de 7 questions, chaque membre de l'équipe y répondra tour à tour de façon sincère.
 Certains sont présent depuis le début, d'autres ont rejoint l'aventure ... comparez leurs idées et peut-être que vous aussi vous vous êtes déjà posé les mêmes questions ou vous reconnaissez dans leurs opinions, qui sait ?
+
 ![emulation emu nova](/actu/e7bd6ce886f27336ca0ad4ef6cbd9ed2.gif)
 
 9 personnes bénévoles participent activement à la construction du site :
 
-1. [**Angel Killah**](/guides/anniversaire1an/page/1/)
+1. [**Angel Killah**](/guides/anniversaire-1an/page/1/)
 Responsable des sections [tutoriaux](/guides/), [émulateurs
 et utilitaires](?/emulation/)
-2. [**Faboss**](/guides/anniversaire1an/page/2/)
+2. [**Faboss**](/guides/anniversaire-1an/page/2/)
 Rédacteur de [dossiers](/guides/)
-3/. [**Hsun**](/guides/anniversaire1an/page/3/)
+3/. [**Hsun**](/guides/anniversaire-1an/page/3/)
 Responsable de la section [actualité](http://www.emunova.net)
-4. [**Julio**](/guides/anniversaire1an/page/4/)
+4. [**Julio**](/guides/anniversaire-1an/page/4/)
 Homme à tout faire : [dossiers](/guides/), [actualité](http:///www.emunova.net),
 [tests](/veda/) ...
-5. [**Kenshiro84**](/guides/anniversaire1an/page/5/)
+5. [**Kenshiro84**](/guides/anniversaire-1an/page/5/)
 Modérateur des [forums](http://forums.emunova.net)
-6. [**Lyghur**](/guides/anniversaire1an/page/6/)
+6. [**Lyghur**](/guides/anniversaire-1an/page/6/)
 Responsable de la section [dossiers](/guides/)
-7/. [**Sigfrodi**](/guides/anniversaire1an/page/7/)
+7/. [**Sigfrodi**](/guides/anniversaire-1an/page/7/)
 Responsable et initiateur du [projet Veda](/veda/)
-8. [**Spacewolf1**](/guides/anniversaire1an/page/8/)
+8. [**Spacewolf1**](/guides/anniversaire-1an/page/8/)
 Responsable du [lexique](/lexique/) et actionnaire à
 50% des tests du [projet Veda](/veda/)
-9. [**The Jedi**](/guides/anniversaire1an/page/9/)
+9. [**The Jedi**](/guides/anniversaire-1an/page/9/)
 Fondateur, webmaster et homme à tout faire
 
 Rendez-vous l'an prochain pour un autre dossier consacré à Emu

@@ -19,7 +19,7 @@ encore très bien), la nouvelle console de Nintendo fit un carton. Il existait 3
 la Super NES en Amérique du Nord (apparence carrée, blanche et violette), la Super Famicon au Japon (plus arrondie) et la Super Nintendo en Europe telle que nous la connaissons.
 La Super Nintendo supplanta la Megadrive de par ses capacités techniques, seule l'Angleterre ayant préféré la Megadrive à la console de Nintendo. Une version redessinée, plus petite de la console fut commercialisée
 en attendant la Nintendo 64 qui se faisait désirer.
-![Le dernier modèle de Super Nintendo, seulement au Japon](/guides/supernes/snes_relook.jpg)
+![Le dernier modèle de Super Nintendo, seulement au Japon](/guides/super-nes/snes_relook.jpg)
 
 # Caractéristiques techniques
 
@@ -56,24 +56,24 @@ accessoire se révélait très inconfortable et douloureuse pour l'épaule.
 ## La souris
 
 Utilisée dans Mario Paint et dans quelques autres jeux.
-![Super Mouse](/guides/supernes/supermouse.gif)
+![Super Mouse](/guides/super-nes/supermouse.gif)
 
 ## Le Super Game Boy
 
 Permettait de jouer à ses jeux game boy en couleur sur sa SNES. Ce Super Game Boy avait la forme d'une cartouche traditionnelle avec un endroit évidé pouvant contenir la cartouche Game Boy.
 Une deuxième version sortit en 1995 (ou 1998, à vous de me le dire). De couleur translucide, elle permettait cette fois d'utiliser le Câble Link. On pouvait donc relier le Super Game Boy 2 à sa propre Game Boy pour jouer à plusieurs.
 Ce fut le succès de Pocket Monsters (maintenant nommé Pokémon) qui poussa à la commercialisation de ce produit. Malheureusement (ou heureusement ?), il ne sortit qu'au Japon.
-![Super Game Boy 2](/guides/supernes/supergameboy2.gif)
+![Super Game Boy 2](/guides/super-nes/supergameboy2.gif)
 
 ## Adaptateur
 
 Les cartouches européennes, japonaises et américaines avaient des formats différents.
 Cet adaptateur permettait de palier à ce problème. Un autre type d'adaptateur différent a également vu le jour
 mais il fallait posséder à la fois la cartouche européenne et la cartouche étrangère.
-![](/guides/supernes/converter.jpg)
+![](/guides/super-nes/converter.jpg)
 
 # L'ovni SatellaView
-![Le satellaview emboité sous la SNES](/guides/supernes/satellaview1.jpg)
+![Le satellaview emboité sous la SNES](/guides/super-nes/satellaview1.jpg)
 
 Vous n'avez jamais tenté de regarder sous votre super NES ? Une
 connectique était prévue pour y emboîter une extension :
@@ -90,7 +90,7 @@ du premier Zelda sur NES, dont les donjons étaient débloqués
 au fur et à mesure par Nintendo.
 Cette aventure fut stoppée prématurément suite à
 l'échec de Sega et du Mega-CD et cela, malgré le fort soutien de Square et Nintendo.
-![Le satellaview 'nu'](/guides/supernes/satellaview2.gif)
+![Le satellaview 'nu'](/guides/super-nes/satellaview2.gif)
 
 # Super NES Playstation
 
@@ -100,7 +100,7 @@ de la conception du module CD mais deux problèmes se posèrent. Le premier : Ph
 et un contencieux s'est créé entre les 3 firmes. Deuxième problème : Sony voulait également produire la console
 mais en "tout en 1", en plus de l'extension que constituait le module CD.
 Le projet tomba donc à l'eau et Sony décida tout de même de rentabiliser sa recherche en commercialisant SA console que tout le monde connaît.
-![Le projet PlayStation](/guides/supernes/snes_playstation.jpg)
+![Le projet PlayStation](/guides/super-nes/snes_playstation.jpg)
 
 # Meilleurs jeux, les plus vendus
 

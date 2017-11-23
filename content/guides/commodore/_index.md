@@ -35,4 +35,5 @@ commémorer cet anniversaire, **Emu Nova** vous propose de
 son rachat par l'allemand Escom, en passant par des machines aussi prestigieuses
 que le Vic-20, le C64 ou l'Amiga et d'autres moins connues comme le C128 ou
 le C +/4, c'est un récit riche en événements qui vous attend.
+
 ![Commodore](/guides/commodore/shatner.jpg)

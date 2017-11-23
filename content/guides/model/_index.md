@@ -1,5 +1,5 @@
 ---
-title: Bornes d'arcade Model
+title: Bornes d'arcade SEGA Model
 type: guide
 user: Spacewolf1
 systems:
@@ -19,6 +19,7 @@ Bien que connue de tous les industriels depuis longtemps, la technologie de la 3
 dans les salles de jeu. En effet, le développement de cette technologie coûtait extrêmement cher à l'époque (ce qui ne veut pas
 dire qu'elle ne le soit plus aujourd'hui, au contraire). Ainsi, pour le petit monde du jeu vidéo, il fallait que cette technologie
 apporte quelque chose de réellement nouveau car, sur un critère purement esthétique et économique, le développement de la 2D coûtait moins cher.
+
 ![Comment partir à la conquète du monde](/guides/model/introduction.jpg)
 
 La première société de jeu vidéo qui osa franchir le pas fut Sega. Certes, Sega ne travailla pas avec n'importe quel partenaire
