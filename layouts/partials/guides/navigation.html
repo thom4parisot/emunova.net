@@ -6,7 +6,7 @@
         Sommaire
       </a>
     </li>
-    {{ range .Paginator.Pages }}
+    {{ range (where .Pages "Kind" "page") }}
     <li data-content-id="{{ .UniqueID }}">
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </li>

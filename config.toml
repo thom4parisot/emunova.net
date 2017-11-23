@@ -16,6 +16,9 @@ pluralizeListTitles = false
 rssLimit = 20
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
+# Pagination
+paginate = 0
+
 # Markdown
 [blackfriday]
   taskLists = false

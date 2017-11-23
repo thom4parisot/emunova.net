@@ -1,0 +1,36 @@
+p > img:only-child {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.figures {
+  .make-row();
+  margin-bottom: @padding-base-vertical;
+  margin-top: @padding-base-vertical;
+
+  > p {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-flow: row;
+  }
+
+  &.figures--columns-2 {
+    figure {
+      .make-sm-column(6);
+    }
+  }
+
+  &.figures--columns-3 {
+    figure {
+      .make-sm-column(4);
+    }
+  }
+
+  &.figures--columns-4 {
+    figure {
+      .make-sm-column(3);
+    }
+  }
+}

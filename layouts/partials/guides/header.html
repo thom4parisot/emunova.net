@@ -11,7 +11,7 @@
         <span class="caret"></span>
       </button>
       <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-        {{ range .Paginator.Pages }}
+        {{ range (where .Pages "Kind" "page") }}
         <li data-content-id="{{ .UniqueID }}">
           <a href="{{ .Permalink }}">{{ .Title }}</a>
         </li>
