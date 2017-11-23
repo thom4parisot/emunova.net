@@ -11,7 +11,7 @@
         <span class="caret"></span>
       </button>
       <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-        {{ range (where .Pages "Kind" "page") }}
+        {{ range (where .Pages "Kind" "page") | default slice }}
         <li data-content-id="{{ .UniqueID }}">
           <a href="{{ .Permalink }}">{{ .Title }}</a>
         </li>
