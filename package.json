@@ -8,6 +8,7 @@
     "deploy": "rsync -ahmr --delete-after --stats ./public/   oncletom@ssh-oncletom.alwaysdata.net:~/../www_emunova",
     "hugo:serve": "hugo serve",
     "hugo:build": "hugo --baseURL https://emunova.net",
+    "pretest": "npm run generate-cache",
     "test": "hugo --renderToMemory",
     "less": "lessc --include-path=static/less/lib:node_modules/bootstrap/less",
     "build": "NODE_ENV=production run-s 'build:*' hugo:build",
