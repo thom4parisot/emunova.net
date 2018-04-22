@@ -37,7 +37,7 @@
   "dependencies": {
     "algoliasearch": "^3.14.0",
     "babel-preset-env": "^1.6.1",
-    "bootstrap": "^3.3.0",
+    "bootstrap": "^4.0.0",
     "fast-sha256": "^1.0.0",
     "jquery": "^2.2.3",
     "less": "^3.0.2",
