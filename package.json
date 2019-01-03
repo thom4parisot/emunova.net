@@ -40,7 +40,7 @@
     "bootstrap": "^3.3.0",
     "fast-sha256": "^1.0.0",
     "jquery": "^2.2.3",
-    "less": "^3.0.2",
+    "less": "^2.7.3",
     "lodash.debounce": "^4.0.8",
     "sorttable": "github:oncletom/sorttable#develop"
   },
