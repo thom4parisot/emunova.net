@@ -17,7 +17,7 @@
     "generate-cache": "./bin/cache-games.js",
     "generate-thumbs": "run-s 'generate-thumbs:*'",
     "generate-thumbs:sq": "find ./content -type f \\( -name '*.jpg' -o -name '*.png' \\) \\( -not -name '*.sq.*' -not -name '*.md.*' -not -path '*/games/*' \\) -exec sharp -i {} -o '{+dir}/{name}.sq{ext}' -p resize 170 \\;",
-    "generate-thumbs:md": "find ./content -type f \\( -name '*.jpg' -o -name '*.png' \\)  \\( -not -name '*.sq.*' -not -name '*.md.*' -not -path '*/games/*' \\) -exec sharp -i {} -o '{+dir}/{name}.md{ext}' -p resize 270 --max \\;",
+    "generate-thumbs:md": "find ./content -type f \\( -name '*.jpg' -o -name '*.png' \\)  \\( -not -name '*.sq.*' -not -name '*.md.*' -not -path '*/games/*' \\) -exec sharp -i {} -o '{+dir}/{name}.md{ext}' -p resize 270 --fit=contain \\;",
     "start": "run-p hugo:serve 'watch:*'",
     "watch:js": "watchify -vd -o static/bundle.js static/assets/js/main.js",
     "watch:css": "nodemon -e less -w static/less -x 'npm run build:css'"
