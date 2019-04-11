@@ -39,7 +39,7 @@
     "babel-preset-env": "^1.7.0",
     "bootstrap": "^3.4.1",
     "fast-sha256": "^1.1.0",
-    "jquery": "^2.2.3",
+    "jquery": "^3.4.0",
     "less": "^3.0.2",
     "lodash.debounce": "^4.0.8",
     "sorttable": "^1.0.2"
